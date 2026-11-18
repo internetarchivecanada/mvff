@@ -15,9 +15,9 @@ DATA, PUBLIC = ROOT / "data", ROOT / "public"
 STATIC = Path(__file__).resolve().parent / "static"
 TITLE = "Mill Valley Film Festival Explorer"
 BASE_URL = "https://wayback-labs.sf.archive.org/mvff/"
-V = "1"
+V = "2"
 BUILT = "18 November 2026"
-NAV = [("index.html", "Years"), ("films.html", "Films"), ("people.html", "People"), ("honorees.html", "Tributes"),
+NAV = [("index.html", "Years"), ("films.html", "Films"), ("programmes.html", "Programmes"), ("posters.html", "Posters"), ("people.html", "People"), ("honorees.html", "Tributes"),
        ("countries.html", "Countries"), ("archive.html", "What's archived"), ("search.html", "Search"),
        ("about.html", "About")]
 LOGO = ('<svg width="34" height="34" viewBox="0 0 32 32" aria-hidden="true"><circle cx="16" cy="16" r="15" '
@@ -57,6 +57,9 @@ class Site:
         self.inv = json.load(open(inv)) if inv.exists() else []
         sv = DATA / "saved.json"
         self.saved = json.load(open(sv)) if sv.exists() else {}
+        po = DATA / "posters.json"
+        self.posters = {k: v for k, v in (json.load(open(po)) if po.exists() else {}).items()
+                        if v.get("img") and k in self.F and (ROOT / "assets" / v["img"]).exists()}
         self.urls = []
         self.country_films = defaultdict(list)
         for f in self.F.values():
@@ -123,6 +126,26 @@ Not affiliated with the Mill Valley Film Festival or the California Film Institu
                 f'<span class="t">{self.flink(fid, up, year)}</span>'
                 f'<span class="m">{self.film_meta(f, up)}</span></li>')
 
+    def poster(self, fid, up="../", cls="poster"):
+        po = self.posters.get(fid)
+        if not po:
+            return ""
+        return (f'<img class="{cls}" src="{up}{po["img"]}" alt="Poster for {escape(self.F[fid]["title"])}" loading="lazy" '
+                f'width="320" height="{int(320 * (po.get("ratio") or 1.48))}">')
+
+    def poster_credit(self, fid):
+        po = self.posters.get(fid)
+        if not po:
+            return ""
+        lab = {"wikipedia": "Wikipedia", "wikidata": "Wikimedia Commons"}.get(po["source"]) or escape(po.get("credit") or "the web")
+        return f'Poster from <a href="{escape(po.get("page") or po["src"])}">{lab}</a>'
+
+    def strip(self, ids, up="../", n=12):
+        ids = [i for i in ids if i in self.posters][:n]
+        if not ids:
+            return ""
+        return '<div class="pstrip">' + "".join(f'<a href="{up}films/{i}.html" title="{escape(self.F[i]["title"])}">{self.poster(i, up)}</a>' for i in ids) + "</div>"
+
     def guide_links(self, e):
         out = []
         for g in e["guides"]:
@@ -141,6 +164,9 @@ Not affiliated with the Mill Valley Film Festival or the California Film Institu
         PUBLIC.mkdir()
         for f in STATIC.iterdir():
             shutil.copy(f, PUBLIC / f.name)
+        for sub in ("img", "pagefind"):
+            if (ROOT / "assets" / sub).exists():
+                shutil.copytree(ROOT / "assets" / sub, PUBLIC / sub)
         self.index()
         for y in self.years:
             self.year_page(y)
@@ -149,11 +175,13 @@ Not affiliated with the Mill Valley Film Festival or the California Film Institu
         for pid in self.P:
             self.person_page(pid)
         self.films_index()
+        self.posters_page()
         self.people_index()
         self.honorees()
         self.countries()
         self.venues()
         self.archive()
+        self.programmes()
         self.about()
         self.search()
         self.misc()
@@ -180,6 +208,8 @@ programme guides that recorded them, with what the Wayback Machine has saved of 
 <p class="stats"><a href="films.html"><b>{nf:,}</b>films</a> <a href="people.html"><b>{len(self.P):,}</b>people</a>
 <a href="countries.html"><b>{len(self.country_films)}</b>countries</a> <a href="honorees.html"><b>{honorees}</b>honorees</a>
 <a href="archive.html"><b>{len(self.years)}</b>editions</a> <a href="venues.html"><b>{len(self.V)}</b>venues</a></p></div>
+<section><h2>Poster wall</h2><p class="note">{len(self.posters):,} film posters, from Wikipedia, Wikimedia Commons and the films' own sites and distributors. <a href="posters.html">See them all →</a></p>
+{self.strip(sorted(self.posters, key=lambda i: (-self.F[i]["year"], self.F[i]["title"])), "", 12)}</section>
 <h2>The festivals</h2>
 <p class="legend">Solid cards have a film list read from that year's programme or website ({ny} so far). Dashed
 cards link to the festival's own scan of that year's programme guide; their films are not yet in this explorer.</p>
@@ -215,6 +245,7 @@ cards link to the festival's own scan of that year's programme guide; their film
         else:
             secs = Counter(self.F[f].get("section") for f in films if self.F[f].get("section"))
             body.append(f'<h2>Films <span class="count">{len(films)}</span></h2>')
+            body.append(self.strip(sorted(films, key=lambda i: (self.F[i]["is_short"], self.F[i]["title"])), "../", 14))
             body.append('<div class="filter" data-target="ul.films li"><input type="search" placeholder="Filter this year\'s films" '
                         'aria-label="Filter films"><span class="shown"></span>'
                         '<div class="chips"><button class="chip" data-k="short" data-v="0" aria-pressed="false">Features</button>'
@@ -291,9 +322,13 @@ cards link to the festival's own scan of that year's programme guide; their film
         if f.get("summary"):
             label = "In brief" if f.get("summary_kind") == "summary" else "From the festival"
             summary = f'<h3>{label}</h3><p class="lede">{escape(f["summary"])}</p>'
+        if fid in self.posters:
+            src.append(self.poster_credit(fid))
+        po = self.poster(fid, "../", "poster big")
         body = (f'<p class="crumbs"><a href="../years/{f["year"]}.html">{f["year"]} ({ordinal(e["edition"])} festival)</a></p>'
+                f'<div class="fhead{" withposter" if po else ""}">{po}<div>'
                 f'<h1>{escape(f["title"])}</h1>{summary}'
-                '<dl class="facts">' + "".join(f"<dt>{k}</dt><dd>{v}</dd>" for k, v in facts) + "</dl>"
+                '<dl class="facts">' + "".join(f"<dt>{k}</dt><dd>{v}</dd>" for k, v in facts) + "</dl></div></div>"
                 + (f'<p class="src">Source: {"; ".join(src)}</p>' if src else "")
                 + (f'<h3>Also at the festival</h3><ul class="plain">' + "".join(f'<li>{self.flink(o["id"], year=True)}</li>' for o in other) + "</ul>" if other else ""))
         self.page(f"films/{fid}.html", f"{f['title']} ({f['year']})", body, "films.html",
@@ -327,6 +362,22 @@ cards link to the festival's own scan of that year's programme guide; their film
                 f'aria-label="Filter films"><span class="shown"></span><div class="chips">{chips}</div></div>'
                 '<ul class="films">' + "".join(self.film_li(i, "", True) for i in items) + "</ul>")
         self.page("films.html", "Films", body, "films.html", depth=0)
+
+    def posters_page(self):
+        by_year = defaultdict(list)
+        for fid in self.posters:
+            by_year[self.F[fid]["year"]].append(fid)
+        n = len(self.posters)
+        body = (f'<h1>Poster wall</h1><p class="lede">Posters for {n:,} of the {len(self.F):,} films in the explorer, newest '
+                'festival first. They come from the films\' Wikipedia articles and Wikimedia Commons, and from the films\' '
+                'own websites, distributors and other festivals; each film page says where its poster came from. The '
+                'festival\'s own images are stills, not posters, so they are not used here.</p>'
+                '<p class="az">' + "".join(f'<a href="#y{y}">{y}</a>' for y in sorted(by_year, reverse=True)) + "</p>")
+        for y in sorted(by_year, reverse=True):
+            ids = sorted(by_year[y], key=lambda i: self.F[i]["title"].lower())
+            body += (f'<h2 id="y{y}">{y} <span class="count">{len(ids)}</span> <a class="count" href="years/{y}.html">the {y} festival →</a></h2>'
+                     '<ul class="pwall">' + "".join(f'<li><a href="films/{i}.html">{self.poster(i, "")}<span class="ft">{escape(self.F[i]["title"])}</span></a></li>' for i in ids) + "</ul>")
+        self.page("posters.html", "Poster wall", body, "posters.html", depth=0)
 
     def people_index(self):
         ret = sorted((p for p in self.P.values() if len(p["years"]) >= 3),
@@ -445,6 +496,66 @@ cards link to the festival's own scan of that year's programme guide; their film
                     'before 18 November 2026. A capture of an Issuu document holds the reader page; whether the page images '
                     'were saved with it varies.</p>')
         self.page("archive.html", "What's archived", "".join(body), "archive.html", depth=0)
+
+    def programmes(self):
+        ft = DATA / "fulltext.json"
+        ft = json.load(open(ft)) if ft.exists() else {"pages": 0, "by_year": {}}
+        decades = sorted({int(y) // 10 * 10 for y in ft["by_year"]})
+        opts = "".join(f'<option value="{d}s">{d}s</option>' for d in decades)
+        rows = []
+        for y in self.years:
+            e = self.E[y]
+            n = ft["by_year"].get(str(y), 0)
+            g = " · ".join(f'<a href="{escape(x["page"])}">guide</a>' for x in e["guides"][:1])
+            rows.append(f'<tr><td><a href="years/{y}.html">{y}</a></td><td>{ordinal(e["edition"])}</td><td>{n:,}</td><td>{g}</td></tr>')
+        body = f"""<h1>Search the programmes</h1>
+<p class="lede">Every page of the festival's printed programme guides, 1978–2026, read by OCR: {ft["pages"]:,} pages. Search for a
+film, a filmmaker, an actor, a venue or a sponsor; each result opens that page of the programme.</p>
+<form class="bigsearch" role="search" id="pfform"><input id="pq" type="search" placeholder="e.g. Kieslowski, Sequoia, Robin Williams…"
+aria-label="Search the programme guides"><select id="pdec" aria-label="Decade" style="font:16px var(--sans);border-radius:6px;padding:0 8px">
+<option value="">All years</option>{opts}</select><button>Search</button></form>
+<p id="pstatus" class="note" role="status"></p><ol id="presults" class="plain"></ol>
+<p><button id="pmore" class="chip hide" type="button">Show more results</button></p>
+<noscript><p>Searching the programmes needs JavaScript. The guides themselves are linked from each <a href="index.html">year page</a>.</p></noscript>
+<p class="note">Text comes from OCR of the festival's scans on Issuu (1978–2026) and from the programme PDFs archived in the
+Wayback Machine (2001–2011, 2024–2026), so expect misreadings, especially in schedule grids and display type. Excerpts are
+short; the full pages are the festival's, on Issuu and in the Wayback Machine.</p>
+<h2>Pages indexed, by year</h2><div class="tw"><table><tr><th>Year</th><th>Festival</th><th>Pages</th><th>Guide</th></tr>{"".join(rows)}</table></div>
+<script type="module">
+const form = document.getElementById("pfform"), q = document.getElementById("pq"), dec = document.getElementById("pdec");
+const out = document.getElementById("presults"), status = document.getElementById("pstatus"), more = document.getElementById("pmore");
+const pf = await import("./pagefind/pagefind.js");
+await pf.options({{ excerptLength: 24 }});
+let results = [], shown = 0;
+const ord = n => n + ((n % 100 >= 11 && n % 100 <= 13) ? "th" : ({{1: "st", 2: "nd", 3: "rd"}}[n % 10] || "th"));
+const esc = s => String(s).replace(/[&<>"]/g, c => ({{"&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;"}})[c]);
+async function show(n) {{
+  const batch = results.slice(shown, shown + n);
+  const data = await Promise.all(batch.map(r => r.data()));
+  out.insertAdjacentHTML("beforeend", data.map(d => `<li class="card"><a href="${{esc(d.meta.view)}}"><b>${{esc(d.meta.title)}}</b></a>
+    <span class="sub">${{ord(+d.meta.edition)}} festival · <a href="years/${{d.meta.year}}.html">year page</a> · <a href="${{esc(d.meta.wayback)}}">Wayback Machine copy</a></span>
+    <p style="margin:.4em 0 0">…${{d.excerpt}}…</p></li>`).join(""));
+  shown += batch.length;
+  more.classList.toggle("hide", shown >= results.length);
+}}
+async function run() {{
+  const term = q.value.trim();
+  try {{ const u = new URL(location.href); term ? u.searchParams.set("q", term) : u.searchParams.delete("q"); dec.value ? u.searchParams.set("d", dec.value) : u.searchParams.delete("d"); history.replaceState(null, "", u); }} catch (e) {{}}
+  out.innerHTML = ""; shown = 0; results = [];
+  if (!term) {{ status.textContent = ""; more.classList.add("hide"); return; }}
+  status.textContent = "Searching…";
+  const r = await pf.search(term, dec.value ? {{ filters: {{ decade: dec.value }} }} : {{}});
+  results = r.results.sort((a, b) => b.score - a.score);
+  status.textContent = results.length.toLocaleString() + " pages";
+  await show(20);
+}}
+form.addEventListener("submit", e => {{ e.preventDefault(); run(); }});
+dec.addEventListener("change", run);
+more.addEventListener("click", () => show(20));
+const p = new URL(location.href).searchParams;
+if (p.get("q")) {{ q.value = p.get("q"); if (p.get("d")) dec.value = p.get("d"); run(); }}
+</script>"""
+        self.page("programmes.html", "Search the programmes", body, "programmes.html", depth=0)
 
     def about(self):
         prog = [y for y in self.film_years if any(s["kind"] == "pdf" for s in self.E[y]["sources"]) and y <= 2011]

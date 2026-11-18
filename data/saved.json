@@ -1,10 +1,10 @@
 {
 "date": "18 November 2026",
 "sent": 581,
-"success": 50,
+"success": 117,
 "failed": 0,
-"queued": 531,
-"checked": "2026-11-18 14:03",
+"queued": 464,
+"checked": "2026-11-18 15:45",
 "urls": {
 "https://app.mvff.com/film/2392-miles": {
 "status": "success",
@@ -112,8 +112,8 @@
 "message": ""
 },
 "https://app.mvff.com/film/cicada": {
-"status": "pending",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118220434",
 "message": ""
 },
 "https://app.mvff.com/film/closure": {
@@ -147,8 +147,8 @@
 "message": ""
 },
 "https://app.mvff.com/film/everytime": {
-"status": "pending",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118220354",
 "message": ""
 },
 "https://app.mvff.com/film/extra-geography": {
@@ -162,342 +162,342 @@
 "message": ""
 },
 "https://app.mvff.com/film/filthy": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118220347",
 "message": ""
 },
 "https://app.mvff.com/film/flesh-impact": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118220436",
 "message": ""
 },
 "https://app.mvff.com/film/flies": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118220348",
 "message": ""
 },
 "https://app.mvff.com/film/free-joan-little": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118220429",
 "message": ""
 },
 "https://app.mvff.com/film/gentle-monster": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118220350",
 "message": ""
 },
 "https://app.mvff.com/film/giants-do-fall": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118220409",
 "message": ""
 },
 "https://app.mvff.com/film/goddamns-great-big-adventure-the-dating-crisis": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118220430",
 "message": ""
 },
 "https://app.mvff.com/film/gravity": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118220351",
 "message": ""
 },
 "https://app.mvff.com/film/grow-up": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118220531",
 "message": ""
 },
 "https://app.mvff.com/film/happiness-for-a-herder": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118220611",
 "message": ""
 },
 "https://app.mvff.com/film/happy-portrait": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118220611",
 "message": ""
 },
 "https://app.mvff.com/film/harvest-party-at-camp-two": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118220653",
 "message": ""
 },
 "https://app.mvff.com/film/hold-onto-me": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118220659",
 "message": ""
 },
 "https://app.mvff.com/film/hot-spring-therapy": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118220621",
 "message": ""
 },
 "https://app.mvff.com/film/i-love-my-guts": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118220646",
 "message": ""
 },
 "https://app.mvff.com/film/ikari": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118220659",
 "message": ""
 },
 "https://app.mvff.com/film/im-stuck-in-a-mascot-suit-in-another-world": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118220652",
 "message": ""
 },
 "https://app.mvff.com/film/in-chiapas": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118220615",
 "message": ""
 },
 "https://app.mvff.com/film/in-her-youll-find-sanctuary": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118220620",
 "message": ""
 },
 "https://app.mvff.com/film/in-waves": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118220834",
 "message": ""
 },
 "https://app.mvff.com/film/ink": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118220834",
 "message": ""
 },
 "https://app.mvff.com/film/iron-boy": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118220834",
 "message": ""
 },
 "https://app.mvff.com/film/isabel": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118220856",
 "message": ""
 },
 "https://app.mvff.com/film/italiano": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118220910",
 "message": ""
 },
 "https://app.mvff.com/film/its-a-wonderful-night-of-the-living-dead": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118220836",
 "message": ""
 },
 "https://app.mvff.com/film/its-my-fault": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118220914",
 "message": ""
 },
 "https://app.mvff.com/film/jean-michel-basquiat": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118220837",
 "message": ""
 },
 "https://app.mvff.com/film/lady": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118220859",
 "message": ""
 },
 "https://app.mvff.com/film/laura": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118220841",
 "message": ""
 },
 "https://app.mvff.com/film/lights-camera-celebrate-mvff49-after-dark": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118221149",
 "message": ""
 },
 "https://app.mvff.com/film/little-green-men-quips-in-charge": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118221104",
 "message": ""
 },
 "https://app.mvff.com/film/look-back": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118221106",
 "message": ""
 },
 "https://app.mvff.com/film/love-of-your-life": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118221105",
 "message": ""
 },
 "https://app.mvff.com/film/lucky-penny": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118221118",
 "message": ""
 },
 "https://app.mvff.com/film/making-space": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118221106",
 "message": ""
 },
 "https://app.mvff.com/film/mamalonacitos": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118221128",
 "message": ""
 },
 "https://app.mvff.com/film/miriam": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118221130",
 "message": ""
 },
 "https://app.mvff.com/film/miss-representation-rise-up": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118221103",
 "message": ""
 },
 "https://app.mvff.com/film/misty-green": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118221150",
 "message": ""
 },
 "https://app.mvff.com/film/monument": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118221332",
 "message": ""
 },
 "https://app.mvff.com/film/mouse": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118221338",
 "message": ""
 },
 "https://app.mvff.com/film/mouseling": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118221340",
 "message": ""
 },
 "https://app.mvff.com/film/my-mother-told-me-not-to-talk-to-strangers": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118221343",
 "message": ""
 },
 "https://app.mvff.com/film/no-hands-the-wild-ride-of-the-schwinn-bicycle-company": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118221418",
 "message": ""
 },
 "https://app.mvff.com/film/noodle-fight": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118221346",
 "message": ""
 },
 "https://app.mvff.com/film/normal-glasses": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118221424",
 "message": ""
 },
 "https://app.mvff.com/film/of-veins-and-wires": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118221431",
 "message": ""
 },
 "https://app.mvff.com/film/oppression": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118221346",
 "message": ""
 },
 "https://app.mvff.com/film/out-of-the-blue": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118221418",
 "message": ""
 },
 "https://app.mvff.com/film/panel-animation-is-film": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118221426",
 "message": ""
 },
 "https://app.mvff.com/film/panel-conversation-with-ao-scott-david-thomson": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118221408",
 "message": ""
 },
 "https://app.mvff.com/film/panel-conversation-wkane-parsons": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118221408",
 "message": ""
 },
 "https://app.mvff.com/film/panel-doctalk": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118221409",
 "message": ""
 },
 "https://app.mvff.com/film/panel-fusing-art-technology-in-storytelling": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118221410",
 "message": ""
 },
 "https://app.mvff.com/film/panel-made-in-san-francisco": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118221410",
 "message": ""
 },
 "https://app.mvff.com/film/panel-mtg-directors-talk": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118221701",
 "message": ""
 },
 "https://app.mvff.com/film/panel-mtg-staying-power-power-politics": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118221701",
 "message": ""
 },
 "https://app.mvff.com/film/poetry": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118221702",
 "message": ""
 },
 "https://app.mvff.com/film/purge": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118221709",
 "message": ""
 },
 "https://app.mvff.com/film/pylons": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118221709",
 "message": ""
 },
 "https://app.mvff.com/film/queen-at-sea": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118221713",
 "message": ""
 },
 "https://app.mvff.com/film/querida-ftima": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118221715",
 "message": ""
 },
 "https://app.mvff.com/film/rogue-one-a-star-wars-story": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118221716",
 "message": ""
 },
 "https://app.mvff.com/film/room-of-the-absolute": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118221716",
 "message": ""
 },
 "https://app.mvff.com/film/rru": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118221719",
 "message": ""
 },
 "https://app.mvff.com/film/sad-girlz": {
-"status": "queued",
+"status": "pending",
 "timestamp": "",
 "message": ""
 },
 "https://app.mvff.com/film/scissors": {
-"status": "queued",
+"status": "pending",
 "timestamp": "",
 "message": ""
 },
 "https://app.mvff.com/film/scouts-honor": {
-"status": "queued",
+"status": "pending",
 "timestamp": "",
 "message": ""
 },

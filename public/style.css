@@ -92,3 +92,15 @@ footer.foot p{margin:6px 0}
 footer.foot a{color:var(--mute)}
 #results li{padding:6px 0;border-bottom:1px solid var(--line)}
 @media (max-width:640px){body{font-size:16px} .lede{font-size:18px} dl.facts{grid-template-columns:1fr} dl.facts dt{margin-top:6px}}
+/* posters */
+.poster{display:block;width:100%;height:auto;border-radius:4px;box-shadow:0 2px 10px rgba(0,0,0,.25);background:var(--chip)}
+.fhead.withposter{display:flex;gap:24px;align-items:flex-start}
+.fhead .poster.big{width:min(240px,40vw);flex:none;margin-top:12px}
+.fhead>div{min-width:0;flex:1}
+.pwall{list-style:none;padding:0;margin:10px 0;display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:20px 16px;align-items:start}
+.pwall a{display:block;text-decoration:none;color:var(--ink)}
+.pwall .ft{display:block;font:14px/1.35 var(--sans);margin-top:6px}
+.pwall a:hover .ft{color:var(--accent)}
+.pstrip{display:flex;gap:12px;overflow-x:auto;padding:4px 2px 12px}
+.pstrip a{flex:none;width:110px}
+@media (max-width:640px){.fhead.withposter{flex-direction:column}.fhead .poster.big{width:min(200px,60vw)}}
