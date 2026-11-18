@@ -12,7 +12,7 @@ E = {int(k): v for k, v in d["editions"].items()}
 W, H = 1200, 630
 nf = len(d["films"])
 cells = []
-x0, y0, cw, ch, gap = 640, 132, 62, 50, 8
+x0, y0, cw, ch, gap = 792, 150, 50, 40, 6
 for i, y in enumerate(sorted(E)):
     r, c = divmod(i, 7)
     x, yy = x0 + c * (cw + gap), y0 + r * (ch + gap)
@@ -23,11 +23,11 @@ html = f"""<!doctype html><meta charset=utf-8><style>
 html,body{{margin:0;width:{W}px;height:{H}px;overflow:hidden;background:#16201c;font-family:Georgia,serif}}
 svg{{position:absolute;inset:0}}
 .on{{fill:#d9a441}} .off{{fill:none;stroke:#d9a441;stroke-width:2;stroke-dasharray:5 4;opacity:.75}}
-text{{font:700 22px -apple-system,Helvetica,sans-serif;text-anchor:middle}}
+text{{font:700 19px -apple-system,Helvetica,sans-serif;text-anchor:middle}}
 .ton{{fill:#16201c}} .toff{{fill:#d9a441;opacity:.85}}
-h1{{position:absolute;left:60px;top:150px;margin:0;color:#fbf5e6;font:700 76px/1.0 Georgia,serif;letter-spacing:-1px}}
-h1 em{{display:block;color:#d9a441;font-style:normal;font-weight:400;font-size:62px;margin-top:10px}}
-p{{position:absolute;left:62px;top:440px;margin:0;color:#efe6d0;font:600 30px/1.3 -apple-system,Helvetica,sans-serif}}
+h1{{position:absolute;left:54px;top:96px;margin:0;color:#fbf5e6;font:700 108px/.96 Georgia,serif;letter-spacing:-2px}}
+h1 em{{display:block;color:#d9a441;font-style:italic;font-weight:400;font-size:96px;margin-top:6px}}
+p{{position:absolute;left:58px;top:470px;margin:0;color:#efe6d0;font:600 36px/1.25 -apple-system,Helvetica,sans-serif}}
 p b{{color:#d9a441}}
 </style>
 <svg viewBox="0 0 {W} {H}"><rect width="{W}" height="{H}" fill="#16201c"/>
@@ -35,8 +35,8 @@ p b{{color:#d9a441}}
 <path d="M0 630 L0 600 L200 575 L380 560 L560 585 L760 570 L980 590 L1200 580 L1200 630 Z" fill="#2c3d35"/>
 <rect x="0" y="0" width="{W}" height="10" fill="#d9a441"/>
 {''.join(cells)}</svg>
-<h1>Mill Valley<br>Film Festival<em>Explorer</em></h1>
-<p><b>{nf:,}</b> films · <b>49</b> festivals<br>1978–2026</p>"""
+<h1>Mill Valley<br>Film<em>Festival</em></h1>
+<p><b>{nf:,}</b> films · <b>49</b> festivals · 1978–2026</p>"""
 (here / "cover.html").write_text(html)
 chrome = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
 png = here / "cover.png"
