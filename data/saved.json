@@ -1,0 +1,2915 @@
+{
+"date": "18 November 2026",
+"sent": 581,
+"success": 50,
+"failed": 0,
+"queued": 531,
+"checked": "2026-11-18 14:03",
+"urls": {
+"https://app.mvff.com/film/2392-miles": {
+"status": "success",
+"timestamp": "20261118215350",
+"message": ""
+},
+"https://app.mvff.com/film/a-bay-to-live-on": {
+"status": "success",
+"timestamp": "20261118215304",
+"message": ""
+},
+"https://app.mvff.com/film/a-girl-unknown": {
+"status": "success",
+"timestamp": "20261118215309",
+"message": ""
+},
+"https://app.mvff.com/film/a-new-inferno": {
+"status": "success",
+"timestamp": "20261118215314",
+"message": ""
+},
+"https://app.mvff.com/film/a-new-normal": {
+"status": "success",
+"timestamp": "20261118215412",
+"message": ""
+},
+"https://app.mvff.com/film/a-prayer-for-the-dying": {
+"status": "success",
+"timestamp": "20261118215414",
+"message": ""
+},
+"https://app.mvff.com/film/a-talent-for-murder": {
+"status": "success",
+"timestamp": "20261118215616",
+"message": ""
+},
+"https://app.mvff.com/film/a-town-called-needville": {
+"status": "success",
+"timestamp": "20261118215641",
+"message": ""
+},
+"https://app.mvff.com/film/all-american-girls": {
+"status": "success",
+"timestamp": "20261118215634",
+"message": ""
+},
+"https://app.mvff.com/film/are-we-still-married": {
+"status": "success",
+"timestamp": "20261118215552",
+"message": ""
+},
+"https://app.mvff.com/film/at-the-stage-when": {
+"status": "success",
+"timestamp": "20261118215655",
+"message": ""
+},
+"https://app.mvff.com/film/avedon": {
+"status": "success",
+"timestamp": "20261118215606",
+"message": ""
+},
+"https://app.mvff.com/film/bedford-park": {
+"status": "success",
+"timestamp": "20261118215616",
+"message": ""
+},
+"https://app.mvff.com/film/being-dead-should-be-easy": {
+"status": "success",
+"timestamp": "20261118215620",
+"message": ""
+},
+"https://app.mvff.com/film/brave-cat": {
+"status": "success",
+"timestamp": "20261118215619",
+"message": ""
+},
+"https://app.mvff.com/film/burgundy": {
+"status": "success",
+"timestamp": "20261118215626",
+"message": ""
+},
+"https://app.mvff.com/film/card-trick": {
+"status": "success",
+"timestamp": "20261118215852",
+"message": ""
+},
+"https://app.mvff.com/film/careless": {
+"status": "success",
+"timestamp": "20261118215901",
+"message": ""
+},
+"https://app.mvff.com/film/cat-and-mouse": {
+"status": "success",
+"timestamp": "20261118215906",
+"message": ""
+},
+"https://app.mvff.com/film/chasing-dragonflies": {
+"status": "success",
+"timestamp": "20261118220013",
+"message": ""
+},
+"https://app.mvff.com/film/chirp-talker": {
+"status": "success",
+"timestamp": "20261118215916",
+"message": ""
+},
+"https://app.mvff.com/film/cicada": {
+"status": "pending",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/closure": {
+"status": "success",
+"timestamp": "20261118220130",
+"message": ""
+},
+"https://app.mvff.com/film/constellations-of-the-sea": {
+"status": "success",
+"timestamp": "20261118220127",
+"message": ""
+},
+"https://app.mvff.com/film/coward": {
+"status": "success",
+"timestamp": "20261118220249",
+"message": ""
+},
+"https://app.mvff.com/film/elsinore": {
+"status": "success",
+"timestamp": "20261118220134",
+"message": ""
+},
+"https://app.mvff.com/film/enjoy-your-visit": {
+"status": "success",
+"timestamp": "20261118220130",
+"message": ""
+},
+"https://app.mvff.com/film/everest-the-other-side": {
+"status": "success",
+"timestamp": "20261118220131",
+"message": ""
+},
+"https://app.mvff.com/film/everytime": {
+"status": "pending",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/extra-geography": {
+"status": "success",
+"timestamp": "20261118220129",
+"message": ""
+},
+"https://app.mvff.com/film/family-dinner": {
+"status": "success",
+"timestamp": "20261118220136",
+"message": ""
+},
+"https://app.mvff.com/film/filthy": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/flesh-impact": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/flies": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/free-joan-little": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/gentle-monster": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/giants-do-fall": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/goddamns-great-big-adventure-the-dating-crisis": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/gravity": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/grow-up": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/happiness-for-a-herder": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/happy-portrait": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/harvest-party-at-camp-two": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/hold-onto-me": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/hot-spring-therapy": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/i-love-my-guts": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/ikari": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/im-stuck-in-a-mascot-suit-in-another-world": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/in-chiapas": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/in-her-youll-find-sanctuary": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/in-waves": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/ink": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/iron-boy": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/isabel": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/italiano": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/its-a-wonderful-night-of-the-living-dead": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/its-my-fault": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/jean-michel-basquiat": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/lady": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/laura": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/lights-camera-celebrate-mvff49-after-dark": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/little-green-men-quips-in-charge": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/look-back": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/love-of-your-life": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/lucky-penny": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/making-space": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/mamalonacitos": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/miriam": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/miss-representation-rise-up": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/misty-green": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/monument": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/mouse": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/mouseling": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/my-mother-told-me-not-to-talk-to-strangers": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/no-hands-the-wild-ride-of-the-schwinn-bicycle-company": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/noodle-fight": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/normal-glasses": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/of-veins-and-wires": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/oppression": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/out-of-the-blue": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/panel-animation-is-film": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/panel-conversation-with-ao-scott-david-thomson": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/panel-conversation-wkane-parsons": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/panel-doctalk": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/panel-fusing-art-technology-in-storytelling": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/panel-made-in-san-francisco": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/panel-mtg-directors-talk": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/panel-mtg-staying-power-power-politics": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/poetry": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/purge": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/pylons": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/queen-at-sea": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/querida-ftima": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/rogue-one-a-star-wars-story": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/room-of-the-absolute": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/rru": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/sad-girlz": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/scissors": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/scouts-honor": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/seagull-coffee": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/secret-screening": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/self-titled": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/shorts-all-the-young-punks": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/shorts-award-program": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/shorts-city-of-the-dead": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/shorts-college-animation-showcase-1": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/shorts-college-animation-showcase-2": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/shorts-if-music-could-talk": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/shorts-lets-go-crazy": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/shorts-remote-control": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/shorts-stay-free": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/shorts-whats-my-name": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/silly-little-plastic-cat": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/splish-splash-forever": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/stand-alone": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/sticker": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/storybook-apocalypse-or-the-ships-cat": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/street-smart": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/superspice": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/swimming-the-colorado-naked": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/swing-swish-sway": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/the-a-word-the-future-of-aging": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/the-doctor-and-the-floating-bridge": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/the-doll": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/the-high-kings-daughter": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/the-last-place-on-earth": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/the-liberation": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/the-life-and-deaths-of-wilson-shedd": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/the-meltdown": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/the-only-living-pickpocket-in-new-york": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/the-shoe-thief": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/the-spanish-lesson": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/the-white-elephant": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/these-are-totally-real-animals": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/this-is-not-an-emergency": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/three-billboards-outside-ebbing-missouri": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/threeasfour-full-circle": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/to-be-loved": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/together-apart": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/tribute-linda-perry": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/tribute-sam-rockwell": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/tte-tte": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/until-we-meet-again": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/we-are-all-strangers": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/we-are-the-land": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/when-you-give-a-cat-a-lemon": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/wild-east": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://app.mvff.com/film/windward": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.cafilm.org/wp-content/uploads/2018/06/2016-CFI-AFS.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.cafilm.org/wp-content/uploads/2017/05/the_fencer_presskit_03b_web.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.cafilm.org/wp-content/uploads/2017/05/the_fencer_presskit_digi_web-1.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.cafilm.org/wp-content/uploads/2017/05/the_fencer_presskit_digi_web.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.cafilm.org/wp-content/uploads/2017/05/TheFencer_PressNotes_web.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.cafilm.org/wp-content/uploads/2014/09/MVFF37_FilmSchedule_sm.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/laha-mebow/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/chase-olivera-2/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/alexander-seltzer/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/marina-grozdanova/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/calvin-hwang/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/michael-angarano/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/michael-gracey/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/alexandra-lexton/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/marielle-heller/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/julie-colleen-rubio/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/andrea-arnold/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/ben-snyder/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/luca-guadagnino-2/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/34729/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/cassie-shao/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/samuel-green/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/sarah-klein/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/meg-shutzer/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/katrina-lillian-sorrentino/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/kaiya-ming-jordan/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/venus-jones/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/paula-levine/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/marek-ermak/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/isabella-dewitt/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/chase-olivera/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/guhtur-niillas-rita-duomis/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/jeff-obrien-myers/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/jeanne-c-finley/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/abbie-perrault/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/david-bushell/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/titus-kaphar/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/ricardo-de-montreuil/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/rungano-nyoni/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/bobby-roth/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/amber-sealey/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/connie-field/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/pamela-j-hogan/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/nabil-ayouch/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/todd-bieber/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/elizabeth-cairns/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/sarah-friedland/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/malcolm-washington/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/zoe-eisenberg/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/kelsey-taylor/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/sean-baker/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/tanith-glynn-maloney/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/tracie-laymon/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/joshua-zeman/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/mimi-muhle-2/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/jalena-keane-lee-2/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/pedro-almodovar/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/luca-guadagnino/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/rana-nazzal-hamadeh/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/kara-herold-3/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/tom-mason/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/britney-fan/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/anthony-gilmore/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/kirthi-nath/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/brandon-yadegari-moreno/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/yoontaek-hong/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/hao-zhou/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/martha-grant/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/jesseca-ynez-simmons/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/34668/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/loren-waters/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/india-anne-mitchell/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/jacob/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/trudy-flashford/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/timothy-michael-cooper/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/scott-burkhardt/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/lansana-mansaray/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/maxwell-warner/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/kara-herold-2/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/steve-sanders/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/skye-schoenhoeft/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/derek-knowles/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/guillermo-gomez/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/guhtur-niillas-rita-duomis-tuomas-kumpulaine/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/forest-blakk/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/alex-hedison/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/peter-gardner/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/daniel-glick/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/biliana-grozdanova/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/maisie-crow/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/crystal-moselle/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/ivy-macdonald/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/joost-van-den-bosch-erik-verkerk-2/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/andres-baiz/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/michael-premo/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/jason-reitman/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/jeremy-workman/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/laura-gonzalez/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/thomas-winston/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/jianjie-lin/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/asif-kapadia/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/kayci-lacob/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/william-goldenberg/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/mike-leigh/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/nicholas-colia/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/mohammad-rasoulof/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/paris-barclay/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/reinis-kalnaellis/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/jacques-audiard/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/natalie-zimmerman/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/payal-kapadia/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/kyle-hausmann-stokes/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/halfdan-ullmann-tondel/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/john-crowley/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/walter-salles/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/alex-nystrom/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/juan-paulo-laserna/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/paperface/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/emerie-elise-boone/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/nadia-johnson/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/prairie-rose-seminole/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/alex-ross/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/rishan-sathiyaa/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/drew-mccoy/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/phumi-morare/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/naomi-iwamoto/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/lucy-teitler/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/annastacia-henry-ramos/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/jace-skinnell/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/steve-sanders-2/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/talia-light-rake/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/gabrielle-hanson-chong/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/noah-shin-2/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/radio-jus-sunna-sunna-nousuniemi/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/allie-light/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/erik-verkerk/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/ivan-macdonald/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/derrick-b-harden/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/justin-kurzel/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/margherita-vicario/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/klaudia-reynicke/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/pamela-yates/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/edward-berger/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/annegre-bosman/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/mati-diop/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/caroline-lindy/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/jiri-madl/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/john-goddard/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/tawfik-alzaidi/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/pedro-freire/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/emily-sheskin/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/d-damian-panetta/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/hong-sangsoo/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/agathe-riedinger/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/louise-courvoisier/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/steve-mcqueen/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/adam-elliot/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/radio-jus-sunna/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/sam/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/mimi-muhle/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/kara-herold/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/talia-light-rake-2/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/skye-schoenhoeft-2/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/gut/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/joost-van-den-bosch-erik-verkerk/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/crystal-moselle-derrick-b-harden/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/maisie-crow-abbie-perrault/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/director/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/biliana-grozdanova-marina-grozdanova/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/ivan-macdonald-ivy-macdonald-daniel-glick/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/nicolas-collins/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/luke-gilford/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/matt-klug/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/honora-talbott/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/benjamin-mulholland/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/jeremie-balais/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/jalena-keane-lee/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/hayao-miyazaki/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/andrew-nadkarni/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/mitra-shahidi/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/manrique-cortes-castro/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/ian-kim/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/lila-aviles/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/michelle-tang/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/maddie-barbiee/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/kirk-horton/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/gary-weimberg/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/alex-zajicek/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/jonathon-charlie-copson-pacal/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/liel-simon/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/leonardo-romero-zarza/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/polina-bai/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/connor-lee-okeefe/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/tali-barde/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/milan-mackenzie-wood/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/paul-van-der-stegen/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/belen-ricardes/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/gabriel-diamond/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/benoi-t-chieux/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/paul-hollingsworth/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/latajh-a-weaver/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/francois-ozon/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/lilan-bowden/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/estevan-evaristo-garcia/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/dawn-westlake/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/mostafa-keshvari/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/toshikazu-hosoki/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/amanda-rowan/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/ian-dani-kim/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/liz-sargent/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/alex-ramirez/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/will-parrinello/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/alireza-khatami/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/adam-hobbs/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/alex-massey/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/krishna-washburn/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/river-autumn-finlay/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/fernando-trueba/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/ali-asgari/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/samantha-jimenez-garcia/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/pedro-pablo-vega-reyes/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/otis-monteny/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/lizde-arias/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/luis-fernando-puente/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/matthew-segal/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/ana-testas/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/joshua-harding/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/javier-mariscal/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/eugenia-renteria/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/noah-shin/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/sally-eckhoff/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/nicole-newnham/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/contessa-gayles/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/ju-yeon-gim/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/josh-hundermark/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/gaspard-choquet/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/veronica-ramirez/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/augusto-schillaci/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/jeff-nichols/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/maureen-gosling/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/jeff-le-bars/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/john-musker/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/cara-yeates/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/sally-patricia-pearce/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/taku-mbudzi/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/ana-laura-calderon/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/jose-maria-fernandez-de-vega/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/events/zoe-pelchat/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/wouldnt-make-it-any-other-way/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/the-door/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/the-social-chameleon/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/why-the-cattle-wait/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/something-borrowed-something-pink/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/the-bird-rescue-center/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/the-last-supper/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/meet-me-at-the-creek/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/like-a-stone-or-flower/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/everything-will-be-ok-again/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/the-callback/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/lil-red-is-riding-the-wrong-way-in-the-hood/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/the-next-wave-mind-the-gap-filmmaker-roundtable/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/there-will-be-hurt/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/lunar-power/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/mind-the-gap-day-mvff47/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/there-can-only-be-one/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/panel-state-of-the-industry/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/the-chihuahua-shake/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/minus-daisy/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/dreamkeeping/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/five-minutes-to-five-years/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/forever-mine/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/guiding-light/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/heaven-in-a-wild-flower/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/appa-tales-stories-from-my-grandfather/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/this-is-a-story-without-a-plan/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/bickering/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/the-alien/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/the-crow-and-the-squirrel/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/four-nights-and-a-fire/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/hkuin/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/the-anchor-and-the-kite/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/the-captives/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/the-curtains-glow-at-night/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/llamas-at-the-laundromat/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/tayal-forest-club/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/knead/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/killer-love/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/ma-aye-ka-masaala-a-se-ka-w-m-ti-from-god-to-man/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/crab-claw/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/we-ride-for-her/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/sole-sista/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/practical-rabbit-hunting-strategies-for-the-modern-man/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/sixteen/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/we-would-be-freer/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/not-my-name/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/adventures-with-the-caretaker/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/think-too-much/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/alok/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/active-cinema-hike/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/program/exuvia/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2023/11/09.11.23_Closing-Night_MAESTRO-Final.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2023/11/09.08.23_Full-Film-Lineup-Final.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2023/09/08.25.23__MVFF46-Documentaries.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2020/08/Release_ALL-IN_MVFF43-TFF-FINAL_08.25-1.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2020/08/Release_ALL-IN_MVFF43-TFF-FINAL_08.25.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2019/06/2019_Programming-NewHireAnnouncement_Final-for-Public.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2019/06/2019-Mind-the-Gap-Summit_Final-For-Public.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2018/09/Wildlife_Press-Release_FINAL_08-09-18.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2018/09/Centerpiece_Roma_Final_08-31-18.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2018/09/Press-Conference_TKTscrng_Invite_FINAL.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2017/09/MVFF40FilmSchedule-lorez.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2017/08/08-16-17_MVFF40-Music_RoyRogers_ThirdMind_Butterfield.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2017/08/08-15-17_Music_RoyRogers_ThirdMind_Butterfield.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2017/08/08-11-17_PressConference_SaveTheDate_FINAL.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2017/08/08-08-17_Wonderstruck-Announcement-FINAL.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2017/08/02-23-17_Call4Entries_FINAL.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/08-08-17_Wonderstruck-Announcement-FINAL.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/10-03-16_Mind-The-Gap.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2016/09/MVFF39-FilmSchedule.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/MVFF39_Closing-Night_Loving_10Aug2016.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/04-29-16_BangTheBertBernsStory_RevFINAL.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/04-29-16_BangTheBertBernsStory.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/04-29-16_MVFF39_BangTheBertBernsStory.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/MVFF38_MVFFMusic_FINAL1.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/MVFF38_LongLeadRelease_07-21-15_FINAL.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/A-day-of-fun-at-the-Mill...San-Francisco-Chronicle.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/2015-Mill-Valley-Film-Fe...lm-Television-Network.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/10-15-15_TheEveningClass_BarbetSchroederAmnesia.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/10-15-15_StarkInsider_BrieLarsonRoom.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/10-15-15_Newsweek_TruthSpotlight.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/10-15-15_EnjoyMillValleyBlog_MVFF38Return-of-the-Jedi.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/10-13-15_SoundCloud_Sembene.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/10-12-15_TheEveningClass_IanMcKellen.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/10-10-15_WayTooIndie_HereisHarldISmileBack.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/10-10-15_TheKamlaShow_Top5Picks.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/10-10-15_TheEveningClass_SacredBlood.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/10-9-15_StarkInsider_DanishGirlSpotlightRecap.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/10-9-15_NorthBayStageScreen_IngridBergmanMVFF381.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/10-9-15_NorthBayStageScreen_IngridBergmanMVFF38.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/10-08-15_TheEveningClass_MVFF38Overview.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/10-08-15_SiliconValleyLodge_SixFilmsNotToMiss.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/10-08-15_MarinIJ_SirDougSahmGenuineTexasCosmicGroove.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/10-07-15_MercuryNews_DogtownRedemption.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/10-06-15_TakePart_InDefenseofFood.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/10-06-15_LupitaNews_Viaje.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/10-05-15_MercuryNews_GenderDivide.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/10-05-15_LupitaNews_BlueBlood.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/10-02-15_MarinIJ_FestivalHopping.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/9-30-15_SFChroniccle_ISmileBack.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/9-30-15_SanJoseMercury_WhatsPlayingatMVFF38Photo-Slideshow.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/9-30-15_MarinMagazine_JamesRedford.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/09-30-15_BayFlicks_MVFF38Preview.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/09-17-15_TheNation_OpenYourEyes.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/09-16-15_StarkInsider_10Must-SeeFilmsatMVFF.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/9-16-15_MarinMagazine_MVFF38Announcement.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/9-16-15_BayFlicks_MVFF38Announcement.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/09-15-15_MarinIJ_WomeninFilm.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/09-15-15_KQED_FallFilmFestivals.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/09-15-15_EnjoyMillValleyBlog_MVFFUnveilsLineup.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/09-9-15_EnjoyMillValleyBlog_MVFF38Music.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/09-08-15_StarkInsider_BrieLarsonSpotlight.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/09-01-15_StarkInsider_ALightBeneathTheirFeetAngelicaPremiere.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/09-01-15_IndieWire-SydneysBuzz_SarahSilvermanSpotlight.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/08-24-15_IndieWire-ThompsonOnHollywood_SarahSilvermanSpotlight.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/08-24-15_AwardsWatch_SarahSilvermanSpotlight.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/08-19-15_CateBlanchet.com_South-Of-France-SF-Bay.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/08-18-15_IndieWire-WomenHollywood_South-Of-France-SF-Bay1.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/08-18-15_IndieWire-WomenHollywood_South-Of-France-SF-Bay.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/08-18-15_IMDb_from_IndieWire_South-Of-France-SF-Bay.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/08-14-15_AwardsWatch_Locals.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/06-17-15_SFgate.com_Call-For-Entries.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/WhatYouNeedtoKnowAboutMVFF38.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/3-Irish-films-to-feature...ll-Valley-Film-Festival.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/\u2018Spotlight\u2019-\u2018The-Danish...Film-Festival-Variety.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/\u2018Skokie\u2019-one-of-183-fes...estyles-Entertainment.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/wp-content/uploads/2015/09/\u2018Danish-Girl\u2019-\u2018Spotligh...lley-Film-Fest-SFGate.pdf": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/mvff49-photographers/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/shorts-jury/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/0026-splash/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/0026-eb-splash/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/0026-eb-test/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/0-mvff49-c4e-splash/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/volunteer-photo-team-interest-form/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/mvvf06-program/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/mvff-34-program-guide/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/member-screening/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/2024-splash/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/vote-og/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/25-home/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/2024-home/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/2023-home/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/2023-early-splash/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/mvff45/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/mvff45-pre-tix/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/mvff45_c4e/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/mind-the-gap-2023-mvff46/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/mvff44-home/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/44-test-6/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/strand-test/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/filter-test-1/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/filter-test-2/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/mvff44-grid-view/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/donation-code-test/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/splash-test/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/films-2020/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/mvff40-merchandise/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/sean-penn/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/filmmakers-original/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/photo-test/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/active-cinema-mvff43/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/family-mvff43/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://www.mvff.com/newz-test/": {
+"status": "queued",
+"timestamp": "",
+"message": ""
+},
+"https://issuu.com/smithrafaelfilmcenter/docs/mvff01_program_1978": {
+"status": "success",
+"timestamp": "20261118211244",
+"message": ""
+},
+"https://issuu.com/smithrafaelfilmcenter/docs/mvff03_1980": {
+"status": "success",
+"timestamp": "20261118211238",
+"message": ""
+},
+"https://issuu.com/smithrafaelfilmcenter/docs/mvff09_program_1986": {
+"status": "success",
+"timestamp": "20261118211201",
+"message": ""
+},
+"https://issuu.com/smithrafaelfilmcenter/docs/mvff13_program_1990": {
+"status": "success",
+"timestamp": "20261118211243",
+"message": ""
+},
+"https://issuu.com/smithrafaelfilmcenter/docs/mvff14_program_1991": {
+"status": "success",
+"timestamp": "20261118211258",
+"message": ""
+},
+"https://issuu.com/smithrafaelfilmcenter/docs/mvff18_program_1995": {
+"status": "success",
+"timestamp": "20261118211259",
+"message": ""
+},
+"https://issuu.com/smithrafaelfilmcenter/docs/mvff19_program_1996": {
+"status": "success",
+"timestamp": "20261118211259",
+"message": ""
+},
+"https://issuu.com/smithrafaelfilmcenter/docs/mvff20_program_1997": {
+"status": "success",
+"timestamp": "20261118211300",
+"message": ""
+},
+"https://issuu.com/smithrafaelfilmcenter/docs/mvff21_program_1998": {
+"status": "success",
+"timestamp": "20261118211303",
+"message": ""
+},
+"https://issuu.com/smithrafaelfilmcenter/docs/mvff24_program_2001": {
+"status": "success",
+"timestamp": "20261118211306",
+"message": ""
+},
+"https://issuu.com/smithrafaelfilmcenter/docs/mvff28_program_2005": {
+"status": "success",
+"timestamp": "20261118211310",
+"message": ""
+},
+"https://issuu.com/smithrafaelfilmcenter/docs/mvff29_program_2006": {
+"status": "success",
+"timestamp": "20261118211411",
+"message": ""
+},
+"https://issuu.com/smithrafaelfilmcenter/docs/mvff36_program_2013": {
+"status": "success",
+"timestamp": "20261118211412",
+"message": ""
+},
+"https://issuu.com/smithrafaelfilmcenter/docs/mvff37_program_2014": {
+"status": "success",
+"timestamp": "20261118211412",
+"message": ""
+},
+"https://issuu.com/smithrafaelfilmcenter/docs/mvff38_program_2015": {
+"status": "success",
+"timestamp": "20261118211815",
+"message": ""
+},
+"https://issuu.com/smithrafaelfilmcenter/docs/mvff39_program_2016": {
+"status": "success",
+"timestamp": "20261118211822",
+"message": ""
+},
+"https://issuu.com/smithrafaelfilmcenter/docs/mvff42_program_2019": {
+"status": "success",
+"timestamp": "20261118211950",
+"message": ""
+},
+"https://issuu.com/smithrafaelfilmcenter/docs/mvff45_program_2022": {
+"status": "success",
+"timestamp": "20261118212015",
+"message": ""
+},
+"https://issuu.com/smithrafaelfilmcenter/docs/mvff47_program_2024": {
+"status": "success",
+"timestamp": "20261118212016",
+"message": ""
+},
+"https://issuu.com/smithrafaelfilmcenter/docs/mvff49_program_guide_2026": {
+"status": "success",
+"timestamp": "",
+"message": ""
+},
+"https://issuu.com/smithrafaelfilmcenter/docs/mvff49_strategic_partnerships": {
+"status": "success",
+"timestamp": "",
+"message": ""
+}
+}
+}

@@ -1,0 +1,6674 @@
+{
+  "year": 2001,
+  "edition": 24,
+  "dates": "October 4-14, 2001",
+  "source_pdf": "2001_schedule.pdf",
+  "venues": [
+    {
+      "name": "Sequoia Twin Theatres (Sequoia)",
+      "address": "25 Throckmorton Avenue, Mill Valley"
+    },
+    {
+      "name": "Rafael Film Center (Rafael)",
+      "address": "1118 4th Street, San Rafael"
+    },
+    {
+      "name": "Outdoor Art Club (OAC)",
+      "address": "1 West Blithedale, Mill Valley"
+    },
+    {
+      "name": "Mill Valley Community Center",
+      "address": "180 Camino Alto, Mill Valley"
+    },
+    {
+      "name": "Il Davide",
+      "address": "901 A Street, San Rafael"
+    },
+    {
+      "name": "Masonic Auditorium (Masonic)",
+      "address": "23 Corte Madera Avenue, Mill Valley"
+    },
+    {
+      "name": "Hornblower Cruises and Events",
+      "address": "Sausalito Ferry Terminal, Sausalito"
+    },
+    {
+      "name": "De Silva Island",
+      "address": "1 De Silva Island Drive, Mill Valley"
+    },
+    {
+      "name": "Frantoio Ristorante",
+      "address": "152 Shoreline Highway, Mill Valley"
+    },
+    {
+      "name": "Chinook Restaurant",
+      "address": "1130 4th Street, San Rafael"
+    },
+    {
+      "name": "SIGHT & INSIGHT Art Center",
+      "address": "616 Throckmorton Avenue, Mill Valley"
+    },
+    {
+      "name": "Digiquest Learning Center",
+      "address": "1115 3rd Street, Suite 2, San Rafael"
+    },
+    {
+      "name": "Pacific Cinema (Cinema)",
+      "address": "41 Tamal Vista, Corte Madera"
+    },
+    {
+      "name": "Sweetwater",
+      "address": "Mill Valley"
+    }
+  ],
+  "sections": [
+    "Official Premiere Selection",
+    "World Cinema",
+    "World Cinema: Focus Latin America",
+    "World Cinema: Focus Iran",
+    "U.S. Cinema",
+    "Valley of the Docs",
+    "Five@Five",
+    "New Media/VFest",
+    "Children's FilmFest",
+    "New Movies Lab/Seminars",
+    "Tributes",
+    "Encore Program"
+  ],
+  "films": [
+    {
+      "title": "Amélie",
+      "original_title": "Le Fabuleux Destin d'Amélie Poulain",
+      "directors": [
+        "Jean-Pierre Jeunet"
+      ],
+      "countries": [
+        "Belgium",
+        "France"
+      ],
+      "film_year": 2001,
+      "runtime_min": 120,
+      "language": null,
+      "section": "World Cinema",
+      "slot": "Opening Night",
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-04",
+          "time": "7:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2001-10-05",
+          "time": "6:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A shy Paris waitress who returns a long-hidden box to its owner sets out to secretly improve the lives of the people around her.",
+      "cast": [
+        "Audrey Tautou",
+        "Mathieu Kassovitz",
+        "Yolande Moreau",
+        "Serge Merlin",
+        "Urbain Cancelier",
+        "Jamel Debbouze"
+      ],
+      "page": 20
+    },
+    {
+      "title": "Italian for Beginners",
+      "original_title": null,
+      "directors": [
+        "Lone Scherfig"
+      ],
+      "countries": [
+        "Denmark"
+      ],
+      "film_year": 2000,
+      "runtime_min": 118,
+      "language": null,
+      "section": "World Cinema",
+      "slot": "Opening Night",
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-04",
+          "time": "7:15 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2001-10-07",
+          "time": "9:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A Dogme comedy in which a new minister joins an Italian class in a Copenhagen suburb and six lonely singles change their lives.",
+      "cast": [
+        "Anders W. Berthelsen",
+        "Anette Stovelbaek",
+        "Ann Eleonora Jorgensen",
+        "Lars Kaalund",
+        "Peter Gantzler",
+        "Sara Indrio Jensen"
+      ],
+      "page": 20
+    },
+    {
+      "title": "The Mystic Masseur",
+      "original_title": null,
+      "directors": [
+        "Ismail Merchant"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2001,
+      "runtime_min": 117,
+      "language": null,
+      "section": "World Cinema",
+      "slot": "Opening Night",
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Ismail Merchant",
+        "Aasif Mandvi"
+      ],
+      "screenings": [
+        {
+          "date": "2001-10-04",
+          "time": "7:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2001-10-05",
+          "time": "9:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Adapted from V.S. Naipaul, an aspiring writer in 1940s Trinidad becomes a famed mystic healer and politician, testing his ideals.",
+      "cast": [
+        "Om Puri",
+        "James Fox",
+        "Aasif Mandvi",
+        "Ayesha Dharker",
+        "Jimi Mistry",
+        "Sanjeev Bhaskar"
+      ],
+      "page": 20
+    },
+    {
+      "title": "The Man Who Wasn't There",
+      "original_title": null,
+      "directors": [
+        "Joel Coen"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2001,
+      "runtime_min": 116,
+      "language": null,
+      "section": "U.S. Cinema",
+      "slot": "Closing Night",
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Michael Badalucco"
+      ],
+      "screenings": [
+        {
+          "date": "2001-10-14",
+          "time": "6:15 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2001-10-14",
+          "time": "9:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "In 1949 Santa Rosa, a downtrodden barber's plan to blackmail his wife's lover spirals into murder in this black-and-white noir.",
+      "cast": [
+        "Billy Bob Thornton",
+        "Frances McDormand",
+        "Michael Badalucco",
+        "Richard Jenkins",
+        "Scarlett Johansson",
+        "Jon Polito"
+      ],
+      "page": 28
+    },
+    {
+      "title": "Lantana",
+      "original_title": null,
+      "directors": [
+        "Ray Lawrence"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "film_year": 2001,
+      "runtime_min": 116,
+      "language": null,
+      "section": "World Cinema",
+      "slot": "Closing Night",
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Barbara Hershey",
+        "Anthony LaPaglia"
+      ],
+      "screenings": [
+        {
+          "date": "2001-10-14",
+          "time": "6:15 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2001-10-14",
+          "time": "9:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "Adapted from a stage play, the troubled marriages and affairs of several Sydney couples intersect around a woman's disappearance.",
+      "cast": [
+        "Anthony LaPaglia",
+        "Geoffrey Rush",
+        "Barbara Hershey",
+        "Kerry Armstrong",
+        "Rachael Blake",
+        "Vince Colosimo"
+      ],
+      "page": 28
+    },
+    {
+      "title": "A Clockwork Orange",
+      "original_title": null,
+      "directors": [
+        "Stanley Kubrick"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "film_year": 1971,
+      "runtime_min": 137,
+      "language": null,
+      "section": "Tributes",
+      "slot": "Tribute",
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Malcolm McDowell"
+      ],
+      "screenings": [
+        {
+          "date": "2001-10-11",
+          "time": "6:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Kubrick's adaptation of Anthony Burgess's satire about a violent young delinquent and the state's attempt to reform him.",
+      "cast": [
+        "Malcolm McDowell",
+        "Patrick Magee"
+      ],
+      "page": 24
+    },
+    {
+      "title": "In the Bedroom",
+      "original_title": null,
+      "directors": [
+        "Todd Field"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2000,
+      "runtime_min": 130,
+      "language": null,
+      "section": "U.S. Cinema",
+      "slot": "Tribute",
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Sissy Spacek"
+      ],
+      "screenings": [
+        {
+          "date": "2001-10-13",
+          "time": "6:30 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2001-10-14",
+          "time": "3:15 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "Parents in a Maine coastal town are drawn into darkness after their son's affair with an older woman ends in tragedy.",
+      "cast": [
+        "Tom Wilkinson",
+        "Sissy Spacek",
+        "Nick Stahl",
+        "Marisa Tomei",
+        "William Mapother",
+        "William Wise"
+      ],
+      "page": 26
+    },
+    {
+      "title": "Carrie",
+      "original_title": null,
+      "directors": [
+        "Brian DePalma"
+      ],
+      "countries": [],
+      "film_year": 1976,
+      "runtime_min": null,
+      "language": null,
+      "section": "Tributes",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-13",
+          "time": "10:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Shown in the Sissy Spacek tribute, the story of a humiliated, telekinetic high-school girl, adapted from Stephen King.",
+      "cast": [],
+      "page": 32
+    },
+    {
+      "title": "Assassin of the Tsar",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Tributes",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-14",
+          "time": "2:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 32
+    },
+    {
+      "title": "Gangster No. 1",
+      "original_title": null,
+      "directors": [
+        "Paul McGuigan"
+      ],
+      "countries": [
+        "UK",
+        "Germany"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-13",
+          "time": "9:45 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2001-10-14",
+          "time": "9:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 10
+    },
+    {
+      "title": "101 Reykjavík",
+      "original_title": null,
+      "directors": [
+        "Baltasar Kormákur"
+      ],
+      "countries": [
+        "Iceland"
+      ],
+      "film_year": 2000,
+      "runtime_min": 90,
+      "language": "Icelandic and English",
+      "section": "Encore Program",
+      "slot": null,
+      "premiere": "Marin Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-15",
+          "time": "7:15 PM",
+          "venue": "Sequoia II"
+        },
+        {
+          "date": "2001-10-15",
+          "time": "9:15 PM",
+          "venue": "Sequoia II"
+        },
+        {
+          "date": "2001-10-16",
+          "time": "7:15 PM",
+          "venue": "Sequoia II"
+        },
+        {
+          "date": "2001-10-16",
+          "time": "9:15 PM",
+          "venue": "Sequoia II"
+        },
+        {
+          "date": "2001-10-17",
+          "time": "7:15 PM",
+          "venue": "Sequoia II"
+        },
+        {
+          "date": "2001-10-17",
+          "time": "9:15 PM",
+          "venue": "Sequoia II"
+        },
+        {
+          "date": "2001-10-18",
+          "time": "7:15 PM",
+          "venue": "Sequoia II"
+        },
+        {
+          "date": "2001-10-18",
+          "time": "9:15 PM",
+          "venue": "Sequoia II"
+        }
+      ],
+      "summary": "An Icelandic slacker falls for a flamenco teacher who turns out to be his mother's lover, in a quirky black comedy.",
+      "cast": [
+        "Victoria Abril",
+        "Hilmir Snaer Gudnason"
+      ],
+      "page": 33
+    },
+    {
+      "title": "Down from the Mountain",
+      "original_title": null,
+      "directors": [
+        "Nick Doob",
+        "Chris Hegedus",
+        "D.A. Pennebaker"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2001,
+      "runtime_min": 98,
+      "language": null,
+      "section": "Encore Program",
+      "slot": null,
+      "premiere": "Marin Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-15",
+          "time": "7:00 PM",
+          "venue": "Sequoia I"
+        },
+        {
+          "date": "2001-10-15",
+          "time": "9:00 PM",
+          "venue": "Sequoia I"
+        },
+        {
+          "date": "2001-10-16",
+          "time": "7:00 PM",
+          "venue": "Sequoia I"
+        },
+        {
+          "date": "2001-10-16",
+          "time": "9:00 PM",
+          "venue": "Sequoia I"
+        },
+        {
+          "date": "2001-10-17",
+          "time": "7:00 PM",
+          "venue": "Sequoia I"
+        },
+        {
+          "date": "2001-10-17",
+          "time": "9:00 PM",
+          "venue": "Sequoia I"
+        },
+        {
+          "date": "2001-10-18",
+          "time": "7:00 PM",
+          "venue": "Sequoia I"
+        },
+        {
+          "date": "2001-10-18",
+          "time": "9:00 PM",
+          "venue": "Sequoia I"
+        }
+      ],
+      "summary": "Concert film shot in Nashville with the bluegrass and roots musicians from the O Brother, Where Art Thou? soundtrack.",
+      "cast": [],
+      "page": 33
+    },
+    {
+      "title": "Time After Time",
+      "original_title": null,
+      "directors": [
+        "Nicholas Meyer"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 1979,
+      "runtime_min": 112,
+      "language": null,
+      "section": "Encore Program",
+      "slot": "Tribute",
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Malcolm McDowell"
+      ],
+      "screenings": [
+        {
+          "date": "2001-10-15",
+          "time": "6:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "H.G. Wells chases Jack the Ripper, who has stolen his time machine, into 1970s San Francisco.",
+      "cast": [
+        "Malcolm McDowell",
+        "David Warner",
+        "Mary Steenburgen"
+      ],
+      "page": 33
+    },
+    {
+      "title": "If....",
+      "original_title": null,
+      "directors": [
+        "Lindsay Anderson"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "film_year": 1968,
+      "runtime_min": 112,
+      "language": null,
+      "section": "Encore Program",
+      "slot": "Tribute",
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Malcolm McDowell"
+      ],
+      "screenings": [
+        {
+          "date": "2001-10-15",
+          "time": "9:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A rebellious pupil leads a violent revolt against the repressive authorities of an English boarding school.",
+      "cast": [
+        "Malcolm McDowell",
+        "David Wood",
+        "Christine Noonan"
+      ],
+      "page": 33
+    },
+    {
+      "title": "O Lucky Man!",
+      "original_title": null,
+      "directors": [
+        "Lindsay Anderson"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "film_year": 1973,
+      "runtime_min": 178,
+      "language": null,
+      "section": "Encore Program",
+      "slot": "Tribute",
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-16",
+          "time": "7:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Mick Travis, now a coffee salesman, travels across Britain on an allegorical odyssey where money corrupts him.",
+      "cast": [
+        "Malcolm McDowell",
+        "Ralph Richardson",
+        "Helen Mirren"
+      ],
+      "page": 33
+    },
+    {
+      "title": "All the Queen's Men",
+      "original_title": null,
+      "directors": [
+        "Stefan Ruzowitzky"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Official Premiere Selection",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-12",
+          "time": "8:30 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2001-10-14",
+          "time": "7:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 8
+    },
+    {
+      "title": "As White As in Snow",
+      "original_title": null,
+      "directors": [
+        "Jan Troell"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Official Premiere Selection",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-07",
+          "time": "6:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 8
+    },
+    {
+      "title": "Asako in Ruby Shoes",
+      "original_title": null,
+      "directors": [
+        "E J-yong"
+      ],
+      "countries": [
+        "Korea",
+        "Japan"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Official Premiere Selection",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-07",
+          "time": "1:15 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2001-10-09",
+          "time": "6:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 8
+    },
+    {
+      "title": "The Bank",
+      "original_title": null,
+      "directors": [
+        "Robert Connolly"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Official Premiere Selection",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-13",
+          "time": "7:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2001-10-14",
+          "time": "6:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 8
+    },
+    {
+      "title": "Bill's Gun Shop",
+      "original_title": null,
+      "directors": [
+        "Dean Hyers"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Official Premiere Selection",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-04",
+          "time": "10:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 8
+    },
+    {
+      "title": "Calmness",
+      "original_title": null,
+      "directors": [
+        "Jayaraj"
+      ],
+      "countries": [
+        "India"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Official Premiere Selection",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-09",
+          "time": "7:30 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2001-10-13",
+          "time": "4:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 8
+    },
+    {
+      "title": "Gossip",
+      "original_title": null,
+      "directors": [
+        "Colin Nutley"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Official Premiere Selection",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-06",
+          "time": "4:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2001-10-07",
+          "time": "9:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 8
+    },
+    {
+      "title": "The Loneliness of the Crocodiles",
+      "original_title": null,
+      "directors": [
+        "Jobst Oetzmann"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Official Premiere Selection",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-08",
+          "time": "7:30 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2001-10-10",
+          "time": "7:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 8
+    },
+    {
+      "title": "Making Metamorphosis",
+      "original_title": null,
+      "directors": [
+        "Christopher E. Brown"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Official Premiere Selection",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-06",
+          "time": "9:45 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2001-10-10",
+          "time": "9:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 8
+    },
+    {
+      "title": "The Orphan of Anyang",
+      "original_title": null,
+      "directors": [
+        "Wang Chao"
+      ],
+      "countries": [
+        "China"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Official Premiere Selection",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-06",
+          "time": "9:30 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2001-10-07",
+          "time": "2:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 8
+    },
+    {
+      "title": "Scheme C6",
+      "original_title": null,
+      "directors": [
+        "Rob Nilsson"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Official Premiere Selection",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-12",
+          "time": "9:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 8
+    },
+    {
+      "title": "Shrapnels in Peace",
+      "original_title": null,
+      "directors": [
+        "Ali Shah Hatami"
+      ],
+      "countries": [
+        "Iran"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Official Premiere Selection",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-06",
+          "time": "4:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2001-10-08",
+          "time": "9:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 8
+    },
+    {
+      "title": "Sia, the Python's Dream",
+      "original_title": null,
+      "directors": [
+        "Dani Kouyaté"
+      ],
+      "countries": [
+        "France",
+        "Burkina Faso"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Official Premiere Selection",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-07",
+          "time": "4:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 8
+    },
+    {
+      "title": "Under the Skin of the City",
+      "original_title": null,
+      "directors": [
+        "Rakhshan Bani Elemad"
+      ],
+      "countries": [
+        "Iran"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Official Premiere Selection",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-10",
+          "time": "7:15 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2001-10-13",
+          "time": "9:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 8
+    },
+    {
+      "title": "Atanarjuat–The Fast Runner",
+      "original_title": null,
+      "directors": [
+        "Zacharias Kunuk"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-11",
+          "time": "7:30 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2001-10-13",
+          "time": "10:30 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 10
+    },
+    {
+      "title": "Late Night Shopping",
+      "original_title": null,
+      "directors": [
+        "Saul Metzstein"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-09",
+          "time": "7:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2001-10-13",
+          "time": "11:15 AM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 10
+    },
+    {
+      "title": "The Legend of Love",
+      "original_title": null,
+      "directors": [
+        "Farhad Mehranfar"
+      ],
+      "countries": [
+        "Iran"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "World Cinema: Focus Iran",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-05",
+          "time": "7:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2001-10-06",
+          "time": "9:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 10
+    },
+    {
+      "title": "Little Senegal",
+      "original_title": null,
+      "directors": [
+        "Rachid Bouchareb"
+      ],
+      "countries": [
+        "Algeria",
+        "France",
+        "Germany"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-11",
+          "time": "7:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 10
+    },
+    {
+      "title": "Maangamizi–The Ancient One",
+      "original_title": null,
+      "directors": [
+        "Ron Mulvihill"
+      ],
+      "countries": [
+        "Tanzania",
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-06",
+          "time": "1:30 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2001-10-08",
+          "time": "9:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 10
+    },
+    {
+      "title": "Moscow",
+      "original_title": null,
+      "directors": [
+        "Alexander Zeldovich"
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-13",
+          "time": "3:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 10
+    },
+    {
+      "title": "My Brother Tom",
+      "original_title": null,
+      "directors": [
+        "Dom Rotheroe"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-07",
+          "time": "7:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2001-10-09",
+          "time": "9:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 10
+    },
+    {
+      "title": "No Man's Land",
+      "original_title": null,
+      "directors": [
+        "Danis Tanovic"
+      ],
+      "countries": [
+        "France",
+        "Italy",
+        "Belgium",
+        "UK",
+        "Slovenia"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-13",
+          "time": "6:45 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2001-10-14",
+          "time": "9:45 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 10
+    },
+    {
+      "title": "Possible Loves",
+      "original_title": null,
+      "directors": [
+        "Sandra Werneck"
+      ],
+      "countries": [
+        "Brazil"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "World Cinema: Focus Latin America",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-06",
+          "time": "4:15 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2001-10-09",
+          "time": "9:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 10
+    },
+    {
+      "title": "Te Amo (Made in Chile)",
+      "original_title": null,
+      "directors": [
+        "Sergio M. Castilla"
+      ],
+      "countries": [
+        "Chile"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "World Cinema: Focus Latin America",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-10",
+          "time": "9:15 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2001-10-12",
+          "time": "9:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 10
+    },
+    {
+      "title": "To End All Wars",
+      "original_title": null,
+      "directors": [
+        "David L. Cunningham"
+      ],
+      "countries": [
+        "USA",
+        "Thailand",
+        "Scotland"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-06",
+          "time": "9:15 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2001-10-14",
+          "time": "4:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 10
+    },
+    {
+      "title": "Vengo",
+      "original_title": null,
+      "directors": [
+        "Tony Gatlif"
+      ],
+      "countries": [
+        "France",
+        "Germany",
+        "Japan",
+        "Spain"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "World Cinema: Focus Latin America",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-11",
+          "time": "9:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2001-10-13",
+          "time": "6:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 10
+    },
+    {
+      "title": "Y Tu Mamá También",
+      "original_title": null,
+      "directors": [
+        "Alfonso Cuarón"
+      ],
+      "countries": [
+        "Mexico",
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "World Cinema: Focus Latin America",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-12",
+          "time": "7:15 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2001-10-14",
+          "time": "12:45 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 10
+    },
+    {
+      "title": "Chico",
+      "original_title": null,
+      "directors": [
+        "Ibolya Fekete"
+      ],
+      "countries": [
+        "Hungary"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "World Cinema: Focus Latin America",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-12",
+          "time": "9:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 10
+    },
+    {
+      "title": "La Ciénaga",
+      "original_title": null,
+      "directors": [
+        "Lucrecia Martel"
+      ],
+      "countries": [
+        "Argentina"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "World Cinema: Focus Latin America",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-05",
+          "time": "9:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2001-10-08",
+          "time": "7:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 10
+    },
+    {
+      "title": "Piñero",
+      "original_title": null,
+      "directors": [
+        "Leon Ichaso"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "World Cinema: Focus Latin America",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-13",
+          "time": "9:30 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2001-10-14",
+          "time": "7:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 11
+    },
+    {
+      "title": "Big Bad Love",
+      "original_title": null,
+      "directors": [
+        "Arliss Howard"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "U.S. Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-08",
+          "time": "6:30 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2001-10-09",
+          "time": "8:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 12
+    },
+    {
+      "title": "Christmas in the Clouds",
+      "original_title": null,
+      "directors": [
+        "Kate Montgomery"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "U.S. Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-08",
+          "time": "6:45 PM",
+          "venue": "Pacific Cinema (Corte Madera)"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 12
+    },
+    {
+      "title": "Exploding Oedipus",
+      "original_title": null,
+      "directors": [
+        "Marc Lafia"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "U.S. Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-09",
+          "time": "9:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 12
+    },
+    {
+      "title": "Focus",
+      "original_title": null,
+      "directors": [
+        "Neal Slavin"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "U.S. Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-10",
+          "time": "6:45 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2001-10-13",
+          "time": "1:15 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 12
+    },
+    {
+      "title": "Heist",
+      "original_title": null,
+      "directors": [
+        "David Mamet"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "U.S. Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-08",
+          "time": "9:15 PM",
+          "venue": "Pacific Cinema (Corte Madera)"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 12
+    },
+    {
+      "title": "Jack the Dog",
+      "original_title": null,
+      "directors": [
+        "Bobby Roth"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "U.S. Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-06",
+          "time": "6:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2001-10-07",
+          "time": "7:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 12
+    },
+    {
+      "title": "My First Mister",
+      "original_title": null,
+      "directors": [
+        "Christine Lahti"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "U.S. Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-05",
+          "time": "7:30 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2001-10-08",
+          "time": "9:15 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 12
+    },
+    {
+      "title": "Novocaine",
+      "original_title": null,
+      "directors": [
+        "David Atkins"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "U.S. Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-06",
+          "time": "7:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2001-10-07",
+          "time": "9:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 12
+    },
+    {
+      "title": "Reunion (Dogme #17)",
+      "original_title": null,
+      "directors": [
+        "Leif Tilden"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "U.S. Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-05",
+          "time": "9:15 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2001-10-07",
+          "time": "11:15 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 12
+    },
+    {
+      "title": "Tape",
+      "original_title": null,
+      "directors": [
+        "Richard Linklater"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "U.S. Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-12",
+          "time": "6:30 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2001-10-14",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 12
+    },
+    {
+      "title": "Treading Water",
+      "original_title": null,
+      "directors": [
+        "Lauren Himmel"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "U.S. Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-11",
+          "time": "6:45 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 12
+    },
+    {
+      "title": "The Zeros",
+      "original_title": null,
+      "directors": [
+        "John Ryman"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "U.S. Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-10",
+          "time": "9:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 12
+    },
+    {
+      "title": "In the Wake",
+      "original_title": null,
+      "directors": [
+        "Erica Jordan"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "New Media/VFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-07",
+          "time": "4:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2001-10-12",
+          "time": "6:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A San Francisco drama about a woman obsessed with her memories, weaving the city's turbulent past into the present.",
+      "cast": [],
+      "page": 14
+    },
+    {
+      "title": "The Lost Skeleton of Cadavra",
+      "original_title": null,
+      "directors": [
+        "Larry Blamire"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "New Media/VFest",
+      "slot": null,
+      "premiere": "World Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-06",
+          "time": "9:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2001-10-13",
+          "time": "10:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A deliberately campy science-fiction comedy that parodies 1950s horror B-movies.",
+      "cast": [],
+      "page": 14
+    },
+    {
+      "title": "Singing the Bones",
+      "original_title": null,
+      "directors": [
+        "Gordon Halloran"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "New Media/VFest",
+      "slot": null,
+      "premiere": "U.S. Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-06",
+          "time": "7:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2001-10-07",
+          "time": "9:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A mixed-media screen version of Caitlin Hicks' stage performance meditating on childbirth and womanhood.",
+      "cast": [],
+      "page": 14
+    },
+    {
+      "title": "Virgil Bliss",
+      "original_title": null,
+      "directors": [
+        "Joe Maggio"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "New Media/VFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-06",
+          "time": "4:15 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2001-10-07",
+          "time": "7:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A drama about people struggling to survive on the margins of society, featuring a cast of new actors.",
+      "cast": [],
+      "page": 14
+    },
+    {
+      "title": "When Maryam Spoke Out",
+      "original_title": null,
+      "directors": [
+        "Assad Fouladkar"
+      ],
+      "countries": [
+        "Lebanon"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "New Media/VFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-06",
+          "time": "1:30 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2001-10-11",
+          "time": "9:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A melodrama about polygamy and a Lebanese woman's fight to keep her dignity.",
+      "cast": [],
+      "page": 14
+    },
+    {
+      "title": "The Mo' Hi De Ho Show",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "New Media/VFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-05",
+          "time": "10:15 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "Village Music's John Goddard presents more rare, seldom-seen musical screen clips from his collection on tape.",
+      "cast": [],
+      "page": 14
+    },
+    {
+      "title": "Kids Rock 'n' B-Roll",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "New Media/VFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-06",
+          "time": "11:15 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A showcase of film and video work made by young media makers, co-presented with the Children's FilmFest.",
+      "cast": [],
+      "page": 14
+    },
+    {
+      "title": "ABC Africa",
+      "original_title": null,
+      "directors": [
+        "Abbas Kiarostami"
+      ],
+      "countries": [
+        "Iran"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-06",
+          "time": "11:30 AM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2001-10-07",
+          "time": "7:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Almost Elvis",
+      "original_title": null,
+      "directors": [
+        "John Paget"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-08",
+          "time": "9:30 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2001-10-12",
+          "time": "9:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Animal Attraction",
+      "original_title": null,
+      "directors": [
+        "Kathy High"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-07",
+          "time": "11:15 AM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "The Back of the World",
+      "original_title": "La Espalda del Mundo",
+      "directors": [
+        "Javier Corcuera"
+      ],
+      "countries": [
+        "Spain",
+        "Argentina"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-07",
+          "time": "9:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "A Cuban Legend",
+      "original_title": null,
+      "directors": [
+        "Bette Wanderman"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": "U.S. Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-08",
+          "time": "7:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2001-10-11",
+          "time": "7:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "The Disenchanted Forest",
+      "original_title": null,
+      "directors": [
+        "Sarita Siegel"
+      ],
+      "countries": [
+        "USA",
+        "Borneo"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-06",
+          "time": "2:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2001-10-08",
+          "time": "6:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "e-dreams",
+      "original_title": null,
+      "directors": [
+        "Wonsuk Chin"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-13",
+          "time": "4:15 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2001-10-14",
+          "time": "9:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Everyday Heroes",
+      "original_title": null,
+      "directors": [
+        "Rick Goldsmith",
+        "Abby Ginzberg"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-05",
+          "time": "7:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2001-10-06",
+          "time": "11:15 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Go Tigers!",
+      "original_title": null,
+      "directors": [
+        "Kenneth A. Carlson"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-06",
+          "time": "4:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "The Hotel Upstairs",
+      "original_title": null,
+      "directors": [
+        "Daniel Baer"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-10",
+          "time": "8:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "How's Your News?",
+      "original_title": null,
+      "directors": [
+        "Arthur Bradford"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-07",
+          "time": "1:45 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Investigation of a Flame",
+      "original_title": null,
+      "directors": [
+        "Lynne Sachs"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-07",
+          "time": "4:45 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Judy's Time",
+      "original_title": null,
+      "directors": [
+        "Erin Flannery"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-10",
+          "time": "7:15 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2001-10-13",
+          "time": "11:00 AM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "The Landfill",
+      "original_title": null,
+      "directors": [
+        "Sharon Farrell"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-10",
+          "time": "8:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Maximum Penalty",
+      "original_title": "Den Højeste Straf",
+      "directors": [
+        "Tómas Gislason"
+      ],
+      "countries": [
+        "Denmark"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-08",
+          "time": "9:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "My Mother India",
+      "original_title": null,
+      "directors": [
+        "Safina Uberoi"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": "U.S. Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-10",
+          "time": "7:15 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2001-10-13",
+          "time": "11:00 AM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "My Name Is Rocky",
+      "original_title": null,
+      "directors": [
+        "Bahman Moshar"
+      ],
+      "countries": [
+        "Iran"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-05",
+          "time": "9:30 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2001-10-09",
+          "time": "7:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Ochre and Water",
+      "original_title": null,
+      "directors": [
+        "Craig Matthew",
+        "Joelle Chesselet"
+      ],
+      "countries": [
+        "South Africa"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": "U.S. Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-13",
+          "time": "4:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Ram Dass Fierce Grace",
+      "original_title": null,
+      "directors": [
+        "Mickey Lemle"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": "U.S. Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Ram Dass"
+      ],
+      "screenings": [
+        {
+          "date": "2001-10-12",
+          "time": "6:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2001-10-14",
+          "time": "1:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A new documentary film starring the spiritual teacher Ram Dass.",
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Rudyland",
+      "original_title": null,
+      "directors": [
+        "Matthew Carnahan",
+        "John Philip"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-11",
+          "time": "9:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "The Shaman's Apprentice",
+      "original_title": null,
+      "directors": [
+        "Miranda Smith"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-06",
+          "time": "2:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2001-10-08",
+          "time": "6:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Sounds Sacred",
+      "original_title": null,
+      "directors": [
+        "Barbara Rick"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-14",
+          "time": "4:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Spoils of War",
+      "original_title": null,
+      "directors": [
+        "David Blaustein"
+      ],
+      "countries": [
+        "Argentina",
+        "Spain"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-07",
+          "time": "11:30 AM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2001-10-12",
+          "time": "7:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Throwing Curves – Eva Zeisel",
+      "original_title": null,
+      "directors": [
+        "Jyll Johnstone"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": "World Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-06",
+          "time": "1:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Birdman of JFK",
+      "original_title": null,
+      "directors": [
+        "George Billard"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Animal Attraction",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-07",
+          "time": "11:15 AM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Wake-Up Call: Saving the Songbirds",
+      "original_title": null,
+      "directors": [
+        "Claire Blotter"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Animal Attraction",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-07",
+          "time": "11:15 AM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Cricket Outta Compton",
+      "original_title": null,
+      "directors": [
+        "Joanne Shen"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Go Tigers!",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-06",
+          "time": "4:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Lifestyles of the Poor and Unknown",
+      "original_title": null,
+      "directors": [
+        "Nancy Fliesler"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "How's Your News?",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-07",
+          "time": "1:45 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "American Exile",
+      "original_title": null,
+      "directors": [
+        "Cassandra Herrman",
+        "Katy Shrout"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Investigation of a Flame",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-07",
+          "time": "4:45 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Gol Chador",
+      "original_title": null,
+      "directors": [
+        "Amir Ali Abdollah zadeh"
+      ],
+      "countries": [
+        "Iran"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "My Name Is Rocky",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-05",
+          "time": "9:30 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2001-10-09",
+          "time": "7:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Switch On Bhutan",
+      "original_title": null,
+      "directors": [
+        "Alexis Bloom"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Ochre and Water",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-13",
+          "time": "4:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Art Strike's Back",
+      "original_title": null,
+      "directors": [
+        "Gordon Winiemko"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Rudyland",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-11",
+          "time": "9:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Tsipa and Volf",
+      "original_title": null,
+      "directors": [
+        "Daniel Gamburg"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Throwing Curves – Eva Zeisel",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-06",
+          "time": "1:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Traveler",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Throwing Curves – Eva Zeisel",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-06",
+          "time": "1:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "Metropopular",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "New Movies Lab/Seminars",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Animarathon; Rudyland",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-11",
+          "time": "9:30 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2001-10-13",
+          "time": "5:45 PM",
+          "venue": "Rafael 3"
+        },
+        {
+          "date": "2001-10-14",
+          "time": "2:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "Sweet",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: Keep This Heart in Mind",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-05",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "The Girl From Marseilles",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: Keep This Heart in Mind",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-05",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Voice of an Angel",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: Keep This Heart in Mind",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-05",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Redfern Beach",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: Keep This Heart in Mind",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-05",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Sparky D Comes to Town",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: Keep This Heart in Mind",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-05",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Knife & Fork Only",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: Tangled and Dark",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-08",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Petite Mort",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: Tangled and Dark",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-08",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Any Creature",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: Tangled and Dark",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-08",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Hood",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: Tangled and Dark",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-08",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Pâté",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: Tangled and Dark",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-08",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Man in Striped Pajamas",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: One Belief Away",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-09",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Helicopter",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: One Belief Away",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-09",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Summoning",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: One Belief Away",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-09",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Cheek to Cheek",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: One Belief Away",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-09",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Punchbag",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: (Sometimes There's) Hell to Pay",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-10",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Dog",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: (Sometimes There's) Hell to Pay",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-10",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "One Night the Moon",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: (Sometimes There's) Hell to Pay",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-10",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Little Fish",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: Too Soon to Tell",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-11",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "No Problem",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: Too Soon to Tell",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-11",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Nowhere Land",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: Too Soon to Tell",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-11",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Out of Darkness",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: Too Soon to Tell",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-11",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Elvis Doesn't Sing Here Anymore",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: Too Soon to Tell",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-11",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Roadside Assistance",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: Not the Only One",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-12",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Me and the Moilsies",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: Not the Only One",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-12",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Farewell Hong Kong",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: Not the Only One",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-12",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Shirts & Skins",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: Not the Only One",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-12",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Everything in Between",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: Not the Only One",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-12",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Apple Grown in Wind Tunnel",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "New Media/VFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Past Presence",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-07",
+          "time": "2:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 14
+    },
+    {
+      "title": "Loss Prevention",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "New Media/VFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Past Presence",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-07",
+          "time": "2:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 14
+    },
+    {
+      "title": "Nowhereland",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "New Media/VFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Past Presence",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-07",
+          "time": "2:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 14
+    },
+    {
+      "title": "Sea in the Blood",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "New Media/VFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Past Presence",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-07",
+          "time": "2:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 14
+    },
+    {
+      "title": "Carbon Dreaming",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "New Media/VFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Videosyncrasies",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-07",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "Erased",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "New Media/VFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Videosyncrasies",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-07",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "Final Exit",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "New Media/VFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Videosyncrasies",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-07",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "Higher Grounds",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "New Media/VFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Videosyncrasies",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-07",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "Lift",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "New Media/VFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Videosyncrasies",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-07",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "LoqueeshaAshleyFranklinJoséBrown",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "New Media/VFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Videosyncrasies",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-07",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "The Making of: A-Bomb",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "New Media/VFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Videosyncrasies",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-07",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "Tokyo Escalator",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "New Media/VFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Videosyncrasies",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-07",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 14
+    },
+    {
+      "title": "Counterfeit Film",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "New Media/VFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Virgil Bliss",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-06",
+          "time": "4:15 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2001-10-07",
+          "time": "7:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 14
+    },
+    {
+      "title": "Placebo",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "New Media/VFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Singing the Bones",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-06",
+          "time": "7:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2001-10-07",
+          "time": "9:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "Meat",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "New Media/VFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "The Lost Skeleton of Cadavra",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-06",
+          "time": "9:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2001-10-13",
+          "time": "10:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "Secret Sounds",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "New Media/VFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "When Maryam Spoke Out",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-06",
+          "time": "1:30 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2001-10-11",
+          "time": "9:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "Rubberman Accepts the Nobel Prize",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "New Media/VFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "In the Wake",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-07",
+          "time": "4:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2001-10-12",
+          "time": "6:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "Lucy Tsak Tsak",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Official Premiere Selection",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Making Metamorphosis",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-06",
+          "time": "9:45 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2001-10-10",
+          "time": "9:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "Natural Glasses",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "U.S. Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "The Zeros",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-10",
+          "time": "9:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "Spanglish Concoctions: Yearning & Grinding",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "World Cinema: Focus Latin America",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Chico",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-12",
+          "time": "9:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "Crush",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Who Needs Love",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-13",
+          "time": "7:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "Egg",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Who Needs Love",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-13",
+          "time": "7:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "Harvey",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Who Needs Love",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-13",
+          "time": "7:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "Return to Sender",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Who Needs Love",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-13",
+          "time": "7:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "Righteous Indignation",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Who Needs Love",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-13",
+          "time": "7:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "Together for 50 Years",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Who Needs Love",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-13",
+          "time": "7:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "Tonight's the Night",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Who Needs Love",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-13",
+          "time": "7:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "Bat City",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "New Movies Lab/Seminars",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Animarathon",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-13",
+          "time": "5:45 PM",
+          "venue": "Rafael 3"
+        },
+        {
+          "date": "2001-10-14",
+          "time": "2:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "Chicken",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "New Movies Lab/Seminars",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Animarathon",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-13",
+          "time": "5:45 PM",
+          "venue": "Rafael 3"
+        },
+        {
+          "date": "2001-10-14",
+          "time": "2:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "Extreme Man & Insane Boy",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "New Movies Lab/Seminars",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Animarathon",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-13",
+          "time": "5:45 PM",
+          "venue": "Rafael 3"
+        },
+        {
+          "date": "2001-10-14",
+          "time": "2:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "Hubert's Brain",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "New Movies Lab/Seminars",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Animarathon",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-13",
+          "time": "5:45 PM",
+          "venue": "Rafael 3"
+        },
+        {
+          "date": "2001-10-14",
+          "time": "2:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "Mirror",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "New Movies Lab/Seminars",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Animarathon",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-13",
+          "time": "5:45 PM",
+          "venue": "Rafael 3"
+        },
+        {
+          "date": "2001-10-14",
+          "time": "2:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "Stop/Motion II: Motion Capture",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "New Movies Lab/Seminars",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Animarathon",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-13",
+          "time": "5:45 PM",
+          "venue": "Rafael 3"
+        },
+        {
+          "date": "2001-10-14",
+          "time": "2:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "Terminator Tomatoes",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "New Movies Lab/Seminars",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Animarathon",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-13",
+          "time": "5:45 PM",
+          "venue": "Rafael 3"
+        },
+        {
+          "date": "2001-10-14",
+          "time": "2:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "That Special Monkey",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "New Movies Lab/Seminars",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Animarathon",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-13",
+          "time": "5:45 PM",
+          "venue": "Rafael 3"
+        },
+        {
+          "date": "2001-10-14",
+          "time": "2:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "Work in Progress",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "New Movies Lab/Seminars",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Animarathon",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-13",
+          "time": "5:45 PM",
+          "venue": "Rafael 3"
+        },
+        {
+          "date": "2001-10-14",
+          "time": "2:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "Her Majesty",
+      "original_title": null,
+      "directors": [
+        "Mark J. Gordon"
+      ],
+      "countries": [
+        "New Zealand"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": "World Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-06",
+          "time": "6:30 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2001-10-07",
+          "time": "1:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 15
+    },
+    {
+      "title": "Emil and the Detectives",
+      "original_title": null,
+      "directors": [
+        "Franziska Buch"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-06",
+          "time": "1:30 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2001-10-08",
+          "time": "4:45 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 15
+    },
+    {
+      "title": "Ikíngut",
+      "original_title": null,
+      "directors": [
+        "Gísli Snær Erlingsson"
+      ],
+      "countries": [
+        "Iceland"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-12",
+          "time": "4:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2001-10-14",
+          "time": "10:45 AM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 15
+    },
+    {
+      "title": "Pettson & Findus: The Cat-o-naut",
+      "original_title": null,
+      "directors": [
+        "Torbjörn Jansson",
+        "Albert Hanan Kaminski"
+      ],
+      "countries": [
+        "Sweden",
+        "Germany"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-06",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2001-10-11",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 15
+    },
+    {
+      "title": "Prop & Berta",
+      "original_title": null,
+      "directors": [
+        "Per Fly"
+      ],
+      "countries": [
+        "Denmark"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-10",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2001-10-13",
+          "time": "1:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 15
+    },
+    {
+      "title": "You Are Free",
+      "original_title": null,
+      "directors": [
+        "Mohammad Ali Talebi"
+      ],
+      "countries": [
+        "Iran"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": "Farsi",
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-13",
+          "time": "2:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 15
+    },
+    {
+      "title": "Tainá, An Amazon Adventure",
+      "original_title": null,
+      "directors": [
+        "Tania LaMarca",
+        "Sergio Bloch"
+      ],
+      "countries": [
+        "Brazil"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-06",
+          "time": "11:00 AM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2001-10-07",
+          "time": "4:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 15
+    },
+    {
+      "title": "The Dinosaur Hunter",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-09",
+          "time": "4:15 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2001-10-14",
+          "time": "1:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 15
+    },
+    {
+      "title": "The Testimony of Taliesin Jones",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-05",
+          "time": "6:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2001-10-07",
+          "time": "11:00 AM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 15
+    },
+    {
+      "title": "There's Only One Jimmy Grimble",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-14",
+          "time": "3:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 15
+    },
+    {
+      "title": "Nanoq",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Ikíngut",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-12",
+          "time": "4:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2001-10-14",
+          "time": "10:45 AM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "Space Case",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Pettson & Findus: The Cat-o-naut",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-06",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2001-10-11",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "My Final Note",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Tainá, An Amazon Adventure",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-06",
+          "time": "11:00 AM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2001-10-07",
+          "time": "4:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "An Artist",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Canadian Bounties",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-13",
+          "time": "1:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "Blackberry Subway Jam",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Canadian Bounties",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-13",
+          "time": "1:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "Blackfly",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Canadian Bounties",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-13",
+          "time": "1:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "Bully Dance",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Canadian Bounties",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-13",
+          "time": "1:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "A Chairy Tale",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Canadian Bounties",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-13",
+          "time": "1:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "Christopher Changes His Name",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Canadian Bounties",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-13",
+          "time": "1:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "The Dingles",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Canadian Bounties",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-13",
+          "time": "1:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "Dinner for Two",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Canadian Bounties",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-13",
+          "time": "1:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "From Far Away",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Canadian Bounties",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-13",
+          "time": "1:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "How Dinosaurs Learned to Fly",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Canadian Bounties",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-13",
+          "time": "1:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "Lights for Gita",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Canadian Bounties",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-13",
+          "time": "1:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "Sea Dream",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Canadian Bounties",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-13",
+          "time": "1:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "The Sweater",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Canadian Bounties",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-13",
+          "time": "1:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "Migratory Goose",
+      "original_title": null,
+      "directors": [
+        "Stroos Hassan-Pour"
+      ],
+      "countries": [
+        "Iran"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Young Rebels with a Cause",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-13",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 11
+    },
+    {
+      "title": "Merry Christmas, Rachid",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Young Rebels with a Cause",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-13",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "Lotte Primaballerina",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Young Rebels with a Cause",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-13",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "The Other Cheek",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Young Rebels with a Cause",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-13",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "My African Diary",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Sons Set in South Africa",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-14",
+          "time": "11:00 AM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "Return to Sender",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Sons Set in South Africa",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-14",
+          "time": "11:00 AM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "The Unique Oneness of Christian Savage",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Sons Set in South Africa",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2001-10-14",
+          "time": "11:00 AM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 37
+    }
+  ],
+  "events": [
+    {
+      "title": "Opening Night Gala",
+      "kind": "party",
+      "date": "2001-10-04",
+      "time": "9:30 PM",
+      "venue": "Mill Valley Community Center, Mill Valley",
+      "people": [
+        {
+          "name": "Sounds Ahead",
+          "role": "performer"
+        },
+        {
+          "name": "Jesse Kincaid and Intersection",
+          "role": "performer"
+        }
+      ],
+      "related_films": [
+        "Amélie",
+        "Italian for Beginners",
+        "The Mystic Masseur"
+      ],
+      "summary": "A Provence-themed party with food, wine, a DJ and live music following the three Opening Night films.",
+      "page": 20
+    },
+    {
+      "title": "VFest Opening Reception",
+      "kind": "party",
+      "date": "2001-10-05",
+      "time": "7:00 PM",
+      "venue": "SIGHT & INSIGHT Art Center, Mill Valley",
+      "people": [],
+      "related_films": [],
+      "summary": "VFest's annual opening night party at a hillside arts centre.",
+      "page": 14
+    },
+    {
+      "title": "Seminar: The Actor-Director Relationship",
+      "kind": "seminar",
+      "date": "2001-10-06",
+      "time": "11:00 AM",
+      "venue": "OAC",
+      "people": [
+        {
+          "name": "David Atkins",
+          "role": "panelist"
+        },
+        {
+          "name": "Christine Lahti",
+          "role": "panelist"
+        },
+        {
+          "name": "Aasif Mandvi",
+          "role": "panelist"
+        }
+      ],
+      "related_films": [
+        "Novocaine",
+        "My First Mister",
+        "The Mystic Masseur"
+      ],
+      "summary": "Actors and directors discuss what each brings to the collaboration from development through shooting.",
+      "page": 17
+    },
+    {
+      "title": "Children's FilmFest Opening Festivities",
+      "kind": "party",
+      "date": "2001-10-06",
+      "time": "4:00 PM",
+      "venue": "Outdoor Art Club, Mill Valley",
+      "people": [
+        {
+          "name": "Kimberly Richards",
+          "role": "host"
+        }
+      ],
+      "related_films": [
+        "Her Majesty"
+      ],
+      "summary": "Kick-off party for the 7th Children's FilmFest with food and an improvisation workshop for kids.",
+      "page": 16
+    },
+    {
+      "title": "Tribute to Ismail Merchant",
+      "kind": "tribute",
+      "date": "2001-10-06",
+      "time": "7:30 PM",
+      "venue": "Rafael",
+      "people": [
+        {
+          "name": "Ismail Merchant",
+          "role": "honoree"
+        },
+        {
+          "name": "Jan Wahl",
+          "role": "moderator"
+        }
+      ],
+      "related_films": [
+        "The Mystic Masseur"
+      ],
+      "summary": "Clips and an onstage conversation with producer-director Ismail Merchant, followed by a reception at De Silva Island.",
+      "page": 22
+    },
+    {
+      "title": "A Musical Salute to MVFF",
+      "kind": "music",
+      "date": "2001-10-06",
+      "time": "8:30 PM",
+      "venue": "Sweetwater, Mill Valley",
+      "people": [
+        {
+          "name": "Joe Mama",
+          "role": "performer"
+        },
+        {
+          "name": "Joe White",
+          "role": "performer"
+        },
+        {
+          "name": "Greg Errico",
+          "role": "performer"
+        },
+        {
+          "name": "Mike Godwin",
+          "role": "performer"
+        },
+        {
+          "name": "Austin DeLone",
+          "role": "performer"
+        },
+        {
+          "name": "Joel Jaffe",
+          "role": "performer"
+        }
+      ],
+      "related_films": [],
+      "summary": "The Marin Music Council's fifth annual benefit concert of local rock musicians saluting the festival.",
+      "page": 5
+    },
+    {
+      "title": "Script to Screen: Young Filmmakers' Workshop",
+      "kind": "workshop",
+      "date": "2001-10-06",
+      "time": "10:00 AM",
+      "venue": "SIGHT & INSIGHT Art Center, Mill Valley",
+      "people": [
+        {
+          "name": "Michael Cavanaugh",
+          "role": "host"
+        },
+        {
+          "name": "Mary Mathaisell",
+          "role": "host"
+        },
+        {
+          "name": "Howard Shack",
+          "role": "host"
+        }
+      ],
+      "related_films": [],
+      "summary": "Two-day workshop (October 6-7) in which children aged 8-12 make their own short video as cast and crew.",
+      "page": 16
+    },
+    {
+      "title": "Digital Film Workshop for Youth",
+      "kind": "workshop",
+      "date": "2001-10-06",
+      "time": "10:00 AM",
+      "venue": "Digiquest Learning Center, San Rafael",
+      "people": [
+        {
+          "name": "John MacLeod",
+          "role": "host"
+        }
+      ],
+      "related_films": [],
+      "summary": "Four-day workshop (October 6, 7, 13, 14) where teens aged 14-18 make a public service announcement on digital video.",
+      "page": 16
+    },
+    {
+      "title": "Seminar: The Future of the Art Film in a Commercial World",
+      "kind": "seminar",
+      "date": "2001-10-07",
+      "time": "10:00 AM",
+      "venue": "Masonic",
+      "people": [
+        {
+          "name": "Bob Berney",
+          "role": "panelist"
+        },
+        {
+          "name": "Cassian Elwes",
+          "role": "panelist"
+        },
+        {
+          "name": "Kirk Honeycutt",
+          "role": "panelist"
+        },
+        {
+          "name": "Ismail Merchant",
+          "role": "panelist"
+        },
+        {
+          "name": "John Pierson",
+          "role": "panelist"
+        },
+        {
+          "name": "John Vanco",
+          "role": "panelist"
+        }
+      ],
+      "related_films": [],
+      "summary": "Distributors, agents and critics discuss how small independent films can reach theatres in a blockbuster market.",
+      "page": 17
+    },
+    {
+      "title": "Seminar: From Life to Art: Screenwriters on Mining the Human Experience",
+      "kind": "seminar",
+      "date": "2001-10-07",
+      "time": "1:30 PM",
+      "venue": "Masonic",
+      "people": [
+        {
+          "name": "Pamela Gray",
+          "role": "panelist"
+        },
+        {
+          "name": "Mark Gordon",
+          "role": "panelist"
+        },
+        {
+          "name": "Bobby Roth",
+          "role": "panelist"
+        },
+        {
+          "name": "Owen Prell",
+          "role": "moderator"
+        }
+      ],
+      "related_films": [
+        "Her Majesty",
+        "Jack the Dog"
+      ],
+      "summary": "Screenwriters discuss using personal experience and adapting other sources for the screen.",
+      "page": 17
+    },
+    {
+      "title": "The Musical Genius of Alan & Marilyn Bergman",
+      "kind": "tribute",
+      "date": "2001-10-07",
+      "time": "5:00 PM",
+      "venue": "Rafael",
+      "people": [
+        {
+          "name": "Alan Bergman",
+          "role": "honoree"
+        },
+        {
+          "name": "Marilyn Bergman",
+          "role": "honoree"
+        },
+        {
+          "name": "Barbara Boxer",
+          "role": "moderator"
+        }
+      ],
+      "related_films": [],
+      "summary": "Clips and an onstage interview with lyricists Alan and Marilyn Bergman conducted by Senator Barbara Boxer, then a reception.",
+      "page": 21
+    },
+    {
+      "title": "Centerpiece Tribute to William H. Macy: A Pleasant(ville) Evening",
+      "kind": "tribute",
+      "date": "2001-10-09",
+      "time": "6:30 PM",
+      "venue": "Rafael",
+      "people": [
+        {
+          "name": "William H. Macy",
+          "role": "honoree"
+        }
+      ],
+      "related_films": [
+        "Focus"
+      ],
+      "summary": "Centerpiece tribute to actor William H. Macy, followed by a dinner reception at Frantoio Ristorante.",
+      "page": 23
+    },
+    {
+      "title": "Tribute to Jonathan Winters: Jonathan Winters Is Coming!",
+      "kind": "tribute",
+      "date": "2001-10-10",
+      "time": "6:30 PM",
+      "venue": "Rafael",
+      "people": [
+        {
+          "name": "Jonathan Winters",
+          "role": "honoree"
+        }
+      ],
+      "related_films": [],
+      "summary": "VFest's third broadcast-arts tribute: Winters signs books, discusses his career with clips, then a reception at the Outdoor Art Club.",
+      "page": 25
+    },
+    {
+      "title": "Tribute to Malcolm McDowell",
+      "kind": "tribute",
+      "date": "2001-10-11",
+      "time": "6:30 PM",
+      "venue": "Rafael",
+      "people": [
+        {
+          "name": "Malcolm McDowell",
+          "role": "honoree"
+        }
+      ],
+      "related_films": [
+        "A Clockwork Orange",
+        "Gangster No. 1",
+        "Assassin of the Tsar",
+        "Time After Time",
+        "If....",
+        "O Lucky Man!"
+      ],
+      "summary": "Clips, an onstage interview and a screening of A Clockwork Orange, followed by a reception at Chinook Restaurant.",
+      "page": 24
+    },
+    {
+      "title": "Musical Fiesta (Salsa Fiesta)",
+      "kind": "music",
+      "date": "2001-10-12",
+      "time": "10:00 PM",
+      "venue": "Outdoor Art Club, Mill Valley",
+      "people": [],
+      "related_films": [],
+      "summary": "A salsa dance party celebrating the festival's Latin America focus.",
+      "page": 5
+    },
+    {
+      "title": "Seminar: Digital Filmmaking: The Theatre of All Possibility",
+      "kind": "seminar",
+      "date": "2001-10-13",
+      "time": "10:00 AM",
+      "venue": "Rafael",
+      "people": [
+        {
+          "name": "Larry Blamire",
+          "role": "panelist"
+        },
+        {
+          "name": "Wonsuk Chin",
+          "role": "panelist"
+        },
+        {
+          "name": "Norman Cohn",
+          "role": "panelist"
+        },
+        {
+          "name": "Jan Millsapps",
+          "role": "panelist"
+        },
+        {
+          "name": "Rob Nilsson",
+          "role": "panelist"
+        },
+        {
+          "name": "Karen Schwartzman",
+          "role": "moderator"
+        }
+      ],
+      "related_films": [
+        "The Lost Skeleton of Cadavra",
+        "e-dreams",
+        "Atanarjuat–The Fast Runner",
+        "Scheme C6"
+      ],
+      "summary": "New Movies Lab panel of digital feature filmmakers discussing current tools, with clips.",
+      "page": 17
+    },
+    {
+      "title": "Seminar: Games Without Frontiers: Video Games in the New Millennium",
+      "kind": "seminar",
+      "date": "2001-10-13",
+      "time": "12:30 PM",
+      "venue": "Rafael 3",
+      "people": [
+        {
+          "name": "Sean Hoessli",
+          "role": "panelist"
+        },
+        {
+          "name": "Sandy Pearlman",
+          "role": "panelist"
+        },
+        {
+          "name": "John Sanborn",
+          "role": "panelist"
+        }
+      ],
+      "related_films": [],
+      "summary": "Game designers and producers (with Eidos, Electronic Arts and LucasArts invited) discuss the merging of films and video games.",
+      "page": 17
+    },
+    {
+      "title": "Seminar: Animation: What's Up, Doc?",
+      "kind": "seminar",
+      "date": "2001-10-13",
+      "time": "3:00 PM",
+      "venue": "Rafael 3",
+      "people": [
+        {
+          "name": "Allison Abbate",
+          "role": "panelist"
+        },
+        {
+          "name": "Tom Bertino",
+          "role": "panelist"
+        },
+        {
+          "name": "Phil Robinson",
+          "role": "panelist"
+        },
+        {
+          "name": "Barbara Robertson",
+          "role": "moderator"
+        }
+      ],
+      "related_films": [
+        "Hubert's Brain",
+        "Work in Progress"
+      ],
+      "summary": "Animators discuss the future of animated storytelling and production.",
+      "page": 18
+    },
+    {
+      "title": "Fake Blood and Fancy Frocks",
+      "kind": "workshop",
+      "date": "2001-10-13",
+      "time": "10:00 AM",
+      "venue": "SIGHT & INSIGHT Art Center, Mill Valley",
+      "people": [
+        {
+          "name": "Gretchen Davis",
+          "role": "host"
+        },
+        {
+          "name": "Marianna Astrom-De Fina",
+          "role": "host"
+        }
+      ],
+      "related_films": [],
+      "summary": "Make-up and costume workshop for children aged 8-12 on creating film characters.",
+      "page": 16
+    },
+    {
+      "title": "The Big Birthday Party",
+      "kind": "party",
+      "date": "2001-10-13",
+      "time": "2:00 PM",
+      "venue": "Outdoor Art Club, Mill Valley",
+      "people": [],
+      "related_films": [],
+      "summary": "Seventh-birthday party for the Children's FilmFest with food, juggling, magic and face painting.",
+      "page": 16
+    },
+    {
+      "title": "Kids Workshop Video Premiere",
+      "kind": "other",
+      "date": "2001-10-13",
+      "time": "3:15 PM",
+      "venue": "Sequoia",
+      "people": [],
+      "related_films": [],
+      "summary": "Free screening of the video made by children in the Script to Screen workshop.",
+      "page": 15
+    },
+    {
+      "title": "Tribute to Sissy Spacek",
+      "kind": "tribute",
+      "date": "2001-10-13",
+      "time": "6:30 PM",
+      "venue": "Rafael",
+      "people": [
+        {
+          "name": "Sissy Spacek",
+          "role": "honoree"
+        }
+      ],
+      "related_films": [
+        "In the Bedroom",
+        "Carrie"
+      ],
+      "summary": "Clips, an onstage interview and a screening of In the Bedroom, followed by a reception at De Silva Island.",
+      "page": 26
+    },
+    {
+      "title": "Stories in Multiple: Interactive Narratives",
+      "kind": "other",
+      "date": "2001-10-13",
+      "time": "12:00 PM",
+      "venue": "Rafael",
+      "people": [
+        {
+          "name": "Michael Brynntrup",
+          "role": "speaker"
+        },
+        {
+          "name": "Zoe Horsfall",
+          "role": "speaker"
+        }
+      ],
+      "related_films": [],
+      "summary": "Two interactive digital installations, NETC.ETERA (Germany 2000) and Wedding (Australia 2000), open free October 13-14.",
+      "page": 14
+    },
+    {
+      "title": "Digital Cinema Demonstration",
+      "kind": "other",
+      "date": "2001-10-14",
+      "time": "10:00 AM",
+      "venue": "Rafael",
+      "people": [
+        {
+          "name": "Matt Cowan",
+          "role": "speaker"
+        }
+      ],
+      "related_films": [],
+      "summary": "Demonstration of DPI and Texas Instruments digital projection, followed by a surprise digital feature screening.",
+      "page": 18
+    },
+    {
+      "title": "Nick at Noon",
+      "kind": "conversation",
+      "date": "2001-10-14",
+      "time": "12:00 PM",
+      "venue": "Rafael",
+      "people": [
+        {
+          "name": "Nick Cannon",
+          "role": "speaker"
+        }
+      ],
+      "related_films": [],
+      "summary": "Nickelodeon performer Nick Cannon answers young audience questions and shows career highlights.",
+      "page": 16
+    },
+    {
+      "title": "Closing Night Party",
+      "kind": "party",
+      "date": "2001-10-14",
+      "time": "9:30 PM",
+      "venue": "Sausalito Ferry Terminal, Sausalito (Hornblower yacht)",
+      "people": [
+        {
+          "name": "Vernon Bush",
+          "role": "performer"
+        },
+        {
+          "name": "Sounds Ahead",
+          "role": "performer"
+        }
+      ],
+      "related_films": [
+        "The Man Who Wasn't There",
+        "Lantana"
+      ],
+      "summary": "Dockside party aboard a yacht with Tuscan food and music, with an optional cruise to the Golden Gate Bridge.",
+      "page": 28
+    }
+  ],
+  "awards": [],
+  "staff": [
+    {
+      "name": "Rose Anne Raphael",
+      "role": "Managing Editor, Schedule and Souvenir Program"
+    },
+    {
+      "name": "Carrie Pickett",
+      "role": "Copy Editor"
+    },
+    {
+      "name": "Linda Moore",
+      "role": "Proofreader"
+    },
+    {
+      "name": "Brian Lehman",
+      "role": "Festival Director of Marketing"
+    },
+    {
+      "name": "Julian Soler",
+      "role": "Film Information Coordinator; programming assistant"
+    },
+    {
+      "name": "Richard Peterson",
+      "role": "Director of programming, Rafael Film Center"
+    },
+    {
+      "name": "John Morrison",
+      "role": "Outreach and Education Manager"
+    },
+    {
+      "name": "Evangeline Blaha",
+      "role": "Programme note writer"
+    },
+    {
+      "name": "Tod Booth",
+      "role": "Programme note writer"
+    },
+    {
+      "name": "Lily Buchanan",
+      "role": "Programme note writer"
+    },
+    {
+      "name": "Greg Cahill",
+      "role": "Programme note writer"
+    },
+    {
+      "name": "Karen Davis",
+      "role": "Programme note writer"
+    },
+    {
+      "name": "Zoë Elton",
+      "role": "Programme note writer"
+    },
+    {
+      "name": "Gail Goldberg",
+      "role": "Programme note writer"
+    },
+    {
+      "name": "Molly Gould",
+      "role": "Programme note writer"
+    },
+    {
+      "name": "Sandy Handsher",
+      "role": "Programme note writer"
+    },
+    {
+      "name": "Melissa Howden",
+      "role": "Programme note writer"
+    },
+    {
+      "name": "Nora Isaacs",
+      "role": "Programme note writer"
+    },
+    {
+      "name": "Hossein Khosrowjah",
+      "role": "Programme note writer"
+    },
+    {
+      "name": "Carleton Kirkham",
+      "role": "Programme note writer"
+    },
+    {
+      "name": "Kristine Kolton",
+      "role": "Programme note writer"
+    },
+    {
+      "name": "Sarah Lewison",
+      "role": "Programme note writer"
+    },
+    {
+      "name": "Trina Lopez",
+      "role": "Programme note writer"
+    },
+    {
+      "name": "Peter Moore",
+      "role": "Programme note writer"
+    },
+    {
+      "name": "Joanne Parsont",
+      "role": "Programme note writer"
+    },
+    {
+      "name": "Rosemary Pepper",
+      "role": "Programme note writer"
+    },
+    {
+      "name": "Brendan Peterson",
+      "role": "Programme note writer"
+    },
+    {
+      "name": "Deanna Quinones",
+      "role": "Programme note writer"
+    },
+    {
+      "name": "Jason Sanders",
+      "role": "Programme note writer"
+    },
+    {
+      "name": "Julia Segrove Jaurigui",
+      "role": "Programme note writer"
+    },
+    {
+      "name": "Caitlin Shamberg",
+      "role": "Programme note writer"
+    },
+    {
+      "name": "Joel Shepard",
+      "role": "Programme note writer"
+    },
+    {
+      "name": "Christopher Slater",
+      "role": "Programme note writer"
+    },
+    {
+      "name": "Nick Tangborn",
+      "role": "Programme note writer"
+    },
+    {
+      "name": "Bev Thorman",
+      "role": "Programme note writer"
+    },
+    {
+      "name": "Kurt Wolff",
+      "role": "Programme note writer"
+    }
+  ],
+  "notes": "The archived PDF (38 pages) lacks the Film Descriptions section (printed pages 28-52) and PDF pages 3, 7 and 27 are empty or ads, so most films have no year, runtime, cast or synopsis; summaries are null wherever the programme gives no description. Films were assembled from the section lists (PDF pp. 8, 10-15), the Opening/Closing/Tribute pages (20-28), the Calendar (29-32), the Encore page (33) and the Index (37); shorts known only from the Index get page 37 and their parent programme from the Index's parenthesis. Screenings come from the multi-column Calendar, untangled by ticket codes (S=Sequoia, R=Rafael, O=OAC, M=Masonic, C=Pacific Cinema Corte Madera); they agree with the explicit dates on the VFest and Children's FilmFest pages. Three TBA calendar slots (Oct 9 9:30 PM Sequoia, Oct 10 9:00 PM Rafael, Oct 14 4:45 PM Rafael) were skipped. Films listed in several sections were given one section in this priority: Children's FilmFest, Five@Five, Valley of the Docs, New Media/VFest, Official Premiere Selection, World Cinema focus (Latin America / Iran), U.S. Cinema, World Cinema. Countries 'USA' for U.S. Cinema titles and 'Iran' for Migratory Goose are inferred from the section heading. The Mystic Masseur is 'India' in the World Cinema list but 'USA' in its own Opening Night entry (used). Lantana is 'Australia/Germany' in the list but 'Australia' in its entry (used). For shorts screened with a feature, shorts_program is the feature/programme name as in the Index. Double bills (Judy's Time / My Mother India, The Hotel Upstairs / The Landfill, The Disenchanted Forest / The Shaman's Apprentice) are kept as separate non-short records. 'Return to Sender' appears in both Sons Set in South Africa and Who Needs Love; kept as two records since it is unclear whether it is the same film. Five@Five short 'Elvis Doesn't Sing Here Anymore' is 'Elvis Doesn't Sing Anymore' in the Index. Director names kept as printed (e.g. 'Rakhshan Bani Elemad', 'Amir Ali Abdollah zadeh'). Invited guests (Michael Badalucco, Barbara Hershey, Anthony LaPaglia, Malcolm McDowell for encore screenings) are listed as guests. Seminar 'The Future of the Art Film' is 10AM-12NOON on its page but 11:00 in the Calendar (page time used); 'Animation: What's Up, Doc?' is misprinted 'Saturday October 3 5PM' on its page, Calendar shows Oct 13 3:00 (used). Kids Rock 'n' B-Roll and The Mo' Hi De Ho Show are compilation programmes with no individual titles printed. Encore screenings run after the festival (Oct 15-18). Tribute reception times differ slightly between the Special Events page (p.4) and the tribute pages; tribute pages used. No festival awards are printed in this programme."
+}

@@ -1,0 +1,7614 @@
+{
+  "year": 2003,
+  "edition": 26,
+  "dates": "October 2-12, 2003",
+  "source_pdf": "2003_schedule.pdf",
+  "venues": [
+    {
+      "name": "CinéArts @ Sequoia (SEQ)",
+      "address": "25 Throckmorton Ave., Mill Valley"
+    },
+    {
+      "name": "Christopher B. Smith Rafael Film Center (RAF)",
+      "address": "1118 4th Street, San Rafael"
+    },
+    {
+      "name": "Century Cinema (CINEMA)",
+      "address": "41 Tamal Vista, Corte Madera"
+    },
+    {
+      "name": "Marin Academy (MA)",
+      "address": "1600 Mission Ave., San Rafael"
+    },
+    {
+      "name": "Theater at Throckmorton (T@T)",
+      "address": "142 Throckmorton Ave., Mill Valley"
+    },
+    {
+      "name": "Outdoor Art Club (OAC)",
+      "address": "1 W. Blithedale, Mill Valley"
+    },
+    {
+      "name": "Sight & Insight Art Center",
+      "address": "616 Throckmorton Ave., Mill Valley"
+    },
+    {
+      "name": "DigiQuest Learning Center",
+      "address": "1115 3rd Street, Ste. 2, San Rafael"
+    },
+    {
+      "name": "ArtWorks Downtown",
+      "address": "1337 4th Street, San Rafael"
+    },
+    {
+      "name": "Mill Valley Community Center",
+      "address": "180 Camino Alto, Mill Valley"
+    },
+    {
+      "name": "Osher/Marin Jewish Community Center",
+      "address": "200 N. San Pedro Rd., San Rafael"
+    },
+    {
+      "name": "Frantoio Ristorante",
+      "address": "152 Shoreline Hwy., Mill Valley"
+    },
+    {
+      "name": "Piatti Restaurant",
+      "address": "625 Redwood Hwy., Mill Valley"
+    },
+    {
+      "name": "Giorgio's Ristorante Italiano",
+      "address": "300 Drakes Landing Rd., Greenbrae"
+    },
+    {
+      "name": "Sweetwater",
+      "address": "Mill Valley"
+    }
+  ],
+  "sections": [
+    "Gala",
+    "Tribute",
+    "Children's FilmFest",
+    "5@5",
+    "New Movies Lab",
+    "Friend of the Festival Screening"
+  ],
+  "films": [
+    {
+      "title": "100 Days",
+      "original_title": null,
+      "directors": [
+        "Nick Hughes"
+      ],
+      "countries": [
+        "Kenya",
+        "Rwanda",
+        "UK"
+      ],
+      "film_year": 2001,
+      "runtime_min": 96,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-10",
+          "time": "9:15 PM",
+          "venue": "Sequoia 2"
+        },
+        {
+          "date": "2003-10-12",
+          "time": "9:30 PM",
+          "venue": "Rafael 3"
+        }
+      ],
+      "summary": "Drama based on real events about a young Tutsi couple whose lives and families are destroyed during the 1994 Rwandan genocide.",
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Afghanistan Unveiled",
+      "original_title": null,
+      "directors": [
+        "Brigitte Brault"
+      ],
+      "countries": [
+        "Afghanistan"
+      ],
+      "film_year": 2003,
+      "runtime_min": 52,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "12:30 PM",
+          "venue": "Rafael 1"
+        }
+      ],
+      "summary": "Documentary following fourteen Afghan women journalists who travel outside Kabul to record how Taliban rule and US bombing affected women; followed by a panel discussion.",
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Alex's Wedding",
+      "original_title": "Le Mariage d'Alex",
+      "directors": [
+        "Jean-Marie Teno"
+      ],
+      "countries": [
+        "Cameroon",
+        "France"
+      ],
+      "film_year": 2002,
+      "runtime_min": 45,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-09",
+          "time": "7:00 PM",
+          "venue": "Sequoia 1"
+        },
+        {
+          "date": "2003-10-12",
+          "time": "4:00 PM",
+          "venue": "Rafael 3"
+        }
+      ],
+      "summary": "Documentary recording the rituals and unspoken tensions of a polygamous wedding ceremony in Cameroon.",
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Si-Guériki, the Queen Mother",
+      "original_title": "Si-Guériki, La Reine-Mère",
+      "directors": [
+        "Idrissou Mora-Kpai"
+      ],
+      "countries": [
+        "Benin",
+        "France"
+      ],
+      "film_year": 2002,
+      "runtime_min": 63,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-09",
+          "time": "7:00 PM",
+          "venue": "Sequoia 1"
+        },
+        {
+          "date": "2003-10-12",
+          "time": "4:00 PM",
+          "venue": "Rafael 3"
+        }
+      ],
+      "summary": "The filmmaker returns to Benin after ten years and reconnects with his mother, one of his father's several wives.",
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "An Angel for May",
+      "original_title": null,
+      "directors": [
+        "Harley Cokeliss"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "film_year": 2002,
+      "runtime_min": 100,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-09",
+          "time": "5:00 PM",
+          "venue": "Rafael 2"
+        },
+        {
+          "date": "2003-10-12",
+          "time": "4:45 PM",
+          "venue": "Sequoia 2"
+        }
+      ],
+      "summary": "A runaway boy slips through time into wartime Yorkshire, befriends a troubled evacuee girl, and tries to change her fate.",
+      "cast": [
+        "Tom Wilkinson"
+      ],
+      "page": 14
+    },
+    {
+      "title": "Assisted Living",
+      "original_title": null,
+      "directors": [
+        "Elliot Greenebaum"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2003,
+      "runtime_min": 77,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-03",
+          "time": "9:30 PM",
+          "venue": "Sequoia 1"
+        },
+        {
+          "date": "2003-10-05",
+          "time": "1:45 PM",
+          "venue": "Rafael 3"
+        }
+      ],
+      "summary": "Part-fiction, part-documentary comedy about a stoner janitor at a nursing home who must decide whether to help a resident with Alzheimer's.",
+      "cast": [],
+      "page": 14
+    },
+    {
+      "title": "At the First Breath of Wind",
+      "original_title": "Al Primo Soffio di Vento",
+      "directors": [
+        "Franco Piavoli"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "film_year": 2002,
+      "runtime_min": 89,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-03",
+          "time": "9:30 PM",
+          "venue": "Rafael 1"
+        },
+        {
+          "date": "2003-10-06",
+          "time": "9:30 PM",
+          "venue": "Sequoia 2"
+        }
+      ],
+      "summary": "A nearly wordless, visually driven portrait of one summer day in the life of a rural Italian family.",
+      "cast": [],
+      "page": 14
+    },
+    {
+      "title": "Attitude",
+      "original_title": null,
+      "directors": [
+        "Rob Nilsson"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2003,
+      "runtime_min": 109,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "9:00 PM",
+          "venue": "Rafael 3"
+        },
+        {
+          "date": "2003-10-10",
+          "time": "7:00 PM",
+          "venue": "Rafael 3"
+        }
+      ],
+      "summary": "Black-and-white drama from Nilsson's 9@Night series about a small-time hoodlum with AIDS and a fixation on birds, set at the Albany landfill.",
+      "cast": [
+        "Michael Disend"
+      ],
+      "page": 14
+    },
+    {
+      "title": "Balseros",
+      "original_title": null,
+      "directors": [
+        "Carles Bosch",
+        "Josep Ma Domènech"
+      ],
+      "countries": [
+        "Spain"
+      ],
+      "film_year": 2002,
+      "runtime_min": 120,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-03",
+          "time": "9:00 PM",
+          "venue": "Rafael 2"
+        },
+        {
+          "date": "2003-10-05",
+          "time": "9:00 PM",
+          "venue": "Rafael 1"
+        }
+      ],
+      "summary": "Documentary tracking seven Cuban rafters over seven years, from their 1994 departure through Guantanamo to new lives in the United States.",
+      "cast": [],
+      "page": 14
+    },
+    {
+      "title": "The Barbarian Invasions",
+      "original_title": "Les Invasions Barbares",
+      "directors": [
+        "Denys Arcand"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "film_year": 2003,
+      "runtime_min": 99,
+      "language": null,
+      "section": "Gala",
+      "slot": "Closing Night",
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Denys Arcand"
+      ],
+      "screenings": [
+        {
+          "date": "2003-10-12",
+          "time": "7:00 PM",
+          "venue": "Sequoia 1"
+        },
+        {
+          "date": "2003-10-12",
+          "time": "7:15 PM",
+          "venue": "Rafael 1"
+        }
+      ],
+      "summary": "Arcand reunites the friends from The Decline of the American Empire around a dying man whose estranged son games Canada's health system for him.",
+      "cast": [],
+      "page": 14
+    },
+    {
+      "title": "The Basement",
+      "original_title": null,
+      "directors": [
+        "Larry Brand"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 75,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-07",
+          "time": "5:15 PM",
+          "venue": "Rafael 3"
+        },
+        {
+          "date": "2003-10-11",
+          "time": "7:00 PM",
+          "venue": "Rafael 3"
+        }
+      ],
+      "summary": "A Queens family living below their mentally ill mother unravels after one brother reveals a disturbing childhood memory.",
+      "cast": [],
+      "page": 14
+    },
+    {
+      "title": "Beat the Drum",
+      "original_title": null,
+      "directors": [
+        "David Hickson"
+      ],
+      "countries": [
+        "South Africa",
+        "USA"
+      ],
+      "film_year": 2003,
+      "runtime_min": 113,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-10",
+          "time": "6:30 PM",
+          "venue": "Sequoia 2"
+        },
+        {
+          "date": "2003-10-12",
+          "time": "6:30 PM",
+          "venue": "Rafael 2"
+        }
+      ],
+      "summary": "An orphaned Zulu boy travels to Johannesburg with his father's drum to find work and his uncle, confronting the hardships of city life.",
+      "cast": [
+        "Junior Singo"
+      ],
+      "page": 14
+    },
+    {
+      "title": "Bedwin Hacker",
+      "original_title": null,
+      "directors": [
+        "Nadia El Fani"
+      ],
+      "countries": [
+        "Morocco",
+        "Tunisia"
+      ],
+      "film_year": 2002,
+      "runtime_min": 103,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-08",
+          "time": "9:15 PM",
+          "venue": "Rafael 1"
+        },
+        {
+          "date": "2003-10-12",
+          "time": "2:15 PM",
+          "venue": "Sequoia 2"
+        }
+      ],
+      "summary": "A Tunisian woman hacker who hijacks foreign television signals is pursued by French intelligence.",
+      "cast": [],
+      "page": 14
+    },
+    {
+      "title": "Blind Shaft",
+      "original_title": "Mang Jang",
+      "directors": [
+        "Li Yang"
+      ],
+      "countries": [
+        "China"
+      ],
+      "film_year": 2002,
+      "runtime_min": 92,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-10",
+          "time": "9:15 PM",
+          "venue": "Rafael 1"
+        }
+      ],
+      "summary": "Two itinerant coal miners run a deadly scam, killing lone workers in staged mine accidents and extorting payoffs from officials.",
+      "cast": [],
+      "page": 15
+    },
+    {
+      "title": "The Bottom of the Sea",
+      "original_title": "El Fondo del Mar",
+      "directors": [
+        "Damián Szifrón"
+      ],
+      "countries": [
+        "Argentina"
+      ],
+      "film_year": 2003,
+      "runtime_min": 90,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-05",
+          "time": "12:30 PM",
+          "venue": "Rafael 1"
+        },
+        {
+          "date": "2003-10-06",
+          "time": "7:30 PM",
+          "venue": "Rafael 1"
+        }
+      ],
+      "summary": "A jealous architecture student convinced his girlfriend is cheating spirals into obsession in this dark comedy.",
+      "cast": [],
+      "page": 15
+    },
+    {
+      "title": "Burials and Borders",
+      "original_title": null,
+      "directors": [
+        "Paula Levine"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2003,
+      "runtime_min": 53,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-03",
+          "time": "7:15 PM",
+          "venue": "Rafael 3"
+        },
+        {
+          "date": "2003-10-04",
+          "time": "2:00 PM",
+          "venue": "Rafael 3"
+        }
+      ],
+      "summary": "Personal documentary in which an artist visits her brother's grave in the Golan Heights and considers what a border change would mean.",
+      "cast": [],
+      "page": 15
+    },
+    {
+      "title": "Burnt Sienna",
+      "original_title": null,
+      "directors": [
+        "Tolan Harber"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2003,
+      "runtime_min": 99,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-05",
+          "time": "8:45 PM",
+          "venue": "Rafael 3"
+        },
+        {
+          "date": "2003-10-08",
+          "time": "5:00 PM",
+          "venue": "Rafael 3"
+        }
+      ],
+      "summary": "Do-it-yourself indie road movie about two young outlaw lovers from Montana on the run across the West.",
+      "cast": [],
+      "page": 15
+    },
+    {
+      "title": "The Butterfly",
+      "original_title": "Le Papillon",
+      "directors": [
+        "Philippe Muyl"
+      ],
+      "countries": [
+        "France"
+      ],
+      "film_year": 2002,
+      "runtime_min": 80,
+      "language": "French",
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-07",
+          "time": "7:30 PM",
+          "venue": "Rafael 2"
+        },
+        {
+          "date": "2003-10-11",
+          "time": "1:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": "A grumpy butterfly collector and a lonely eight-year-old stowaway end up on an unexpected trip together through the Alps.",
+      "cast": [],
+      "page": 15
+    },
+    {
+      "title": "Calypso Dreams",
+      "original_title": null,
+      "directors": [
+        "Geoffrey Dunn",
+        "Michael Horne"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2003,
+      "runtime_min": 90,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-07",
+          "time": "7:15 PM",
+          "venue": "Sequoia 1"
+        },
+        {
+          "date": "2003-10-11",
+          "time": "3:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": "Documentary on the history and leading performers of calypso music in Trinidad and Tobago, with interviews and performances.",
+      "cast": [],
+      "page": 15
+    },
+    {
+      "title": "Carnage",
+      "original_title": "Carnages",
+      "directors": [
+        "Delphine Gleize"
+      ],
+      "countries": [
+        "France",
+        "Spain"
+      ],
+      "film_year": 2002,
+      "runtime_min": 128,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "9:15 PM",
+          "venue": "Sequoia 2"
+        },
+        {
+          "date": "2003-10-08",
+          "time": "6:45 PM",
+          "venue": "Rafael 2"
+        }
+      ],
+      "summary": "Ensemble drama tracing how the slaughter of a bull that gored a matador ripples through many unconnected lives.",
+      "cast": [],
+      "page": 15
+    },
+    {
+      "title": "Casa de los Babys",
+      "original_title": null,
+      "directors": [
+        "John Sayles"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2003,
+      "runtime_min": 95,
+      "language": null,
+      "section": "Gala",
+      "slot": "Opening Night",
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-02",
+          "time": "7:00 PM",
+          "venue": "Rafael 1"
+        },
+        {
+          "date": "2003-10-02",
+          "time": "9:15 PM",
+          "venue": "Rafael 1"
+        }
+      ],
+      "summary": "Several North American women waiting in a Latin American town to adopt babies confront bureaucracy and the local consequences of their desires.",
+      "cast": [
+        "Lili Taylor",
+        "Rita Moreno"
+      ],
+      "page": 15
+    },
+    {
+      "title": "Dreaming of Julia",
+      "original_title": null,
+      "directors": [
+        "Juan Gerard"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2003,
+      "runtime_min": 109,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-09",
+          "time": "6:45 PM",
+          "venue": "Sequoia 2"
+        },
+        {
+          "date": "2003-10-11",
+          "time": "9:15 PM",
+          "venue": "Rafael 1"
+        }
+      ],
+      "summary": "A boy in a small Cuban town remembers revolutionary-era upheaval, filtered through his love of the movies.",
+      "cast": [
+        "Harvey Keitel"
+      ],
+      "page": 16
+    },
+    {
+      "title": "Dreaming of Tibet",
+      "original_title": null,
+      "directors": [
+        "Will Parrinello"
+      ],
+      "countries": [
+        "USA",
+        "Nepal"
+      ],
+      "film_year": 2003,
+      "runtime_min": 58,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-05",
+          "time": "4:45 PM",
+          "venue": "Sequoia 1"
+        },
+        {
+          "date": "2003-10-06",
+          "time": "9:30 PM",
+          "venue": "Rafael 1"
+        }
+      ],
+      "summary": "Documentary profiling three Tibetans in exile working to keep their culture and religion alive.",
+      "cast": [],
+      "page": 16
+    },
+    {
+      "title": "El Bonaerense",
+      "original_title": null,
+      "directors": [
+        "Pablo Trapero"
+      ],
+      "countries": [
+        "Argentina"
+      ],
+      "film_year": 2002,
+      "runtime_min": 105,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "7:00 PM",
+          "venue": "Sequoia 1"
+        },
+        {
+          "date": "2003-10-05",
+          "time": "8:30 PM",
+          "venue": "Rafael 2"
+        }
+      ],
+      "summary": "A provincial locksmith joins the corrupt Buenos Aires police force and gradually slides into its moral compromises.",
+      "cast": [],
+      "page": 16
+    },
+    {
+      "title": "Eldra",
+      "original_title": null,
+      "directors": [
+        "Tim Lin"
+      ],
+      "countries": [
+        "UK",
+        "Wales"
+      ],
+      "film_year": 2002,
+      "runtime_min": 90,
+      "language": "Welsh and English",
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-05",
+          "time": "12:00 PM",
+          "venue": "Sequoia 2"
+        },
+        {
+          "date": "2003-10-07",
+          "time": "5:00 PM",
+          "venue": "Rafael 2"
+        }
+      ],
+      "summary": "A Romany girl and a Welsh quarry worker's son form a friendship across their different worlds in the Welsh countryside.",
+      "cast": [],
+      "page": 16
+    },
+    {
+      "title": "Every Child Is Born a Poet: The Life and Work of Piri Thomas",
+      "original_title": null,
+      "directors": [
+        "Jonathan Robinson"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2003,
+      "runtime_min": 59,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Piri Thomas"
+      ],
+      "screenings": [
+        {
+          "date": "2003-10-05",
+          "time": "5:00 PM",
+          "venue": "Rafael 1"
+        },
+        {
+          "date": "2003-10-10",
+          "time": "8:00 PM",
+          "venue": "Marin Academy"
+        }
+      ],
+      "summary": "Documentary and performance portrait of Puerto Rican writer Piri Thomas, author of Down These Mean Streets.",
+      "cast": [],
+      "page": 16
+    },
+    {
+      "title": "A Family Undertaking",
+      "original_title": null,
+      "directors": [
+        "Elizabeth Westrate"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2003,
+      "runtime_min": 56,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-05",
+          "time": "11:15 AM",
+          "venue": "Rafael 2"
+        },
+        {
+          "date": "2003-10-12",
+          "time": "4:15 PM",
+          "venue": "Rafael 2"
+        }
+      ],
+      "summary": "Documentary about families who handle funerals at home as an alternative to the commercial funeral industry.",
+      "cast": [],
+      "page": 16
+    },
+    {
+      "title": "Firedancer",
+      "original_title": null,
+      "directors": [
+        "Jawed Wassel"
+      ],
+      "countries": [
+        "USA",
+        "Afghanistan"
+      ],
+      "film_year": 2002,
+      "runtime_min": 80,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-11",
+          "time": "4:45 PM",
+          "venue": "Sequoia 2"
+        },
+        {
+          "date": "2003-10-12",
+          "time": "9:15 PM",
+          "venue": "Rafael 2"
+        }
+      ],
+      "summary": "An Afghan immigrant artist in New York, haunted by his past, reconnects with his community through a young Afghan-American designer.",
+      "cast": [],
+      "page": 16
+    },
+    {
+      "title": "The Flower of Evil",
+      "original_title": "La Fleur du Mal",
+      "directors": [
+        "Claude Chabrol"
+      ],
+      "countries": [
+        "France"
+      ],
+      "film_year": 2003,
+      "runtime_min": 104,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-08",
+          "time": "7:00 PM",
+          "venue": "Sequoia 1"
+        },
+        {
+          "date": "2003-10-09",
+          "time": "9:15 PM",
+          "venue": "Rafael 2"
+        }
+      ],
+      "summary": "A Vichy-era family scandal resurfaces to threaten a Bordeaux woman's local election campaign.",
+      "cast": [
+        "Nathalie Baye"
+      ],
+      "page": 16
+    },
+    {
+      "title": "Ghostlight",
+      "original_title": null,
+      "directors": [
+        "Christopher Herrmann"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2003,
+      "runtime_min": 80,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "9:30 PM",
+          "venue": "Rafael 2"
+        },
+        {
+          "date": "2003-10-06",
+          "time": "7:00 PM",
+          "venue": "Rafael 2"
+        }
+      ],
+      "summary": "Impressionistic film about Martha Graham's last production, Phaedra, with performance artist Richard Move embodying Graham.",
+      "cast": [
+        "Richard Move"
+      ],
+      "page": 17
+    },
+    {
+      "title": "Gipsy",
+      "original_title": "Koli",
+      "directors": [
+        "Ali Shah-Hatami"
+      ],
+      "countries": [
+        "Iran"
+      ],
+      "film_year": 2000,
+      "runtime_min": 85,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-09",
+          "time": "7:15 PM",
+          "venue": "Rafael 2"
+        },
+        {
+          "date": "2003-10-10",
+          "time": "9:15 PM",
+          "venue": "Rafael 2"
+        }
+      ],
+      "summary": "After a boy's misdeed drives away a musician who brings rain, he sets out to find him and save his drought-stricken village.",
+      "cast": [],
+      "page": 17
+    },
+    {
+      "title": "Girl with a Pearl Earring",
+      "original_title": null,
+      "directors": [
+        "Peter Webber"
+      ],
+      "countries": [
+        "UK",
+        "Luxembourg"
+      ],
+      "film_year": 2003,
+      "runtime_min": 73,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "9:15 PM",
+          "venue": "Rafael 1"
+        },
+        {
+          "date": "2003-10-09",
+          "time": "9:15 PM",
+          "venue": "Sequoia 2"
+        }
+      ],
+      "summary": "Adaptation of Tracy Chevalier's novel about a maid in Vermeer's household who becomes the subject of his famous painting.",
+      "cast": [
+        "Scarlet Johansson",
+        "Colin Firth",
+        "Tom Wilkinson"
+      ],
+      "page": 17
+    },
+    {
+      "title": "Greendale",
+      "original_title": null,
+      "directors": [
+        "Bernard Shakey"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2003,
+      "runtime_min": 87,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-11",
+          "time": "9:00 PM",
+          "venue": "Sequoia 1"
+        },
+        {
+          "date": "2003-10-12",
+          "time": "9:45 PM",
+          "venue": "Rafael 1"
+        }
+      ],
+      "summary": "Neil Young's musical film, with Crazy Horse, about a small-town family facing corporate greed and environmental destruction.",
+      "cast": [
+        "Neil Young"
+      ],
+      "page": 17
+    },
+    {
+      "title": "The Guardian Spirit of the House",
+      "original_title": "Vastupurush",
+      "directors": [
+        "Sumitra Bhave",
+        "Sunil Sukthankar"
+      ],
+      "countries": [
+        "India"
+      ],
+      "film_year": 2002,
+      "runtime_min": 110,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-05",
+          "time": "3:30 PM",
+          "venue": "Rafael 2"
+        },
+        {
+          "date": "2003-10-07",
+          "time": "9:00 PM",
+          "venue": "Rafael 3"
+        }
+      ],
+      "summary": "A doctor revisiting his family's ruined estate reflects on his mother and another woman who shaped his life in post-independence India.",
+      "cast": [],
+      "page": 17
+    },
+    {
+      "title": "Hayflower and Quiltshoe",
+      "original_title": "Heinähattu ja Vilttitossu",
+      "directors": [
+        "Kaisa Rastimo"
+      ],
+      "countries": [
+        "Finland"
+      ],
+      "film_year": 2002,
+      "runtime_min": 72,
+      "language": "Finnish",
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "11:00 AM",
+          "venue": "Sequoia 2"
+        },
+        {
+          "date": "2003-10-06",
+          "time": "5:00 PM",
+          "venue": "Rafael 2"
+        }
+      ],
+      "summary": "Comedy about two quarrelling sisters, one about to start school and the other feeling left behind.",
+      "cast": [],
+      "page": 17
+    },
+    {
+      "title": "House of Hearts",
+      "original_title": "Omfavn mig måne",
+      "directors": [
+        "Elisabeth Rygård"
+      ],
+      "countries": [
+        "Denmark"
+      ],
+      "film_year": 2002,
+      "runtime_min": 88,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-10",
+          "time": "7:15 PM",
+          "venue": "Rafael 2"
+        }
+      ],
+      "summary": "A boy whose Turkish family emigrates to Denmark grows up between his new culture and memories of his homeland.",
+      "cast": [],
+      "page": 17
+    },
+    {
+      "title": "I Am David",
+      "original_title": null,
+      "directors": [
+        "Paul Feig"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2003,
+      "runtime_min": 95,
+      "language": null,
+      "section": "Friend of the Festival Screening",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-07",
+          "time": "6:45 PM",
+          "venue": "Century Cinema"
+        }
+      ],
+      "summary": "An orphan boy escapes a 1952 Bulgarian prison camp and makes his way across Europe toward Denmark.",
+      "cast": [],
+      "page": 18
+    },
+    {
+      "title": "I Remember . . . Tales from Greenland",
+      "original_title": "Jeg husker . . . Fortællinger fra Grønland",
+      "directors": [
+        "Karen Littauer"
+      ],
+      "countries": [
+        "Denmark"
+      ],
+      "film_year": 2002,
+      "runtime_min": 72,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-07",
+          "time": "7:15 PM",
+          "venue": "Rafael 3"
+        },
+        {
+          "date": "2003-10-09",
+          "time": "5:15 PM",
+          "venue": "Rafael 3"
+        }
+      ],
+      "summary": "Fourteen indigenous Greenlandic elders recount childhood memories, forming an oral history.",
+      "cast": [],
+      "page": 18
+    },
+    {
+      "title": "The Island",
+      "original_title": "L'isola",
+      "directors": [
+        "Constanza Quatriglio"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "film_year": 2003,
+      "runtime_min": 103,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "3:45 PM",
+          "venue": "Sequoia 2"
+        },
+        {
+          "date": "2003-10-07",
+          "time": "9:15 PM",
+          "venue": "Sequoia 2"
+        }
+      ],
+      "summary": "On a fishing island off Sicily, a young girl watches her older brother leave childhood for the world of the fishermen.",
+      "cast": [],
+      "page": 18
+    },
+    {
+      "title": "Japanese Story",
+      "original_title": null,
+      "directors": [
+        "Sue Brooks"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "film_year": 2003,
+      "runtime_min": 105,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-08",
+          "time": "6:30 PM",
+          "venue": "Rafael 1"
+        },
+        {
+          "date": "2003-10-11",
+          "time": "12:00 PM",
+          "venue": "Sequoia 2"
+        }
+      ],
+      "summary": "An Australian geologist escorting a Japanese businessman through the outback is stranded with him in the desert.",
+      "cast": [
+        "Toni Collette"
+      ],
+      "page": 18
+    },
+    {
+      "title": "Karlsson on the Roof",
+      "original_title": "Karlsson på taket",
+      "directors": [
+        "Vibeke Idsøe"
+      ],
+      "countries": [
+        "Norway"
+      ],
+      "film_year": 2002,
+      "runtime_min": 76,
+      "language": "Norwegian",
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-10",
+          "time": "5:00 PM",
+          "venue": "Rafael 3"
+        },
+        {
+          "date": "2003-10-12",
+          "time": "10:30 AM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": "A lonely boy befriends Karlsson, Astrid Lindgren's mischievous flying man with a propeller on his back.",
+      "cast": [],
+      "page": 18
+    },
+    {
+      "title": "Keïta",
+      "original_title": "Keïta! L'heritage du Griot",
+      "directors": [
+        "Dani Kouyaté"
+      ],
+      "countries": [
+        "France",
+        "Burkina Faso"
+      ],
+      "film_year": 1995,
+      "runtime_min": 94,
+      "language": "Jula and French",
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "11:00 AM",
+          "venue": "Rafael 2"
+        },
+        {
+          "date": "2003-10-12",
+          "time": "2:15 PM",
+          "venue": "Rafael 2"
+        }
+      ],
+      "summary": "A griot arrives at a city boy's home to teach him the stories of his ancestors and the Mandingo empire.",
+      "cast": [],
+      "page": 18
+    },
+    {
+      "title": "Kiss My Wheels",
+      "original_title": null,
+      "directors": [
+        "Miguel Grunstein"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 56,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-05",
+          "time": "2:45 PM",
+          "venue": "Rafael 1"
+        }
+      ],
+      "summary": "Documentary about a team of young wheelchair basketball players preparing for national championships.",
+      "cast": [],
+      "page": 18
+    },
+    {
+      "title": "The Klarsfelds",
+      "original_title": "L'Histoire des Klarsfeld",
+      "directors": [
+        "Elisabeth Citroën"
+      ],
+      "countries": [
+        "France"
+      ],
+      "film_year": 2002,
+      "runtime_min": 58,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Beate Klarsfeld"
+      ],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "2:45 PM",
+          "venue": "Rafael 1"
+        }
+      ],
+      "summary": "Portrait of Serge and Beate Klarsfeld and their children, who have spent decades bringing Nazi war criminals to trial.",
+      "cast": [],
+      "page": 18
+    },
+    {
+      "title": "Los Zafiros—Music from the Edge of Time",
+      "original_title": null,
+      "directors": [
+        "Lorenzo DeStefano"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 85,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-09",
+          "time": "9:30 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": "The two surviving members of the 1960s Cuban doo-wop group Los Zafiros reunite in Havana.",
+      "cast": [],
+      "page": 19
+    },
+    {
+      "title": "Lovers and Leavers",
+      "original_title": "Kuutamolla",
+      "directors": [
+        "Aku Louhimies"
+      ],
+      "countries": [
+        "Finland"
+      ],
+      "film_year": 2002,
+      "runtime_min": 119,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "6:30 PM",
+          "venue": "Rafael 2"
+        },
+        {
+          "date": "2003-10-12",
+          "time": "11:30 AM",
+          "venue": "Sequoia 2"
+        }
+      ],
+      "summary": "A movie-loving Finnish bookstore clerk who has just turned 30 finds romance with a filmmaker is not like the movies.",
+      "cast": [],
+      "page": 19
+    },
+    {
+      "title": "Madame Brouette",
+      "original_title": null,
+      "directors": [
+        "Moussa Sène Absa"
+      ],
+      "countries": [
+        "Canada",
+        "Senegal"
+      ],
+      "film_year": 2002,
+      "runtime_min": 104,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-02",
+          "time": "8:00 PM",
+          "venue": "Rafael 2"
+        },
+        {
+          "date": "2003-10-03",
+          "time": "9:15 PM",
+          "venue": "Sequoia 2"
+        }
+      ],
+      "summary": "A Senegalese street vendor becomes the prime suspect when her charming, crooked policeman lover is found dead.",
+      "cast": [],
+      "page": 19
+    },
+    {
+      "title": "The Magic of Fellini",
+      "original_title": null,
+      "directors": [
+        "Carmen Piccini"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2003,
+      "runtime_min": 55,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-10",
+          "time": "9:30 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": "Documentary in which collaborators recall director Federico Fellini ten years after his death.",
+      "cast": [],
+      "page": 19
+    },
+    {
+      "title": "Melvin Goes to Dinner",
+      "original_title": null,
+      "directors": [
+        "Bob Odenkirk"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2003,
+      "runtime_min": 83,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "2:00 PM",
+          "venue": "Sequoia 1"
+        },
+        {
+          "date": "2003-10-05",
+          "time": "9:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": "Four city dwellers talk about life, sex and ghosts over a long, increasingly strange dinner.",
+      "cast": [],
+      "page": 19
+    },
+    {
+      "title": "Modern Times",
+      "original_title": null,
+      "directors": [
+        "Charles Chaplin"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 1936,
+      "runtime_min": 85,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Leonard Maltin"
+      ],
+      "screenings": [
+        {
+          "date": "2003-10-11",
+          "time": "4:00 PM",
+          "venue": "Rafael 1"
+        }
+      ],
+      "summary": "Chaplin's Little Tramp battles the machinery of the industrial age, shown in a digitally remastered print.",
+      "cast": [],
+      "page": 19
+    },
+    {
+      "title": "My Architect",
+      "original_title": null,
+      "directors": [
+        "Nathaniel Kahn"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2003,
+      "runtime_min": 116,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "1:15 PM",
+          "venue": "Rafael 2"
+        },
+        {
+          "date": "2003-10-07",
+          "time": "6:30 PM",
+          "venue": "Sequoia 2"
+        }
+      ],
+      "summary": "Nathaniel Kahn investigates the life, buildings and complicated family of his father, architect Louis I. Kahn.",
+      "cast": [],
+      "page": 19
+    },
+    {
+      "title": "My First Miracle",
+      "original_title": null,
+      "directors": [
+        "Anne Wild"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "film_year": 2002,
+      "runtime_min": 90,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-05",
+          "time": "7:00 PM",
+          "venue": "Sequoia 2"
+        },
+        {
+          "date": "2003-10-07",
+          "time": "9:30 PM",
+          "venue": "Rafael 2"
+        }
+      ],
+      "summary": "An independent 11-year-old girl and a middle-aged family man form an unusual friendship on holiday.",
+      "cast": [
+        "Henriette Confurius",
+        "Juliane Köhler"
+      ],
+      "page": 19
+    },
+    {
+      "title": "My Life Without Me",
+      "original_title": "Mi Vida Sin Mi",
+      "directors": [
+        "Isabel Coixet"
+      ],
+      "countries": [
+        "Canada",
+        "Spain"
+      ],
+      "film_year": 2003,
+      "runtime_min": 104,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-05",
+          "time": "4:30 PM",
+          "venue": "Sequoia 2"
+        },
+        {
+          "date": "2003-10-07",
+          "time": "6:45 PM",
+          "venue": "Rafael 1"
+        }
+      ],
+      "summary": "A young working-class mother diagnosed with cancer secretly works through a list of things to do before she dies.",
+      "cast": [],
+      "page": 19
+    },
+    {
+      "title": "Mystic River",
+      "original_title": null,
+      "directors": [
+        "Clint Eastwood"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2003,
+      "runtime_min": 137,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-06",
+          "time": "7:00 PM",
+          "venue": "Century Cinema"
+        }
+      ],
+      "summary": "Three Boston childhood friends are reunited when one's daughter is murdered, one investigates, and the third becomes a suspect.",
+      "cast": [
+        "Sean Penn"
+      ],
+      "page": 20
+    },
+    {
+      "title": "Nate Dogg",
+      "original_title": null,
+      "directors": [
+        "Thomas Farone"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2003,
+      "runtime_min": 76,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-05",
+          "time": "3:00 PM",
+          "venue": "Sequoia 1"
+        },
+        {
+          "date": "2003-10-11",
+          "time": "12:00 PM",
+          "venue": "Rafael 2"
+        }
+      ],
+      "summary": "A teenage dropout with severe ADHD living in a trailer park tries to survive among drug dealers, played by the real-life subject.",
+      "cast": [
+        "Nathan Hale"
+      ],
+      "page": 20
+    },
+    {
+      "title": "Nightingale in a Music Box",
+      "original_title": null,
+      "directors": [
+        "Hurt McDermott"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 96,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-10",
+          "time": "7:15 PM",
+          "venue": "Sequoia 1"
+        },
+        {
+          "date": "2003-10-12",
+          "time": "12:00 PM",
+          "venue": "Rafael 2"
+        }
+      ],
+      "summary": "A psychological operative and an imprisoned suburban mother join forces against a secret plot involving the mother's mind.",
+      "cast": [],
+      "page": 20
+    },
+    {
+      "title": "Noi the Albino",
+      "original_title": "Nói Albinói",
+      "directors": [
+        "Dagur Kári Petursson"
+      ],
+      "countries": [
+        "Denmark",
+        "Germany",
+        "Iceland",
+        "UK"
+      ],
+      "film_year": 2002,
+      "runtime_min": 93,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-03",
+          "time": "7:15 PM",
+          "venue": "Sequoia 1"
+        },
+        {
+          "date": "2003-10-06",
+          "time": "9:15 PM",
+          "venue": "Rafael 3"
+        }
+      ],
+      "summary": "An aimless albino teenager in a remote Icelandic town dreams of escaping with a new café waitress.",
+      "cast": [],
+      "page": 20
+    },
+    {
+      "title": "Off the Map",
+      "original_title": null,
+      "directors": [
+        "Campbell Scott"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2003,
+      "runtime_min": 108,
+      "language": null,
+      "section": "Gala",
+      "slot": "Centerpiece",
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Sam Elliot"
+      ],
+      "screenings": [
+        {
+          "date": "2003-10-10",
+          "time": "6:45 PM",
+          "venue": "Rafael 1"
+        },
+        {
+          "date": "2003-10-12",
+          "time": "1:30 PM",
+          "venue": "Rafael 1"
+        }
+      ],
+      "summary": "In 1974, a family living off the grid in the desert struggles as its emotional balance begins to crack.",
+      "cast": [
+        "Joan Allen",
+        "Sam Elliot"
+      ],
+      "page": 20
+    },
+    {
+      "title": "Out of Time",
+      "original_title": null,
+      "directors": [
+        "Carl Franklin"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2003,
+      "runtime_min": 105,
+      "language": null,
+      "section": "Gala",
+      "slot": "Opening Night",
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Carl Franklin"
+      ],
+      "screenings": [
+        {
+          "date": "2003-10-02",
+          "time": "6:45 PM",
+          "venue": "Sequoia 1"
+        },
+        {
+          "date": "2003-10-02",
+          "time": "9:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": "A small-town Florida police chief races to clear his name as suspicion in a crime closes in on him.",
+      "cast": [
+        "Denzel Washington",
+        "Eva Mendes"
+      ],
+      "page": 20
+    },
+    {
+      "title": "Paradise",
+      "original_title": "Paradiset",
+      "directors": [
+        "Colin Nutley"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "film_year": 2003,
+      "runtime_min": 116,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-08",
+          "time": "6:45 PM",
+          "venue": "Sequoia 2"
+        },
+        {
+          "date": "2003-10-09",
+          "time": "9:30 PM",
+          "venue": "Rafael 3"
+        }
+      ],
+      "summary": "A young journalist investigating a foundation for abused women is drawn into violence and deception; a prequel to Deadline.",
+      "cast": [
+        "Helena Bergström"
+      ],
+      "page": 20
+    },
+    {
+      "title": "Paradise Is Somewhere Else",
+      "original_title": "Behesht Ja-Ye Digari Ast",
+      "directors": [
+        "Abdolrassul Golbon Haghighi"
+      ],
+      "countries": [
+        "Iran"
+      ],
+      "film_year": 2003,
+      "runtime_min": 77,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-05",
+          "time": "7:00 PM",
+          "venue": "Rafael 1"
+        },
+        {
+          "date": "2003-10-07",
+          "time": "9:30 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": "A desert teenager who wants to leave his family's sheep for work in the Emirates faces hard choices between family and custom.",
+      "cast": [],
+      "page": 20
+    },
+    {
+      "title": "Pieces of April",
+      "original_title": null,
+      "directors": [
+        "Peter Hedges"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2003,
+      "runtime_min": 81,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "7:00 PM",
+          "venue": "Rafael 1"
+        },
+        {
+          "date": "2003-10-06",
+          "time": "7:15 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": "A young woman tries to host Thanksgiving dinner for her estranged family in this comedy-drama.",
+      "cast": [
+        "Patricia Clarkson",
+        "Katie Holmes"
+      ],
+      "page": 20
+    },
+    {
+      "title": "Piggie",
+      "original_title": null,
+      "directors": [
+        "Alison Bagnall"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2003,
+      "runtime_min": 98,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-05",
+          "time": "6:45 PM",
+          "venue": "Sequoia 1"
+        },
+        {
+          "date": "2003-10-07",
+          "time": "9:15 PM",
+          "venue": "Rafael 1"
+        }
+      ],
+      "summary": "A damaged young songwriter becomes obsessed with a small-time con man who treats her with contempt.",
+      "cast": [
+        "Dean Wareham",
+        "Savannah Haske"
+      ],
+      "page": 21
+    },
+    {
+      "title": "Pretend",
+      "original_title": null,
+      "directors": [
+        "Julie Talen"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2003,
+      "runtime_min": 75,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-05",
+          "time": "6:30 PM",
+          "venue": "Rafael 3"
+        }
+      ],
+      "summary": "Two sisters stage a crime to keep their parents together, told through multiple split-screen perspectives.",
+      "cast": [],
+      "page": 21
+    },
+    {
+      "title": "Prisoner of Paradise",
+      "original_title": null,
+      "directors": [
+        "Malcolm Clarke",
+        "Stuart Sender"
+      ],
+      "countries": [
+        "Canada",
+        "UK"
+      ],
+      "film_year": 2002,
+      "runtime_min": 96,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-11",
+          "time": "6:45 PM",
+          "venue": "Rafael 2"
+        },
+        {
+          "date": "2003-10-12",
+          "time": "7:00 PM",
+          "venue": "Rafael 3"
+        }
+      ],
+      "summary": "Documentary about Jewish German star Kurt Gerron, forced at Theresienstadt to make a Nazi propaganda film.",
+      "cast": [],
+      "page": 21
+    },
+    {
+      "title": "Pullout",
+      "original_title": null,
+      "directors": [
+        "Jyllian Gunther"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2003,
+      "runtime_min": 69,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "12:00 PM",
+          "venue": "Rafael 3"
+        },
+        {
+          "date": "2003-10-06",
+          "time": "7:15 PM",
+          "venue": "Rafael 3"
+        }
+      ],
+      "summary": "At 35, the filmmaker travels cross-country to ask six men, including ex-boyfriends and her father, why her relationships failed.",
+      "cast": [],
+      "page": 21
+    },
+    {
+      "title": "Quattro Noza",
+      "original_title": null,
+      "directors": [
+        "Joey Curtis"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2003,
+      "runtime_min": 95,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-03",
+          "time": "9:15 PM",
+          "venue": "Rafael 3"
+        },
+        {
+          "date": "2003-10-11",
+          "time": "9:00 PM",
+          "venue": "Rafael 3"
+        }
+      ],
+      "summary": "A love triangle plays out in Southern California's illegal street-racing scene.",
+      "cast": [],
+      "page": 21
+    },
+    {
+      "title": "The Return",
+      "original_title": "Vozvraschenie",
+      "directors": [
+        "Andrey Zvagintsev"
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "film_year": 2003,
+      "runtime_min": 105,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-08",
+          "time": "9:00 PM",
+          "venue": "Sequoia 2"
+        }
+      ],
+      "summary": "Two brothers' father reappears after ten years and takes them on a mysterious fishing trip in northern Russia.",
+      "cast": [],
+      "page": 21
+    },
+    {
+      "title": "Shattered Glass",
+      "original_title": null,
+      "directors": [
+        "Billy Ray"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2003,
+      "runtime_min": 90,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-03",
+          "time": "6:45 PM",
+          "venue": "Sequoia 2"
+        },
+        {
+          "date": "2003-10-04",
+          "time": "1:00 PM",
+          "venue": "Sequoia 2"
+        }
+      ],
+      "summary": "Drama about magazine journalist Stephen Glass, who was found to have fabricated many of his published stories in the 1990s.",
+      "cast": [
+        "Hayden Christensen",
+        "Chloë Sevigny"
+      ],
+      "page": 21
+    },
+    {
+      "title": "The Singing Detective",
+      "original_title": null,
+      "directors": [
+        "Keith Gordon"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2003,
+      "runtime_min": 109,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "6:15 PM",
+          "venue": "Sequoia 2"
+        },
+        {
+          "date": "2003-10-05",
+          "time": "9:15 PM",
+          "venue": "Sequoia 2"
+        }
+      ],
+      "summary": "Film of Dennis Potter's series about a hospitalized pulp writer who hallucinates his latest noir story, with musical numbers.",
+      "cast": [
+        "Robert Downey Jr.",
+        "Robin Wright Penn",
+        "Mel Gibson"
+      ],
+      "page": 21
+    },
+    {
+      "title": "Someone Like Hodder",
+      "original_title": "En Som Hodder",
+      "directors": [
+        "Henrik Ruben Genz"
+      ],
+      "countries": [
+        "Denmark"
+      ],
+      "film_year": 2003,
+      "runtime_min": 80,
+      "language": "Danish",
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-05",
+          "time": "2:15 PM",
+          "venue": "Sequoia 2"
+        }
+      ],
+      "summary": "A lonely bullied boy is told by a fairy that he has been chosen to save the world, and sets off on a journey.",
+      "cast": [],
+      "page": 22
+    },
+    {
+      "title": "Sophiatown",
+      "original_title": null,
+      "directors": [
+        "Pascale Lamche"
+      ],
+      "countries": [
+        "Ireland",
+        "South Africa",
+        "UK"
+      ],
+      "film_year": 2003,
+      "runtime_min": 82,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-11",
+          "time": "7:00 PM",
+          "venue": "Sequoia 1"
+        },
+        {
+          "date": "2003-10-12",
+          "time": "11:30 AM",
+          "venue": "Rafael 1"
+        }
+      ],
+      "summary": "Musicians recall Sophiatown, the integrated Johannesburg township demolished under apartheid, and its music.",
+      "cast": [],
+      "page": 22
+    },
+    {
+      "title": "Spin",
+      "original_title": null,
+      "directors": [
+        "James Redford"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2003,
+      "runtime_min": 110,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-11",
+          "time": "6:30 PM",
+          "venue": "Rafael 1"
+        },
+        {
+          "date": "2003-10-12",
+          "time": "7:15 PM",
+          "venue": "Sequoia 2"
+        }
+      ],
+      "summary": "An orphaned teenager left on a 1950s Southwest ranch with its caretakers dreams of flying like his pilot father.",
+      "cast": [
+        "Stanley Tucci",
+        "Ruben Blades",
+        "Dana Delaney"
+      ],
+      "page": 22
+    },
+    {
+      "title": "The Spirit of Annie Mae",
+      "original_title": null,
+      "directors": [
+        "Catherine Anne Martin"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "film_year": 2002,
+      "runtime_min": 73,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-08",
+          "time": "7:15 PM",
+          "venue": "Rafael 3"
+        },
+        {
+          "date": "2003-10-11",
+          "time": "4:15 PM",
+          "venue": "Rafael 2"
+        }
+      ],
+      "summary": "Portrait of American Indian Movement activist Annie Mae Pictou Aquash, who was murdered after the FBI infiltrated AIM.",
+      "cast": [],
+      "page": 22
+    },
+    {
+      "title": "Springtime in a Small Town",
+      "original_title": "Xiao Cheng Zhi Chun",
+      "directors": [
+        "Tian Zhuangzhuang"
+      ],
+      "countries": [
+        "China",
+        "France",
+        "Hong Kong"
+      ],
+      "film_year": 2002,
+      "runtime_min": 116,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-03",
+          "time": "6:45 PM",
+          "venue": "Rafael 2"
+        },
+        {
+          "date": "2003-10-06",
+          "time": "6:45 PM",
+          "venue": "Sequoia 2"
+        }
+      ],
+      "summary": "In postwar provincial China, a visiting doctor rekindles feelings for an old love now married to his friend.",
+      "cast": [],
+      "page": 22
+    },
+    {
+      "title": "The Star Dreamer",
+      "original_title": null,
+      "directors": [
+        "Sonja Vesterholt",
+        "Mads Baastrup"
+      ],
+      "countries": [
+        "Denmark"
+      ],
+      "film_year": 2002,
+      "runtime_min": 54,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-08",
+          "time": "9:30 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": "Portrait of forgotten Russian sci-fi director and effects pioneer Pavel Klushantsev.",
+      "cast": [],
+      "page": 22
+    },
+    {
+      "title": "The Station Agent",
+      "original_title": null,
+      "directors": [
+        "Tom McCarthy"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2003,
+      "runtime_min": 90,
+      "language": null,
+      "section": "Gala",
+      "slot": "Opening Night",
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Tom McCarthy"
+      ],
+      "screenings": [
+        {
+          "date": "2003-10-02",
+          "time": "7:00 PM",
+          "venue": "Sequoia 2"
+        },
+        {
+          "date": "2003-10-02",
+          "time": "9:15 PM",
+          "venue": "Sequoia 2"
+        }
+      ],
+      "summary": "A reclusive man who inherits a rural New Jersey train depot forms unlikely friendships with two lonely neighbors.",
+      "cast": [
+        "Peter Dinklage",
+        "Bobby Cannavale",
+        "Patricia Clarkson"
+      ],
+      "page": 22
+    },
+    {
+      "title": "The Stroll",
+      "original_title": "Progulka",
+      "directors": [
+        "Aleksei Uchitel"
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "film_year": 2003,
+      "runtime_min": 90,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-09",
+          "time": "9:00 PM",
+          "venue": "Rafael 1"
+        }
+      ],
+      "summary": "A young man and his friend spend a day walking St. Petersburg with a woman who has her own plans, shot in long handheld takes.",
+      "cast": [],
+      "page": 22
+    },
+    {
+      "title": "Sunset Story",
+      "original_title": null,
+      "directors": [
+        "Laura Gabbert"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2003,
+      "runtime_min": 73,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-12",
+          "time": "2:30 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": "Two elderly activist friends at a Los Angeles retirement home for progressives stay politically engaged while facing aging and loss.",
+      "cast": [],
+      "page": 22
+    },
+    {
+      "title": "Sylvia",
+      "original_title": null,
+      "directors": [
+        "Christine Jeffs"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2003,
+      "runtime_min": 103,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-03",
+          "time": "7:00 PM",
+          "venue": "Rafael 1"
+        },
+        {
+          "date": "2003-10-11",
+          "time": "6:45 PM",
+          "venue": "Sequoia 2"
+        }
+      ],
+      "summary": "Biopic of poet Sylvia Plath focusing on her marriage to Ted Hughes and her struggle with depression.",
+      "cast": [
+        "Gwyneth Paltrow",
+        "Daniel Craig"
+      ],
+      "page": 23
+    },
+    {
+      "title": "The Tenth Summer",
+      "original_title": "Der Zehnte Sommer",
+      "directors": [
+        "Jörg Grünler"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "film_year": 2003,
+      "runtime_min": 98,
+      "language": "German",
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-08",
+          "time": "4:30 PM",
+          "venue": "Rafael 2"
+        },
+        {
+          "date": "2003-10-11",
+          "time": "2:30 PM",
+          "venue": "Sequoia 2"
+        }
+      ],
+      "summary": "An imaginative small-town boy has the summer of his life in 1960 Germany.",
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "Tom Dowd: The Language of Music",
+      "original_title": null,
+      "directors": [
+        "Mark Moorman"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2003,
+      "runtime_min": 82,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-06",
+          "time": "9:15 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": "Portrait of Atlantic Records engineer and producer Tom Dowd and the musicians he recorded.",
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "Tupperware!",
+      "original_title": null,
+      "directors": [
+        "Laurie Kahn-Leavitt"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2003,
+      "runtime_min": 62,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-05",
+          "time": "1:15 PM",
+          "venue": "Sequoia 1"
+        },
+        {
+          "date": "2003-10-12",
+          "time": "5:15 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": "Documentary on the history of Tupperware and the rise and fall of its marketing chief, Brownie Wise.",
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "Valley of Tears",
+      "original_title": null,
+      "directors": [
+        "Hart Perry"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2003,
+      "runtime_min": 80,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-08",
+          "time": "9:00 PM",
+          "venue": "Rafael 3"
+        },
+        {
+          "date": "2003-10-12",
+          "time": "12:15 PM",
+          "venue": "Rafael 3"
+        }
+      ],
+      "summary": "Documentary on a 1979 onion workers' strike in Raymondville, Texas, and its lasting effects on the town.",
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "We Are Here Together",
+      "original_title": null,
+      "directors": [
+        "Karina Epperlein"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2003,
+      "runtime_min": 65,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-09",
+          "time": "7:30 PM",
+          "venue": "Rafael 3"
+        },
+        {
+          "date": "2003-10-12",
+          "time": "2:00 PM",
+          "venue": "Rafael 3"
+        }
+      ],
+      "summary": "Documentary following students and teachers through the first years of a youth-initiated charter high school in Alameda.",
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "What Alice Found",
+      "original_title": null,
+      "directors": [
+        "A. Dean Bell"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2003,
+      "runtime_min": 95,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "4:00 PM",
+          "venue": "Rafael 2"
+        },
+        {
+          "date": "2003-10-06",
+          "time": "9:00 PM",
+          "venue": "Rafael 2"
+        }
+      ],
+      "summary": "A young woman picked up by a retired couple in a motor home begins to doubt their motives.",
+      "cast": [
+        "Judith Ivey",
+        "Emily Grace"
+      ],
+      "page": 24
+    },
+    {
+      "title": "Wilbur Wants to Kill Himself",
+      "original_title": null,
+      "directors": [
+        "Lone Scherfig"
+      ],
+      "countries": [
+        "Denmark",
+        "UK"
+      ],
+      "film_year": 2002,
+      "runtime_min": 106,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-11",
+          "time": "9:15 PM",
+          "venue": "Sequoia 2"
+        },
+        {
+          "date": "2003-10-12",
+          "time": "4:30 PM",
+          "venue": "Rafael 1"
+        }
+      ],
+      "summary": "A suicidal man and his bookseller brother in Glasgow are changed by a single mother who enters their shop.",
+      "cast": [],
+      "page": 24
+    },
+    {
+      "title": "5 Cent Dime",
+      "original_title": null,
+      "directors": [
+        "Max Landman"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Youth or Dare",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-11",
+          "time": "11:00 AM",
+          "venue": "Rafael 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 24
+    },
+    {
+      "title": "37th & Lex.",
+      "original_title": null,
+      "directors": [
+        "Leighton Pierce"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "9:30 PM",
+          "venue": "Rafael 2"
+        },
+        {
+          "date": "2003-10-06",
+          "time": "7:00 PM",
+          "venue": "Rafael 2"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 17
+    },
+    {
+      "title": "Albie: Quick on the Draw",
+      "original_title": null,
+      "directors": [
+        "Francis Vose"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Snicker Doodles",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-11",
+          "time": "11:00 AM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 21
+    },
+    {
+      "title": "Alexia: Metaphor and Word-Blindness",
+      "original_title": null,
+      "directors": [
+        "Tran T. Kim-Trang"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Vidiot's Delight",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "6:45 PM",
+          "venue": "Rafael 3"
+        },
+        {
+          "date": "2003-10-11",
+          "time": "11:30 AM",
+          "venue": "Rafael 3"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "All That I Perceive",
+      "original_title": null,
+      "directors": [
+        "Lindsay Daniels"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Friends Who Have Quarreled",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-06",
+          "time": "5:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "American Made",
+      "original_title": null,
+      "directors": [
+        "Sharat Raju"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Friends Who Have Quarreled",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-06",
+          "time": "5:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Angels and Imams",
+      "original_title": null,
+      "directors": [
+        "Mohammed Kamara"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Wings to Fly",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-10",
+          "time": "5:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Ants",
+      "original_title": null,
+      "directors": [
+        "Cory Claffey-Koller"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Why Aren't You Happy?",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-09",
+          "time": "5:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Apsara",
+      "original_title": null,
+      "directors": [
+        "Colin McGreal"
+      ],
+      "countries": [
+        "USA",
+        "Cambodia"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Friends Who Have Quarreled",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-06",
+          "time": "5:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "The Art of Nothing",
+      "original_title": null,
+      "directors": [
+        "Justen Wattenbarger"
+      ],
+      "countries": [
+        "USA",
+        "France"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Vidiot's Delight",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "6:45 PM",
+          "venue": "Rafael 3"
+        },
+        {
+          "date": "2003-10-11",
+          "time": "11:30 AM",
+          "venue": "Rafael 3"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "The Art of Tattoo",
+      "original_title": null,
+      "directors": [
+        "Tony Loeurn"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Youth or Dare",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-11",
+          "time": "11:00 AM",
+          "venue": "Rafael 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 24
+    },
+    {
+      "title": "Ash Wednesday",
+      "original_title": null,
+      "directors": [
+        "Jason Tolsher"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "The Dingo's Got My Short Film!",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "4:15 PM",
+          "venue": "Rafael 3"
+        },
+        {
+          "date": "2003-10-05",
+          "time": "1:15 PM",
+          "venue": "Rafael 2"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 16
+    },
+    {
+      "title": "Aunt Luisa",
+      "original_title": null,
+      "directors": [
+        "Tim Miller",
+        "Paul Taylor"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Tooning In: The Animation Program",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-11",
+          "time": "5:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "The Babysitter",
+      "original_title": null,
+      "directors": [
+        "Gideon Raff"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Down in the Mines",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-03",
+          "time": "5:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Ballerina",
+      "original_title": null,
+      "directors": [
+        "Kunuk Platoú",
+        "Valerie E. Saunders"
+      ],
+      "countries": [
+        "Denmark"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Snicker Doodles",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-11",
+          "time": "11:00 AM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 21
+    },
+    {
+      "title": "Bark, George",
+      "original_title": null,
+      "directors": [
+        "Gene Deitch"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Weston Woods: Cheers to 50 Years and World Premieres!",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-05",
+          "time": "11:00 AM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": "Weston Woods Studios adaptation of a children's picture book, presented in the studio's 50th-anniversary programme.",
+      "cast": [],
+      "page": 24
+    },
+    {
+      "title": "Bean Cake",
+      "original_title": null,
+      "directors": [
+        "David Greenspan"
+      ],
+      "countries": [
+        "USA",
+        "Japan"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Kids Shorts Showcase",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "4:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 18
+    },
+    {
+      "title": "Bush Bikes",
+      "original_title": null,
+      "directors": [
+        "David S. Vadiveloo"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Kids Shorts Showcase",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "4:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 18
+    },
+    {
+      "title": "Butch Mystique",
+      "original_title": null,
+      "directors": [
+        "Debra A. Wilson"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "A Homegrown Variety",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-10",
+          "time": "9:30 PM",
+          "venue": "Rafael 3"
+        },
+        {
+          "date": "2003-10-11",
+          "time": "1:45 PM",
+          "venue": "Rafael 3"
+        }
+      ],
+      "summary": "Documentary in which African American butch women speak about their identities.",
+      "cast": [],
+      "page": 17
+    },
+    {
+      "title": "Car Park",
+      "original_title": null,
+      "directors": [
+        "Darcy Yuille"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: What Goes Around, Comes Around",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-08",
+          "time": "5:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Cello Boy",
+      "original_title": null,
+      "directors": [
+        "Essi Haukkamaa"
+      ],
+      "countries": [
+        "Finland"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "True Tales of Tween Talent",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-12",
+          "time": "12:30 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": "A 10-year-old cellist tries to balance his musical ambitions with his love of football.",
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "Chasing Myself",
+      "original_title": null,
+      "directors": [
+        "Joe Shapiro"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Youth or Dare",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-11",
+          "time": "11:00 AM",
+          "venue": "Rafael 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 24
+    },
+    {
+      "title": "Chato and the Party Animals",
+      "original_title": null,
+      "directors": [
+        "Kris Tercek"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Weston Woods: Cheers to 50 Years and World Premieres!",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-05",
+          "time": "11:00 AM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": "Weston Woods Studios adaptation of a children's picture book, presented in the studio's 50th-anniversary programme.",
+      "cast": [],
+      "page": 24
+    },
+    {
+      "title": "Chess King Ali",
+      "original_title": null,
+      "directors": [
+        "Merial Uslu"
+      ],
+      "countries": [
+        "The Netherlands"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "True Tales of Tween Talent",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-12",
+          "time": "12:30 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": "An Iranian immigrant boy in Holland whose chess talent is complicated by his refugee status.",
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "The Choir",
+      "original_title": null,
+      "directors": [
+        "Angela M. Murray"
+      ],
+      "countries": [
+        "Scotland"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Kids Shorts Showcase",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "4:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 18
+    },
+    {
+      "title": "Circus",
+      "original_title": null,
+      "directors": [
+        "Tyler Murray"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Youth or Dare",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-11",
+          "time": "11:00 AM",
+          "venue": "Rafael 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 24
+    },
+    {
+      "title": "Colorforms",
+      "original_title": null,
+      "directors": [
+        "Eva Saks"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "11:00 AM",
+          "venue": "Sequoia 2"
+        },
+        {
+          "date": "2003-10-06",
+          "time": "5:00 PM",
+          "venue": "Rafael 2"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 17
+    },
+    {
+      "title": "Come On, Rain!",
+      "original_title": null,
+      "directors": [
+        "Leigh Corra"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Weston Woods: Cheers to 50 Years and World Premieres!",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-05",
+          "time": "11:00 AM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": "Weston Woods Studios adaptation of a children's picture book, presented in the studio's 50th-anniversary programme.",
+      "cast": [],
+      "page": 24
+    },
+    {
+      "title": "Coming Down the Mountain",
+      "original_title": null,
+      "directors": [
+        "James Ponsoldt"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Why Aren't You Happy?",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-09",
+          "time": "5:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Compulsory Breathing",
+      "original_title": null,
+      "directors": [
+        "David Munro"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "A Cryptic Triptych",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-05",
+          "time": "4:00 PM",
+          "venue": "Rafael 3"
+        }
+      ],
+      "summary": "Offbeat comic tale of a love affair that blossoms in strange, unpleasant circumstances.",
+      "cast": [],
+      "page": 15
+    },
+    {
+      "title": "Confection",
+      "original_title": null,
+      "directors": [
+        "Eva Saks"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Kids Shorts Showcase",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "4:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 18
+    },
+    {
+      "title": "Convergence",
+      "original_title": null,
+      "directors": [
+        "Paula Levine"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-03",
+          "time": "7:15 PM",
+          "venue": "Rafael 3"
+        },
+        {
+          "date": "2003-10-04",
+          "time": "2:00 PM",
+          "venue": "Rafael 3"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 15
+    },
+    {
+      "title": "The Courtship",
+      "original_title": null,
+      "directors": [
+        "Chet Fagin"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Vidiot's Delight",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "6:45 PM",
+          "venue": "Rafael 3"
+        },
+        {
+          "date": "2003-10-11",
+          "time": "11:30 AM",
+          "venue": "Rafael 3"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "The Cowboy Loses His Boots",
+      "original_title": null,
+      "directors": [
+        "Christian Svanes Kolding"
+      ],
+      "countries": [
+        "Denmark"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "A Cryptic Triptych",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-05",
+          "time": "4:00 PM",
+          "venue": "Rafael 3"
+        }
+      ],
+      "summary": "A grumpy Danish cowboy searches the streets of Copenhagen for his missing boots.",
+      "cast": [],
+      "page": 15
+    },
+    {
+      "title": "Cowboys and Indians",
+      "original_title": null,
+      "directors": [
+        "Stuart Grieve"
+      ],
+      "countries": [
+        "Scotland"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Friends Who Have Quarreled",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-06",
+          "time": "5:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Crystal Harvest",
+      "original_title": null,
+      "directors": [
+        "Annelise Wunderlich"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "A Homegrown Variety",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-10",
+          "time": "9:30 PM",
+          "venue": "Rafael 3"
+        },
+        {
+          "date": "2003-10-11",
+          "time": "1:45 PM",
+          "venue": "Rafael 3"
+        }
+      ],
+      "summary": "Documentary on the damage done by crystal methamphetamine in California.",
+      "cast": [],
+      "page": 17
+    },
+    {
+      "title": "D.E.B.S.",
+      "original_title": null,
+      "directors": [
+        "Angela Robinson"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Women on the Verge",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "12:00 PM",
+          "venue": "Sequoia 1"
+        },
+        {
+          "date": "2003-10-05",
+          "time": "6:15 PM",
+          "venue": "Rafael 2"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 24
+    },
+    {
+      "title": "Dead Roosters",
+      "original_title": null,
+      "directors": [
+        "Andrij Pazerh"
+      ],
+      "countries": [
+        "Ukraine"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Why Aren't You Happy?",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-09",
+          "time": "5:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Dem Bones",
+      "original_title": null,
+      "directors": [
+        "Gary McGivney"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Weston Woods: Cheers to 50 Years and World Premieres!",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-05",
+          "time": "11:00 AM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": "Weston Woods Studios adaptation of a children's picture book, presented in the studio's 50th-anniversary programme.",
+      "cast": [],
+      "page": 24
+    },
+    {
+      "title": "Desconcierto",
+      "original_title": null,
+      "directors": [
+        "Claudia Calderon",
+        "Andrea Molla",
+        "Ramon Ortiz",
+        "Jose Ramirez"
+      ],
+      "countries": [
+        "Puerto Rico"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Kids Shorts Showcase",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "4:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 18
+    },
+    {
+      "title": "Displacement",
+      "original_title": null,
+      "directors": [
+        "Chris Perry"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Tooning In: The Animation Program",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-11",
+          "time": "5:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "The Dive",
+      "original_title": null,
+      "directors": [
+        "Kia Simon"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Vidiot's Delight",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "6:45 PM",
+          "venue": "Rafael 3"
+        },
+        {
+          "date": "2003-10-11",
+          "time": "11:30 AM",
+          "venue": "Rafael 3"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "Dot the Fire Dog",
+      "original_title": null,
+      "directors": [
+        "Leigh Corra"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Weston Woods: Cheers to 50 Years and World Premieres!",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-05",
+          "time": "11:00 AM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": "Weston Woods Studios adaptation of a children's picture book, presented in the studio's 50th-anniversary programme.",
+      "cast": [],
+      "page": 24
+    },
+    {
+      "title": "Double Fiesta",
+      "original_title": null,
+      "directors": [
+        "Anney Bonney"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Tooning In: The Animation Program",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-11",
+          "time": "5:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "Driving Lessons",
+      "original_title": null,
+      "directors": [
+        "Susan Chiu"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Friends Who Have Quarreled",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-06",
+          "time": "5:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "The Elephant and the Snail",
+      "original_title": null,
+      "directors": [
+        "Christa Moesker"
+      ],
+      "countries": [
+        "The Netherlands"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Snicker Doodles",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-11",
+          "time": "11:00 AM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 21
+    },
+    {
+      "title": "Embryo",
+      "original_title": null,
+      "directors": [
+        "Mike Goedecke"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-08",
+          "time": "9:30 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 22
+    },
+    {
+      "title": "The Empty Suit-Case",
+      "original_title": null,
+      "directors": [
+        "Ben Prusiner"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Youth or Dare",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-11",
+          "time": "11:00 AM",
+          "venue": "Rafael 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 24
+    },
+    {
+      "title": "Family Tree",
+      "original_title": null,
+      "directors": [
+        "Vicky Jenson"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Women on the Verge",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "12:00 PM",
+          "venue": "Sequoia 1"
+        },
+        {
+          "date": "2003-10-05",
+          "time": "6:15 PM",
+          "venue": "Rafael 2"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 24
+    },
+    {
+      "title": "Fast Film",
+      "original_title": null,
+      "directors": [
+        "Virgil Widrich"
+      ],
+      "countries": [
+        "Austria",
+        "Luxembourg"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Tooning In: The Animation Program",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-11",
+          "time": "5:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "Feetsteps",
+      "original_title": null,
+      "directors": [
+        "Duncan Nicoll"
+      ],
+      "countries": [
+        "Scotland"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: What Goes Around, Comes Around",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-08",
+          "time": "5:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Firefly",
+      "original_title": null,
+      "directors": [
+        "Dace Ridúze"
+      ],
+      "countries": [
+        "Latvia"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Snicker Doodles",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-11",
+          "time": "11:00 AM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 21
+    },
+    {
+      "title": "François le Vaillant",
+      "original_title": null,
+      "directors": [
+        "Carles Porta Garcia"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Snicker Doodles",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-11",
+          "time": "11:00 AM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 21
+    },
+    {
+      "title": "Giggle, Giggle, Quack",
+      "original_title": null,
+      "directors": [
+        "Maciek Albrecht"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Weston Woods: Cheers to 50 Years and World Premieres!",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-05",
+          "time": "11:00 AM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": "Weston Woods Studios adaptation of a children's picture book, presented in the studio's 50th-anniversary programme.",
+      "cast": [],
+      "page": 24
+    },
+    {
+      "title": "Guguletu Ballet",
+      "original_title": null,
+      "directors": [
+        "Kristin Pichaske"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-05",
+          "time": "2:45 PM",
+          "venue": "Rafael 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 18
+    },
+    {
+      "title": "Hamlet",
+      "original_title": null,
+      "directors": [
+        "Anya Rose"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Snicker Doodles",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-11",
+          "time": "11:00 AM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 21
+    },
+    {
+      "title": "Happy Peppy Sparky Doggy",
+      "original_title": null,
+      "directors": [
+        "Robert Todd"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: What Goes Around, Comes Around",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-08",
+          "time": "5:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "The Hit",
+      "original_title": null,
+      "directors": [
+        "Ema Mulholland"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "The Dingo's Got My Short Film!",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "4:15 PM",
+          "venue": "Rafael 3"
+        },
+        {
+          "date": "2003-10-05",
+          "time": "1:15 PM",
+          "venue": "Rafael 2"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 16
+    },
+    {
+      "title": "Homeland",
+      "original_title": null,
+      "directors": [
+        "Jacob Bricca"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-05",
+          "time": "7:00 PM",
+          "venue": "Rafael 1"
+        },
+        {
+          "date": "2003-10-07",
+          "time": "9:30 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 20
+    },
+    {
+      "title": "Houdini's Hound",
+      "original_title": null,
+      "directors": [
+        "Sara Johnsen"
+      ],
+      "countries": [
+        "Norway"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Kids Shorts Showcase",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "4:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 18
+    },
+    {
+      "title": "House Hunting",
+      "original_title": null,
+      "directors": [
+        "Amy Lippman"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Down in the Mines",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-03",
+          "time": "5:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Hunger",
+      "original_title": null,
+      "directors": [
+        "Jennifer Perchalla"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Women on the Verge",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "12:00 PM",
+          "venue": "Sequoia 1"
+        },
+        {
+          "date": "2003-10-05",
+          "time": "6:15 PM",
+          "venue": "Rafael 2"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 24
+    },
+    {
+      "title": "I Used to Be a Filmmaker",
+      "original_title": null,
+      "directors": [
+        "Jay Rosenblatt"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-10",
+          "time": "9:30 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 19
+    },
+    {
+      "title": "I Want a Dog",
+      "original_title": null,
+      "directors": [
+        "Sheldon Cohen"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-10",
+          "time": "5:00 PM",
+          "venue": "Rafael 3"
+        },
+        {
+          "date": "2003-10-12",
+          "time": "10:30 AM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 18
+    },
+    {
+      "title": "In Smog and Thunder",
+      "original_title": null,
+      "directors": [
+        "Sean Meredith"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "A Cryptic Triptych",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-05",
+          "time": "4:00 PM",
+          "venue": "Rafael 3"
+        }
+      ],
+      "summary": "Comic tale of an imagined war for supremacy between San Francisco and Los Angeles.",
+      "cast": [],
+      "page": 15
+    },
+    {
+      "title": "Kate the Planet",
+      "original_title": null,
+      "directors": [
+        "Wakana Mishima"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Tooning In: The Animation Program",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-11",
+          "time": "5:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "Keys of Life",
+      "original_title": null,
+      "directors": [
+        "Jeremy Rall"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Scatter the Fire",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-07",
+          "time": "5:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Kids Play Outside",
+      "original_title": null,
+      "directors": [
+        "Per Hanefjord"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-05",
+          "time": "2:15 PM",
+          "venue": "Sequoia 2"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 22
+    },
+    {
+      "title": "Kosher",
+      "original_title": null,
+      "directors": [
+        "Aimee Barth"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Kids Shorts Showcase",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "4:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 18
+    },
+    {
+      "title": "La Toiletta",
+      "original_title": null,
+      "directors": [
+        "Dave Goldenberg"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Kids Shorts Showcase",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "4:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 18
+    },
+    {
+      "title": "Language Lessons",
+      "original_title": null,
+      "directors": [
+        "Jeanne Finley",
+        "John Muse"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-03",
+          "time": "7:15 PM",
+          "venue": "Rafael 3"
+        },
+        {
+          "date": "2003-10-04",
+          "time": "2:00 PM",
+          "venue": "Rafael 3"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 15
+    },
+    {
+      "title": "Last Free Exit",
+      "original_title": null,
+      "directors": [
+        "Sai Selvarajan"
+      ],
+      "countries": [
+        "USA",
+        "Canada"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Vidiot's Delight",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "6:45 PM",
+          "venue": "Rafael 3"
+        },
+        {
+          "date": "2003-10-11",
+          "time": "11:30 AM",
+          "venue": "Rafael 3"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "A Lesson",
+      "original_title": null,
+      "directors": [
+        "Olga Rozanova"
+      ],
+      "countries": [
+        "USA",
+        "UK"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Scatter the Fire",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-07",
+          "time": "5:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Let Go",
+      "original_title": null,
+      "directors": [
+        "Wayne Gilbert"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Tooning In: The Animation Program",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-11",
+          "time": "5:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "\"Like, Totally . . .\"",
+      "original_title": null,
+      "directors": [
+        "Daniel Drasin"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Vidiot's Delight",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "6:45 PM",
+          "venue": "Rafael 3"
+        },
+        {
+          "date": "2003-10-11",
+          "time": "11:30 AM",
+          "venue": "Rafael 3"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "The Little Girl Who Sold the Sun",
+      "original_title": "La Petite Vendeuse du Soleil",
+      "directors": [
+        "Djibril Diop Mambéty"
+      ],
+      "countries": [
+        "Senegal",
+        "Switzerland"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Wings to Fly",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-10",
+          "time": "5:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Lock Picking",
+      "original_title": null,
+      "directors": [
+        "Scott Kirby"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: What Goes Around, Comes Around",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-08",
+          "time": "5:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "The Lockers",
+      "original_title": null,
+      "directors": [
+        "Samantha Yu"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-09",
+          "time": "7:30 PM",
+          "venue": "Rafael 3"
+        },
+        {
+          "date": "2003-10-12",
+          "time": "2:00 PM",
+          "venue": "Rafael 3"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "Love's Labourer",
+      "original_title": null,
+      "directors": [
+        "Alister Grierson"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "The Dingo's Got My Short Film!",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "4:15 PM",
+          "venue": "Rafael 3"
+        },
+        {
+          "date": "2003-10-05",
+          "time": "1:15 PM",
+          "venue": "Rafael 2"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 16
+    },
+    {
+      "title": "The Meter Maid",
+      "original_title": null,
+      "directors": [
+        "Justin Warias"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Down in the Mines",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-03",
+          "time": "5:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Mike's New Car",
+      "original_title": null,
+      "directors": [
+        "Roger Gould",
+        "Peter Docter"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Tooning In: The Animation Program",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-11",
+          "time": "5:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "Mrs. Meitlemeihr",
+      "original_title": null,
+      "directors": [
+        "Graham Rose"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: What Goes Around, Comes Around",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-08",
+          "time": "5:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Murmuring Sound of Running Water",
+      "original_title": null,
+      "directors": [
+        "Kourosh Taheri"
+      ],
+      "countries": [
+        "Iran"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-05",
+          "time": "11:15 AM",
+          "venue": "Rafael 2"
+        },
+        {
+          "date": "2003-10-12",
+          "time": "4:15 PM",
+          "venue": "Rafael 2"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 16
+    },
+    {
+      "title": "My Josephine",
+      "original_title": null,
+      "directors": [
+        "Barry Jenkins"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Down in the Mines",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-03",
+          "time": "5:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Native Tongue",
+      "original_title": null,
+      "directors": [
+        "Christopher Johnson"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Vidiot's Delight",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "6:45 PM",
+          "venue": "Rafael 3"
+        },
+        {
+          "date": "2003-10-11",
+          "time": "11:30 AM",
+          "venue": "Rafael 3"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "No Angels in the Outfield",
+      "original_title": null,
+      "directors": [
+        "Larry Warner"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "A Homegrown Variety",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-10",
+          "time": "9:30 PM",
+          "venue": "Rafael 3"
+        },
+        {
+          "date": "2003-10-11",
+          "time": "1:45 PM",
+          "venue": "Rafael 3"
+        }
+      ],
+      "summary": "Documentary about baseball as a form of rehabilitation inside San Quentin Prison.",
+      "cast": [],
+      "page": 17
+    },
+    {
+      "title": "Nocturno",
+      "original_title": null,
+      "directors": [
+        "Naoko Sasaki"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Scatter the Fire",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-07",
+          "time": "5:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Non-Disclosure",
+      "original_title": null,
+      "directors": [
+        "Julie Pham"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Down in the Mines",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-03",
+          "time": "5:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Nonsense Poems",
+      "original_title": null,
+      "directors": [
+        "Francesca Talenti"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Snicker Doodles",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-11",
+          "time": "11:00 AM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 21
+    },
+    {
+      "title": "Not Another Jewish Movie",
+      "original_title": null,
+      "directors": [
+        "New Jewish Film Project"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Youth or Dare",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-11",
+          "time": "11:00 AM",
+          "venue": "Rafael 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 24
+    },
+    {
+      "title": "One Minute, Please",
+      "original_title": null,
+      "directors": [
+        "Students of SF Art & Film Workshop"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Youth or Dare",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-11",
+          "time": "11:00 AM",
+          "venue": "Rafael 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 24
+    },
+    {
+      "title": "Painless",
+      "original_title": null,
+      "directors": [
+        "Rupert Glasson"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "The Dingo's Got My Short Film!",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "4:15 PM",
+          "venue": "Rafael 3"
+        },
+        {
+          "date": "2003-10-05",
+          "time": "1:15 PM",
+          "venue": "Rafael 2"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 16
+    },
+    {
+      "title": "The Perpetual Life of Jim Albers",
+      "original_title": null,
+      "directors": [
+        "Matt Goldman"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-03",
+          "time": "9:30 PM",
+          "venue": "Sequoia 1"
+        },
+        {
+          "date": "2003-10-05",
+          "time": "1:45 PM",
+          "venue": "Rafael 3"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 14
+    },
+    {
+      "title": "Pie Chi",
+      "original_title": null,
+      "directors": [
+        "Christopher Grant"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Down in the Mines",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-03",
+          "time": "5:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Qeng: Guiding the Soul",
+      "original_title": null,
+      "directors": [
+        "Soua Her"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-05",
+          "time": "4:45 PM",
+          "venue": "Sequoia 1"
+        },
+        {
+          "date": "2003-10-06",
+          "time": "9:30 PM",
+          "venue": "Rafael 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 16
+    },
+    {
+      "title": "Rapid Guy Movement",
+      "original_title": null,
+      "directors": [
+        "Sean Michael Beyer"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Scatter the Fire",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-07",
+          "time": "5:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Rattle",
+      "original_title": null,
+      "directors": [
+        "Ed Chen"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Tooning In: The Animation Program",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-11",
+          "time": "5:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "The Restless Imperfect",
+      "original_title": null,
+      "directors": [
+        "Raen Beaux"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: What Goes Around, Comes Around",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-08",
+          "time": "5:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "The Romany Mirror",
+      "original_title": null,
+      "directors": [
+        "Katariina Lillqvist"
+      ],
+      "countries": [
+        "Finland"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-05",
+          "time": "12:00 PM",
+          "venue": "Sequoia 2"
+        },
+        {
+          "date": "2003-10-07",
+          "time": "5:00 PM",
+          "venue": "Rafael 2"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 16
+    },
+    {
+      "title": "Roof Sex",
+      "original_title": null,
+      "directors": [
+        "PES"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Scatter the Fire; Tooning In: The Animation Program",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-07",
+          "time": "5:00 PM",
+          "venue": "Sequoia 1"
+        },
+        {
+          "date": "2003-10-11",
+          "time": "5:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "The Rotting Woman",
+      "original_title": null,
+      "directors": [
+        "Joel Anderson"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Scatter the Fire",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-07",
+          "time": "5:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Seniors for Peace",
+      "original_title": null,
+      "directors": [
+        "David L. Brown"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-12",
+          "time": "2:30 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 22
+    },
+    {
+      "title": "Shine on Me",
+      "original_title": null,
+      "directors": [
+        "Amaya Cervino"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Women on the Verge",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "12:00 PM",
+          "venue": "Sequoia 1"
+        },
+        {
+          "date": "2003-10-05",
+          "time": "6:15 PM",
+          "venue": "Rafael 2"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 24
+    },
+    {
+      "title": "Side Show",
+      "original_title": null,
+      "directors": [
+        "Annabelle Frost"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Down in the Mines",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-03",
+          "time": "5:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Smith",
+      "original_title": null,
+      "directors": [
+        "Justin Schneider"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "The Dingo's Got My Short Film!",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "4:15 PM",
+          "venue": "Rafael 3"
+        },
+        {
+          "date": "2003-10-05",
+          "time": "1:15 PM",
+          "venue": "Rafael 2"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 16
+    },
+    {
+      "title": "Sniffer",
+      "original_title": null,
+      "directors": [
+        "Judd Tilyard"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "The Dingo's Got My Short Film!",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "4:15 PM",
+          "venue": "Rafael 3"
+        },
+        {
+          "date": "2003-10-05",
+          "time": "1:15 PM",
+          "venue": "Rafael 2"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 16
+    },
+    {
+      "title": "Snowflake Bentley",
+      "original_title": null,
+      "directors": [
+        "Paul R. Gagne",
+        "Sarah Kerruish",
+        "Melissa Reilly"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Weston Woods: Cheers to 50 Years and World Premieres!",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-05",
+          "time": "11:00 AM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": "Weston Woods Studios adaptation of a children's picture book, presented in the studio's 50th-anniversary programme.",
+      "cast": [],
+      "page": 24
+    },
+    {
+      "title": "Sound of a Voice",
+      "original_title": null,
+      "directors": [
+        "Susan Hoffman"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Women on the Verge",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "12:00 PM",
+          "venue": "Sequoia 1"
+        },
+        {
+          "date": "2003-10-05",
+          "time": "6:15 PM",
+          "venue": "Rafael 2"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 24
+    },
+    {
+      "title": "Source d'Histoire",
+      "original_title": null,
+      "directors": [
+        "Adama Roamba"
+      ],
+      "countries": [
+        "Burkina Faso"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Wings to Fly",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-10",
+          "time": "5:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "The Spirit of Gravity",
+      "original_title": null,
+      "directors": [
+        "Victor Bellomo",
+        "David Pace"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Tooning In: The Animation Program",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-11",
+          "time": "5:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "Stokebird: The Invention",
+      "original_title": null,
+      "directors": [
+        "Wouter van Reek"
+      ],
+      "countries": [
+        "The Netherlands"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Snicker Doodles",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-11",
+          "time": "11:00 AM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 21
+    },
+    {
+      "title": "Sunday Paper P.2B",
+      "original_title": null,
+      "directors": [
+        "Eric Towner"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Kids Shorts Showcase",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "4:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 18
+    },
+    {
+      "title": "SW 2.5 (The Pitch Wars)",
+      "original_title": null,
+      "directors": [
+        "Ariel Joseph Towne"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Tooning In: The Animation Program",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-11",
+          "time": "5:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "Swapped",
+      "original_title": null,
+      "directors": [
+        "Pierre Monnard"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Kids Shorts Showcase",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "4:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 18
+    },
+    {
+      "title": "The Teacher from the Black Lagoon",
+      "original_title": null,
+      "directors": [
+        "Maciek Albrecht"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Weston Woods: Cheers to 50 Years and World Premieres!",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-05",
+          "time": "11:00 AM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": "Weston Woods Studios adaptation of a children's picture book, presented in the studio's 50th-anniversary programme.",
+      "cast": [],
+      "page": 24
+    },
+    {
+      "title": "Ten Year Old Dog",
+      "original_title": null,
+      "directors": [
+        "Linda Stogner"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Vidiot's Delight",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "6:45 PM",
+          "venue": "Rafael 3"
+        },
+        {
+          "date": "2003-10-11",
+          "time": "11:30 AM",
+          "venue": "Rafael 3"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "Terminal",
+      "original_title": null,
+      "directors": [
+        "Tim White-Sobieski"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Vidiot's Delight",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "6:45 PM",
+          "venue": "Rafael 3"
+        },
+        {
+          "date": "2003-10-11",
+          "time": "11:30 AM",
+          "venue": "Rafael 3"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "That Old One",
+      "original_title": null,
+      "directors": [
+        "James Henry"
+      ],
+      "countries": [
+        "Scotland"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Scatter the Fire",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-07",
+          "time": "5:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Thicker Than Water",
+      "original_title": null,
+      "directors": [
+        "Danielle Montalbano"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Why Aren't You Happy?",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-09",
+          "time": "5:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Tom Hits His Head",
+      "original_title": null,
+      "directors": [
+        "Tom Putnam"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Vidiot's Delight",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "6:45 PM",
+          "venue": "Rafael 3"
+        },
+        {
+          "date": "2003-10-11",
+          "time": "11:30 AM",
+          "venue": "Rafael 3"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "Tragedy in One Act",
+      "original_title": null,
+      "directors": [
+        "Donnachada Daly"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Tooning In: The Animation Program",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-11",
+          "time": "5:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "Trim Time",
+      "original_title": null,
+      "directors": [
+        "Gil Alkabetz"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Snicker Doodles",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-11",
+          "time": "11:00 AM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 21
+    },
+    {
+      "title": "Unit #52",
+      "original_title": null,
+      "directors": [
+        "Tony Krawitz"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: What Goes Around, Comes Around",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-08",
+          "time": "5:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "The Vest",
+      "original_title": null,
+      "directors": [
+        "Paul Gutrecht"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Why Aren't You Happy?",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-09",
+          "time": "5:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Violet Lives Upstairs",
+      "original_title": null,
+      "directors": [
+        "Ben Hackworth"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Scatter the Fire; The Dingo's Got My Short Film!",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-07",
+          "time": "5:00 PM",
+          "venue": "Sequoia 1"
+        },
+        {
+          "date": "2003-10-04",
+          "time": "4:15 PM",
+          "venue": "Rafael 3"
+        },
+        {
+          "date": "2003-10-05",
+          "time": "1:15 PM",
+          "venue": "Rafael 2"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Vows",
+      "original_title": null,
+      "directors": [
+        "Ana Djordjevic"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Youth or Dare",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-11",
+          "time": "11:00 AM",
+          "venue": "Rafael 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 24
+    },
+    {
+      "title": "Waiting for Valdez",
+      "original_title": null,
+      "directors": [
+        "Dumisani Phakhathi"
+      ],
+      "countries": [
+        "South Africa"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Wings to Fly",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-10",
+          "time": "5:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Water; A Source of Life and Death",
+      "original_title": null,
+      "directors": [
+        "Jon Paul A. Puno"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Youth or Dare",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-11",
+          "time": "11:00 AM",
+          "venue": "Rafael 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 24
+    },
+    {
+      "title": "Water Seeking Its Level",
+      "original_title": null,
+      "directors": [
+        "Leighton Pierce"
+      ],
+      "countries": [
+        "USA",
+        "France"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Vidiot's Delight",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-04",
+          "time": "6:45 PM",
+          "venue": "Rafael 3"
+        },
+        {
+          "date": "2003-10-11",
+          "time": "11:30 AM",
+          "venue": "Rafael 3"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "When Mum and Dad Are Clowns",
+      "original_title": null,
+      "directors": [
+        "Annette Mari Olsen"
+      ],
+      "countries": [
+        "Denmark"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "True Tales of Tween Talent",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-12",
+          "time": "12:30 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": "A young Russian performer whose acrobatics and clowning make him a circus star.",
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "Why Don't We Go Watch Some Movies in the Road",
+      "original_title": null,
+      "directors": [
+        "Lucy Southern"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Youth or Dare",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-11",
+          "time": "11:00 AM",
+          "venue": "Rafael 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 24
+    },
+    {
+      "title": "The Witches",
+      "original_title": null,
+      "directors": [
+        "Elizabeth Hobbs"
+      ],
+      "countries": [
+        "Scotland"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Tooning In: The Animation Program",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-11",
+          "time": "5:00 PM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "A Work in Progress",
+      "original_title": null,
+      "directors": [
+        "Wes Ball"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Snicker Doodles",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2003-10-11",
+          "time": "11:00 AM",
+          "venue": "Sequoia 1"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 21
+    }
+  ],
+  "events": [
+    {
+      "title": "Opening Night Party",
+      "kind": "party",
+      "date": "2003-10-02",
+      "time": "9:00 PM",
+      "venue": "Mill Valley Community Center",
+      "people": [
+        {
+          "name": "Jesse B'Franklin",
+          "role": "speaker"
+        },
+        {
+          "name": "Carl Franklin",
+          "role": "speaker"
+        },
+        {
+          "name": "Sanaa Lathan",
+          "role": "speaker"
+        },
+        {
+          "name": "Tom McCarthy",
+          "role": "speaker"
+        }
+      ],
+      "related_films": [
+        "Out of Time",
+        "The Station Agent",
+        "Casa de los Babys"
+      ],
+      "summary": "Opening-night gala party (9 PM to midnight) following the three opening films; invited guests listed, party-only tickets not sold.",
+      "page": 5
+    },
+    {
+      "title": "World Beat Music Night",
+      "kind": "music",
+      "date": "2003-10-03",
+      "time": "9:00 PM",
+      "venue": "Outdoor Art Club, Mill Valley",
+      "people": [],
+      "related_films": [],
+      "summary": "Evening of acoustic world music, drumming and vocals, 9 to 11 PM.",
+      "page": 5
+    },
+    {
+      "title": "Opening Day: Magical Picnic",
+      "kind": "party",
+      "date": "2003-10-04",
+      "time": "2:00 PM",
+      "venue": "Outdoor Art Club, Mill Valley",
+      "people": [],
+      "related_films": [
+        "Kids Shorts Showcase"
+      ],
+      "summary": "Children's FilmFest opening-day picnic (2 to 4 PM) paired with the Kids Shorts Showcase screening.",
+      "page": 5
+    },
+    {
+      "title": "Tribute: 2003 Filmmakers, Part 1",
+      "kind": "tribute",
+      "date": "2003-10-04",
+      "time": "9:00 PM",
+      "venue": "Frantoio Ristorante, Mill Valley",
+      "people": [
+        {
+          "name": "Ruben Blades",
+          "role": "speaker"
+        },
+        {
+          "name": "Keith Gordon",
+          "role": "speaker"
+        },
+        {
+          "name": "Peter Hedges",
+          "role": "speaker"
+        },
+        {
+          "name": "Eugene Hernandez",
+          "role": "speaker"
+        },
+        {
+          "name": "Katie Holmes",
+          "role": "speaker"
+        },
+        {
+          "name": "Leonard Maltin",
+          "role": "speaker"
+        },
+        {
+          "name": "James Redford",
+          "role": "speaker"
+        },
+        {
+          "name": "Lone Scherfig",
+          "role": "speaker"
+        }
+      ],
+      "related_films": [],
+      "summary": "Dinner reception celebrating the festival's participating filmmakers and guests; invited guests listed jointly for both parts.",
+      "page": 5
+    },
+    {
+      "title": "Rock the Sweetwater for Student Musicians",
+      "kind": "music",
+      "date": "2003-10-05",
+      "time": "8:30 PM",
+      "venue": "Sweetwater, Mill Valley",
+      "people": [
+        {
+          "name": "Joel Jaffe",
+          "role": "host"
+        },
+        {
+          "name": "Austin Delone",
+          "role": "host"
+        }
+      ],
+      "related_films": [],
+      "summary": "Marin Music Council benefit concert supporting music education in schools.",
+      "page": 5
+    },
+    {
+      "title": "The Calypso Dreams Tour",
+      "kind": "music",
+      "date": "2003-10-07",
+      "time": "9:00 PM",
+      "venue": "Sweetwater, Mill Valley",
+      "people": [],
+      "related_films": [
+        "Calypso Dreams"
+      ],
+      "summary": "Concert by veteran calypso musicians tied to the documentary Calypso Dreams.",
+      "page": 5
+    },
+    {
+      "title": "Buena Cine",
+      "kind": "music",
+      "date": "2003-10-09",
+      "time": "9:00 PM",
+      "venue": "Outdoor Art Club, Mill Valley",
+      "people": [],
+      "related_films": [],
+      "summary": "Party celebrating Latin American film and music, 9 to 11 PM.",
+      "page": 5
+    },
+    {
+      "title": "Centerpiece Party",
+      "kind": "party",
+      "date": "2003-10-10",
+      "time": "9:00 PM",
+      "venue": "Outdoor Art Club, Mill Valley",
+      "people": [
+        {
+          "name": "Sam Elliot",
+          "role": "speaker"
+        }
+      ],
+      "related_films": [
+        "Off the Map"
+      ],
+      "summary": "Catered reception (9 to 11 PM) following the Centerpiece film Off the Map.",
+      "page": 5
+    },
+    {
+      "title": "Ice Cream Social",
+      "kind": "party",
+      "date": "2003-10-11",
+      "time": "1:00 PM",
+      "venue": "Outdoor Art Club, Mill Valley",
+      "people": [],
+      "related_films": [],
+      "summary": "Children's FilmFest afternoon ice cream party, free with a Children's FilmFest ticket stub.",
+      "page": 5
+    },
+    {
+      "title": "Tribute: 2003 Filmmakers, Part 2",
+      "kind": "tribute",
+      "date": "2003-10-11",
+      "time": "9:00 PM",
+      "venue": "Outdoor Art Club, Mill Valley",
+      "people": [
+        {
+          "name": "Ruben Blades",
+          "role": "speaker"
+        },
+        {
+          "name": "Keith Gordon",
+          "role": "speaker"
+        },
+        {
+          "name": "Peter Hedges",
+          "role": "speaker"
+        },
+        {
+          "name": "Eugene Hernandez",
+          "role": "speaker"
+        },
+        {
+          "name": "Katie Holmes",
+          "role": "speaker"
+        },
+        {
+          "name": "Leonard Maltin",
+          "role": "speaker"
+        },
+        {
+          "name": "James Redford",
+          "role": "speaker"
+        },
+        {
+          "name": "Lone Scherfig",
+          "role": "speaker"
+        }
+      ],
+      "related_films": [],
+      "summary": "Second dinner reception honoring the year's participating filmmakers and guests.",
+      "page": 5
+    },
+    {
+      "title": "Closing Night Party",
+      "kind": "party",
+      "date": "2003-10-12",
+      "time": "9:00 PM",
+      "venue": "Osher/Marin JCC",
+      "people": [
+        {
+          "name": "Denys Arcand",
+          "role": "speaker"
+        }
+      ],
+      "related_films": [
+        "The Barbarian Invasions"
+      ],
+      "summary": "Closing-night party with food, drinks and salsa music (9 PM to midnight) after The Barbarian Invasions.",
+      "page": 5
+    },
+    {
+      "title": "The Hi De Ho Show",
+      "kind": "music",
+      "date": "2003-10-04",
+      "time": "10:00 PM",
+      "venue": "Sequoia 1",
+      "people": [
+        {
+          "name": "John Goddard",
+          "role": "host"
+        }
+      ],
+      "related_films": [],
+      "summary": "Village Music's John Goddard plays clips from his video archive tracing Africa's influence on American popular music.",
+      "page": 17
+    },
+    {
+      "title": "Character Building",
+      "kind": "panel",
+      "date": "2003-10-04",
+      "time": "2:00 PM",
+      "venue": "Theater at Throckmorton, Mill Valley",
+      "people": [
+        {
+          "name": "Carl Franklin",
+          "role": "panelist"
+        },
+        {
+          "name": "Peter Hedges",
+          "role": "panelist"
+        },
+        {
+          "name": "Katie Holmes",
+          "role": "panelist"
+        }
+      ],
+      "related_films": [
+        "Out of Time",
+        "Pieces of April"
+      ],
+      "summary": "New Movies Lab panel on how writers, directors and actors create memorable screen characters.",
+      "page": 11
+    },
+    {
+      "title": "Hearing Voices: How Animated Film Characters Come to Life",
+      "kind": "panel",
+      "date": "2003-10-05",
+      "time": "10:00 AM",
+      "venue": "Smith Rafael Film Center, San Rafael",
+      "people": [],
+      "related_films": [],
+      "summary": "All-ages New Movies Lab session with local professionals on voice-over and voice casting for animated features.",
+      "page": 11
+    },
+    {
+      "title": "Lessons from the Legends",
+      "kind": "panel",
+      "date": "2003-10-11",
+      "time": "10:00 AM",
+      "venue": "Theater at Throckmorton, Mill Valley",
+      "people": [],
+      "related_films": [],
+      "summary": "New Movies Lab panel of critics and filmmakers discussing films that changed their lives and film history.",
+      "page": 11
+    },
+    {
+      "title": "Industrial Strength: Report on the State of Independent Filmmaking",
+      "kind": "panel",
+      "date": "2003-10-11",
+      "time": "1:00 PM",
+      "venue": "Theater at Throckmorton, Mill Valley",
+      "people": [],
+      "related_films": [],
+      "summary": "New Movies Lab panel of filmmakers and industry figures on trends and challenges facing independent film.",
+      "page": 11
+    },
+    {
+      "title": "Truth and Consequences: A Dialogue on Documentary",
+      "kind": "panel",
+      "date": "2003-10-11",
+      "time": "4:30 PM",
+      "venue": "Smith Rafael Film Center, San Rafael",
+      "people": [
+        {
+          "name": "Claire Aguilar",
+          "role": "panelist"
+        },
+        {
+          "name": "James Eowan",
+          "role": "panelist"
+        },
+        {
+          "name": "Karina Epperlein",
+          "role": "panelist"
+        },
+        {
+          "name": "Laura Gabbert",
+          "role": "panelist"
+        },
+        {
+          "name": "Michael Fox",
+          "role": "moderator"
+        }
+      ],
+      "related_films": [
+        "We Are Here Together",
+        "Sunset Story"
+      ],
+      "summary": "New Movies Lab discussion on documentary filmmaking with programmers, distributors and directors.",
+      "page": 11
+    },
+    {
+      "title": "Script to Screen: Young Filmmakers' Workshop",
+      "kind": "workshop",
+      "date": "2003-10-04",
+      "time": "10:00 AM",
+      "venue": "Sight & Insight Art Center, Mill Valley",
+      "people": [],
+      "related_films": [],
+      "summary": "Full-day workshop where children aged 8 to 13 make their own fiction film as cast and crew.",
+      "page": 11
+    },
+    {
+      "title": "Science Fiction: Building a Changed World — Digital Workshop for Teens",
+      "kind": "workshop",
+      "date": "2003-10-04",
+      "time": "10:00 AM",
+      "venue": "DigiQuest Learning Center, San Rafael",
+      "people": [],
+      "related_films": [],
+      "summary": "Four-day hands-on workshop (October 4, 5, 11 and 12) where teens aged 14 to 18 produce a short sci-fi digital video.",
+      "page": 11
+    },
+    {
+      "title": "What's Up? Docs!",
+      "kind": "workshop",
+      "date": "2003-10-05",
+      "time": "10:00 AM",
+      "venue": "Outdoor Art Club, Mill Valley",
+      "people": [],
+      "related_films": [],
+      "summary": "Full-day workshop teaching children aged 8 to 13 how to make a documentary.",
+      "page": 11
+    },
+    {
+      "title": "Afghanistan Unveiled: Panel Discussion",
+      "kind": "panel",
+      "date": "2003-10-04",
+      "time": "12:30 PM",
+      "venue": "Rafael 1",
+      "people": [],
+      "related_films": [
+        "Afghanistan Unveiled"
+      ],
+      "summary": "Panel discussion following the screening of Afghanistan Unveiled.",
+      "page": 13
+    }
+  ],
+  "awards": [],
+  "staff": [
+    {
+      "name": "Desiree Buford",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "Greg Cahill",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "Jeff Campbell",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "Karen Davis",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "Zoë Elton",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "David Fear",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "Michael Fox",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "Nora Isaacs",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "Arne Johnson",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "Doug Jones",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "Carleton Kirkham",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "Carrie Lozano",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "Peter Moore",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "John Morrison",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "Joanne Parsont",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "Rosemary Pepper",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "Brendan Peterson",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "Richard O. Peterson",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "Deanna Quinones",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "Jason Sanders",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "Molli Amara Simon",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "Nick Tangborn",
+      "role": "Contributing Writer"
+    }
+  ],
+  "notes": "Calendar pages (PDF 25-27), the sponsor/venue logo pages and several other pages are images with no text; screenings come from the Film Notes entries (pages 13-24). The 'Films by Category' pages (8-10) list films in columns whose category headings are images and were not captured, so 'section' is only set where the text says so: Gala (Opening/Centerpiece/Closing), Children's FilmFest (features marked 'Ages N+' and listed together in the children's column; kids' shorts programmes with age ratings), and 5@5. Shorts programmes are recorded via each short's shorts_program (Roof Sex and Violet Lives Upstairs screened in two programmes, joined with '; '); shorts 'Shown with' a feature have shorts_program null and the feature's screenings. Short runtimes/years are not printed (only programme totals). Alex's Wedding (45 min) and Si-Guériki (63 min) screen together as one programme. The Hi De Ho Show (John Goddard video/music evening) is recorded as an event, not a film. Film guests: 'In person', 'Introduced by' and gala 'Invited Guest' lines only; tribute-dinner invited guests are on the events. No awards, premiere labels or festival staff are printed; staff lists the programme's contributing writers. Edition 26 from 'Issue #26' and 'the 26th annual Mill Valley Film Festival'; dates derived from the Oct 2 opening and Oct 12 closing nights and 'October 2-October 12' box-office hours (no date range is printed as a headline). Conflicting spellings kept from film notes: Burnt Sienna is credited to Tolan Harber in notes and on one category page but to Joey Curtis on another; Eldra director 'Tim Lin' (notes) vs 'Tim Lyn' (category); The Klarsfelds 'Elisabeth' vs 'Elizabeth' Citroën; Burials and Borders 'Paula' vs 'Paulo' Levine; Chess King Ali director 'Merial Uslu' (category) vs 'Meral Uslu' (notes); Djibril Diop Mambéty printed 'Djirbril' in the category list. Girl with a Pearl Earring is printed as 73 mins and its star as 'Scarlet Johansson' (kept as printed). Sam Elliot spelled as printed."
+}

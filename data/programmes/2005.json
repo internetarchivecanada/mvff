@@ -1,0 +1,7698 @@
+{
+  "year": 2005,
+  "edition": 28,
+  "dates": "October 6-16, 2005",
+  "source_pdf": "2005_schedule.pdf",
+  "venues": [
+    {
+      "name": "CinéArts@Sequoia",
+      "address": "25 Throckmorton Ave., Mill Valley"
+    },
+    {
+      "name": "Christopher B. Smith Rafael Film Center",
+      "address": "1118 Fourth St., San Rafael"
+    },
+    {
+      "name": "142 Throckmorton Theatre",
+      "address": "142 Throckmorton Ave., Mill Valley"
+    },
+    {
+      "name": "Century Cinema",
+      "address": "41 Tamal Vista, Corte Madera"
+    },
+    {
+      "name": "Outdoor Art Club",
+      "address": "1 W. Blithedale Ave., Mill Valley"
+    },
+    {
+      "name": "Mill Valley Community Center",
+      "address": "180 Camino Alto, Mill Valley"
+    },
+    {
+      "name": "Lytton Plaza",
+      "address": "Corner of Miller and Sunnyside, Mill Valley"
+    },
+    {
+      "name": "Masonic Hall",
+      "address": "19 Corte Madera Ave., Mill Valley"
+    },
+    {
+      "name": "Frantoio Ristorante",
+      "address": "152 Shoreline Hwy., Mill Valley"
+    },
+    {
+      "name": "Sweetwater",
+      "address": "153 Throckmorton Ave., Mill Valley"
+    }
+  ],
+  "sections": [
+    "Opening Night",
+    "Tributes and Spotlight",
+    "Closing Night",
+    "Official Premiere Selection",
+    "World Cinema",
+    "US Cinema",
+    "Valley of the Docs",
+    "V(ision)Fest",
+    "5@5",
+    "Children's FilmFest",
+    "Focus: Fespaco/PRAI",
+    "Focus: Women Make Movies",
+    "Animation",
+    "Youth Produced",
+    "New Movies Lab",
+    "Music Events"
+  ],
+  "films": [
+    {
+      "title": "The Matador",
+      "original_title": null,
+      "directors": [
+        "Richard Shepard"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2004,
+      "runtime_min": 97,
+      "language": null,
+      "section": "Opening Night",
+      "slot": "Opening Night",
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-06",
+          "time": "7:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-06",
+          "time": "7:15 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A gone-to-seed hit man and a suburban businessman form an unlikely bond while their luck runs out in Mexico City.",
+      "cast": [
+        "Pierce Brosnan",
+        "Greg Kinnear",
+        "Hope Davis",
+        "Philip Baker Hall",
+        "Adam Scott",
+        "Dylan Baker"
+      ],
+      "page": 15
+    },
+    {
+      "title": "Mrs. Henderson Presents",
+      "original_title": null,
+      "directors": [
+        "Stephen Frears"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "film_year": 2005,
+      "runtime_min": 103,
+      "language": null,
+      "section": "Opening Night",
+      "slot": "Opening Night",
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-06",
+          "time": "7:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A wealthy widow founds London's Windmill Theatre and stages risqué revues during World War II.",
+      "cast": [
+        "Bob Hoskins",
+        "Judi Dench",
+        "Christopher Guest",
+        "Kelly Reilly",
+        "Will Young"
+      ],
+      "page": 15
+    },
+    {
+      "title": "The Red Shoes",
+      "original_title": null,
+      "directors": [
+        "Michael Powell",
+        "Emeric Pressburger"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "film_year": 1948,
+      "runtime_min": 133,
+      "language": null,
+      "section": "Tribute",
+      "slot": "Tribute",
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-12",
+          "time": "8:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A ballerina is torn between a young composer she loves and the impresario who made her a star.",
+      "cast": [],
+      "page": 16
+    },
+    {
+      "title": "I Know Where I'm Going",
+      "original_title": null,
+      "directors": [
+        "Michael Powell",
+        "Emeric Pressburger"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "film_year": 1945,
+      "runtime_min": 88,
+      "language": null,
+      "section": "Tribute",
+      "slot": "Tribute",
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-09",
+          "time": "12:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A materialistic young woman stranded in the Hebrides on her way to marry a rich man falls for a penniless laird.",
+      "cast": [
+        "Wendy Hiller",
+        "Roger Livesey"
+      ],
+      "page": 16
+    },
+    {
+      "title": "Transamerica",
+      "original_title": null,
+      "directors": [
+        "Duncan Tucker"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2005,
+      "runtime_min": 103,
+      "language": null,
+      "section": "Spotlight",
+      "slot": "Spotlight",
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Felicity Huffman"
+      ],
+      "screenings": [
+        {
+          "date": "2005-10-09",
+          "time": "3:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A transsexual woman weeks from her final surgery takes a cross-country road trip with the teenage son she never knew she had.",
+      "cast": [
+        "Felicity Huffman",
+        "Kevin Zegers",
+        "Fionnula Flanagan",
+        "Graham Greene",
+        "Elizabeth Peña"
+      ],
+      "page": 16
+    },
+    {
+      "title": "Amélie",
+      "original_title": "Le fabuleux destin d'Amélie Poulain",
+      "directors": [
+        "Jean-Pierre Jeunet"
+      ],
+      "countries": [
+        "Belgium",
+        "France"
+      ],
+      "film_year": 2001,
+      "runtime_min": 120,
+      "language": null,
+      "section": "Tribute",
+      "slot": "Tribute",
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-15",
+          "time": "1:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A shy Paris waitress secretly sets out to improve the lives of the people around her.",
+      "cast": [],
+      "page": 17
+    },
+    {
+      "title": "Delicatessen",
+      "original_title": null,
+      "directors": [
+        "Jean-Pierre Jeunet",
+        "Marc Caro"
+      ],
+      "countries": [
+        "France"
+      ],
+      "film_year": 1991,
+      "runtime_min": 99,
+      "language": null,
+      "section": "Tribute",
+      "slot": "Tribute",
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-08",
+          "time": "9:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A black comedy about the strange lives and eating habits of the residents of an old apartment block.",
+      "cast": [],
+      "page": 17
+    },
+    {
+      "title": "Pride and Prejudice",
+      "original_title": null,
+      "directors": [
+        "Joe Wright"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "film_year": 2005,
+      "runtime_min": 127,
+      "language": null,
+      "section": "Tribute",
+      "slot": "Tribute",
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Donald Sutherland"
+      ],
+      "screenings": [
+        {
+          "date": "2005-10-15",
+          "time": "7:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A new adaptation of Jane Austen's novel about Elizabeth Bennet and her sparring romance with Mr. Darcy.",
+      "cast": [
+        "Keira Knightley",
+        "Matthew MacFadyen",
+        "Brenda Blethyn",
+        "Donald Sutherland",
+        "Tom Hollander",
+        "Rosamund Pike"
+      ],
+      "page": 17
+    },
+    {
+      "title": "Bee Season",
+      "original_title": null,
+      "directors": [
+        "Scott McGehee",
+        "David Siegel"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2005,
+      "runtime_min": 104,
+      "language": null,
+      "section": "Closing Night",
+      "slot": "Closing Night",
+      "premiere": "Official Premiere Selection",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-16",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-16",
+          "time": "7:45 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A young girl's gift for spelling bees upsets the delicate balance of her family, adapted from Myla Goldberg's novel.",
+      "cast": [
+        "Richard Gere",
+        "Juliette Binoche",
+        "Flora Cross",
+        "Max Minghella",
+        "Kate Bosworth"
+      ],
+      "page": 19
+    },
+    {
+      "title": "The Squid and the Whale",
+      "original_title": null,
+      "directors": [
+        "Noah Baumbach"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2005,
+      "runtime_min": 89,
+      "language": null,
+      "section": "Closing Night",
+      "slot": "Closing Night",
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Jeff Daniels"
+      ],
+      "screenings": [
+        {
+          "date": "2005-10-16",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Two Brooklyn brothers cope with their intellectual parents' divorce in 1986.",
+      "cast": [
+        "Jeff Daniels",
+        "Laura Linney",
+        "Jesse Eisenberg",
+        "Owen Kline"
+      ],
+      "page": 19
+    },
+    {
+      "title": "39 Pounds of Love",
+      "original_title": null,
+      "directors": [
+        "Dani Menkin"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2005,
+      "runtime_min": 70,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-09",
+          "time": "1:30 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2005-10-14",
+          "time": "9:00 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "An Israeli animator with severe muscular dystrophy takes a road trip across America to find the doctor who predicted he would die young.",
+      "cast": [],
+      "page": 22
+    },
+    {
+      "title": "The First Thing I Remember",
+      "original_title": null,
+      "directors": [
+        "Tamara Meem"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "film_year": 2005,
+      "runtime_min": 9,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-09",
+          "time": "1:30 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2005-10-14",
+          "time": "9:00 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "A short that looks back at the source of our deepest desires.",
+      "cast": [],
+      "page": 22
+    },
+    {
+      "title": "Messiah",
+      "original_title": null,
+      "directors": [
+        "Guy Dimenstein"
+      ],
+      "countries": [
+        "Israel"
+      ],
+      "film_year": null,
+      "runtime_min": 13,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: A Hard Rain's A-Gonna Fall",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-10",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-11",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A sardonic look at events at an Israeli military checkpoint.",
+      "cast": [],
+      "page": 22
+    },
+    {
+      "title": "Lawn",
+      "original_title": null,
+      "directors": [
+        "Monteith McCollum"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 12,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: A Hard Rain's A-Gonna Fall",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-10",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-11",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Draws a parallel between obsessive lawn care and a fear of nature.",
+      "cast": [],
+      "page": 22
+    },
+    {
+      "title": "Tama Tü",
+      "original_title": null,
+      "directors": [
+        "Taiki Waititi"
+      ],
+      "countries": [
+        "New Zealand"
+      ],
+      "film_year": null,
+      "runtime_min": 18,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: A Hard Rain's A-Gonna Fall",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-10",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-11",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Six Maori soldiers wait things out in a bombed-out building.",
+      "cast": [],
+      "page": 22
+    },
+    {
+      "title": "One Weekend a Month",
+      "original_title": null,
+      "directors": [
+        "Eric Escobar"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 12,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: A Hard Rain's A-Gonna Fall",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-10",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-11",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A single mother searches for child care on the eve of her National Guard unit's deployment to Iraq.",
+      "cast": [],
+      "page": 22
+    },
+    {
+      "title": "The Tree Officer",
+      "original_title": null,
+      "directors": [
+        "Neil Jack"
+      ],
+      "countries": [
+        "Scotland"
+      ],
+      "film_year": null,
+      "runtime_min": 8,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: A Hard Rain's A-Gonna Fall",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-10",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-11",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "An animated tale of a tree-loving botanist whose job is to cut trees down.",
+      "cast": [],
+      "page": 22
+    },
+    {
+      "title": "Birth of Industry",
+      "original_title": null,
+      "directors": [
+        "Gabriela Tollman"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 13,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: A Hard Rain's A-Gonna Fall",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-10",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-11",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A fable personifying the industrial revolution as a mother giving birth to a greedy son.",
+      "cast": [],
+      "page": 22
+    },
+    {
+      "title": "Fall",
+      "original_title": null,
+      "directors": [
+        "Kenzo Hakuta",
+        "Jimmy Mathew"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 5,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: A Hard Rain's A-Gonna Fall",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-10",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-11",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A dreamlike vision of life, death and nature.",
+      "cast": [],
+      "page": 22
+    },
+    {
+      "title": "City Paradise",
+      "original_title": null,
+      "directors": [
+        "Gaëlle Denis"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "film_year": null,
+      "runtime_min": 5,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: All I Really Want to Do",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-07",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-10",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Mixing live action and animation, a Japanese girl has strange experiences in an odd London.",
+      "cast": [],
+      "page": 22
+    },
+    {
+      "title": "The Eye Inside",
+      "original_title": null,
+      "directors": [
+        "Cordelia Beresford"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "film_year": null,
+      "runtime_min": 14,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: All I Really Want to Do",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-07",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-10",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Based on the true story of a Parisian teenager locked in an asylum by a voyeuristic doctor.",
+      "cast": [],
+      "page": 22
+    },
+    {
+      "title": "Zombie-American",
+      "original_title": null,
+      "directors": [
+        "Nick Poppy"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 9,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: All I Really Want to Do",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-07",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-10",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A satire in which Ed Helms plays a zombie citizen.",
+      "cast": [
+        "Ed Helms"
+      ],
+      "page": 22
+    },
+    {
+      "title": "Flightless Birds",
+      "original_title": null,
+      "directors": [
+        "Phil Johnston"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 22,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: All I Really Want to Do",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-07",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-10",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Residents of a South Dakota town band together to save it from dying.",
+      "cast": [],
+      "page": 22
+    },
+    {
+      "title": "Special People",
+      "original_title": null,
+      "directors": [
+        "Justin Edgar"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "film_year": null,
+      "runtime_min": 13,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: All I Really Want to Do",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-07",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-10",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Teenagers in wheelchairs climb a mountain for a depressed director's art film.",
+      "cast": [],
+      "page": 22
+    },
+    {
+      "title": "Tuesday's Women",
+      "original_title": null,
+      "directors": [
+        "Oded Binnun",
+        "Mihal Brezis"
+      ],
+      "countries": [
+        "Israel"
+      ],
+      "film_year": null,
+      "runtime_min": 20,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: All I Really Want to Do",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-07",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-10",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "An adaptation of a surreal Haruki Murakami story.",
+      "cast": [],
+      "page": 22
+    },
+    {
+      "title": "Afternoon",
+      "original_title": null,
+      "directors": [
+        "Kim Spurlock"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 10,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: It's All Over Now, Baby Blue",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-12",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-13",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Family bonds endure beyond death.",
+      "cast": [],
+      "page": 22
+    },
+    {
+      "title": "Seven Miles Alone",
+      "original_title": null,
+      "directors": [
+        "Topaz Adizes"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 15,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: It's All Over Now, Baby Blue",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-12",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-13",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Two adopted brothers whose lives split meet again years later in a boxing ring.",
+      "cast": [],
+      "page": 22
+    },
+    {
+      "title": "Top of the Circle",
+      "original_title": null,
+      "directors": [
+        "Shaz Bennett"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 5,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: It's All Over Now, Baby Blue",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-12",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-13",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A memory film pairing a voiceover with images of childhood.",
+      "cast": [],
+      "page": 22
+    },
+    {
+      "title": "Sugar Mountain",
+      "original_title": null,
+      "directors": [
+        "Aaron Himelstein"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 28,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: It's All Over Now, Baby Blue",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-12",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-13",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A drama about a boy who survived a deep childhood trauma.",
+      "cast": [],
+      "page": 22
+    },
+    {
+      "title": "The Raftman's Razor",
+      "original_title": null,
+      "directors": [
+        "Keith Bearden"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 8,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: It's All Over Now, Baby Blue",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-12",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-13",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Captures the feel of a boyhood summer.",
+      "cast": [],
+      "page": 22
+    },
+    {
+      "title": "My Scarlet Letter",
+      "original_title": null,
+      "directors": [
+        "Karen Carpenter"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 10,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: It's All Over Now, Baby Blue",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-12",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-13",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Small-town misfit girls yearn for something more.",
+      "cast": [],
+      "page": 22
+    },
+    {
+      "title": "Rain Is Falling",
+      "original_title": null,
+      "directors": [
+        "Holger Ernst"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "film_year": null,
+      "runtime_min": 15,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: It's All Over Now, Baby Blue",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-12",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-13",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Based on an Iranian story about a small girl caring for her sick mother.",
+      "cast": [],
+      "page": 22
+    },
+    {
+      "title": "Motel",
+      "original_title": null,
+      "directors": [
+        "Thor Freudenthal"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 8,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Leopard-Skin Pillbox Hat",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-11",
+          "time": "4:45 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-12",
+          "time": "4:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A man stumbles on an abandoned motel that offers every amenity, with a catch.",
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "Uso Justo",
+      "original_title": null,
+      "directors": [
+        "Scott Coleman Miller"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 22,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Leopard-Skin Pillbox Hat",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-11",
+          "time": "4:45 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-12",
+          "time": "4:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A comic found-footage film about an experimental filmmaker arriving in a Mexican town.",
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "La Vie d'un Chien",
+      "original_title": null,
+      "directors": [
+        "John Harden"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 13,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Leopard-Skin Pillbox Hat",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-11",
+          "time": "4:45 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-12",
+          "time": "4:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A homage to Chris Marker's La Jetée that explores love and freedom.",
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "Bringing Up BayBay",
+      "original_title": null,
+      "directors": [
+        "Phil Ramuno"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 14,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Leopard-Skin Pillbox Hat",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-11",
+          "time": "4:45 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-12",
+          "time": "4:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "An ambitious reporter chases a celebrity known as BayBay Girl in a satire of infotainment.",
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "The Death of Salvador Dali",
+      "original_title": null,
+      "directors": [
+        "Delaney Bishop"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 18,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Leopard-Skin Pillbox Hat",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-11",
+          "time": "4:45 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-12",
+          "time": "4:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Salvador Dali drops in on Sigmund Freud's office.",
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "Maestro",
+      "original_title": null,
+      "directors": [
+        "Géza M. Tóth"
+      ],
+      "countries": [
+        "Hungary"
+      ],
+      "film_year": null,
+      "runtime_min": 5,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Leopard-Skin Pillbox Hat",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-11",
+          "time": "4:45 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-12",
+          "time": "4:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "An animated backstage look at an artist getting ready for his big moment.",
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "The Big Empty",
+      "original_title": null,
+      "directors": [
+        "J. Lisa Chang",
+        "Newton Thomas Sigel"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 20,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Leopard-Skin Pillbox Hat",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-11",
+          "time": "4:45 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-12",
+          "time": "4:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "An unconventional gynecologist and a patient take their show on the road.",
+      "cast": [
+        "Selma Blair",
+        "Elias Koteas"
+      ],
+      "page": 23
+    },
+    {
+      "title": "Kind of a Blur",
+      "original_title": null,
+      "directors": [
+        "Jon Goldman"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 10,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Simple Twist of Fate",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-14",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-15",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A romantic, drunken camping trip.",
+      "cast": [
+        "Sandra Oh"
+      ],
+      "page": 23
+    },
+    {
+      "title": "La Majique Noire",
+      "original_title": null,
+      "directors": [],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 12,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Simple Twist of Fate",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-14",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-15",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Ordering a drink can be dangerous in a truly magical bar.",
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "Milk",
+      "original_title": null,
+      "directors": [
+        "Peter Mackie Burns"
+      ],
+      "countries": [
+        "Scotland"
+      ],
+      "film_year": null,
+      "runtime_min": 10,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Simple Twist of Fate",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-14",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-15",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A grandmother in the bath plays an unsettling trick.",
+      "cast": [
+        "Brenda Fricker"
+      ],
+      "page": 23
+    },
+    {
+      "title": "Little Things",
+      "original_title": null,
+      "directors": [
+        "James Twyford"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "film_year": null,
+      "runtime_min": 5,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Simple Twist of Fate",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-14",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-15",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A little girl picks up an unintended message.",
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "Life Ride",
+      "original_title": null,
+      "directors": [
+        "Lance Slaton"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 11,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Simple Twist of Fate",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-14",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-15",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A boy takes a dysfunctional family for a test drive.",
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "Tumshie McFadgen's Bid for Ultimate Bliss",
+      "original_title": null,
+      "directors": [
+        "Simon Hynd"
+      ],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Simple Twist of Fate",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-14",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-15",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A comedy about a man trying to perfect his experience of pleasure.",
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "Nobody's Perfect",
+      "original_title": null,
+      "directors": [
+        "Hank Azaria"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 23,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Simple Twist of Fate",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-14",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-15",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A commitment-shy man sees the future of any relationship through his grandfather's magic glasses.",
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "Pas de repos pour Billy Brakko",
+      "original_title": null,
+      "directors": [
+        "Jean-Pierre Jeunet"
+      ],
+      "countries": [
+        "France"
+      ],
+      "film_year": null,
+      "runtime_min": 5,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Simple Twist of Fate",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-14",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-15",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A frenetic short packed with film references.",
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "Transaction",
+      "original_title": null,
+      "directors": [
+        "Jacques Thelemaque"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 15,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Tangled Up in Blue",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-13",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-14",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A compassionate look at an encounter between a prostitute and a client.",
+      "cast": [
+        "Edmund L. Shaff",
+        "Diane Gaidry"
+      ],
+      "page": 23
+    },
+    {
+      "title": "Undressing My Mother",
+      "original_title": null,
+      "directors": [
+        "Ken Wardrop"
+      ],
+      "countries": [
+        "Ireland"
+      ],
+      "film_year": null,
+      "runtime_min": 6,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Tangled Up in Blue",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-13",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-14",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "The filmmaker's mother in her sixties reflects on her life.",
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "An American Dream",
+      "original_title": null,
+      "directors": [
+        "Renji Philip"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 23,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Tangled Up in Blue",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-13",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-14",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A simple road trip turns into a surreal nightmare.",
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "What I'm Looking For",
+      "original_title": null,
+      "directors": [
+        "Shelly Silver"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 15,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Tangled Up in Blue",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-13",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-14",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "The filmmaker explains her obsession with photographing strangers.",
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "Goodnight Bill",
+      "original_title": null,
+      "directors": [
+        "John Mitchell",
+        "Jeremy Kipp Walker"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 19,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Tangled Up in Blue",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-13",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-14",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A cranky homophobe and an elderly gay man forced to share a hospital room become friends.",
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "Accidents",
+      "original_title": null,
+      "directors": [
+        "Ramón Alòs Sánchez",
+        "Miloje Popovic",
+        "Toni Trupia"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "film_year": 2005,
+      "runtime_min": 100,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": "Official Premiere Selection",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-13",
+          "time": "8:15 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2005-10-15",
+          "time": "12:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Three young Italian directors each tell a story built around an accident, including one about T.E. Lawrence's fatal motorcycle crash.",
+      "cast": [
+        "Lando Buzzanca",
+        "Silvia Ferreri",
+        "Leo Gullotta",
+        "Ernesto Mahieux",
+        "Ralph Palka",
+        "Renato Scarpa"
+      ],
+      "page": 23
+    },
+    {
+      "title": "Al-Ghazali: The Alchemist of Happiness",
+      "original_title": null,
+      "directors": [
+        "Ovidio Salazar"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "film_year": 2004,
+      "runtime_min": 80,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-08",
+          "time": "7:15 PM",
+          "venue": "142 Throckmorton"
+        },
+        {
+          "date": "2005-10-10",
+          "time": "7:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Documentary and dramatic re-creations trace the spiritual crisis and teachings of the medieval Islamic philosopher Al-Ghazali.",
+      "cast": [
+        "Ghorban Nadjafi",
+        "Robert Powell",
+        "Daryush Arjmand",
+        "Mitra Hajjar"
+      ],
+      "page": 24
+    },
+    {
+      "title": "Amongst White Clouds",
+      "original_title": null,
+      "directors": [
+        "Edward A. Burger"
+      ],
+      "countries": [
+        "Canada",
+        "China"
+      ],
+      "film_year": 2005,
+      "runtime_min": 86,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": "Official Premiere Selection",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-08",
+          "time": "12:30 PM",
+          "venue": "142 Throckmorton"
+        },
+        {
+          "date": "2005-10-10",
+          "time": "9:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A Zen student visits Buddhist hermits and masters living in China's Zhongnan Mountains.",
+      "cast": [],
+      "page": 24
+    },
+    {
+      "title": "The Art of Breaking Up",
+      "original_title": null,
+      "directors": [
+        "Michel Deville"
+      ],
+      "countries": [
+        "France"
+      ],
+      "film_year": 2005,
+      "runtime_min": 80,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": "Official Premiere Selection",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-07",
+          "time": "9:15 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2005-10-15",
+          "time": "9:15 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A bedroom farce in which a singer is reunited with her lover on the day he plans to leave her and marry an heiress.",
+      "cast": [
+        "Emmanuelle Béart",
+        "Charles Bearling",
+        "Sara Forestier",
+        "Dominique Blanc",
+        "Mathieu Demy"
+      ],
+      "page": 24
+    },
+    {
+      "title": "Beah: A Black Woman Speaks",
+      "original_title": null,
+      "directors": [
+        "LisaGay Hamilton"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2003,
+      "runtime_min": 90,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-15",
+          "time": "12:30 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2005-10-16",
+          "time": "5:15 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A portrait of actress, poet and activist Beah Richards, from the segregated South to her career on stage and screen.",
+      "cast": [],
+      "page": 24
+    },
+    {
+      "title": "Bed Stories",
+      "original_title": null,
+      "directors": [
+        "Kirill Serebrennikov"
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "film_year": 2004,
+      "runtime_min": 70,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": "Official Premiere Selection",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-07",
+          "time": "9:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2005-10-09",
+          "time": "6:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Seven interconnected stories unfold in private spaces centred on the bed.",
+      "cast": [
+        "Alexander Sirin",
+        "Iya Savvina",
+        "Marina Golub",
+        "Natalia Kolyakanova"
+      ],
+      "page": 25
+    },
+    {
+      "title": "Been Rich All My Life",
+      "original_title": null,
+      "directors": [
+        "Heather Lyn MacDonald"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2005,
+      "runtime_min": 82,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": "Official Premiere Selection",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-11",
+          "time": "7:15 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-12",
+          "time": "9:15 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "The Silver Belles, former Apollo Theatre chorus dancers aged 84 to 96, keep performing and look back on their careers.",
+      "cast": [],
+      "page": 25
+    },
+    {
+      "title": "Berkeley",
+      "original_title": null,
+      "directors": [
+        "Bobby Roth"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2005,
+      "runtime_min": 87,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": "Official Premiere Selection",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-08",
+          "time": "6:45 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-11",
+          "time": "6:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A clean-cut freshman at Berkeley in 1968 gets his real education among new friends and lovers.",
+      "cast": [
+        "Nick Roth",
+        "Laura Jordan",
+        "Henry Winkler",
+        "Sarah Carter",
+        "Tom Morello",
+        "Bonnie Bedelia"
+      ],
+      "page": 25
+    },
+    {
+      "title": "Bluebird",
+      "original_title": null,
+      "directors": [
+        "Mijke de Jong"
+      ],
+      "countries": [
+        "Netherlands"
+      ],
+      "film_year": 2004,
+      "runtime_min": 76,
+      "language": "Dutch with English subtitles",
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-11",
+          "time": "4:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A well-liked, talented girl is relentlessly bullied by a gang of classmates.",
+      "cast": [
+        "Elske Rotteveel",
+        "Kees Scholten",
+        "Elsie de Brauw",
+        "Jaap Spijkers",
+        "Bright O'Richards"
+      ],
+      "page": 25
+    },
+    {
+      "title": "Boats out of Watermelon Rinds",
+      "original_title": null,
+      "directors": [
+        "Ahmet Uluçay"
+      ],
+      "countries": [
+        "Turkey"
+      ],
+      "film_year": 2004,
+      "runtime_min": 101,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-11",
+          "time": "9:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2005-10-12",
+          "time": "8:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "Two boys in a Turkish village who dream of making movies build their own projector.",
+      "cast": [
+        "Ismail Hakki Taslak",
+        "Kadir Kaymaz",
+        "Gülayse Erkoç",
+        "Boncuk Yilmaz",
+        "Hasbiye Gunay"
+      ],
+      "page": 26
+    },
+    {
+      "title": "Brick",
+      "original_title": null,
+      "directors": [
+        "Rian Johnson"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2005,
+      "runtime_min": 119,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-14",
+          "time": "9:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-16",
+          "time": "7:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A high-school loner turns detective in a film-noir-style hunt for the killer of the girl he loved.",
+      "cast": [
+        "Lukas Haas",
+        "Noah Fleiss",
+        "Megan Good",
+        "Noah Segan",
+        "Nora Zehetner",
+        "Joseph Gordon-Levitt"
+      ],
+      "page": 26
+    },
+    {
+      "title": "Bride of Silence",
+      "original_title": null,
+      "directors": [
+        "Doan Minh Phuong",
+        "Doan Thanh Nghia"
+      ],
+      "countries": [
+        "Vietnam",
+        "Germany"
+      ],
+      "film_year": 2005,
+      "runtime_min": 114,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-11",
+          "time": "6:15 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-16",
+          "time": "4:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "In precolonial Vietnam a young man searches for the story of his mother, who was punished for an out-of-wedlock pregnancy.",
+      "cast": [
+        "Truong Ngoc Anh",
+        "Truong Huu Quy",
+        "Nguyen Manh Thang"
+      ],
+      "page": 26
+    },
+    {
+      "title": "The Bridge So Far: A Suspense Story",
+      "original_title": null,
+      "directors": [
+        "David L. Brown"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2005,
+      "runtime_min": 56,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-08",
+          "time": "12:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A documentary on the delays and cost overruns in rebuilding the eastern span of the San Francisco–Oakland Bay Bridge.",
+      "cast": [],
+      "page": 26
+    },
+    {
+      "title": "My Eyes Were Fresh, The Life and Photographs of John Gutmann",
+      "original_title": null,
+      "directors": [
+        "Jane Reed"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2005,
+      "runtime_min": 30,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-08",
+          "time": "12:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A look at San Francisco history through the work of photographer John Gutmann.",
+      "cast": [],
+      "page": 26
+    },
+    {
+      "title": "Brotherly Jazz: The Music and Stories of Percy, Jimmy and Albert \"Tootie\" Heath",
+      "original_title": null,
+      "directors": [
+        "Jesse Block"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2005,
+      "runtime_min": 73,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": "Official Premiere Selection",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-07",
+          "time": "7:15 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-08",
+          "time": "9:30 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "A tribute to the three Heath brothers, Philadelphia jazz musicians, mixing interviews and performances.",
+      "cast": [],
+      "page": 27
+    },
+    {
+      "title": "Bye-Bye Blackbird",
+      "original_title": null,
+      "directors": [
+        "Robinson Savary"
+      ],
+      "countries": [
+        "Luxembourg",
+        "Germany",
+        "UK",
+        "Austria"
+      ],
+      "film_year": 2005,
+      "runtime_min": 99,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": "Official Premiere Selection",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-14",
+          "time": "8:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2005-10-16",
+          "time": "1:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "In the early 20th century a former construction worker becomes a trapeze artist paired with a circus owner's daughter.",
+      "cast": [
+        "James Thiérée",
+        "Izabella Miko",
+        "Derek Jacobi",
+        "Jodhi May",
+        "Michael Lonsdale"
+      ],
+      "page": 27
+    },
+    {
+      "title": "The Californians",
+      "original_title": null,
+      "directors": [
+        "Jonathan Parker"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2005,
+      "runtime_min": 91,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": "Official Premiere Selection",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-08",
+          "time": "2:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-12",
+          "time": "6:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A Marin developer and his environmentalist sister both fall for a folksinger protesting his housing project, updating Henry James's The Bostonians.",
+      "cast": [
+        "Noah Wyle",
+        "Illeana Douglas",
+        "Kate Mara",
+        "Cloris Leachman",
+        "Keith Carradine",
+        "Valerie Perrine"
+      ],
+      "page": 27
+    },
+    {
+      "title": "Carpatia",
+      "original_title": null,
+      "directors": [
+        "Andrzej Klamt",
+        "Ulrich Rydzewski"
+      ],
+      "countries": [
+        "Germany",
+        "Austria"
+      ],
+      "film_year": 2004,
+      "runtime_min": 127,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": "Official Premiere Selection",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-09",
+          "time": "12:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2005-10-13",
+          "time": "9:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A portrait of the people and villages of the remote region where Romania, Slovakia, Hungary, Poland and Ukraine meet.",
+      "cast": [],
+      "page": 27
+    },
+    {
+      "title": "Dalecarlians",
+      "original_title": null,
+      "directors": [
+        "Maria Blom"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "film_year": 2004,
+      "runtime_min": 98,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-14",
+          "time": "6:30 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2005-10-16",
+          "time": "12:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A single woman returns from the city to her rural Swedish hometown for her father's 70th birthday and clashes with her sisters.",
+      "cast": [
+        "Sofia Helin",
+        "Kajsa Ernst",
+        "Ann Petrén",
+        "Lars G. Aronsson",
+        "Barbro Enberg",
+        "Joakim Lindberg"
+      ],
+      "page": 28
+    },
+    {
+      "title": "Dallas Among Us",
+      "original_title": null,
+      "directors": [
+        "Adrian Robert Pejo"
+      ],
+      "countries": [
+        "Hungary",
+        "Germany",
+        "Austria"
+      ],
+      "film_year": 2005,
+      "runtime_min": 93,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": "Official Premiere Selection",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-08",
+          "time": "4:30 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-13",
+          "time": "6:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A young Roma teacher returns to his shantytown home beside a Romanian garbage dump to bury his father and is drawn back in.",
+      "cast": [],
+      "page": 28
+    },
+    {
+      "title": "Delwende",
+      "original_title": null,
+      "directors": [
+        "S. Pierre Yaméogo"
+      ],
+      "countries": [
+        "Burkina Faso",
+        "France"
+      ],
+      "film_year": 2005,
+      "runtime_min": 90,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": "Official Premiere Selection",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-09",
+          "time": "7:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2005-10-13",
+          "time": "8:45 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "After her mother is accused of witchcraft and banished from their village, a young woman goes to the city to find her.",
+      "cast": [
+        "Blandine Yaméogo",
+        "Claire Ilboudo",
+        "Célestin Zongo"
+      ],
+      "page": 28
+    },
+    {
+      "title": "The Devil's Miner",
+      "original_title": null,
+      "directors": [
+        "Kief Davidson",
+        "Richard Ladkani"
+      ],
+      "countries": [
+        "Germany",
+        "US"
+      ],
+      "film_year": 2005,
+      "runtime_min": 82,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-08",
+          "time": "1:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2005-10-09",
+          "time": "3:30 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "A 14-year-old boy supports his family by working in Bolivia's Cerro Rico silver mines.",
+      "cast": [],
+      "page": 28
+    },
+    {
+      "title": "Taubman Sucks",
+      "original_title": null,
+      "directors": [
+        "Theo Lipfert"
+      ],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": 7,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Different Drummers",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-09",
+          "time": "5:30 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "A monologue on the ethics of globalization.",
+      "cast": [],
+      "page": 29
+    },
+    {
+      "title": "Fast Crapper",
+      "original_title": null,
+      "directors": [
+        "Renate Fleischer"
+      ],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": 7,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Different Drummers",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-09",
+          "time": "5:30 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "Celebrates the quirks of small-town life.",
+      "cast": [],
+      "page": 29
+    },
+    {
+      "title": "Unhitched",
+      "original_title": null,
+      "directors": [
+        "Erin Hudson",
+        "Ben Wu"
+      ],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": 13,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Different Drummers",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-09",
+          "time": "5:30 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "Mobile-home residents struggle to hold on in an increasingly affluent community.",
+      "cast": [],
+      "page": 29
+    },
+    {
+      "title": "Passion With a Pedigree",
+      "original_title": null,
+      "directors": [
+        "Beth Armstrong"
+      ],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": 6,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Different Drummers",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-09",
+          "time": "5:30 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "A story of lasting love in Australia.",
+      "cast": [],
+      "page": 29
+    },
+    {
+      "title": "City of Mermaids",
+      "original_title": null,
+      "directors": [
+        "Leah Wolchok"
+      ],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": 16,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Different Drummers",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-09",
+          "time": "5:30 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "Meets a group of senior women who perform as mermaids at Weekiwachee Spring, Florida.",
+      "cast": [],
+      "page": 29
+    },
+    {
+      "title": "Smitten",
+      "original_title": null,
+      "directors": [
+        "Nancy Kelly"
+      ],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": 29,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Different Drummers",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-09",
+          "time": "5:30 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "A portrait of Northern California art collector Rene di Rosa and his collection.",
+      "cast": [],
+      "page": 29
+    },
+    {
+      "title": "Butterfly Man",
+      "original_title": null,
+      "directors": [
+        "Samantha Rebillet"
+      ],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": 6,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Different Drummers",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-09",
+          "time": "5:30 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "A gentle look at a man beginning to emerge from his cocoon.",
+      "cast": [],
+      "page": 29
+    },
+    {
+      "title": "Drum",
+      "original_title": null,
+      "directors": [
+        "Zola Maseko"
+      ],
+      "countries": [
+        "US",
+        "South Africa"
+      ],
+      "film_year": 2004,
+      "runtime_min": 94,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-14",
+          "time": "6:15 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2005-10-16",
+          "time": "2:15 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "Based on the true story of Drum magazine journalist Henry Nxumalo, who exposed apartheid abuses in 1950s Sophiatown.",
+      "cast": [
+        "Taye Diggs",
+        "Jason Flemyng",
+        "Gabriel Mann",
+        "Tumisho Masha",
+        "Moshidi Motshegwa",
+        "Tanya Baleson"
+      ],
+      "page": 29
+    },
+    {
+      "title": "Ellektra",
+      "original_title": null,
+      "directors": [
+        "Rudolf Mestdagh"
+      ],
+      "countries": [
+        "Belgium",
+        "Germany",
+        "Netherlands"
+      ],
+      "film_year": 2005,
+      "runtime_min": 103,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-11",
+          "time": "8:45 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-15",
+          "time": "5:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "In a mob-run Brussels a dozen strangers each lose the thing they love most.",
+      "cast": [
+        "Axelle Red",
+        "Gert Portael",
+        "Serge-Henri Valcke",
+        "Matthias Schoenaerts"
+      ],
+      "page": 29
+    },
+    {
+      "title": "The Fakir",
+      "original_title": null,
+      "directors": [
+        "Peter Flinth"
+      ],
+      "countries": [
+        "Denmark"
+      ],
+      "film_year": 2004,
+      "runtime_min": 90,
+      "language": "Danish with English subtitles",
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": "Western US Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-08",
+          "time": "11:30 AM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-12",
+          "time": "4:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Twins who move into a creepy old mansion free a magician trapped in a pen and battle jewel thieves.",
+      "cast": [
+        "Sidse Babett Knudsen",
+        "Moritz Bleibtreu",
+        "Julie Zangenberg",
+        "Aksel Leth",
+        "Ole Thestrup",
+        "Lisa Nilsson"
+      ],
+      "page": 29
+    },
+    {
+      "title": "Fateless",
+      "original_title": null,
+      "directors": [
+        "Lajos Koltai"
+      ],
+      "countries": [
+        "Hungary"
+      ],
+      "film_year": 2005,
+      "runtime_min": 130,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-09",
+          "time": "5:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2005-10-10",
+          "time": "8:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Adapted from Imre Kertész's novel, a 14-year-old Budapest boy survives the Nazi concentration camps and struggles to make sense of his experience.",
+      "cast": [
+        "Marcell Nagy",
+        "Áron Dimény",
+        "András M. Kecskés",
+        "József Gyabronka",
+        "Endre Harkányi",
+        "Daniel Craig"
+      ],
+      "page": 30
+    },
+    {
+      "title": "Forty Shades of Blue",
+      "original_title": null,
+      "directors": [
+        "Ira Sachs"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2005,
+      "runtime_min": 107,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-07",
+          "time": "9:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A young Russian woman living in Memphis with an aging music producer begins an affair with his son.",
+      "cast": [
+        "Rip Torn",
+        "Dina Korzun",
+        "Darren Burrows",
+        "Paprika Steen",
+        "Red West",
+        "Jenny O'Hara"
+      ],
+      "page": 30
+    },
+    {
+      "title": "Frisbee: The Life and Death of a Hippie Preacher",
+      "original_title": null,
+      "directors": [
+        "David Di Sabatino"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2005,
+      "runtime_min": 95,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-12",
+          "time": "7:15 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-16",
+          "time": "4:00 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "The story of Lonnie Frisbee, a charismatic Jesus-movement evangelist who was later pushed out of his ministry for being gay.",
+      "cast": [],
+      "page": 30
+    },
+    {
+      "title": "Frozen Angels",
+      "original_title": null,
+      "directors": [
+        "Eric Black",
+        "Frauke Sandig"
+      ],
+      "countries": [
+        "US",
+        "Germany",
+        "France"
+      ],
+      "film_year": 2005,
+      "runtime_min": 92,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-09",
+          "time": "3:45 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-10",
+          "time": "6:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "An examination of reproductive technology in Los Angeles, from surrogacy to egg donation to sex selection.",
+      "cast": [],
+      "page": 30
+    },
+    {
+      "title": "Frozen Land",
+      "original_title": null,
+      "directors": [
+        "Aku Louhimies"
+      ],
+      "countries": [
+        "Finland"
+      ],
+      "film_year": 2005,
+      "runtime_min": 124,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": "Official Premiere Selection",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-13",
+          "time": "9:30 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2005-10-15",
+          "time": "2:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A forged 500-euro note sets off a chain of misfortunes linking several lives in Helsinki.",
+      "cast": [
+        "Jasper Paakkonen",
+        "Mikko Leppilampi",
+        "Pamela Tola",
+        "Petteri Summanen",
+        "Matleena Kuushiemi",
+        "Mikko Kouki"
+      ],
+      "page": 31
+    },
+    {
+      "title": "The Girl from Auschwitz",
+      "original_title": null,
+      "directors": [
+        "Stefan Jarl"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "film_year": 2005,
+      "runtime_min": 76,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": "Official Premiere Selection",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-08",
+          "time": "3:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A portrait of journalist and Auschwitz survivor Cordelia Edvardson, who reports on injustice in the Israeli-Palestinian conflict from Jerusalem.",
+      "cast": [],
+      "page": 31
+    },
+    {
+      "title": "Poumy",
+      "original_title": null,
+      "directors": [
+        "Sam Ball"
+      ],
+      "countries": [
+        "France",
+        "US"
+      ],
+      "film_year": 2004,
+      "runtime_min": 30,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-08",
+          "time": "3:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "An ordinary young French Jewish mother becomes a committed member of the underground resistance.",
+      "cast": [],
+      "page": 31
+    },
+    {
+      "title": "Girlfriend, Someone Please Stop the World",
+      "original_title": null,
+      "directors": [
+        "Ryuichi Hiroki"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "film_year": 2004,
+      "runtime_min": 105,
+      "language": null,
+      "section": "V(ision)Fest",
+      "slot": null,
+      "premiere": "Official Premiere Selection",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-07",
+          "time": "7:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A photographer and a hairdresser searching for her father form a deep bond in Japan.",
+      "cast": [
+        "Kinuo Yamada",
+        "Aoba Kawai",
+        "Tomorrowo Taguchi"
+      ],
+      "page": 31
+    },
+    {
+      "title": "Guernsey",
+      "original_title": null,
+      "directors": [
+        "Nanouk Leopold"
+      ],
+      "countries": [
+        "Belgium",
+        "Netherlands"
+      ],
+      "film_year": 2005,
+      "runtime_min": 90,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": "Official Premiere Selection",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-07",
+          "time": "9:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2005-10-11",
+          "time": "9:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "An aid worker begins to question her closest relationships after a seemingly happy colleague commits suicide.",
+      "cast": [
+        "Fedja van Huêt",
+        "Maria Kraakman",
+        "Johanna ter Steege",
+        "Frank Vercruyssen"
+      ],
+      "page": 31
+    },
+    {
+      "title": "The Hi De Ho Show",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "V(ision)Fest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "John Goddard"
+      ],
+      "screenings": [
+        {
+          "date": "2005-10-08",
+          "time": "10:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "John Goddard presents music and culture clips from the 1960s drawn from his personal video archive.",
+      "cast": [],
+      "page": 32
+    },
+    {
+      "title": "Hidden Flaws",
+      "original_title": null,
+      "directors": [
+        "Paula van der Oest"
+      ],
+      "countries": [
+        "Netherlands"
+      ],
+      "film_year": 2004,
+      "runtime_min": 92,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": "Official Premiere Selection",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-09",
+          "time": "1:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "An elderly Dutch woman in Scotland shelters two runaway children and finds she has much in common with the girl.",
+      "cast": [
+        "Henry Orri",
+        "Priscilla Knetemann",
+        "Bram van den Hooven"
+      ],
+      "page": 32
+    },
+    {
+      "title": "Highway Courtesans",
+      "original_title": null,
+      "directors": [
+        "Mystelle Brabbeé"
+      ],
+      "countries": [
+        "US",
+        "India"
+      ],
+      "film_year": 2005,
+      "runtime_min": 71,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-15",
+          "time": "3:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Filmed over nearly ten years, a young woman tries to escape the hereditary prostitution of her central Indian community.",
+      "cast": [],
+      "page": 32
+    },
+    {
+      "title": "Homeland: Four Portraits of Native Action",
+      "original_title": null,
+      "directors": [
+        "Roberta Grossman"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2005,
+      "runtime_min": 88,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-12",
+          "time": "9:15 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2005-10-14",
+          "time": "6:45 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "Native American activists in Alaska, Montana, New Mexico and Maine fight to protect their lands and cultures.",
+      "cast": [],
+      "page": 32
+    },
+    {
+      "title": "Hoppity Goes to Town",
+      "original_title": null,
+      "directors": [
+        "Dave Fleischer"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 1941,
+      "runtime_min": 78,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-09",
+          "time": "11:30 AM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "An animated feature in which a community of insects in a city lot is threatened by construction.",
+      "cast": [],
+      "page": 33
+    },
+    {
+      "title": "Immediate Boarding",
+      "original_title": null,
+      "directors": [
+        "Ella Lemhagen"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "film_year": 2003,
+      "runtime_min": 89,
+      "language": "Swedish with English subtitles",
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-09",
+          "time": "10:00 AM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2005-10-11",
+          "time": "4:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Two look-alike children who meet at an airport swap places on their way to visit their divorced parents.",
+      "cast": [
+        "Amanda Davin",
+        "Helena AF Sandeberg",
+        "Jørgen Langhelle",
+        "Torkel Petersson"
+      ],
+      "page": 33
+    },
+    {
+      "title": "In Memory of My Father",
+      "original_title": null,
+      "directors": [
+        "Christopher Jaymes"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2005,
+      "runtime_min": 96,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-08",
+          "time": "6:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2005-10-09",
+          "time": "4:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A Hollywood producer's dysfunctional sons gather for his wake while the youngest films it, as their father requested.",
+      "cast": [
+        "Jeremy Sisto",
+        "Christopher Jaymes",
+        "Judy Greer",
+        "Monet Mazur",
+        "Matt Keeslar",
+        "Eric Michael Cole"
+      ],
+      "page": 33
+    },
+    {
+      "title": "The Incomparable Miss C.",
+      "original_title": null,
+      "directors": [
+        "Richard Ciupka"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "film_year": 2004,
+      "runtime_min": 105,
+      "language": "French with English subtitles",
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-16",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A woman who becomes a dreary town's self-appointed letter carrier brings joy back to its residents and opposes a casino mogul.",
+      "cast": [
+        "Marie-Chantal Perron",
+        "Pierre Lebeau"
+      ],
+      "page": 33
+    },
+    {
+      "title": "Innocent Voices",
+      "original_title": null,
+      "directors": [
+        "Luis Mandoki"
+      ],
+      "countries": [
+        "Mexico",
+        "US",
+        "Puerto Rico"
+      ],
+      "film_year": 2004,
+      "runtime_min": 120,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-10",
+          "time": "6:30 PM",
+          "venue": "Century Cinema"
+        }
+      ],
+      "summary": "An 11-year-old boy in 1980s El Salvador faces conscription into the civil war.",
+      "cast": [
+        "Carlos Padilla",
+        "Leonor Varela",
+        "Gustavo Muñoz",
+        "José María Yazpik",
+        "Ofelia Medina",
+        "Daniel Giménez Cacho"
+      ],
+      "page": 34
+    },
+    {
+      "title": "iThemba | Hope",
+      "original_title": null,
+      "directors": [
+        "Keefe Murren",
+        "Nelson Walker"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2005,
+      "runtime_min": 58,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-08",
+          "time": "5:15 PM",
+          "venue": "142 Throckmorton"
+        },
+        {
+          "date": "2005-10-12",
+          "time": "7:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A young South African woman living with AIDS becomes an inspiring spokeswoman and travels with her HIV-positive choir to an AIDS conference.",
+      "cast": [],
+      "page": 34
+    },
+    {
+      "title": "Rosevelt's America",
+      "original_title": null,
+      "directors": [
+        "Roger Weisberg",
+        "Tod Lending"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2004,
+      "runtime_min": 26,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-08",
+          "time": "5:15 PM",
+          "venue": "142 Throckmorton"
+        },
+        {
+          "date": "2005-10-12",
+          "time": "7:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A Liberian immigrant sees the overlooked virtues of American life while struggling with work and separation from his wife.",
+      "cast": [],
+      "page": 34
+    },
+    {
+      "title": "The Lady from Sockholm",
+      "original_title": null,
+      "directors": [
+        "Eddy Von Mueller",
+        "Evan Lieberman"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2005,
+      "runtime_min": 71,
+      "language": null,
+      "section": "V(ision)Fest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-08",
+          "time": "4:15 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2005-10-15",
+          "time": "12:00 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "A 1940s film-noir parody performed entirely by sock puppets.",
+      "cast": [
+        "Vince Tortorici",
+        "Chris Clabe",
+        "Eric Guins",
+        "Reay Kaplan",
+        "Melanie Parker",
+        "Annie Petere"
+      ],
+      "page": 34
+    },
+    {
+      "title": "The Blue Aspic",
+      "original_title": null,
+      "directors": [
+        "Thomas J. Cabela"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2004,
+      "runtime_min": 13,
+      "language": null,
+      "section": "V(ision)Fest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-08",
+          "time": "4:15 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2005-10-15",
+          "time": "12:00 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "A darkly comic miniature film noir based on a tale by Edward Gorey.",
+      "cast": [],
+      "page": 34
+    },
+    {
+      "title": "The Last Moon",
+      "original_title": null,
+      "directors": [
+        "Miguel Littin"
+      ],
+      "countries": [
+        "Chile"
+      ],
+      "film_year": 2004,
+      "runtime_min": 105,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-09",
+          "time": "8:30 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-11",
+          "time": "9:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "In 1914 Palestine, a newly arrived Argentinian Jew buys land from a Palestinian Christian and the two become friends as conflict grows.",
+      "cast": [
+        "Ayman Zbu Zoulouf",
+        "Tamara Acosta",
+        "Alejandro Goic",
+        "Francisca Merino"
+      ],
+      "page": 34
+    },
+    {
+      "title": "Lepel",
+      "original_title": null,
+      "directors": [
+        "Willem van de Sande Bakhuyzen"
+      ],
+      "countries": [
+        "Netherlands"
+      ],
+      "film_year": 2005,
+      "runtime_min": 92,
+      "language": "Dutch with English subtitles",
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-14",
+          "time": "4:15 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2005-10-16",
+          "time": "10:00 AM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A lonely 9-year-old boy living with his button-smuggling grandmother searches for a family.",
+      "cast": [
+        "Loes Luca",
+        "Carke van Houten",
+        "Barry Atsma",
+        "Joep Truijen",
+        "Neelhe de Vree",
+        "Kees Hulst"
+      ],
+      "page": 35
+    },
+    {
+      "title": "XL",
+      "original_title": null,
+      "directors": [],
+      "countries": [
+        "Netherlands"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": "Dutch with English subtitles",
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Let the Children Lead",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-08",
+          "time": "10:30 AM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "Two girls and a boy offer alternatives to negative body image.",
+      "cast": [],
+      "page": 35
+    },
+    {
+      "title": "Flutter Kick",
+      "original_title": null,
+      "directors": [],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Let the Children Lead",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-08",
+          "time": "10:30 AM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "A boy cannot bring himself to take off his T-shirt while swimming.",
+      "cast": [],
+      "page": 35
+    },
+    {
+      "title": "The Little Terrorist",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": "English",
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Let the Children Lead",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-08",
+          "time": "10:30 AM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "A Pakistani child wanders across an invisible border.",
+      "cast": [],
+      "page": 35
+    },
+    {
+      "title": "Mighty Times: The Children's March",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Let the Children Lead",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-08",
+          "time": "10:30 AM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "Young people take the lead in the civil rights actions of the 1960s.",
+      "cast": [],
+      "page": 35
+    },
+    {
+      "title": "Live and Become",
+      "original_title": null,
+      "directors": [
+        "Radu Mihaileanu"
+      ],
+      "countries": [
+        "France",
+        "Brazil",
+        "Israel",
+        "Italy"
+      ],
+      "film_year": 2005,
+      "runtime_min": 148,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-11",
+          "time": "6:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A non-Jewish Ethiopian boy is airlifted to Israel under a dead child's identity during Operation Moses and grows up keeping his secret.",
+      "cast": [
+        "Yael Abecassis",
+        "Roschdy Zem",
+        "Moshe Agazai",
+        "Mosche Abebe",
+        "Sirak M. Sabahat",
+        "Roni Hadar"
+      ],
+      "page": 35
+    },
+    {
+      "title": "Max and Josef: Double Trouble",
+      "original_title": null,
+      "directors": [
+        "Erik Leijonborg"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "film_year": 2004,
+      "runtime_min": 82,
+      "language": "Swedish with English subtitles",
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-08",
+          "time": "10:00 AM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-15",
+          "time": "10:15 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Jealous of his new baby sister, an 8-year-old boy takes bad advice from a scheming talking turtle.",
+      "cast": [
+        "Axel Skogberg",
+        "Per Svensson",
+        "Tintin Anderzon",
+        "Johan Rheborg",
+        "Leo Holm",
+        "Jonas Karlsson"
+      ],
+      "page": 35
+    },
+    {
+      "title": "The Milk Can",
+      "original_title": null,
+      "directors": [
+        "Matt Kresling"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2005,
+      "runtime_min": 95,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-14",
+          "time": "7:15 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2005-10-15",
+          "time": "9:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "When the annual football game between two rural Northern California towns is called off, their rivalry turns into actual war.",
+      "cast": [
+        "Grady Cousins",
+        "Donna Wieczorkowski",
+        "Bennett Jones",
+        "Wes Atkinson",
+        "Joe Collins"
+      ],
+      "page": 36
+    },
+    {
+      "title": "Moon and Cherry",
+      "original_title": null,
+      "directors": [
+        "Yuki Tanada"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "film_year": 2004,
+      "runtime_min": 82,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": "Official Premiere Selection",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-09",
+          "time": "8:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A college student in an erotic-fiction writing club becomes the subject of a female member's sexual research.",
+      "cast": [
+        "Noriko Eguchi",
+        "Tasuku Nagaoka",
+        "Misato Hirata",
+        "Akira Emoto"
+      ],
+      "page": 36
+    },
+    {
+      "title": "Music Is My Life, Politics My Mistress",
+      "original_title": null,
+      "directors": [
+        "Donnie L. Betts"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2005,
+      "runtime_min": 110,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-09",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-10",
+          "time": "9:00 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "A biographical portrait of Oscar Brown Jr., jazz singer, playwright, poet and political activist.",
+      "cast": [],
+      "page": 36
+    },
+    {
+      "title": "My Nikifor",
+      "original_title": null,
+      "directors": [
+        "Krzysztof Krauze"
+      ],
+      "countries": [
+        "Poland"
+      ],
+      "film_year": 2004,
+      "runtime_min": 100,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": "Official Premiere Selection",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-14",
+          "time": "6:30 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-16",
+          "time": "12:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Based on a true story, a cantankerous Polish folk painter takes over a state painter's studio and upends his life.",
+      "cast": [
+        "Krystyna Feldman",
+        "Roman Gancarczyk",
+        "Lucyna Malec",
+        "Jerzy Gudejko",
+        "Artur Steranko",
+        "Jowita Miondlikowska"
+      ],
+      "page": 36
+    },
+    {
+      "title": "My Tiny Universe",
+      "original_title": null,
+      "directors": [
+        "Glen Scantlebury",
+        "Lucy Phillips"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2004,
+      "runtime_min": 94,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-07",
+          "time": "6:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2005-10-12",
+          "time": "9:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A washed-up actor lures a sleazy Hollywood producer to his home and toys with his cell phone in a Tinseltown satire.",
+      "cast": [
+        "John Heard",
+        "Lesley Ann Warren",
+        "Debi Mazar",
+        "Andy Comeau"
+      ],
+      "page": 37
+    },
+    {
+      "title": "Ruby's Tuesday",
+      "original_title": null,
+      "directors": [
+        "Heather Cappiello"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2005,
+      "runtime_min": 11,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-07",
+          "time": "6:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2005-10-12",
+          "time": "9:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A woman weighs whether to give in to temptation one afternoon.",
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "Need",
+      "original_title": null,
+      "directors": [
+        "Rob Nilsson"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2004,
+      "runtime_min": 95,
+      "language": null,
+      "section": "V(ision)Fest",
+      "slot": null,
+      "premiere": "Official Premiere Selection",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-13",
+          "time": "7:15 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2005-10-14",
+          "time": "9:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "Women of San Francisco's Tenderloin, including a mother and daughter, struggle through a day during a solar eclipse.",
+      "cast": [
+        "Brette McCabe",
+        "Marianne Heath",
+        "Diane Galdry",
+        "Gabriela Maltz-Larkin",
+        "David Fine",
+        "Cory Duval"
+      ],
+      "page": 37
+    },
+    {
+      "title": "Under the Rainbow",
+      "original_title": "Niji No Shita Ni",
+      "directors": [
+        "J.R. Heffelfinger"
+      ],
+      "countries": [
+        "Japan",
+        "US"
+      ],
+      "film_year": 2005,
+      "runtime_min": 75,
+      "language": null,
+      "section": "V(ision)Fest",
+      "slot": null,
+      "premiere": "Official Premiere Selection",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-15",
+          "time": "4:00 PM",
+          "venue": "142 Throckmorton"
+        },
+        {
+          "date": "2005-10-16",
+          "time": "12:15 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "An overworked, unappreciated Japanese office worker escapes into his imagination.",
+      "cast": [
+        "Yasuda Haruki",
+        "Abe Shigeyoshi",
+        "Junyko Takahashi",
+        "Oshigane Atsuko",
+        "Shibayama Tokio",
+        "Yasunori Yoshimi"
+      ],
+      "page": 37
+    },
+    {
+      "title": "Depression Served Six Ways",
+      "original_title": null,
+      "directors": [
+        "Christian Svanes Kolding"
+      ],
+      "countries": [
+        "Denmark"
+      ],
+      "film_year": 2005,
+      "runtime_min": 16,
+      "language": null,
+      "section": "V(ision)Fest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-15",
+          "time": "4:00 PM",
+          "venue": "142 Throckmorton"
+        },
+        {
+          "date": "2005-10-16",
+          "time": "12:15 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "Danish condominium residents nervously await a Nostradamus prophecy.",
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "North Country",
+      "original_title": null,
+      "directors": [
+        "Niki Caro"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2005,
+      "runtime_min": 130,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": "Official Premiere Selection",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-08",
+          "time": "9:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-10",
+          "time": "8:45 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A single mother working in a northern Minnesota mine stands up against the harassment of women workers, based on a true story.",
+      "cast": [
+        "Charlize Theron",
+        "Frances McDormand",
+        "Sissy Spacek",
+        "Woody Harrelson",
+        "Sean Bean",
+        "Richard Jenkins"
+      ],
+      "page": 37
+    },
+    {
+      "title": "One Love",
+      "original_title": null,
+      "directors": [
+        "Rick Elgood",
+        "Don Letts"
+      ],
+      "countries": [
+        "UK",
+        "Jamaica"
+      ],
+      "film_year": 2003,
+      "runtime_min": 96,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-12",
+          "time": "8:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2005-10-15",
+          "time": "9:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A Rasta musician and a minister's daughter from a gospel choir fall in love at a Jamaican music competition.",
+      "cast": [
+        "Ky-mani Marley",
+        "Cherine Anderson",
+        "Idris Elba"
+      ],
+      "page": 38
+    },
+    {
+      "title": "Paradise Now",
+      "original_title": null,
+      "directors": [
+        "Hany Abu-Assad"
+      ],
+      "countries": [
+        "France",
+        "Germany",
+        "Netherlands",
+        "Israel"
+      ],
+      "film_year": 2005,
+      "runtime_min": 94,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-15",
+          "time": "7:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-16",
+          "time": "6:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Two childhood friends in Nablus spend 24 hours preparing to become suicide bombers.",
+      "cast": [
+        "Kais Nashef",
+        "Ali Suliman",
+        "Luba Azabal",
+        "Amer Hlehel",
+        "Haim Abbass"
+      ],
+      "page": 38
+    },
+    {
+      "title": "Pelican Man",
+      "original_title": null,
+      "directors": [
+        "Liisa Helminen"
+      ],
+      "countries": [
+        "Finland"
+      ],
+      "film_year": 2004,
+      "runtime_min": 89,
+      "language": "Finnish with English subtitles",
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Liisa Helminen"
+      ],
+      "screenings": [
+        {
+          "date": "2005-10-13",
+          "time": "4:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2005-10-16",
+          "time": "2:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A 10-year-old boy befriends a pelican disguised as a man and teaches him human ways.",
+      "cast": [
+        "Kari Ketonen",
+        "Roni Haarakangas",
+        "Inka Nuorgam"
+      ],
+      "page": 38
+    },
+    {
+      "title": "El Perro Negro: Stories from the Spanish Civil War",
+      "original_title": null,
+      "directors": [
+        "Péter Forgács"
+      ],
+      "countries": [
+        "Netherlands"
+      ],
+      "film_year": 2005,
+      "runtime_min": 84,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-07",
+          "time": "9:30 PM",
+          "venue": "142 Throckmorton"
+        },
+        {
+          "date": "2005-10-15",
+          "time": "12:15 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "Home movies, photos and letters trace two men's lives in Spain before and during the civil war.",
+      "cast": [],
+      "page": 38
+    },
+    {
+      "title": "A Piece of Bread",
+      "original_title": null,
+      "directors": [
+        "Kamal Tabrizi"
+      ],
+      "countries": [
+        "Iran"
+      ],
+      "film_year": 2005,
+      "runtime_min": 93,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-08",
+          "time": "12:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A naive soldier, his officer and a mullah travel to investigate a reported miracle in a remote village.",
+      "cast": [
+        "Esmeel Khalaj",
+        "Ahmad Aghaloo",
+        "Reza Kianian",
+        "Roya Nonahal"
+      ],
+      "page": 39
+    },
+    {
+      "title": "Press On",
+      "original_title": null,
+      "directors": [
+        "Gillian Grisman"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2005,
+      "runtime_min": 77,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-15",
+          "time": "4:30 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-16",
+          "time": "2:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Traces the sacred steel guitar tradition of American churches and its rise to rock audiences through Robert Randolph.",
+      "cast": [],
+      "page": 39
+    },
+    {
+      "title": "The Big Race",
+      "original_title": null,
+      "directors": [
+        "Phil Aupperle"
+      ],
+      "countries": [
+        "US",
+        "Madagascar"
+      ],
+      "film_year": 2004,
+      "runtime_min": 6,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-15",
+          "time": "4:30 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-16",
+          "time": "2:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Two boys make their own fun in Antsirabe, Madagascar.",
+      "cast": [],
+      "page": 39
+    },
+    {
+      "title": "Prime",
+      "original_title": null,
+      "directors": [
+        "Ben Younger"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2005,
+      "runtime_min": 111,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-11",
+          "time": "7:00 PM",
+          "venue": "Century Cinema"
+        }
+      ],
+      "summary": "A recently divorced 37-year-old Manhattan career woman falls for a 23-year-old painter while her therapist helps her through the aftermath of her divorce.",
+      "cast": [
+        "Meryl Streep",
+        "Uma Thurman",
+        "Bryan Greenberg",
+        "Jon Abrahams"
+      ],
+      "page": 39
+    },
+    {
+      "title": "The Queen of Sheba's Pearls",
+      "original_title": null,
+      "directors": [
+        "Colin Nutley"
+      ],
+      "countries": [
+        "Sweden",
+        "UK"
+      ],
+      "film_year": 2004,
+      "runtime_min": 132,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": "Official Premiere Selection",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-07",
+          "time": "9:15 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-09",
+          "time": "8:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "In postwar England a stranger who looks exactly like a family's late mother arrives and stays on as their housekeeper.",
+      "cast": [
+        "Helena Bergström",
+        "Lorcan Cranitch",
+        "Tim Dutton",
+        "Lindsay Duncan",
+        "Rolf Lassgård",
+        "Natasha Little"
+      ],
+      "page": 39
+    },
+    {
+      "title": "Race Is the Place",
+      "original_title": null,
+      "directors": [
+        "Ray Telles",
+        "Rick Tejada-Flores"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2005,
+      "runtime_min": 91,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-15",
+          "time": "6:45 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "Performance artists, comics and poets turn experiences of racism into art.",
+      "cast": [],
+      "page": 40
+    },
+    {
+      "title": "Return to the Land of Wonders",
+      "original_title": null,
+      "directors": [
+        "Maysoon Pachachi"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "film_year": 2005,
+      "runtime_min": 91,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-07",
+          "time": "7:00 PM",
+          "venue": "142 Throckmorton"
+        },
+        {
+          "date": "2005-10-09",
+          "time": "12:15 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "An Iraqi-born filmmaker returns to Iraq in 2004 with her father, who heads the committee drafting the new constitution.",
+      "cast": [],
+      "page": 40
+    },
+    {
+      "title": "An Iraqi Lullaby",
+      "original_title": null,
+      "directors": [
+        "Allie Light",
+        "Irving Saraf"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2005,
+      "runtime_min": 6,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-07",
+          "time": "7:00 PM",
+          "venue": "142 Throckmorton"
+        },
+        {
+          "date": "2005-10-09",
+          "time": "12:15 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A requiem for the children lost to the war in Iraq.",
+      "cast": [],
+      "page": 40
+    },
+    {
+      "title": "Romantico",
+      "original_title": null,
+      "directors": [
+        "Mark Becker"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2005,
+      "runtime_min": 80,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-16",
+          "time": "2:45 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A Mexican mariachi in San Francisco's Mission district struggles to support his family back home.",
+      "cast": [],
+      "page": 40
+    },
+    {
+      "title": "Police Blotter",
+      "original_title": null,
+      "directors": [
+        "Kristen Nutile"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2004,
+      "runtime_min": 4,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-16",
+          "time": "2:45 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "The view from a police patrol car exposes tensions between class and crime.",
+      "cast": [],
+      "page": 40
+    },
+    {
+      "title": "Round Trip",
+      "original_title": null,
+      "directors": [
+        "Alessandro Paci",
+        "Giancarlo Torri"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "film_year": 2003,
+      "runtime_min": 102,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": "Official Premiere Selection",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-14",
+          "time": "9:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2005-10-16",
+          "time": "12:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A bike messenger fleeing loan sharks and a flight attendant are stranded by an Italian airline strike and their paths cross.",
+      "cast": [
+        "Alessandro Paci",
+        "Flavia Vento",
+        "Erika Bernardi",
+        "Andrea Cambi",
+        "Marco Gialini",
+        "Bobo Rondelli"
+      ],
+      "page": 40
+    },
+    {
+      "title": "Saratan",
+      "original_title": null,
+      "directors": [
+        "Ernest Abdyshaparov"
+      ],
+      "countries": [
+        "Kyrgyzstan",
+        "Germany"
+      ],
+      "film_year": 2004,
+      "runtime_min": 85,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": "Official Premiere Selection",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-08",
+          "time": "4:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Absurd rules and scarcity unsettle a tiny Kyrgyz village after the fall of the Soviet Union.",
+      "cast": [
+        "Kümöndör Abylov",
+        "Askat Sulaimanov",
+        "Tabyldy Aktanov"
+      ],
+      "page": 41
+    },
+    {
+      "title": "Scared New World",
+      "original_title": null,
+      "directors": [
+        "Chris Brown"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2005,
+      "runtime_min": 82,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": "Official Premiere Selection",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-09",
+          "time": "7:45 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-12",
+          "time": "7:00 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "A substitute teacher, a pot-dealing single mother and a French exchange student share a house in Oakland.",
+      "cast": [
+        "Lena Zee",
+        "Fanny Ara-Herms",
+        "yahn soon",
+        "Harriet Schiffer-Scott",
+        "Zachary Schramm",
+        "Josh Millican"
+      ],
+      "page": 41
+    },
+    {
+      "title": "Shopgirl",
+      "original_title": null,
+      "directors": [
+        "Anand Tucker"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2005,
+      "runtime_min": 104,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-10",
+          "time": "7:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A young shop clerk is courted by both a wealthy older man and a struggling musician her own age.",
+      "cast": [
+        "Steve Martin",
+        "Claire Danes",
+        "Jason Schwartzman",
+        "Bridgette Wilson-Sampras"
+      ],
+      "page": 41
+    },
+    {
+      "title": "Duck for President",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Short Films for Little People",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-09",
+          "time": "11:00 AM",
+          "venue": "142 Throckmorton"
+        },
+        {
+          "date": "2005-10-15",
+          "time": "10:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Duck runs for office.",
+      "cast": [],
+      "page": 41
+    },
+    {
+      "title": "Rubber Duckling",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Short Films for Little People",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-09",
+          "time": "11:00 AM",
+          "venue": "142 Throckmorton"
+        },
+        {
+          "date": "2005-10-15",
+          "time": "10:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A rubber duck hunts for the perfect bathtub.",
+      "cast": [],
+      "page": 41
+    },
+    {
+      "title": "Feed the Starter",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Short Films for Little People",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-09",
+          "time": "11:00 AM",
+          "venue": "142 Throckmorton"
+        },
+        {
+          "date": "2005-10-15",
+          "time": "10:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Bread rises to music in Oakland.",
+      "cast": [],
+      "page": 41
+    },
+    {
+      "title": "Train and Truck",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Short Films for Little People",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-09",
+          "time": "11:00 AM",
+          "venue": "142 Throckmorton"
+        },
+        {
+          "date": "2005-10-15",
+          "time": "10:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Brings trains and trucks to a toddler's level, set to 1950s music.",
+      "cast": [],
+      "page": 41
+    },
+    {
+      "title": "How Do Dinosaurs Get Well Soon?",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Short Films for Little People",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-09",
+          "time": "11:00 AM",
+          "venue": "142 Throckmorton"
+        },
+        {
+          "date": "2005-10-15",
+          "time": "10:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Jane Yolen's story about how dinosaurs recover from being sick.",
+      "cast": [],
+      "page": 41
+    },
+    {
+      "title": "I Lost My Bear!",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Short Films for Little People",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-09",
+          "time": "11:00 AM",
+          "venue": "142 Throckmorton"
+        },
+        {
+          "date": "2005-10-15",
+          "time": "10:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Jules Feiffer's story of a little girl searching for her bear.",
+      "cast": [],
+      "page": 41
+    },
+    {
+      "title": "Arnie the Doughnut",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Short Films for Little People",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-09",
+          "time": "11:00 AM",
+          "venue": "142 Throckmorton"
+        },
+        {
+          "date": "2005-10-15",
+          "time": "10:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A doughnut looks for a person who won't eat him.",
+      "cast": [],
+      "page": 41
+    },
+    {
+      "title": "Pingu and the Band",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Short Films for Little People",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-09",
+          "time": "11:00 AM",
+          "venue": "142 Throckmorton"
+        },
+        {
+          "date": "2005-10-15",
+          "time": "10:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A new Pingu episode.",
+      "cast": [],
+      "page": 41
+    },
+    {
+      "title": "Pingu Digs a Hole",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Short Films for Little People",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-09",
+          "time": "11:00 AM",
+          "venue": "142 Throckmorton"
+        },
+        {
+          "date": "2005-10-15",
+          "time": "10:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A new Pingu episode.",
+      "cast": [],
+      "page": 41
+    },
+    {
+      "title": "Sir! No Sir!",
+      "original_title": null,
+      "directors": [
+        "David Zeiger"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2005,
+      "runtime_min": 83,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-08",
+          "time": "5:15 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-11",
+          "time": "7:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Chronicles the GI resistance movement within the US military during the Vietnam War.",
+      "cast": [],
+      "page": 42
+    },
+    {
+      "title": "The Sleeping Child",
+      "original_title": null,
+      "directors": [
+        "Yasmine Kassari"
+      ],
+      "countries": [
+        "Belgium",
+        "Morocco"
+      ],
+      "film_year": 2004,
+      "runtime_min": 110,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": "Official Premiere Selection",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-12",
+          "time": "6:15 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2005-10-15",
+          "time": "4:45 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "In a Moroccan village whose men have left to work in Europe, a pregnant young wife uses a charm to make her unborn child sleep.",
+      "cast": [
+        "Mounia Osfour",
+        "Rachida Brakni"
+      ],
+      "page": 42
+    },
+    {
+      "title": "So Close, So Far",
+      "original_title": null,
+      "directors": [
+        "Seyyed Reza Mir-Karimi"
+      ],
+      "countries": [
+        "Iran"
+      ],
+      "film_year": 2005,
+      "runtime_min": 121,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-13",
+          "time": "6:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-15",
+          "time": "12:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A self-absorbed neurologist learns his neglected son is terminally ill and travels into the desert to find him.",
+      "cast": [
+        "Masoud Raygan",
+        "Alshin Hashemi",
+        "Elham Hamidi"
+      ],
+      "page": 42
+    },
+    {
+      "title": "The Society of Jesus (The Jesuits)",
+      "original_title": null,
+      "directors": [
+        "Silvije Petranovic"
+      ],
+      "countries": [
+        "Croatia"
+      ],
+      "film_year": 2004,
+      "runtime_min": 95,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-09",
+          "time": "6:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-11",
+          "time": "8:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "In 17th-century Eastern Europe a Jesuit priest is pressed to coax a rich young widow into giving her wealth to the church while she seeks his affection.",
+      "cast": [
+        "Leona Paraminski",
+        "Milan Plestina",
+        "Ivica Vidovic"
+      ],
+      "page": 42
+    },
+    {
+      "title": "Sophie Scholl: The Last Days",
+      "original_title": null,
+      "directors": [
+        "Marc Rothemud"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "film_year": 2005,
+      "runtime_min": 117,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": "Official Premiere Selection",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-07",
+          "time": "6:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "White Rose resistance member Sophie Scholl faces Gestapo interrogation and a show trial in Nazi Germany.",
+      "cast": [
+        "Julia Jentsch",
+        "Alexander Held",
+        "Fabian Hinrichs",
+        "Johanna Gastdorf"
+      ],
+      "page": 43
+    },
+    {
+      "title": "Soul of Justice: Thelton Henderson's American Journey",
+      "original_title": null,
+      "directors": [
+        "Rick Goldsmith"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2005,
+      "runtime_min": 62,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-09",
+          "time": "2:45 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-10",
+          "time": "7:00 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "A profile of federal judge Thelton Henderson, the first Black attorney recruited to the Justice Department's Civil Rights Division.",
+      "cast": [],
+      "page": 43
+    },
+    {
+      "title": "Lion",
+      "original_title": null,
+      "directors": [
+        "Adam Pilkington"
+      ],
+      "countries": [
+        "US",
+        "Zambia"
+      ],
+      "film_year": 2005,
+      "runtime_min": 15,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-09",
+          "time": "2:45 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-10",
+          "time": "7:00 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "A 15-year-old Zambian AIDS orphan leaves street life to attend high school.",
+      "cast": [],
+      "page": 43
+    },
+    {
+      "title": "Sound of the Soul: The Fez Festival of World Sacred Music",
+      "original_title": null,
+      "directors": [
+        "Stephen Olsson"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2005,
+      "runtime_min": 70,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": "World Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-09",
+          "time": "5:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2005-10-13",
+          "time": "7:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A portrait of the Fez Festival of World Sacred Music in Morocco and its musicians from many traditions.",
+      "cast": [],
+      "page": 43
+    },
+    {
+      "title": "Spirit Bear: The Simon Jackson Story",
+      "original_title": null,
+      "directors": [
+        "Stefan Scaini"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "film_year": 2004,
+      "runtime_min": 92,
+      "language": "English",
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-09",
+          "time": "1:30 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "A British Columbia teenager campaigns to save the habitat of the rare white Spirit Bear from a logging company.",
+      "cast": [
+        "Mark Rendall",
+        "Graham Greene",
+        "Ed Begley Jr."
+      ],
+      "page": 43
+    },
+    {
+      "title": "Springtime",
+      "original_title": null,
+      "directors": [
+        "Ryu Jang-ha"
+      ],
+      "countries": [
+        "Korea"
+      ],
+      "film_year": 2004,
+      "runtime_min": 128,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": "Official Premiere Selection",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-08",
+          "time": "2:15 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-09",
+          "time": "2:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A bitter former trumpeter takes a job leading a small-town middle school band and slowly rebuilds his life.",
+      "cast": [
+        "Choi Min-sik",
+        "Jang Sin-young",
+        "Kim Kang-woo"
+      ],
+      "page": 44
+    },
+    {
+      "title": "State of Fear",
+      "original_title": null,
+      "directors": [
+        "Pamela Yates"
+      ],
+      "countries": [
+        "US",
+        "Peru"
+      ],
+      "film_year": 2005,
+      "runtime_min": 94,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-10",
+          "time": "9:30 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2005-10-15",
+          "time": "2:15 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "Traces Peru's 20-year war between the Shining Path and the Fujimori government that left 70,000 civilians dead.",
+      "cast": [],
+      "page": 44
+    },
+    {
+      "title": "Ché in Our Lives",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth Produced",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Sweet and Sick",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-15",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A youth-produced short in the Sweet and Sick reel picked by the Young Critics' Jury; no individual description is printed.",
+      "cast": [],
+      "page": 44
+    },
+    {
+      "title": "Examining the Teenage Girl",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth Produced",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Sweet and Sick",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-15",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A youth-produced short in the Sweet and Sick reel picked by the Young Critics' Jury; no individual description is printed.",
+      "cast": [],
+      "page": 44
+    },
+    {
+      "title": "The Gift",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth Produced",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Sweet and Sick",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-15",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A youth-produced short in the Sweet and Sick reel picked by the Young Critics' Jury; no individual description is printed.",
+      "cast": [],
+      "page": 44
+    },
+    {
+      "title": "Hearts Will Break",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth Produced",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Sweet and Sick",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-15",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A youth-produced short in the Sweet and Sick reel picked by the Young Critics' Jury; no individual description is printed.",
+      "cast": [],
+      "page": 44
+    },
+    {
+      "title": "Indebted Joyfully",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth Produced",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Sweet and Sick",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-15",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A youth-produced short in the Sweet and Sick reel picked by the Young Critics' Jury; no individual description is printed.",
+      "cast": [],
+      "page": 44
+    },
+    {
+      "title": "Light in an Elevator",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth Produced",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Sweet and Sick",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-15",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A youth-produced short in the Sweet and Sick reel picked by the Young Critics' Jury; no individual description is printed.",
+      "cast": [],
+      "page": 44
+    },
+    {
+      "title": "MSU Chapel",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth Produced",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Sweet and Sick",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-15",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A youth-produced short in the Sweet and Sick reel picked by the Young Critics' Jury; no individual description is printed.",
+      "cast": [],
+      "page": 44
+    },
+    {
+      "title": "Ole",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth Produced",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Sweet and Sick",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-15",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A youth-produced short in the Sweet and Sick reel picked by the Young Critics' Jury; no individual description is printed.",
+      "cast": [],
+      "page": 44
+    },
+    {
+      "title": "Postcards from Paris",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth Produced",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Sweet and Sick",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-15",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A youth-produced short in the Sweet and Sick reel picked by the Young Critics' Jury; no individual description is printed.",
+      "cast": [],
+      "page": 44
+    },
+    {
+      "title": "Rooted in Rebellion",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth Produced",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Sweet and Sick",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-15",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A youth-produced short in the Sweet and Sick reel picked by the Young Critics' Jury; no individual description is printed.",
+      "cast": [],
+      "page": 44
+    },
+    {
+      "title": "Solemates",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth Produced",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Sweet and Sick",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-15",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A youth-produced short in the Sweet and Sick reel picked by the Young Critics' Jury; no individual description is printed.",
+      "cast": [],
+      "page": 44
+    },
+    {
+      "title": "Victims of Fashion",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth Produced",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Sweet and Sick",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-15",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A youth-produced short in the Sweet and Sick reel picked by the Young Critics' Jury; no individual description is printed.",
+      "cast": [],
+      "page": 44
+    },
+    {
+      "title": "The Virgin Suicides",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth Produced",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Sweet and Sick",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-15",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A youth-produced short in the Sweet and Sick reel picked by the Young Critics' Jury; no individual description is printed.",
+      "cast": [],
+      "page": 44
+    },
+    {
+      "title": "The Weight of Justice",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth Produced",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Sweet and Sick",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-15",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A youth-produced short in the Sweet and Sick reel picked by the Young Critics' Jury; no individual description is printed.",
+      "cast": [],
+      "page": 44
+    },
+    {
+      "title": "The Winner",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth Produced",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Sweet and Sick",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-15",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A youth-produced short in the Sweet and Sick reel picked by the Young Critics' Jury; no individual description is printed.",
+      "cast": [],
+      "page": 44
+    },
+    {
+      "title": "What Is Gay?",
+      "original_title": null,
+      "directors": [
+        "Jacqui Frost"
+      ],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": 25,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Tender Gender Benders",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-08",
+          "time": "2:45 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "Children describe their gay families.",
+      "cast": [],
+      "page": 44
+    },
+    {
+      "title": "Jaywalking",
+      "original_title": null,
+      "directors": [
+        "Kathy Huang",
+        "Leigh Iacobucci"
+      ],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": 9,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Tender Gender Benders",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-08",
+          "time": "2:45 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "Local drag king performance artists push gender limits.",
+      "cast": [],
+      "page": 44
+    },
+    {
+      "title": "Irene Williams: Queen of Lincoln Road",
+      "original_title": null,
+      "directors": [
+        "Eric Smith"
+      ],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": 23,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Tender Gender Benders",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-08",
+          "time": "2:45 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "A portrait of a woman transformed by chaste love.",
+      "cast": [],
+      "page": 44
+    },
+    {
+      "title": "To Hold a Heart",
+      "original_title": null,
+      "directors": [
+        "Michael Wallin"
+      ],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": 13,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Tender Gender Benders",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-08",
+          "time": "2:45 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "A short about transformative chaste love.",
+      "cast": [],
+      "page": 44
+    },
+    {
+      "title": "Beers, Steers and Queers",
+      "original_title": null,
+      "directors": [
+        "Wade Gardner",
+        "Josh Weinberg"
+      ],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": 7,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Tender Gender Benders",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-08",
+          "time": "2:45 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "Frees rodeo from stereotypes.",
+      "cast": [],
+      "page": 44
+    },
+    {
+      "title": "Pup",
+      "original_title": null,
+      "directors": [
+        "Antonia Kao"
+      ],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": 23,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Tender Gender Benders",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-08",
+          "time": "2:45 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "Devout gay Christian men in the Bay Area reveal what they do for fun.",
+      "cast": [],
+      "page": 44
+    },
+    {
+      "title": "Dear, Sweet Emma",
+      "original_title": null,
+      "directors": [
+        "John Cernak"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 6,
+      "language": null,
+      "section": "Animation",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "A Toon for the Misbegotten",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-15",
+          "time": "4:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A woman who may kill you with kindness.",
+      "cast": [],
+      "page": 45
+    },
+    {
+      "title": "Emelia",
+      "original_title": null,
+      "directors": [
+        "Derek Flood"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 9,
+      "language": null,
+      "section": "Animation",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "A Toon for the Misbegotten",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-15",
+          "time": "4:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Shows that Goth may not be as dark as it seems.",
+      "cast": [],
+      "page": 45
+    },
+    {
+      "title": "Moongirl",
+      "original_title": null,
+      "directors": [
+        "Henry Selick"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 9,
+      "language": null,
+      "section": "Animation",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "A Toon for the Misbegotten",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-15",
+          "time": "4:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "An animated journey to the moon.",
+      "cast": [],
+      "page": 45
+    },
+    {
+      "title": "9",
+      "original_title": null,
+      "directors": [
+        "Shane Acker"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 11,
+      "language": null,
+      "section": "Animation",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "A Toon for the Misbegotten",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-15",
+          "time": "4:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A Student Academy Award-winning animated short now being developed as a feature.",
+      "cast": [],
+      "page": 45
+    },
+    {
+      "title": "Remote Paradise",
+      "original_title": null,
+      "directors": [
+        "Frédéric Tremblay"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "film_year": null,
+      "runtime_min": 7,
+      "language": null,
+      "section": "Animation",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "A Toon for the Misbegotten",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-15",
+          "time": "4:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "An escape from television adventures.",
+      "cast": [],
+      "page": 45
+    },
+    {
+      "title": "Goo'd War",
+      "original_title": null,
+      "directors": [
+        "Dwight Hwang"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 15,
+      "language": null,
+      "section": "Animation",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "A Toon for the Misbegotten",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-15",
+          "time": "4:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "An animated short playing on the oxymoron of its title.",
+      "cast": [],
+      "page": 45
+    },
+    {
+      "title": "Bastard Wants to Hit Me",
+      "original_title": null,
+      "directors": [
+        "Aaron Sorenson"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 3,
+      "language": null,
+      "section": "Animation",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "A Toon for the Misbegotten",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-15",
+          "time": "4:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "An animated music video for They Might Be Giants.",
+      "cast": [],
+      "page": 45
+    },
+    {
+      "title": "Santa Claus Happy Tyme Show",
+      "original_title": null,
+      "directors": [
+        "Alex George"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 30,
+      "language": null,
+      "section": "Animation",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "A Toon for the Misbegotten",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-15",
+          "time": "4:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A look behind the scenes of Toy Town.",
+      "cast": [],
+      "page": 45
+    },
+    {
+      "title": "The Zit",
+      "original_title": null,
+      "directors": [
+        "Mike Blum"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 5,
+      "language": null,
+      "section": "Animation",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "A Toon for the Misbegotten",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-15",
+          "time": "4:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Youth confronts its common enemy, the pimple.",
+      "cast": [],
+      "page": 45
+    },
+    {
+      "title": "Arrest Assured",
+      "original_title": null,
+      "directors": [
+        "Robert Taylor",
+        "Michael McCormick"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 3,
+      "language": null,
+      "section": "Animation",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "A Toon for the Misbegotten",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-15",
+          "time": "4:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A burglar bungles a job.",
+      "cast": [],
+      "page": 45
+    },
+    {
+      "title": "A Touch of Spice",
+      "original_title": null,
+      "directors": [
+        "Tassos Boulmetis"
+      ],
+      "countries": [
+        "Turkey",
+        "Greece"
+      ],
+      "film_year": 2003,
+      "runtime_min": 108,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-07",
+          "time": "6:30 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2005-10-10",
+          "time": "6:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A Greek boy raised in Istanbul learns about food and life from his grandfather and spends decades reconciling his divided identity.",
+      "cast": [
+        "Georges Corraface",
+        "Ieroklis Michaelidis",
+        "Renia Louizidou"
+      ],
+      "page": 45
+    },
+    {
+      "title": "Troop 1500: Girl Scouts Beyond Bars",
+      "original_title": null,
+      "directors": [
+        "Ellen Spiro",
+        "Karen Bernstein"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2004,
+      "runtime_min": 68,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-15",
+          "time": "7:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Follows a Girl Scout troop whose members visit and reconnect with their mothers in a Texas prison.",
+      "cast": [],
+      "page": 45
+    },
+    {
+      "title": "The Mother in Me",
+      "original_title": null,
+      "directors": [
+        "Leigh Iacobucci"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2005,
+      "runtime_min": 8,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-15",
+          "time": "7:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A young woman examines the messages passed down through generations of mothers.",
+      "cast": [],
+      "page": 45
+    },
+    {
+      "title": "Tropic of Cancer",
+      "original_title": null,
+      "directors": [
+        "Eugenio Polgovsky"
+      ],
+      "countries": [
+        "Mexico"
+      ],
+      "film_year": 2004,
+      "runtime_min": 52,
+      "language": null,
+      "section": "V(ision)Fest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-08",
+          "time": "6:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2005-10-15",
+          "time": "2:15 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "An observational film about a desert community in San Luis Potosi that survives by hunting and selling animals and plants by the roadside.",
+      "cast": [],
+      "page": 45
+    },
+    {
+      "title": "Ripples of Light",
+      "original_title": null,
+      "directors": [
+        "Lesley McClintock"
+      ],
+      "countries": [],
+      "film_year": 2005,
+      "runtime_min": 18,
+      "language": null,
+      "section": "V(ision)Fest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-08",
+          "time": "6:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2005-10-15",
+          "time": "2:15 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "An experimental elegy to California's Tuolumne River.",
+      "cast": [],
+      "page": 45
+    },
+    {
+      "title": "Trudell",
+      "original_title": null,
+      "directors": [
+        "Heather Rae"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2005,
+      "runtime_min": 80,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-10",
+          "time": "6:45 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-16",
+          "time": "7:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A portrait of Native American activist, poet and musician John Trudell.",
+      "cast": [],
+      "page": 46
+    },
+    {
+      "title": "The Undeserved",
+      "original_title": null,
+      "directors": [
+        "Brad Coley"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2005,
+      "runtime_min": 106,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": "Official Premiere Selection",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-08",
+          "time": "8:30 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2005-10-09",
+          "time": "7:45 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "A murder exposes the dark secrets behind the surface of a small Vermont town.",
+      "cast": [
+        "Frank Wood",
+        "Sean Gallette",
+        "Paul Sado",
+        "James Martinez",
+        "Autumn Dornfeld",
+        "Alexandra Geis"
+      ],
+      "page": 46
+    },
+    {
+      "title": "Ushpizin",
+      "original_title": null,
+      "directors": [
+        "Gidi Dar"
+      ],
+      "countries": [
+        "Israel"
+      ],
+      "film_year": 2004,
+      "runtime_min": 90,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-15",
+          "time": "8:30 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2005-10-16",
+          "time": "5:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A poor ultra-Orthodox couple in Jerusalem praying for a miracle on the eve of Sukkoth take in two escaped convicts from the husband's past.",
+      "cast": [
+        "Shuli Rand",
+        "Michael Bat Sheva Rand",
+        "Shaul Mizrahi",
+        "Daniel Dayan"
+      ],
+      "page": 46
+    },
+    {
+      "title": "Video Out",
+      "original_title": null,
+      "directors": [
+        "Paul Vlachos",
+        "Meredith Finkelstein"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2005,
+      "runtime_min": 83,
+      "language": null,
+      "section": "V(ision)Fest",
+      "slot": null,
+      "premiere": "Official Premiere Selection",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-14",
+          "time": "9:30 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2005-10-15",
+          "time": "8:45 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "A history of VJs and video artists from 1960s light shows to laptop club performances.",
+      "cast": [],
+      "page": 46
+    },
+    {
+      "title": "Second Sight",
+      "original_title": null,
+      "directors": [
+        "Stephanie Maxwell",
+        "Allan Schindler",
+        "Peter Byrne"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2005,
+      "runtime_min": 6,
+      "language": null,
+      "section": "V(ision)Fest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-14",
+          "time": "9:30 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2005-10-15",
+          "time": "8:45 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "A digital video artwork combining abstract color and form with hypnotic sound.",
+      "cast": [],
+      "page": 46
+    },
+    {
+      "title": "The Wandering Shadows",
+      "original_title": null,
+      "directors": [
+        "Ciro Guerra"
+      ],
+      "countries": [
+        "Colombia"
+      ],
+      "film_year": 2004,
+      "runtime_min": 89,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-12",
+          "time": "6:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A one-legged man in Bogotá forms an uneasy friendship with a man who carries people on a chair strapped to his back.",
+      "cast": [
+        "César Badillo",
+        "Ignacio Prieto",
+        "Lowin Allende",
+        "Inés Prieto Saravia",
+        "Adelaida Corredor",
+        "Julián Díaz"
+      ],
+      "page": 47
+    },
+    {
+      "title": "Web Cam Girls",
+      "original_title": null,
+      "directors": [
+        "Aerlyn Weissman"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "film_year": 2004,
+      "runtime_min": 53,
+      "language": null,
+      "section": "V(ision)Fest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-08",
+          "time": "9:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2005-10-15",
+          "time": "6:30 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "Women who broadcast themselves on the internet use webcams to make art, money and fame.",
+      "cast": [],
+      "page": 47
+    },
+    {
+      "title": "Dear Reid",
+      "original_title": null,
+      "directors": [
+        "Aliaa Remtilla"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2005,
+      "runtime_min": 28,
+      "language": null,
+      "section": "V(ision)Fest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-08",
+          "time": "9:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2005-10-15",
+          "time": "6:30 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "An unrequited love story told through internet communication.",
+      "cast": [],
+      "page": 47
+    },
+    {
+      "title": "Wellstone!",
+      "original_title": null,
+      "directors": [
+        "Dan Luke",
+        "Lu Lippold",
+        "Laurie Stern"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2004,
+      "runtime_min": 88,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-08",
+          "time": "7:30 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2005-10-10",
+          "time": "9:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A portrait of Minnesota senator Paul Wellstone and his wife Sheila, who died in a 2002 plane crash.",
+      "cast": [],
+      "page": 47
+    },
+    {
+      "title": "The Winter Song",
+      "original_title": null,
+      "directors": [
+        "Farhad Mehranfar"
+      ],
+      "countries": [
+        "Iran"
+      ],
+      "film_year": 2002,
+      "runtime_min": 90,
+      "language": "Farsi with English subtitles",
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-10",
+          "time": "4:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A mother in a remote Iranian mountain village wins a teacher for her children, who holds class outdoors.",
+      "cast": [
+        "Nazbanu Mohammadyari",
+        "Simin Amidi",
+        "Musa Alijani"
+      ],
+      "page": 47
+    },
+    {
+      "title": "Wolf Summer",
+      "original_title": null,
+      "directors": [
+        "Peder Norlund"
+      ],
+      "countries": [
+        "Norway"
+      ],
+      "film_year": 2003,
+      "runtime_min": 87,
+      "language": "Norwegian with English subtitles",
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2005-10-07",
+          "time": "4:30 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2005-10-15",
+          "time": "2:45 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "An injured 12-year-old girl rescued by a mother wolf sets out to save the wolf pack from hunters.",
+      "cast": [
+        "Julia Boracco Braaten",
+        "Line Verndal",
+        "Niklas James Knudsen",
+        "Jørgen Langhelle",
+        "Samuel Fröer",
+        "Ingar Helge Gimle"
+      ],
+      "page": 48
+    }
+  ],
+  "events": [
+    {
+      "title": "Opening Night Gala",
+      "kind": "party",
+      "date": "2005-10-06",
+      "time": "9:30 PM",
+      "venue": "Lytton Plaza, downtown Mill Valley",
+      "people": [],
+      "related_films": [
+        "The Matador",
+        "Mrs. Henderson Presents"
+      ],
+      "summary": "Opening-night party on Mill Valley's plaza after the two opening films.",
+      "page": 15
+    },
+    {
+      "title": "Tribute to Michael Powell",
+      "kind": "tribute",
+      "date": "2005-10-08",
+      "time": "6:30 PM",
+      "venue": "Rafael",
+      "people": [
+        {
+          "name": "Michael Powell",
+          "role": "honoree"
+        },
+        {
+          "name": "Thelma Schoonmaker",
+          "role": "speaker"
+        }
+      ],
+      "related_films": [
+        "The Red Shoes",
+        "I Know Where I'm Going"
+      ],
+      "summary": "Thelma Schoonmaker discusses Michael Powell's work with film clips on the centenary of his birth, followed by a reception at the Outdoor Art Club.",
+      "page": 16
+    },
+    {
+      "title": "Spotlight on Felicity Huffman",
+      "kind": "spotlight",
+      "date": "2005-10-09",
+      "time": "3:00 PM",
+      "venue": "Rafael",
+      "people": [
+        {
+          "name": "Felicity Huffman",
+          "role": "honoree"
+        }
+      ],
+      "related_films": [
+        "Transamerica"
+      ],
+      "summary": "An onstage interview with Felicity Huffman followed by a screening of Transamerica and a reception at the Outdoor Art Club.",
+      "page": 16
+    },
+    {
+      "title": "Tribute to Jean-Pierre Jeunet",
+      "kind": "tribute",
+      "date": "2005-10-13",
+      "time": "7:00 PM",
+      "venue": "Rafael",
+      "people": [
+        {
+          "name": "Jean-Pierre Jeunet",
+          "role": "honoree"
+        }
+      ],
+      "related_films": [
+        "Amélie",
+        "Delicatessen"
+      ],
+      "summary": "An onstage interview with Jean-Pierre Jeunet with clips from his features and rarely seen shorts, followed by a reception at Frantoio Ristorante.",
+      "page": 17
+    },
+    {
+      "title": "Tribute to Donald Sutherland",
+      "kind": "tribute",
+      "date": "2005-10-15",
+      "time": "7:00 PM",
+      "venue": "Rafael",
+      "people": [
+        {
+          "name": "Donald Sutherland",
+          "role": "honoree"
+        }
+      ],
+      "related_films": [
+        "Pride and Prejudice"
+      ],
+      "summary": "Film clips and an onstage interview with Donald Sutherland, followed by Pride and Prejudice and a reception at the Outdoor Art Club.",
+      "page": 17
+    },
+    {
+      "title": "Tribute to Jeff Daniels",
+      "kind": "tribute",
+      "date": "2005-10-16",
+      "time": "5:00 PM",
+      "venue": "Rafael",
+      "people": [
+        {
+          "name": "Jeff Daniels",
+          "role": "honoree"
+        }
+      ],
+      "related_films": [
+        "The Squid and the Whale"
+      ],
+      "summary": "Closing-night onstage interview with Jeff Daniels followed by a screening of The Squid and the Whale.",
+      "page": 19
+    },
+    {
+      "title": "Closing Night Party",
+      "kind": "party",
+      "date": "2005-10-16",
+      "time": "7:30 PM",
+      "venue": "Mill Valley Community Center",
+      "people": [],
+      "related_films": [
+        "Bee Season",
+        "The Squid and the Whale"
+      ],
+      "summary": "The festival's closing party with tents, lights and music.",
+      "page": 19
+    },
+    {
+      "title": "Children's FilmFest Opening Film and Festivities",
+      "kind": "party",
+      "date": "2005-10-08",
+      "time": "11:30 AM",
+      "venue": "Sequoia",
+      "people": [
+        {
+          "name": "Liz Hockinson",
+          "role": "speaker"
+        },
+        {
+          "name": "Kathryn Otoshi",
+          "role": "speaker"
+        }
+      ],
+      "related_films": [
+        "The Fakir"
+      ],
+      "summary": "A screening of The Fakir followed by a party at the Outdoor Art Club where the authors read from their new children's book A Movie Mouse.",
+      "page": 6
+    },
+    {
+      "title": "Ice Cream and Kazoos",
+      "kind": "party",
+      "date": "2005-10-15",
+      "time": "12:00 PM",
+      "venue": "Rafael",
+      "people": [
+        {
+          "name": "Orange Sherbet",
+          "role": "performer"
+        },
+        {
+          "name": "Tamsen Fynn",
+          "role": "performer"
+        },
+        {
+          "name": "Jill Pierce",
+          "role": "performer"
+        }
+      ],
+      "related_films": [
+        "Short Films for Little People"
+      ],
+      "summary": "A children's costume and kazoo parade to Ben & Jerry's after the Short Films for Little People programme.",
+      "page": 6
+    },
+    {
+      "title": "Outdoor Art Club Daily Happy Hour",
+      "kind": "party",
+      "date": "2005-10-07",
+      "time": "5:00 PM",
+      "venue": "Outdoor Art Club",
+      "people": [
+        {
+          "name": "Kimballs",
+          "role": "performer"
+        }
+      ],
+      "related_films": [],
+      "summary": "A daily happy hour, open to the public, from October 7 to 15 with drink specials and music.",
+      "page": 7
+    },
+    {
+      "title": "Live at the Outdoor Art Club: The Sun Kings",
+      "kind": "music",
+      "date": "2005-10-07",
+      "time": "9:00 PM",
+      "venue": "Outdoor Art Club",
+      "people": [
+        {
+          "name": "The Sun Kings",
+          "role": "performer"
+        }
+      ],
+      "related_films": [
+        "The Hi De Ho Show"
+      ],
+      "summary": "A Beatles tribute band plays a 1960s-themed dance night.",
+      "page": 8
+    },
+    {
+      "title": "Live at the Outdoor Art Club: Swing Fever",
+      "kind": "music",
+      "date": "2005-10-14",
+      "time": "9:00 PM",
+      "venue": "Outdoor Art Club",
+      "people": [
+        {
+          "name": "Swing Fever",
+          "role": "performer"
+        }
+      ],
+      "related_films": [],
+      "summary": "A dance night with a band playing music of the 1930s and 1940s.",
+      "page": 8
+    },
+    {
+      "title": "Press On: A Sacred Steel Concert",
+      "kind": "music",
+      "date": "2005-10-15",
+      "time": "9:00 PM",
+      "venue": "Sweetwater",
+      "people": [
+        {
+          "name": "Robert Randolph and the Family Band",
+          "role": "performer"
+        },
+        {
+          "name": "Calvin Cooke",
+          "role": "performer"
+        }
+      ],
+      "related_films": [
+        "Press On"
+      ],
+      "summary": "Pedal steel guitarist Robert Randolph and his band play a club concert with sacred steel veteran Calvin Cooke.",
+      "page": 8
+    },
+    {
+      "title": "Sound of the Soul Concert",
+      "kind": "music",
+      "date": "2005-10-13",
+      "time": "8:30 PM",
+      "venue": "142 Throckmorton",
+      "people": [
+        {
+          "name": "Ustad Farida Mahwash",
+          "role": "performer"
+        },
+        {
+          "name": "Khalil Ragheb",
+          "role": "performer"
+        },
+        {
+          "name": "Ustad Aziz Herawi",
+          "role": "performer"
+        },
+        {
+          "name": "Ehsan Ahmad",
+          "role": "performer"
+        }
+      ],
+      "related_films": [
+        "Sound of the Soul: The Fez Festival of World Sacred Music"
+      ],
+      "summary": "A live concert of Afghan music following the premiere of Sound of the Soul.",
+      "page": 8
+    },
+    {
+      "title": "Tuesday Night Comedy",
+      "kind": "other",
+      "date": "2005-10-11",
+      "time": "8:00 PM",
+      "venue": "142 Throckmorton",
+      "people": [],
+      "related_films": [],
+      "summary": "A night of stand-up comedians with a film theme.",
+      "page": 8
+    },
+    {
+      "title": "15 Rules on Spin",
+      "kind": "workshop",
+      "date": "2005-10-08",
+      "time": "11:00 AM",
+      "venue": "Rafael",
+      "people": [
+        {
+          "name": "Lynda Hansen",
+          "role": "speaker"
+        }
+      ],
+      "related_films": [],
+      "summary": "A New Movies Lab workshop teaching filmmakers how to handle TV, radio and print interviews.",
+      "page": 10
+    },
+    {
+      "title": "Frame by Frame: Film, Philanthropy and Creative Engagement",
+      "kind": "panel",
+      "date": "2005-10-08",
+      "time": "1:30 PM",
+      "venue": "Rafael",
+      "people": [
+        {
+          "name": "Shakti Butler",
+          "role": "panelist"
+        },
+        {
+          "name": "John Karr",
+          "role": "panelist"
+        },
+        {
+          "name": "Silvije Petranovic",
+          "role": "panelist"
+        },
+        {
+          "name": "Elizabeth Silkes",
+          "role": "panelist"
+        }
+      ],
+      "related_films": [],
+      "summary": "A panel on how filmmakers engage communities and social-justice issues through their work.",
+      "page": 10
+    },
+    {
+      "title": "Cinemasports",
+      "kind": "workshop",
+      "date": "2005-10-09",
+      "time": "9:00 AM",
+      "venue": "Masonic Hall, Mill Valley",
+      "people": [],
+      "related_films": [],
+      "summary": "Teams make a short film in a single day from set ingredients, with a public screening of the results at 8 PM.",
+      "page": 10
+    },
+    {
+      "title": "Digital Independence: Next-Generation Innovations",
+      "kind": "panel",
+      "date": "2005-10-09",
+      "time": "10:30 AM",
+      "venue": "Rafael",
+      "people": [
+        {
+          "name": "Jin Woo Joo",
+          "role": "panelist"
+        },
+        {
+          "name": "Doug McMillan",
+          "role": "panelist"
+        },
+        {
+          "name": "Sandy Pearlman",
+          "role": "panelist"
+        },
+        {
+          "name": "Brant J. Smith",
+          "role": "panelist"
+        },
+        {
+          "name": "Bart Weiss",
+          "role": "panelist"
+        },
+        {
+          "name": "Aerlyn Weissman",
+          "role": "panelist"
+        },
+        {
+          "name": "Karen Schwartzman",
+          "role": "moderator"
+        }
+      ],
+      "related_films": [],
+      "summary": "Specialists discuss new production, postproduction and delivery tools for independent media makers.",
+      "page": 10
+    },
+    {
+      "title": "The Future of Family Films",
+      "kind": "panel",
+      "date": "2005-10-16",
+      "time": "11:00 AM",
+      "venue": "142 Throckmorton",
+      "people": [
+        {
+          "name": "Jim Steyer",
+          "role": "panelist"
+        },
+        {
+          "name": "Liisa Helminen",
+          "role": "panelist"
+        },
+        {
+          "name": "Mary Jane Burke",
+          "role": "panelist"
+        },
+        {
+          "name": "Bob Peterson",
+          "role": "panelist"
+        },
+        {
+          "name": "Mark Rendall",
+          "role": "panelist"
+        }
+      ],
+      "related_films": [
+        "Pelican Man",
+        "Spirit Bear: The Simon Jackson Story"
+      ],
+      "summary": "A panel on what family films are, who makes and watches them, and how parents can find them.",
+      "page": 10
+    },
+    {
+      "title": "Going Out to the Movies: Is the Romance Over?",
+      "kind": "panel",
+      "date": "2005-10-16",
+      "time": "1:30 PM",
+      "venue": "142 Throckmorton",
+      "people": [],
+      "related_films": [],
+      "summary": "Industry figures discuss whether home viewing threatens theatrical moviegoing.",
+      "page": 10
+    },
+    {
+      "title": "Script to Screen Workshop: Young Filmmakers Play Cinemasports!",
+      "kind": "workshop",
+      "date": "2005-10-08",
+      "time": "10:00 AM",
+      "venue": "Outdoor Art Club",
+      "people": [],
+      "related_films": [],
+      "summary": "A two-day workshop for ages 8 to 18 in which youth teams make a short film in a day as part of Cinemasports.",
+      "page": 11
+    }
+  ],
+  "awards": [],
+  "staff": [
+    {
+      "name": "John Morrison",
+      "role": "CFI Outreach Manager"
+    },
+    {
+      "name": "Rod Armstrong",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "Anna Balkrishna",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "Tod Booth",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "Jeff Campbell",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "A. Carleton-Glen",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "Kelly Clement",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "Amy Corbin",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "KD Davis",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "Zoë Elton",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "David Fear",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "Michael Fox",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "Pam Grady",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "Sandy Handsher",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "Sidney Hollister",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "Nora Isaacs",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "Deborah Kaufman",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "Erin King",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "Kristine Kolton",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "Trina Lopez",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "Carrie Lozano",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "Roberta McNair",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "Anita Monga",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "Peter Moore",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "John Morrison",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "Joanne Parsont",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "Brendan Peterson",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "Richard Peterson",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "Janis Plotkin",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "Deanna Quinones",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "Steven Reder",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "Joel Shepard",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "Molli Amara Simon",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "Michael Talbott",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "Sean Uyehara",
+      "role": "Contributing Writer"
+    },
+    {
+      "name": "Doug Wolens",
+      "role": "Contributing Writer"
+    }
+  ],
+  "notes": "PDF page numbers are used (printed page = PDF page - 2). Festival dates are not printed as a single range; 'October 6-16, 2005' is taken from the Opening Night (Thursday Oct 6) and Closing Night (Sunday Oct 16) listings and the movie calendar. Short films are taken from the 5@5 programmes, the shorts programmes (Different Drummers, Tender Gender Benders, A Toon for the Misbegotten, Let the Children Lead, Short Films for Little People) and 'Preceded by' shorts; preceding shorts carry the feature's screenings and shorts_program null. The Sweet and Sick youth reel (Oct 15 11 AM Rafael, 74 min) prints no titles; the 15 shorts listed under it are inferred from the title index, which places these otherwise undescribed titles on the Sweet and Sick page. 'premiere' = 'Official Premiere Selection' for films on that printed list (the programme gives no per-film US/world premiere labels), plus 'Western US Premiere' (The Fakir) and 'World Premiere' (Sound of the Soul, from the concert blurb). The Sleeping Child is listed as 'Yasmine Kassan, Morocco' on the premiere list but 'Yasmine Kassari, Belgium/Morocco' in its entry; the entry is used. Spellings kept as printed: 'Taiki Waititi' / 'Tama Tü' (index: Tama Tü), 'La Majique Noire' (index: La Magique Noire), 'Messiah' (index: The Messiah). 'Train and Truck' is treated as one film per its description, though the index lists Train and Truck separately. Soul of Justice credits Rick Goldsmith as director but the synopsis names 'local filmmaker Abby Ginzberg'; the credit line is used. Innocent Voices (Friends of the Festival screening) and Prime screen at Century Cinema, Corte Madera. The Hi De Ho Show (John Goddard's 1960s music-video programme) is kept as a film entry since it is listed in Films A to Z. The Opening Night Gala box misprints 'Thursday Oct 7'; Oct 6 is used. Several calendar slots read 'TBA'. No MVFF awards are printed in this programme (only other festivals' prizes in synopses), so awards is empty. No festival staff list is printed; staff holds the contributing writers and the CFI Outreach manager. Post-festival Powell and Jeunet retrospective titles at the Rafael (page 48) are not festival screenings and are not included as films."
+}

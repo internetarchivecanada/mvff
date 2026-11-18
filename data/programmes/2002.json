@@ -1,0 +1,7622 @@
+{
+  "year": 2002,
+  "edition": 25,
+  "dates": null,
+  "source_pdf": "2002_filmnotes.pdf",
+  "venues": [
+    {
+      "name": "Sequoia",
+      "address": null
+    },
+    {
+      "name": "Rafael Film Center",
+      "address": "1118 4th Street, San Rafael"
+    },
+    {
+      "name": "Cinema",
+      "address": null
+    },
+    {
+      "name": "Sweetwater",
+      "address": null
+    }
+  ],
+  "sections": [
+    "Five@Five",
+    "Children's FilmFest",
+    "25th Anniversary Event",
+    "Member Screening"
+  ],
+  "films": [
+    {
+      "title": "Christopher, Please Clean Up Your Room",
+      "original_title": null,
+      "directors": [
+        "Vincent Gauthier"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "film_year": null,
+      "runtime_min": 7,
+      "language": "English and Norwegian with English subtitles",
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Aardvark Adventures and Other Animania",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-05",
+          "time": "1:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-12",
+          "time": "11:15 AM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A boy's pet fish get help from a resourceful cockroach when their bowl becomes filthy.",
+      "cast": [],
+      "page": 1
+    },
+    {
+      "title": "I, Crocodile",
+      "original_title": null,
+      "directors": [
+        "Michael Sporn"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 10,
+      "language": "English and Norwegian with English subtitles",
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Aardvark Adventures and Other Animania",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-05",
+          "time": "1:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-12",
+          "time": "11:15 AM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "An indulgent crocodile is taken from his comfortable life in Egypt to a fountain in Napoleonic France.",
+      "cast": [],
+      "page": 1
+    },
+    {
+      "title": "Field Guide to Snapping",
+      "original_title": null,
+      "directors": [
+        "Nikhil Adnani"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "film_year": null,
+      "runtime_min": 3,
+      "language": "English and Norwegian with English subtitles",
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Aardvark Adventures and Other Animania",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-05",
+          "time": "1:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-12",
+          "time": "11:15 AM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "Forest animals break-dance and skateboard to hip-hop in an animated romp.",
+      "cast": [],
+      "page": 1
+    },
+    {
+      "title": "Hamilton Mattress",
+      "original_title": null,
+      "directors": [
+        "Barry Purves"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "film_year": null,
+      "runtime_min": 30,
+      "language": "English and Norwegian with English subtitles",
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Aardvark Adventures and Other Animania",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-05",
+          "time": "1:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-12",
+          "time": "11:15 AM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A drumming aardvark and his caterpillar agent chase stardom in a jazz-flavoured animation.",
+      "cast": [],
+      "page": 1
+    },
+    {
+      "title": "The Hedge of Thorns",
+      "original_title": null,
+      "directors": [
+        "Anita Killi"
+      ],
+      "countries": [
+        "Norway"
+      ],
+      "film_year": null,
+      "runtime_min": 13,
+      "language": "English and Norwegian with English subtitles",
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Aardvark Adventures and Other Animania",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-05",
+          "time": "1:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-12",
+          "time": "11:15 AM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "Two children react when the riverbank they share turns into a wartime front line.",
+      "cast": [],
+      "page": 1
+    },
+    {
+      "title": "The Hungry Squid",
+      "original_title": null,
+      "directors": [
+        "John Weldon"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "film_year": null,
+      "runtime_min": 15,
+      "language": "English and Norwegian with English subtitles",
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Aardvark Adventures and Other Animania",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-05",
+          "time": "1:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-12",
+          "time": "11:15 AM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A girl named Dorothy must fight off creatures that are devouring her homework.",
+      "cast": [],
+      "page": 1
+    },
+    {
+      "title": "Afghan Stories",
+      "original_title": null,
+      "directors": [
+        "Taran Davies"
+      ],
+      "countries": [
+        "USA",
+        "Afghanistan"
+      ],
+      "film_year": 2002,
+      "runtime_min": 58,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-10",
+          "time": "9:30 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2002-10-12",
+          "time": "11:15 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A New York filmmaker travels from Queens to Tajikistan and northern Afghanistan to meet Afghans living through war and exile.",
+      "cast": [],
+      "page": 1
+    },
+    {
+      "title": "no news . . .",
+      "original_title": null,
+      "directors": [
+        "Bushra Azzouz"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 13,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Afghan Stories",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-10",
+          "time": "9:30 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2002-10-12",
+          "time": "11:15 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A woman reflects while waiting to hear news about an event that should not have happened.",
+      "cast": [],
+      "page": 1
+    },
+    {
+      "title": "The Children of Ibdaa: To Create Something Out of Nothing",
+      "original_title": null,
+      "directors": [
+        "S. Smith Patrick"
+      ],
+      "countries": [
+        "USA",
+        "Palestine",
+        "Israel"
+      ],
+      "film_year": 2002,
+      "runtime_min": 30,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Afghan Stories",
+      "guests": [
+        "S. Smith Patrick"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-10",
+          "time": "9:30 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2002-10-12",
+          "time": "11:15 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Children in a West Bank refugee camp tell their people's history through a youth dance troupe.",
+      "cast": [],
+      "page": 1
+    },
+    {
+      "title": "Alambrista!",
+      "original_title": null,
+      "directors": [
+        "Robert M. Young"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 1977,
+      "runtime_min": 110,
+      "language": null,
+      "section": "25th Anniversary Event",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Robert M. Young",
+        "Edward James Olmos"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-06",
+          "time": "2:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A Mexican migrant worker makes a perilous journey through California's Central Valley farm labour world, shown in the director's cut.",
+      "cast": [
+        "Domingo Ambriz",
+        "Trinidad Silva",
+        "Linda Gillin",
+        "Ned Beatty",
+        "Edward James Olmos",
+        "Jerry Hardin"
+      ],
+      "page": 1
+    },
+    {
+      "title": "All or Nothing",
+      "original_title": null,
+      "directors": [
+        "Mike Leigh"
+      ],
+      "countries": [
+        "UK",
+        "France"
+      ],
+      "film_year": 2002,
+      "runtime_min": 128,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-12",
+          "time": "6:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2002-10-13",
+          "time": "6:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A London taxi driver and his family struggle through a long weekend of hardship and resentment on a housing estate.",
+      "cast": [
+        "Timothy Spall",
+        "Lesley Manville",
+        "Alison Garland",
+        "James Corden"
+      ],
+      "page": 1
+    },
+    {
+      "title": "Amandla! A Revolution in Four Part Harmony",
+      "original_title": null,
+      "directors": [
+        "Lee Hirsch"
+      ],
+      "countries": [
+        "South Africa",
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 103,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-05",
+          "time": "6:30 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2002-10-08",
+          "time": "9:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A documentary on the songs that sustained South Africa's anti-apartheid struggle from early resistance to the 1994 election.",
+      "cast": [],
+      "page": 2
+    },
+    {
+      "title": "Yard",
+      "original_title": null,
+      "directors": [
+        "Bob Sabiston"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2001,
+      "runtime_min": 3,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Animarathon 2002",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-12",
+          "time": "1:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A short animated piece by the animator behind Waking Life's rotoscoping.",
+      "cast": [],
+      "page": 2
+    },
+    {
+      "title": "The Crab Boy",
+      "original_title": null,
+      "directors": [
+        "Aaron Thedford"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2001,
+      "runtime_min": 6,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Animarathon 2002",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-12",
+          "time": "1:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "An animated tale centred on a boy known as the crab boy.",
+      "cast": [],
+      "page": 2
+    },
+    {
+      "title": "Carl & Phil: Monkey Ninjas",
+      "original_title": null,
+      "directors": [
+        "Devadas George"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2001,
+      "runtime_min": 4,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Animarathon 2002",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-12",
+          "time": "1:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "Two monkeys act out ninja antics in a comic animation.",
+      "cast": [],
+      "page": 2
+    },
+    {
+      "title": "The Right Moment",
+      "original_title": null,
+      "directors": [
+        "Mahyar Abousaeedi"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2001,
+      "runtime_min": 1,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Animarathon 2002",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-12",
+          "time": "1:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A very brief animation about waiting for the right moment.",
+      "cast": [],
+      "page": 2
+    },
+    {
+      "title": "The Hunger Artist",
+      "original_title": null,
+      "directors": [
+        "Tom Gibbons"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2001,
+      "runtime_min": 16,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Animarathon 2002",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-12",
+          "time": "1:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "An animated short about a performer whose act is starving himself.",
+      "cast": [],
+      "page": 2
+    },
+    {
+      "title": "The Erlking",
+      "original_title": null,
+      "directors": [
+        "Ben Zelkowicz"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 5,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Animarathon 2002",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-12",
+          "time": "1:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "An animated short drawing on the Erlking legend.",
+      "cast": [],
+      "page": 2
+    },
+    {
+      "title": "Ciao Historia",
+      "original_title": null,
+      "directors": [
+        "Katharine Garrison"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 6,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Animarathon 2002",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-12",
+          "time": "1:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "An animated short playing with history.",
+      "cast": [],
+      "page": 2
+    },
+    {
+      "title": "Pending",
+      "original_title": null,
+      "directors": [
+        "Anna Tow"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "film_year": 2002,
+      "runtime_min": 9,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Animarathon 2002",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-12",
+          "time": "1:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "An Australian animated short about something left pending.",
+      "cast": [],
+      "page": 2
+    },
+    {
+      "title": "Sprout",
+      "original_title": null,
+      "directors": [
+        "Scott Peterson"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 3,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Animarathon 2002",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-12",
+          "time": "1:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A brief animation about something that sprouts.",
+      "cast": [],
+      "page": 2
+    },
+    {
+      "title": "Singing Sticks",
+      "original_title": null,
+      "directors": [
+        "Christine Panushka"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 3,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Animarathon 2002",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-12",
+          "time": "1:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "An abstract animation built around singing sticks.",
+      "cast": [],
+      "page": 2
+    },
+    {
+      "title": "Floating",
+      "original_title": null,
+      "directors": [
+        "Chansoo Kim"
+      ],
+      "countries": [
+        "USA",
+        "Korea"
+      ],
+      "film_year": 2001,
+      "runtime_min": 1,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Animarathon 2002",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-12",
+          "time": "1:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A very short animation about floating.",
+      "cast": [],
+      "page": 2
+    },
+    {
+      "title": "Lunar Jig",
+      "original_title": null,
+      "directors": [
+        "Rachel Everitt"
+      ],
+      "countries": [
+        "Scotland"
+      ],
+      "film_year": 2001,
+      "runtime_min": 3,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Animarathon 2002",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-12",
+          "time": "1:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A Scottish animated dance under the moon.",
+      "cast": [],
+      "page": 2
+    },
+    {
+      "title": "Living with Happiness",
+      "original_title": null,
+      "directors": [
+        "Sarah Watt"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "film_year": 2001,
+      "runtime_min": 6,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Animarathon 2002",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-12",
+          "time": "1:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "An Australian animated short about trying to live with happiness.",
+      "cast": [],
+      "page": 2
+    },
+    {
+      "title": "Populi",
+      "original_title": null,
+      "directors": [
+        "David Russo"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 8,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Animarathon 2002",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-12",
+          "time": "1:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "An experimental animation about crowds of people.",
+      "cast": [],
+      "page": 2
+    },
+    {
+      "title": "Click, Clack, Moo—Cows That Type",
+      "original_title": null,
+      "directors": [
+        "Maciek Albrecht"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2001,
+      "runtime_min": 10,
+      "language": "various languages with English subtitles read aloud",
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Animated Amigos",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-06",
+          "time": "11:30 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2002-10-13",
+          "time": "1:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Cold cows go on strike and send typed demands to Farmer Brown.",
+      "cast": [],
+      "page": 2
+    },
+    {
+      "title": "The Magic of Anansi",
+      "original_title": null,
+      "directors": [
+        "Jamie Mason"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "film_year": 2001,
+      "runtime_min": 6,
+      "language": "various languages with English subtitles read aloud",
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Animated Amigos",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-06",
+          "time": "11:30 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2002-10-13",
+          "time": "1:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A little spider tries to win the respect of the other jungle animals.",
+      "cast": [],
+      "page": 2
+    },
+    {
+      "title": "Eddy & the Bear",
+      "original_title": null,
+      "directors": [
+        "Tony Collingwood"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "film_year": 2001,
+      "runtime_min": 25,
+      "language": "various languages with English subtitles read aloud",
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Animated Amigos",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-06",
+          "time": "11:30 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2002-10-13",
+          "time": "1:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A lost teddy bear leads to an unlikely friendship among bears large and small.",
+      "cast": [],
+      "page": 2
+    },
+    {
+      "title": "Five Little Monkeys",
+      "original_title": null,
+      "directors": [
+        "Linda Kudzmas"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2000,
+      "runtime_min": 2,
+      "language": "various languages with English subtitles read aloud",
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Animated Amigos",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-06",
+          "time": "11:30 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2002-10-13",
+          "time": "1:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "An animated version of the nursery rhyme about five little monkeys.",
+      "cast": [],
+      "page": 2
+    },
+    {
+      "title": "Goose",
+      "original_title": null,
+      "directors": [
+        "Daniel Ivanick"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2001,
+      "runtime_min": 6,
+      "language": "various languages with English subtitles read aloud",
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Animated Amigos",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-06",
+          "time": "11:30 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2002-10-13",
+          "time": "1:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A goose raised by woodchucks searches for its identity.",
+      "cast": [],
+      "page": 2
+    },
+    {
+      "title": "Mole's Treasure",
+      "original_title": null,
+      "directors": [
+        "Tini Sauvo"
+      ],
+      "countries": [
+        "Finland"
+      ],
+      "film_year": 2001,
+      "runtime_min": 10,
+      "language": "various languages with English subtitles read aloud",
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Animated Amigos",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-06",
+          "time": "11:30 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2002-10-13",
+          "time": "1:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A mole sets out to catch a falling star.",
+      "cast": [],
+      "page": 2
+    },
+    {
+      "title": "The Shark & the Piano",
+      "original_title": null,
+      "directors": [
+        "Gabriele Pennacchioli"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "film_year": 2001,
+      "runtime_min": 7,
+      "language": "various languages with English subtitles read aloud",
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Animated Amigos",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-06",
+          "time": "11:30 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2002-10-13",
+          "time": "1:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A feared shark uses music to make friends.",
+      "cast": [],
+      "page": 2
+    },
+    {
+      "title": "A Friend for Bolt",
+      "original_title": null,
+      "directors": [
+        "Lennart Gustafsson",
+        "Yiva-Li Gustafsson"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "film_year": 2001,
+      "runtime_min": 6,
+      "language": "various languages with English subtitles read aloud",
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Animated Amigos",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-06",
+          "time": "11:30 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2002-10-13",
+          "time": "1:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A lonely pink puppy looks for someone to play with.",
+      "cast": [],
+      "page": 2
+    },
+    {
+      "title": "Arisman: Facing the Audience",
+      "original_title": null,
+      "directors": [
+        "Tony Silver"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 83,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Tony Silver"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-11",
+          "time": "9:30 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2002-10-13",
+          "time": "1:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A portrait of illustrator and painter Marshall Arisman, from his violent editorial images to his spiritual work and family roots.",
+      "cast": [],
+      "page": 2
+    },
+    {
+      "title": "The Subway Line",
+      "original_title": null,
+      "directors": [
+        "Sascha Paladino"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 14,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Arisman: Facing the Audience",
+      "guests": [
+        "Sascha Paladino"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-11",
+          "time": "9:30 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2002-10-13",
+          "time": "1:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "Rick Perry's portraits of New York subway riders are animated in the time between two stops.",
+      "cast": [],
+      "page": 2
+    },
+    {
+      "title": "At Home and Asea",
+      "original_title": null,
+      "directors": [
+        "Mark Street"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 71,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Mark Street"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-05",
+          "time": "7:15 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-10",
+          "time": "9:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A quiet observational drama following young adults in the Potomac Valley as they face loss, parenthood and restlessness.",
+      "cast": [
+        "Teresa Altoz",
+        "Charlene Harris",
+        "Brian Mackey",
+        "Jeorge Watson"
+      ],
+      "page": 3
+    },
+    {
+      "title": "Atlético San Pancho",
+      "original_title": null,
+      "directors": [
+        "Gustavo Loza"
+      ],
+      "countries": [
+        "Mexico"
+      ],
+      "film_year": 2002,
+      "runtime_min": 102,
+      "language": "Spanish with English subtitles read aloud",
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-05",
+          "time": "11:30 AM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2002-10-07",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Kids in a small Mexican town defy a soccer ban and form a misfit team that reaches the national championships.",
+      "cast": [
+        "Hector Suarez",
+        "Lumi Cavazos",
+        "Luis Felipe Tovar",
+        "Plutarco Haza"
+      ],
+      "page": 3
+    },
+    {
+      "title": "Autumn Spring",
+      "original_title": "Babí Léto",
+      "directors": [
+        "Vladimír Michálek"
+      ],
+      "countries": [
+        "Czech Republic"
+      ],
+      "film_year": 2002,
+      "runtime_min": 97,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-06",
+          "time": "3:15 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2002-10-07",
+          "time": "7:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A mischievous Prague pensioner's pranks finally push his long-suffering wife toward divorce.",
+      "cast": [
+        "Vlastimil Brodský",
+        "Stella Zázvorková",
+        "Stanislav Zindulka",
+        "Ondrej Vetchý"
+      ],
+      "page": 3
+    },
+    {
+      "title": "The Barefoot Contessa",
+      "original_title": null,
+      "directors": [
+        "Joseph L. Mankiewicz"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 1954,
+      "runtime_min": 128,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Robert Gitt"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-12",
+          "time": "10:45 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A Madrid dancer becomes a film star but her fierce independence leads to her downfall, shown in a restored Technicolor print.",
+      "cast": [
+        "Humphrey Bogart",
+        "Ava Gardner",
+        "Edmond O'Brien",
+        "Marius Goring"
+      ],
+      "page": 3
+    },
+    {
+      "title": "Beauty Queen Olivia",
+      "original_title": "Biuti Quin Olivia",
+      "directors": [
+        "Federica Martino"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "film_year": 2001,
+      "runtime_min": 95,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-05",
+          "time": "7:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-06",
+          "time": "4:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A mistreated working-class teenager with musical talent finds friendship with a Grease-obsessed girl.",
+      "cast": [
+        "Carolina Felline",
+        "Eleonora Materazzo",
+        "Manrico Gammarota",
+        "Elena Bonelli"
+      ],
+      "page": 4
+    },
+    {
+      "title": "Bloody Sunday",
+      "original_title": null,
+      "directors": [
+        "Paul Greengrass"
+      ],
+      "countries": [
+        "UK",
+        "Ireland"
+      ],
+      "film_year": 2002,
+      "runtime_min": 110,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-04",
+          "time": "9:15 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2002-10-08",
+          "time": "7:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A docudrama reconstruction of the 1972 Derry shootings and the day surrounding them.",
+      "cast": [
+        "James Nesbitt",
+        "Tim Pigott-Smith",
+        "Nicholas Farrell",
+        "Gerard McSorley",
+        "Kathy Keira Clarke",
+        "Allan Gildea"
+      ],
+      "page": 4
+    },
+    {
+      "title": "Bowling for Columbine",
+      "original_title": null,
+      "directors": [
+        "Michael Moore"
+      ],
+      "countries": [
+        "Canada",
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 123,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-12",
+          "time": "9:15 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2002-10-13",
+          "time": "8:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Michael Moore investigates America's relationship with guns and violence in the wake of the Columbine shootings.",
+      "cast": [],
+      "page": 4
+    },
+    {
+      "title": "Bug",
+      "original_title": null,
+      "directors": [
+        "Phil Hay",
+        "Matthew Manfredi"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 88,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-07",
+          "time": "7:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "Linked comic vignettes trace a chain of cause and effect among residents of Los Angeles's Silverlake district.",
+      "cast": [
+        "John Carroll Lynch",
+        "Brian Cox",
+        "Jamie Kennedy",
+        "Sarah Paulson",
+        "Christina Kirk",
+        "Arabella Field"
+      ],
+      "page": 4
+    },
+    {
+      "title": "Running Time",
+      "original_title": null,
+      "directors": [
+        "Warren Biro"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 7,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Bug",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-07",
+          "time": "7:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "Two men face off in a rapid New York version of an old game.",
+      "cast": [],
+      "page": 4
+    },
+    {
+      "title": "Let Them Eat Cake",
+      "original_title": null,
+      "directors": [
+        "Eric Ulbrich",
+        "Morgan Matthews"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 6,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Cake, Steak and Cheez Whiz: A Youth Video Buffet",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-06",
+          "time": "4:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A youth-made video short.",
+      "cast": [],
+      "page": 5
+    },
+    {
+      "title": "Don't Let Your Friends Rot",
+      "original_title": null,
+      "directors": [
+        "New Orleans Video Access Center"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Cake, Steak and Cheez Whiz: A Youth Video Buffet",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-06",
+          "time": "4:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A very short youth-made video from a New Orleans media centre.",
+      "cast": [],
+      "page": 5
+    },
+    {
+      "title": "We're All Just People!",
+      "original_title": null,
+      "directors": [
+        "New Orleans Video Access Center"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Cake, Steak and Cheez Whiz: A Youth Video Buffet",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-06",
+          "time": "4:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A very short youth-made video about common humanity.",
+      "cast": [],
+      "page": 5
+    },
+    {
+      "title": "Corrupt Power",
+      "original_title": null,
+      "directors": [
+        "Tyler Murray"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 9,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Cake, Steak and Cheez Whiz: A Youth Video Buffet",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-06",
+          "time": "4:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A teenager's video about the abuse of power.",
+      "cast": [],
+      "page": 5
+    },
+    {
+      "title": "Step Into the Attik",
+      "original_title": null,
+      "directors": [
+        "Nicolas Smith"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 9,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Cake, Steak and Cheez Whiz: A Youth Video Buffet",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-06",
+          "time": "4:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A youth-made short set around an attic.",
+      "cast": [],
+      "page": 5
+    },
+    {
+      "title": "Sticks and Stones",
+      "original_title": null,
+      "directors": [
+        "Spyhop Productions"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 14,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Cake, Steak and Cheez Whiz: A Youth Video Buffet",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-06",
+          "time": "4:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A youth media group's video about hurtful words and bullying.",
+      "cast": [],
+      "page": 5
+    },
+    {
+      "title": "Downhill Skating",
+      "original_title": null,
+      "directors": [
+        "Eric Tharpe",
+        "Joanna Hoch"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 5,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Cake, Steak and Cheez Whiz: A Youth Video Buffet",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-06",
+          "time": "4:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A youth-made video about skating downhill.",
+      "cast": [],
+      "page": 5
+    },
+    {
+      "title": "Reel Grrls",
+      "original_title": null,
+      "directors": [
+        "911 Media Arts Center"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 17,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Cake, Steak and Cheez Whiz: A Youth Video Buffet",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-06",
+          "time": "4:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Teenage girls make media about their own lives.",
+      "cast": [],
+      "page": 5
+    },
+    {
+      "title": "Steak: The Movie",
+      "original_title": null,
+      "directors": [
+        "Jake Juarez",
+        "Anna Schrag",
+        "Zack Cohen",
+        "Renee Wachter-Solomon"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 3,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Cake, Steak and Cheez Whiz: A Youth Video Buffet",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-06",
+          "time": "4:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A comic youth-made short about steak.",
+      "cast": [],
+      "page": 5
+    },
+    {
+      "title": "The Adventures of Lloyd",
+      "original_title": null,
+      "directors": [
+        "Woody Griffin"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 4,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Cake, Steak and Cheez Whiz: A Youth Video Buffet",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-06",
+          "time": "4:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A youth-made short following a character named Lloyd.",
+      "cast": [],
+      "page": 5
+    },
+    {
+      "title": "Carrot on a String",
+      "original_title": null,
+      "directors": [
+        "Henry Jacobs"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 6,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Cake, Steak and Cheez Whiz: A Youth Video Buffet",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-06",
+          "time": "4:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A youth-made short about chasing an unreachable goal.",
+      "cast": [],
+      "page": 5
+    },
+    {
+      "title": "Cheez Whiz",
+      "original_title": null,
+      "directors": [
+        "Jett Gelber"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 5,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Cake, Steak and Cheez Whiz: A Youth Video Buffet",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-06",
+          "time": "4:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A youth-made short about the processed cheese spread.",
+      "cast": [],
+      "page": 5
+    },
+    {
+      "title": "The Bookless Planet",
+      "original_title": null,
+      "directors": [
+        "Jake Pankratz Saner"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 3,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Cake, Steak and Cheez Whiz: A Youth Video Buffet",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-06",
+          "time": "4:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A youth-made short imagining a world without books.",
+      "cast": [],
+      "page": 5
+    },
+    {
+      "title": "Thinking, the New Adjusted Way",
+      "original_title": null,
+      "directors": [
+        "Carlos Bassetti"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 5,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Cake, Steak and Cheez Whiz: A Youth Video Buffet",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-06",
+          "time": "4:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A youth-made satire about conformist thinking.",
+      "cast": [],
+      "page": 5
+    },
+    {
+      "title": "The Film That Never Was or How Not to Make a Movie",
+      "original_title": null,
+      "directors": [
+        "Nathan Christ",
+        "Michael Dolan"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 12,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Cake, Steak and Cheez Whiz: A Youth Video Buffet",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-06",
+          "time": "4:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Young filmmakers chronicle a film project that goes wrong.",
+      "cast": [],
+      "page": 5
+    },
+    {
+      "title": "Chekhov's Motifs",
+      "original_title": "Chekhovskie Motivy",
+      "directors": [
+        "Kira Muratova"
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "film_year": 2002,
+      "runtime_min": 120,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": "US Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-06",
+          "time": "4:30 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-09",
+          "time": "6:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Two Chekhov stories are transplanted into present-day Russia in a black-and-white fantasy.",
+      "cast": [
+        "Sergei Bekhterev",
+        "Nina Ruslanova",
+        "Natalya Buzko",
+        "Philip Panov"
+      ],
+      "page": 5
+    },
+    {
+      "title": "City of God",
+      "original_title": "Cidade de Deus",
+      "directors": [
+        "Fernando Meirelles"
+      ],
+      "countries": [
+        "Brazil"
+      ],
+      "film_year": 2002,
+      "runtime_min": 131,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-06",
+          "time": "8:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A young would-be photographer witnesses the rise of Rio de Janeiro's gang wars from the 1960s to the 1980s.",
+      "cast": [
+        "Matheus Nachtergaele",
+        "Seu Jorge",
+        "Alexandre Rodrigues",
+        "Douglas Silva"
+      ],
+      "page": 5
+    },
+    {
+      "title": "The Crime of Father Amaro",
+      "original_title": "El Crimen del Padre Amaro",
+      "directors": [
+        "Carlos Carrera"
+      ],
+      "countries": [
+        "Mexico"
+      ],
+      "film_year": 2002,
+      "runtime_min": 118,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": "US Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-05",
+          "time": "9:30 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2002-10-12",
+          "time": "9:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A newly ordained priest in a provincial Mexican parish falls for a teenage girl amid church corruption.",
+      "cast": [
+        "Gael García Bernal",
+        "Ana Claudia Talancón",
+        "Sancho Gracia",
+        "Angélica Aragón",
+        "Damián Alcázar",
+        "Luisa Huertas"
+      ],
+      "page": 5
+    },
+    {
+      "title": "Deadline",
+      "original_title": "Sprängaren",
+      "directors": [
+        "Colin Nutley"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "film_year": 2001,
+      "runtime_min": 128,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-08",
+          "time": "9:15 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2002-10-11",
+          "time": "9:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A Stockholm crime editor investigates a stadium bombing and a murdered Olympic official while fighting sexism at work.",
+      "cast": [
+        "Helena Bergström",
+        "Örjan Ramberg",
+        "Reine Brynolfsson",
+        "Pernilla August"
+      ],
+      "page": 6
+    },
+    {
+      "title": "The Deserted Station",
+      "original_title": "Istgah-e Matrook",
+      "directors": [
+        "Alireza Raisian"
+      ],
+      "countries": [
+        "Iran"
+      ],
+      "film_year": 2002,
+      "runtime_min": 100,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-09",
+          "time": "7:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A couple stranded in a desert village on a pilgrimage are changed when the wife takes over the local school.",
+      "cast": [
+        "Leila Hatami",
+        "Nezam Manouchehri",
+        "Mehran Rajabi",
+        "Mahmoud Pak Neeyat"
+      ],
+      "page": 6
+    },
+    {
+      "title": "Divine Intervention",
+      "original_title": "Yadon Ilaheyya",
+      "directors": [
+        "Elia Suleiman"
+      ],
+      "countries": [
+        "Palestine",
+        "France",
+        "Morocco",
+        "Germany"
+      ],
+      "film_year": 2002,
+      "runtime_min": 92,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-09",
+          "time": "6:45 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2002-10-12",
+          "time": "4:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Surreal, mostly wordless vignettes portray Palestinian life under Israeli occupation.",
+      "cast": [
+        "Elia Suleiman",
+        "Manal Khader",
+        "Nayef Fahoum Daher",
+        "George Ibrahim"
+      ],
+      "page": 6
+    },
+    {
+      "title": "A Dream in Hanoi",
+      "original_title": null,
+      "directors": [
+        "Tom Weidlinger"
+      ],
+      "countries": [
+        "USA",
+        "Vietnam"
+      ],
+      "film_year": 2002,
+      "runtime_min": 91,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Tom Weidlinger"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-05",
+          "time": "11:30 AM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-07",
+          "time": "6:45 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "American and Vietnamese theatre companies clash and cooperate while staging a bilingual A Midsummer Night's Dream in Hanoi.",
+      "cast": [],
+      "page": 6
+    },
+    {
+      "title": "The Emperor's Club",
+      "original_title": null,
+      "directors": [
+        "Michael Hoffman"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 109,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-09",
+          "time": "7:00 PM",
+          "venue": "Cinema"
+        }
+      ],
+      "summary": "A devoted prep-school classics teacher's attempt to mentor a senator's rebellious son has lasting consequences.",
+      "cast": [
+        "Kevin Kline",
+        "Rob Morrow",
+        "Jesse Eisenberg",
+        "Rishi Mehta",
+        "Paul Dano",
+        "Emile Hirsch"
+      ],
+      "page": 7
+    },
+    {
+      "title": "The Collector of Bedford Street",
+      "original_title": null,
+      "directors": [
+        "Alice Elliott"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2001,
+      "runtime_min": 34,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Even Oddfellows Get the Blues",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-05",
+          "time": "2:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-07",
+          "time": "6:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A filmmaker profiles her developmentally disabled neighbour, a tireless charity fundraiser, and the community that rallies around him.",
+      "cast": [],
+      "page": 7
+    },
+    {
+      "title": "No Prom for Cindy",
+      "original_title": null,
+      "directors": [
+        "Charlie Adler"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2001,
+      "runtime_min": 26,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Even Oddfellows Get the Blues",
+      "guests": [
+        "Charlie Adler"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-05",
+          "time": "2:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-07",
+          "time": "6:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A bearded, tattooed high-school 'girl' sees her popularity upended at a sleepover.",
+      "cast": [],
+      "page": 7
+    },
+    {
+      "title": "Summer Sketch Marks",
+      "original_title": null,
+      "directors": [
+        "George Kuchar"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2001,
+      "runtime_min": 20,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Even Oddfellows Get the Blues",
+      "guests": [
+        "George Kuchar"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-05",
+          "time": "2:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-07",
+          "time": "6:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "George Kuchar films himself filming a nervous young painter.",
+      "cast": [],
+      "page": 7
+    },
+    {
+      "title": "Exam",
+      "original_title": "Emtehan",
+      "directors": [
+        "Nasser Refaie"
+      ],
+      "countries": [
+        "Iran"
+      ],
+      "film_year": 2002,
+      "runtime_min": 80,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-06",
+          "time": "1:15 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "Young Iranian women talk and worry in a Tehran courtyard while waiting to sit a university entrance exam.",
+      "cast": [
+        "Raya Nassiri",
+        "Farzin Aghaie",
+        "Ali Hosseini",
+        "Nahid Sarvmeyli"
+      ],
+      "page": 7
+    },
+    {
+      "title": "Fading Light",
+      "original_title": "To Fos Pou Svini",
+      "directors": [
+        "Vassilis Douros"
+      ],
+      "countries": [
+        "Greece"
+      ],
+      "film_year": 2000,
+      "runtime_min": 99,
+      "language": "Greek with English subtitles",
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-09",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-12",
+          "time": "11:30 AM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A musically gifted Greek island boy who is losing his sight finds encouragement from a new teacher.",
+      "cast": [
+        "Alekos Alexandrakis",
+        "Vicky Volioti",
+        "Vladimir Golosinsky",
+        "Elissavet Naslidou"
+      ],
+      "page": 7
+    },
+    {
+      "title": "Farang Ba",
+      "original_title": null,
+      "directors": [
+        "John Sullivan"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 60,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": "World Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "John Sullivan"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-04",
+          "time": "9:15 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-06",
+          "time": "6:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A middle-aged American lawyer in Thailand keeps boxing much younger opponents despite surviving cancer.",
+      "cast": [],
+      "page": 8
+    },
+    {
+      "title": "Ray4theNBA",
+      "original_title": null,
+      "directors": [
+        "Jim O'Donnell"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2001,
+      "runtime_min": 28,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Farang Ba",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-04",
+          "time": "9:15 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-06",
+          "time": "6:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A short, thirty-something PhD student believes his three-point shot can still get him into the NBA.",
+      "cast": [],
+      "page": 8
+    },
+    {
+      "title": "Jack Kirk—The Dipsea Demon",
+      "original_title": null,
+      "directors": [
+        "Grady Candler",
+        "David Dowell"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 8,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Farang Ba",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-04",
+          "time": "9:15 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-06",
+          "time": "6:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A 94-year-old runner who has run Mill Valley's Dipsea Race 66 years in a row.",
+      "cast": [],
+      "page": 8
+    },
+    {
+      "title": "S",
+      "original_title": null,
+      "directors": [
+        "Espen Sørensen"
+      ],
+      "countries": [
+        "Denmark"
+      ],
+      "film_year": 2001,
+      "runtime_min": 8,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: A Heart Is Not a Toy",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-04",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A child's imaginary friend makes up for neglectful parents.",
+      "cast": [],
+      "page": 8
+    },
+    {
+      "title": "Sofie's Heart",
+      "original_title": null,
+      "directors": [
+        "Valerie Edwina Saunders"
+      ],
+      "countries": [
+        "Denmark"
+      ],
+      "film_year": 2001,
+      "runtime_min": 12,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: A Heart Is Not a Toy",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-04",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A girl's seemingly idyllic life with her grandmother proves more complicated.",
+      "cast": [],
+      "page": 8
+    },
+    {
+      "title": "Kiss Kiss",
+      "original_title": null,
+      "directors": [
+        "Linda Krogsøe Holmberg"
+      ],
+      "countries": [
+        "Denmark"
+      ],
+      "film_year": 2001,
+      "runtime_min": 15,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: A Heart Is Not a Toy",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-04",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A girl's relatives all advise her on her first kiss without asking what she wants.",
+      "cast": [],
+      "page": 8
+    },
+    {
+      "title": "Final Exams",
+      "original_title": null,
+      "directors": [
+        "Pascal Vincent"
+      ],
+      "countries": [
+        "France"
+      ],
+      "film_year": 2001,
+      "runtime_min": 18,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: A Heart Is Not a Toy",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-04",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "Four teenagers stand on the edge of adulthood.",
+      "cast": [],
+      "page": 8
+    },
+    {
+      "title": "Into the Night",
+      "original_title": null,
+      "directors": [
+        "Tony Krawitz"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "film_year": 2002,
+      "runtime_min": 15,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: A Heart Is Not a Toy",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-04",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A boy, a street of teenagers and a lonely man cross paths one night.",
+      "cast": [],
+      "page": 8
+    },
+    {
+      "title": "P.E.",
+      "original_title": null,
+      "directors": [
+        "Mya Stark"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 12,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: A Heart Is Not a Toy",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-04",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A dark comedy about enterprising schoolgirls trying to get out of gym class.",
+      "cast": [],
+      "page": 8
+    },
+    {
+      "title": "A Touch of Tutelage",
+      "original_title": null,
+      "directors": [
+        "Thea St. Omer"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2001,
+      "runtime_min": 14,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: And How I Hoped for Your Love",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-11",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A graduate student and her professor project unspoken desires onto each other.",
+      "cast": [],
+      "page": 8
+    },
+    {
+      "title": "Lillian & I",
+      "original_title": null,
+      "directors": [
+        "Jonathan Wald"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "film_year": 2002,
+      "runtime_min": 8,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: And How I Hoped for Your Love",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-11",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A teacher is reminded of a passion he abandoned.",
+      "cast": [],
+      "page": 8
+    },
+    {
+      "title": "Diwali",
+      "original_title": null,
+      "directors": [
+        "Nick Sivakumaran"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2001,
+      "runtime_min": 16,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: And How I Hoped for Your Love",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-11",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A young man embraces his own culture to impress the woman he likes.",
+      "cast": [],
+      "page": 8
+    },
+    {
+      "title": "Stag",
+      "original_title": null,
+      "directors": [
+        "Ian Iqbal Rashid"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "film_year": 2001,
+      "runtime_min": 9,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: And How I Hoped for Your Love",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-11",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "Two old friends rethink their lives after a bachelor party takes an unexpected turn.",
+      "cast": [],
+      "page": 8
+    },
+    {
+      "title": "Leonard",
+      "original_title": null,
+      "directors": [
+        "Brian Kelly"
+      ],
+      "countries": [
+        "Scotland"
+      ],
+      "film_year": 2001,
+      "runtime_min": 24,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: And How I Hoped for Your Love",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-11",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A man's orderly routine is upset by the arrival of his long-lost son.",
+      "cast": [],
+      "page": 8
+    },
+    {
+      "title": "The Flickerflash",
+      "original_title": null,
+      "directors": [
+        "Brett Simon"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2001,
+      "runtime_min": 6,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: Storywise",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-08",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "Two lovers are tempted by a connection beyond their own.",
+      "cast": [],
+      "page": 8
+    },
+    {
+      "title": "Flee",
+      "original_title": null,
+      "directors": [
+        "Tamara Taddeo"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "film_year": 2002,
+      "runtime_min": 5,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: Storywise",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-08",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A dancer replays her last conversation with her lover as choreography.",
+      "cast": [],
+      "page": 8
+    },
+    {
+      "title": "Bertha Alyce",
+      "original_title": null,
+      "directors": [
+        "Gay Block"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2001,
+      "runtime_min": 24,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: Storywise",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-08",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A photographer revisits her late, self-absorbed mother through her own camera work.",
+      "cast": [],
+      "page": 8
+    },
+    {
+      "title": "Crossing",
+      "original_title": null,
+      "directors": [
+        "Jeremy Passmore"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 12,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: Storywise",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-08",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A lonely drifter moves through mathematics, dreams and longing.",
+      "cast": [],
+      "page": 8
+    },
+    {
+      "title": "Site",
+      "original_title": null,
+      "directors": [
+        "Jason Kliot"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 7,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: Storywise",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-08",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A spare piece using the human body to express loss.",
+      "cast": [],
+      "page": 8
+    },
+    {
+      "title": "Kool Breeze",
+      "original_title": null,
+      "directors": [
+        "Rachel Libert"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2001,
+      "runtime_min": 7,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: Storywise",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-08",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "Poetry and dance tell of a woman's abuse and recovery.",
+      "cast": [],
+      "page": 8
+    },
+    {
+      "title": "A Dios",
+      "original_title": null,
+      "directors": [
+        "Jean-Stephane Sauvaire"
+      ],
+      "countries": [
+        "France"
+      ],
+      "film_year": 2001,
+      "runtime_min": 5,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: What Will Tomorrow Bring",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-09",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A Colombian boy shows off his neighbourhood to a documentary camera.",
+      "cast": [],
+      "page": 9
+    },
+    {
+      "title": "Binary",
+      "original_title": null,
+      "directors": [
+        "Mike Daly"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "film_year": 2002,
+      "runtime_min": 15,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: What Will Tomorrow Bring",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-09",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "An agoraphobic woman finds human contact more startling than technology.",
+      "cast": [],
+      "page": 9
+    },
+    {
+      "title": "Member",
+      "original_title": null,
+      "directors": [
+        "David Brooks"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2001,
+      "runtime_min": 13,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: What Will Tomorrow Bring",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-09",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A young man drifts through a car-choked, consumerist Southern California.",
+      "cast": [],
+      "page": 9
+    },
+    {
+      "title": "Hypocrite",
+      "original_title": null,
+      "directors": [
+        "David Chalker"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 14,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: What Will Tomorrow Bring",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-09",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A short that confronts viewers with their own urge to watch.",
+      "cast": [],
+      "page": 9
+    },
+    {
+      "title": "Escape",
+      "original_title": null,
+      "directors": [
+        "Kim Bodnia"
+      ],
+      "countries": [
+        "Denmark"
+      ],
+      "film_year": 2001,
+      "runtime_min": 35,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: What Will Tomorrow Bring",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-09",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "An advertising executive overwhelmed by the media machine he helped build searches for real connection.",
+      "cast": [],
+      "page": 9
+    },
+    {
+      "title": "Morning Breath",
+      "original_title": null,
+      "directors": [
+        "Brin Hill"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 17,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: You Gotta Pay the Band",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-07",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A man weighs a familiar present against an unknown future.",
+      "cast": [],
+      "page": 9
+    },
+    {
+      "title": "Broken",
+      "original_title": null,
+      "directors": [
+        "Patrick Downs"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 17,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: You Gotta Pay the Band",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-07",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A neighbourhood police officer struggles most with himself.",
+      "cast": [],
+      "page": 9
+    },
+    {
+      "title": "Self Storage",
+      "original_title": null,
+      "directors": [
+        "Peter Brown"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 16,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: You Gotta Pay the Band",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-07",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "Friendship and betrayal play out in a love triangle.",
+      "cast": [],
+      "page": 9
+    },
+    {
+      "title": "The Last Attack of the Beast",
+      "original_title": null,
+      "directors": [
+        "Gerardo Naranjo"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 13,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: You Gotta Pay the Band",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-07",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A down-and-out salesman stumbles on a deserted, lawless town.",
+      "cast": [],
+      "page": 9
+    },
+    {
+      "title": "Bar Time",
+      "original_title": null,
+      "directors": [
+        "Ernst Gossner"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2001,
+      "runtime_min": 12,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: You Gotta Pay the Band",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-07",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A lonely man, a bartender and a desperate teenager cross paths late at night.",
+      "cast": [],
+      "page": 9
+    },
+    {
+      "title": "Family Album",
+      "original_title": null,
+      "directors": [
+        "Mayu Nakamura"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2001,
+      "runtime_min": 15,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: You Made Me Funny",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-10",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A young woman who photographs ex-boyfriends meets a man who looks like her father.",
+      "cast": [],
+      "page": 9
+    },
+    {
+      "title": "Thunderbird",
+      "original_title": null,
+      "directors": [
+        "Ward Swan"
+      ],
+      "countries": [
+        "USA",
+        "Canada"
+      ],
+      "film_year": 2001,
+      "runtime_min": 18,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: You Made Me Funny",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-10",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A family tries to ward off a father's visions of his own death.",
+      "cast": [],
+      "page": 9
+    },
+    {
+      "title": "Fortune",
+      "original_title": null,
+      "directors": [
+        "Eric Lin"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 23,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: You Made Me Funny",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-10",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A new hire at an office run by a tyrannical boss must choose where her loyalties lie.",
+      "cast": [],
+      "page": 9
+    },
+    {
+      "title": "The Yard Sale",
+      "original_title": null,
+      "directors": [
+        "Ray Kimsey"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 19,
+      "language": null,
+      "section": "Five@Five",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Five@Five: You Made Me Funny",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-10",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A family moving their grandmother into a nursing home rediscovers her memories.",
+      "cast": [],
+      "page": 9
+    },
+    {
+      "title": "Five Years",
+      "original_title": null,
+      "directors": [
+        "Brett Wagner"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 89,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-10",
+          "time": "9:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A man's brother moves in with him after release from prison, and the truth of his crime emerges in flashbacks.",
+      "cast": [
+        "Kris Carr",
+        "Timothy Altmeyer",
+        "Todd Swenson",
+        "Michael Buscemi",
+        "Cathy Doe",
+        "Byron West"
+      ],
+      "page": 9
+    },
+    {
+      "title": "Frida",
+      "original_title": null,
+      "directors": [
+        "Julie Taymor"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 123,
+      "language": null,
+      "section": null,
+      "slot": "Opening Night",
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-06",
+          "time": "9:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A biopic of painter Frida Kahlo, her injuries, art and turbulent marriage to Diego Rivera.",
+      "cast": [
+        "Salma Hayek",
+        "Alfred Molina",
+        "Geoffrey Rush",
+        "Ashley Judd",
+        "Antonio Banderas",
+        "Edward Norton"
+      ],
+      "page": 10
+    },
+    {
+      "title": "Gagooman",
+      "original_title": null,
+      "directors": [
+        "Mohammad Rasoulof"
+      ],
+      "countries": [
+        "Iran"
+      ],
+      "film_year": 2001,
+      "runtime_min": 79,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": "US Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-04",
+          "time": "9:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-11",
+          "time": "7:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Real Iranian prisoners and guards re-enact a warden's arranged marriage between two inmates.",
+      "cast": [
+        "Ali-Reza Shalikaran",
+        "Fatemeh Bijan",
+        "Ali-Reza Mahdaviyan",
+        "Zalkla Bijan",
+        "Farajollah Shalikaran",
+        "Golnabat Atai"
+      ],
+      "page": 10
+    },
+    {
+      "title": "Gangs from Rosario",
+      "original_title": "Rosarigasinos",
+      "directors": [
+        "Rodrigo Grande"
+      ],
+      "countries": [
+        "Argentina"
+      ],
+      "film_year": 2001,
+      "runtime_min": 84,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-05",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-10",
+          "time": "9:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Two aging tango-musician robbers leave prison hoping to reunite their gang and recover hidden loot.",
+      "cast": [
+        "Federico Luppi",
+        "Ulises Dumont",
+        "Maria José DeMare"
+      ],
+      "page": 10
+    },
+    {
+      "title": "Gebirtig",
+      "original_title": null,
+      "directors": [
+        "Robert Schindel",
+        "Lukas Stepanik"
+      ],
+      "countries": [
+        "Austria",
+        "Germany",
+        "Poland"
+      ],
+      "film_year": 2002,
+      "runtime_min": 115,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-07",
+          "time": "9:15 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2002-10-10",
+          "time": "6:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "In Waldheim-era Austria, a Jewish emigre composer is drawn back to testify at a former camp supervisor's trial.",
+      "cast": [
+        "Peter Simonischek",
+        "August Zirner",
+        "Daniel Olbrychski",
+        "Ruth Rieser",
+        "Katja Weitzenböck"
+      ],
+      "page": 10
+    },
+    {
+      "title": "Heart of the Sea: Kapolioka'ehukai",
+      "original_title": null,
+      "directors": [
+        "Charlotte Lagarde",
+        "Lisa Denker"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 57,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": "World Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Charlotte Lagarde",
+        "Lisa Denker"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-04",
+          "time": "7:15 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2002-10-08",
+          "time": "7:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A portrait of Hawaiian surfing pioneer Rell Sun and her fight with breast cancer.",
+      "cast": [],
+      "page": 11
+    },
+    {
+      "title": "On Any Given Day",
+      "original_title": null,
+      "directors": [
+        "Sally Lundburg"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2001,
+      "runtime_min": 10,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Heart of the Sea: Kapolioka'ehukai",
+      "guests": [
+        "Sally Lundburg"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-04",
+          "time": "7:15 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2002-10-08",
+          "time": "7:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A local woman surfs the waves between Pacifica and Capitola.",
+      "cast": [],
+      "page": 11
+    },
+    {
+      "title": "Heaven's Crossroad",
+      "original_title": null,
+      "directors": [
+        "Kimi Takesue"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 35,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Heaven's Crossroad/Inside the Box",
+      "guests": [
+        "Kimi Takesue"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-06",
+          "time": "8:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-08",
+          "time": "9:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "An impressionistic travelogue through Vietnam about the traveller's longing to connect.",
+      "cast": [],
+      "page": 11
+    },
+    {
+      "title": "Inside the Box",
+      "original_title": null,
+      "directors": [
+        "Michael Burlingame"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 40,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": "Heaven's Crossroad/Inside the Box",
+      "guests": [
+        "Michael Burlingame"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-06",
+          "time": "8:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-08",
+          "time": "9:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A young Korean woman narrates her alienation from the Western gaze in her new American life.",
+      "cast": [],
+      "page": 11
+    },
+    {
+      "title": "Help, I'm a Boy!",
+      "original_title": "Hilfe, ich bin ein Junge",
+      "directors": [
+        "Oliver Dommenget"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "film_year": 2002,
+      "runtime_min": 95,
+      "language": "German with English subtitles read aloud",
+      "section": null,
+      "slot": null,
+      "premiere": "North American Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Sarah Hannemann"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-06",
+          "time": "4:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2002-10-12",
+          "time": "6:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A girl and the bully who torments her magically swap bodies and must reverse the spell within 54 hours.",
+      "cast": [
+        "Sarah Hannemann",
+        "Nick Seidensticker",
+        "Philipp Blank",
+        "Pinkas Braun"
+      ],
+      "page": 11
+    },
+    {
+      "title": "Higher Still",
+      "original_title": "Plus Haut",
+      "directors": [
+        "Nicolas Brevière"
+      ],
+      "countries": [
+        "France"
+      ],
+      "film_year": 2002,
+      "runtime_min": 85,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": "North American Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Nicolas Brevière"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-05",
+          "time": "1:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-06",
+          "time": "9:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Four young French women, each linked to a season, cope with losses in intersecting stories.",
+      "cast": [
+        "Margot Abascal",
+        "Pascale Arbillot",
+        "Camille Japy",
+        "Lucia Sanchez"
+      ],
+      "page": 11
+    },
+    {
+      "title": "Unprecedented: The 2000 Presidential Election",
+      "original_title": null,
+      "directors": [
+        "Richard Ray Perez",
+        "Joan Sekler"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 50,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": "Human Rights and Inhuman Wrongs",
+      "guests": [
+        "Richard Ray Perez",
+        "Joan Sekler"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-05",
+          "time": "11:15 AM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-09",
+          "time": "9:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "An account of voter disenfranchisement and partisan manoeuvring in Florida during the 2000 election.",
+      "cast": [],
+      "page": 12
+    },
+    {
+      "title": "Mighty Times—The Legacy of Rosa Parks",
+      "original_title": null,
+      "directors": [
+        "Bobby Houston"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 40,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": "Human Rights and Inhuman Wrongs",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-05",
+          "time": "11:15 AM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-09",
+          "time": "9:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Archival footage and reenactments recover Rosa Parks's wider role in the civil rights movement.",
+      "cast": [],
+      "page": 12
+    },
+    {
+      "title": "Up; Right!",
+      "original_title": null,
+      "directors": [
+        "Shawn Larrabee"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2001,
+      "runtime_min": 5,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Human Rights and Inhuman Wrongs",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-05",
+          "time": "11:15 AM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-09",
+          "time": "9:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Young people speak out about their human rights.",
+      "cast": [],
+      "page": 12
+    },
+    {
+      "title": "Igor Stravinsky, Composer",
+      "original_title": null,
+      "directors": [
+        "János Darvas"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "film_year": 2001,
+      "runtime_min": 53,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-06",
+          "time": "7:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-10",
+          "time": "7:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "An all-archival portrait of Igor Stravinsky, his groundbreaking ballets, travels and circle of famous friends.",
+      "cast": [],
+      "page": 12
+    },
+    {
+      "title": "Indiana Aria",
+      "original_title": null,
+      "directors": [
+        "Elizabeth Pollock"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 25,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Igor Stravinsky, Composer",
+      "guests": [
+        "Elizabeth Pollock"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-06",
+          "time": "7:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-10",
+          "time": "7:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Four Indiana University voice students pursue careers in the tough world of opera.",
+      "cast": [],
+      "page": 12
+    },
+    {
+      "title": "I'm Taraneh, 15",
+      "original_title": null,
+      "directors": [
+        "Rassul Sadr-Ameli"
+      ],
+      "countries": [
+        "Iran"
+      ],
+      "film_year": 2002,
+      "runtime_min": 110,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-04",
+          "time": "6:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-08",
+          "time": "9:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A fifteen-year-old Tehran girl faces adult hardships alone after a brief, failed marriage.",
+      "cast": [
+        "Taraneh Alidousti",
+        "Mahtab Nasirpour",
+        "Hossein Majhoub",
+        "Milad Sadr-Ameli"
+      ],
+      "page": 12
+    },
+    {
+      "title": "Independent Spirits: Faith Hubley/John Hubley",
+      "original_title": null,
+      "directors": [
+        "Sybil DelGaudio"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2001,
+      "runtime_min": 56,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Sybil DelGaudio"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-07",
+          "time": "7:15 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-12",
+          "time": "12:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A portrait of independent animators Faith and John Hubley and their decades of personal, socially minded films.",
+      "cast": [],
+      "page": 12
+    },
+    {
+      "title": "Intact",
+      "original_title": "Intacto",
+      "directors": [
+        "Juan Carlos Fresnadillo"
+      ],
+      "countries": [
+        "Spain"
+      ],
+      "film_year": 2001,
+      "runtime_min": 108,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-04",
+          "time": "9:30 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2002-10-09",
+          "time": "9:15 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "In a world where luck can be stolen, a man seeks revenge on the casino owner who took his.",
+      "cast": [
+        "Eusebio Poncella",
+        "Max von Sydow",
+        "Leonardo Sbaraglia",
+        "Monica Lopez",
+        "Antonio Dechent"
+      ],
+      "page": 13
+    },
+    {
+      "title": "I Was a Rat",
+      "original_title": null,
+      "directors": [
+        "Laurie Lynd"
+      ],
+      "countries": [
+        "Canada",
+        "UK"
+      ],
+      "film_year": 2001,
+      "runtime_min": 98,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": "US Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Calum Worthy"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-05",
+          "time": "4:30 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2002-10-06",
+          "time": "1:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A boy who insists he used to be a rat is taken in by a kind couple while a reporter stirs up trouble.",
+      "cast": [
+        "Tom Conti",
+        "Brenda Fricker",
+        "Calum Worthy",
+        "Katie Blake",
+        "Ned Beatty"
+      ],
+      "page": 13
+    },
+    {
+      "title": "Jimmy Scott: If You Only Knew",
+      "original_title": null,
+      "directors": [
+        "Matthew Buzzell"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 77,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Matthew Buzzell"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-07",
+          "time": "9:30 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2002-10-13",
+          "time": "9:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A portrait of jazz singer Jimmy Scott, his distinctive high voice, lost career and comeback.",
+      "cast": [],
+      "page": 13
+    },
+    {
+      "title": "Just a Kiss",
+      "original_title": null,
+      "directors": [
+        "Fisher Stevens"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2001,
+      "runtime_min": 89,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-03",
+          "time": "9:45",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "One act of infidelity sets off a chain of darkly comic consequences among six New Yorkers.",
+      "cast": [
+        "Patrick Breen",
+        "Zoe Caldwell",
+        "Sarita Choudhury",
+        "Taye Diggs",
+        "Ron Eldard",
+        "Kyra Sedgwick"
+      ],
+      "page": 13
+    },
+    {
+      "title": "Kabala",
+      "original_title": null,
+      "directors": [
+        "Assane Kouyaté"
+      ],
+      "countries": [
+        "Mali"
+      ],
+      "film_year": 2002,
+      "runtime_min": 112,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": "US Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Assane Kouyaté"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-08",
+          "time": "6:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "An outcast young man returns to his Malian village during a cholera outbreak and challenges tradition over the holy well.",
+      "cast": [
+        "Modibo Traoré",
+        "Djénéba Koné",
+        "Fily Traoré",
+        "Hamadoun Kassogué"
+      ],
+      "page": 14
+    },
+    {
+      "title": "The King's Beard",
+      "original_title": null,
+      "directors": [
+        "Tony Collingwood"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "film_year": 2001,
+      "runtime_min": 75,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": "US Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-05",
+          "time": "12:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2002-10-10",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "An animated fairy tale in which a young barber and a fairy save a kingdom living in its king's beard.",
+      "cast": [
+        "Jim Broadbent",
+        "Robin Edwards",
+        "Maria Darling",
+        "Maureen Lipman"
+      ],
+      "page": 14
+    },
+    {
+      "title": "Last Seen",
+      "original_title": null,
+      "directors": [
+        "Eva Ilona Brzeski"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 78,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Eva Ilona Brzeski"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-06",
+          "time": "6:30 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-12",
+          "time": "7:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A haunted reporter investigates the disappearance of a young woman who chose to vanish.",
+      "cast": [
+        "Amanda Detmer",
+        "Joe Minjares",
+        "Sally Wingert",
+        "Michael Tezla",
+        "Leah Curney"
+      ],
+      "page": 14
+    },
+    {
+      "title": "Getting Stronger Every Day",
+      "original_title": null,
+      "directors": [
+        "Miranda July"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2001,
+      "runtime_min": 7,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Last Seen",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-06",
+          "time": "6:30 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-12",
+          "time": "7:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A girl makes delicate images while listening to a story of lost and found identity.",
+      "cast": [],
+      "page": 14
+    },
+    {
+      "title": "Leaving by the Way",
+      "original_title": "Pa celam aizejot",
+      "directors": [
+        "Viesturs Kairišs"
+      ],
+      "countries": [
+        "Latvia"
+      ],
+      "film_year": 2001,
+      "runtime_min": 90,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": "US Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-05",
+          "time": "4:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "An eight-year-old Latvian boy waiting for his absent father sets off on a strange, dreamlike journey.",
+      "cast": [
+        "Dāvis Bergs",
+        "Elita Klavina",
+        "Andris Keišs",
+        "Jānis Paukštello",
+        "Guna Zarina"
+      ],
+      "page": 14
+    },
+    {
+      "title": "Fine Dining",
+      "original_title": null,
+      "directors": [
+        "Dean Mermell"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 8,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Leaving by the Way",
+      "guests": [
+        "Dean Mermell"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-05",
+          "time": "4:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "An absurd, colourful daydream shot with a 1920s hand-cranked camera.",
+      "cast": [],
+      "page": 14
+    },
+    {
+      "title": "Let's Talk",
+      "original_title": null,
+      "directors": [
+        "Ram Madhvani"
+      ],
+      "countries": [
+        "India"
+      ],
+      "film_year": 2002,
+      "runtime_min": 97,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": "US Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Ram Madhvani"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-11",
+          "time": "7:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2002-10-13",
+          "time": "3:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A Mumbai wife pregnant by another man imagines different ways of telling her husband.",
+      "cast": [
+        "Boman Irani",
+        "Maia Katrak"
+      ],
+      "page": 15
+    },
+    {
+      "title": "Letter from the Mountain",
+      "original_title": "Amidado Dayori",
+      "directors": [
+        "Takashi Koizumi"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "film_year": 2002,
+      "runtime_min": 128,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": "World Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-08",
+          "time": "6:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A writer and his doctor wife leave Tokyo for his home village and slowly find peace.",
+      "cast": [
+        "Akira Terao",
+        "Kanako Hiiguchi",
+        "Tanie Kitabayashi"
+      ],
+      "page": 15
+    },
+    {
+      "title": "Lost in La Mancha",
+      "original_title": null,
+      "directors": [
+        "Keith Fulton",
+        "Louis Pepe"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "film_year": 2002,
+      "runtime_min": 89,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": "US Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-05",
+          "time": "9:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-09",
+          "time": "9:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A documentary on the collapse of Terry Gilliam's attempt to film Don Quixote.",
+      "cast": [],
+      "page": 15
+    },
+    {
+      "title": "The Lover",
+      "original_title": "Lubovnik",
+      "directors": [
+        "Valery Todorovsky"
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "film_year": 2002,
+      "runtime_min": 100,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Valery Todorovsky"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-06",
+          "time": "5:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A grieving widower discovers his wife's love letter to another man, who then turns up mourning her.",
+      "cast": [
+        "Oleg Yankovsky",
+        "Sergei Garmash",
+        "Vera Voronkova",
+        "Evgueny Kosyrev"
+      ],
+      "page": 15
+    },
+    {
+      "title": "Made-Up (a vanity production)",
+      "original_title": null,
+      "directors": [
+        "Tony Shalhoub"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 96,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Tony Shalhoub",
+        "Brooke Adams",
+        "Lynne Adams"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-04",
+          "time": "9:30 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-12",
+          "time": "6:45 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A mockumentary in which a filmmaker records her sister's battle with her daughter over beauty and ambition.",
+      "cast": [
+        "Brooke Adams",
+        "Lynne Adams",
+        "Eva Amurri",
+        "Tony Shalhoub",
+        "Gary Sinise",
+        "Light Eternity"
+      ],
+      "page": 16
+    },
+    {
+      "title": "Gender Equality",
+      "original_title": null,
+      "directors": [
+        "Alison Geitner Clifford"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 2,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Made-Up (a vanity production)",
+      "guests": [
+        "Alison Geitner Clifford"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-04",
+          "time": "9:30 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-12",
+          "time": "6:45 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A two-minute comic take on gender and success.",
+      "cast": [],
+      "page": 16
+    },
+    {
+      "title": "Twirl",
+      "original_title": null,
+      "directors": [
+        "Bridget Whalen"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 4,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Made-Up (a vanity production)",
+      "guests": [
+        "Bridget Whalen"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-04",
+          "time": "9:30 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-12",
+          "time": "6:45 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "Girls confess their compulsion to twirl.",
+      "cast": [],
+      "page": 16
+    },
+    {
+      "title": "Meet the Muppets! Behind the Scenes of Kermit's Swamp Years",
+      "original_title": null,
+      "directors": [
+        "David Gumpel"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 82,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Joseph Mazzarino",
+        "Jim Lewis",
+        "Michael Polis"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-12",
+          "time": "2:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A young Kermit the Frog leaves his swamp to rescue a friend, presented with a live panel of puppeteers and puppets.",
+      "cast": [
+        "Steve Whitmire",
+        "Joseph Mazzarino",
+        "Bill Barretta",
+        "John Kennedy",
+        "Alice Dinnean"
+      ],
+      "page": 16
+    },
+    {
+      "title": "Merci Docteur Rey",
+      "original_title": null,
+      "directors": [
+        "Andrew Litvack"
+      ],
+      "countries": [
+        "France",
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 92,
+      "language": null,
+      "section": null,
+      "slot": "Closing Night",
+      "premiere": "World Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Dianne Wiest",
+        "Andrew Litvack"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-13",
+          "time": "9:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A young Parisian man, his opera-diva mother and a set of eccentrics are drawn into a farcical murder mystery.",
+      "cast": [
+        "Dianne Wiest",
+        "Jane Birkin",
+        "Bulle Ogier",
+        "Stanislas Mehrher",
+        "Vanessa Redgrave"
+      ],
+      "page": 16
+    },
+    {
+      "title": "Minoes",
+      "original_title": null,
+      "directors": [
+        "Vincent Bal"
+      ],
+      "countries": [
+        "Netherlands"
+      ],
+      "film_year": 2001,
+      "runtime_min": 92,
+      "language": "Dutch with English subtitles read aloud",
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-06",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-13",
+          "time": "3:45 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A cat turned into a young woman helps a timid reporter expose a businessman's crimes.",
+      "cast": [
+        "Carice van Houten",
+        "Theo Maassen",
+        "Sarah Bannier",
+        "Pierre Bokma"
+      ],
+      "page": 16
+    },
+    {
+      "title": "MMI",
+      "original_title": null,
+      "directors": [
+        "John Sanborn"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 70,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": "World Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "John Sanborn"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-04",
+          "time": "7:15 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-08",
+          "time": "7:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Video artist John Sanborn reflects on his father's death and his own new fatherhood at the millennium.",
+      "cast": [
+        "Miranda Cahill Sanborn"
+      ],
+      "page": 17
+    },
+    {
+      "title": "Morvern Callar",
+      "original_title": null,
+      "directors": [
+        "Lynne Ramsay"
+      ],
+      "countries": [
+        "UK",
+        "Canada"
+      ],
+      "film_year": 2002,
+      "runtime_min": 97,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Lynne Ramsay"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-11",
+          "time": "9:15 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2002-10-13",
+          "time": "4:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A young Scottish woman claims her dead boyfriend's novel as her own and escapes to Spain.",
+      "cast": [
+        "Samantha Morton",
+        "Kathleen McDermott",
+        "Raife Patrick Burchell",
+        "Dan Cadan"
+      ],
+      "page": 17
+    },
+    {
+      "title": "Mr. and Mrs. Iyer",
+      "original_title": null,
+      "directors": [
+        "Aparna Sen"
+      ],
+      "countries": [
+        "India"
+      ],
+      "film_year": 2002,
+      "runtime_min": 120,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Aparna Sen"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-09",
+          "time": "6:30 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-11",
+          "time": "9:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A Hindu woman and a Muslim man form a bond during a bus journey through communal violence.",
+      "cast": [
+        "Rahul Bose",
+        "Konkona Sensharma",
+        "Esha Chauhan",
+        "Surekha Sikri",
+        "Bhisham Sahani",
+        "Anjan Dutt"
+      ],
+      "page": 17
+    },
+    {
+      "title": "My Father, the Genius",
+      "original_title": null,
+      "directors": [
+        "Lucia Small"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 84,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Lucia Small"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-05",
+          "time": "2:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-08",
+          "time": "9:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A filmmaker examines her visionary but difficult architect father and his largely unbuilt work.",
+      "cast": [],
+      "page": 17
+    },
+    {
+      "title": "The Hate Man, Street Philosopher",
+      "original_title": null,
+      "directors": [
+        "Ivan Jaigirdar"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 27,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "My Father, the Genius",
+      "guests": [
+        "Ivan Jaigirdar"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-05",
+          "time": "2:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-08",
+          "time": "9:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A homeless-by-choice street preacher promotes his philosophy of negativity.",
+      "cast": [],
+      "page": 17
+    },
+    {
+      "title": "New Suit",
+      "original_title": null,
+      "directors": [
+        "François Velle"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 94,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-05",
+          "time": "2:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A Hollywood assistant's joke about a non-existent script sets off an industry bidding frenzy.",
+      "cast": [
+        "Jordan Bridges",
+        "Heather Donahue",
+        "Marisa Coughlan",
+        "Dan Hedaya"
+      ],
+      "page": 18
+    },
+    {
+      "title": "Falling in Love in Pongo Ponga",
+      "original_title": null,
+      "directors": [
+        "James Woods"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2001,
+      "runtime_min": 6,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "New Suit",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-05",
+          "time": "2:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A clash between a self-absorbed actress and a friendly production assistant on a film set.",
+      "cast": [],
+      "page": 18
+    },
+    {
+      "title": "Nine Good Teeth",
+      "original_title": null,
+      "directors": [
+        "Alex Halpern"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 80,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Alex Halpern",
+        "Madeleine Leskin"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-05",
+          "time": "1:45 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2002-10-06",
+          "time": "11:00 AM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A filmmaker's outspoken grandmother, born in 1899, recounts a family history full of secrets.",
+      "cast": [],
+      "page": 18
+    },
+    {
+      "title": "Noise",
+      "original_title": null,
+      "directors": [
+        "Rob Nilsson"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 80,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Rob Nilsson"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-09",
+          "time": "9:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A man drifts through San Francisco's Tenderloin unsure which of his encounters are real.",
+      "cast": [
+        "Robert Viharo",
+        "Paige Olson",
+        "Angie and Jen",
+        "Josh Peterson",
+        "Bill Ackridge"
+      ],
+      "page": 18
+    },
+    {
+      "title": "A Loose Tooth",
+      "original_title": null,
+      "directors": [
+        "Klaus Kjeldsen"
+      ],
+      "countries": [
+        "Denmark"
+      ],
+      "film_year": 1994,
+      "runtime_min": 5,
+      "language": "various languages with English subtitles read aloud",
+      "section": "25th Anniversary Event",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "The Northern De-Lights",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-04",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-13",
+          "time": "1:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "Children share their expertise on losing baby teeth.",
+      "cast": [],
+      "page": 18
+    },
+    {
+      "title": "When Life Departs",
+      "original_title": null,
+      "directors": [
+        "Karsten Kiilerich"
+      ],
+      "countries": [
+        "Denmark"
+      ],
+      "film_year": 1996,
+      "runtime_min": 11,
+      "language": "various languages with English subtitles read aloud",
+      "section": "25th Anniversary Event",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "The Northern De-Lights",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-04",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-13",
+          "time": "1:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "Children's own words and animation explore how they understand death.",
+      "cast": [],
+      "page": 18
+    },
+    {
+      "title": "The Rooster and the Hen Have a Sauna",
+      "original_title": null,
+      "directors": [
+        "Tini Sauvo"
+      ],
+      "countries": [
+        "Finland"
+      ],
+      "film_year": 1991,
+      "runtime_min": 20,
+      "language": "various languages with English subtitles read aloud",
+      "section": "25th Anniversary Event",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "The Northern De-Lights",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-04",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-13",
+          "time": "1:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A rooster's sauna draws an unexpected crowd.",
+      "cast": [],
+      "page": 18
+    },
+    {
+      "title": "What a Hog!",
+      "original_title": null,
+      "directors": [
+        "Kine Aune"
+      ],
+      "countries": [
+        "Norway"
+      ],
+      "film_year": 1993,
+      "runtime_min": 8,
+      "language": "various languages with English subtitles read aloud",
+      "section": "25th Anniversary Event",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "The Northern De-Lights",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-04",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-13",
+          "time": "1:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A warthog captured for a circus dreams of his girlfriend back in Africa.",
+      "cast": [],
+      "page": 18
+    },
+    {
+      "title": "One Day a Man Bought a House",
+      "original_title": null,
+      "directors": [
+        "Pjotr Sapegin"
+      ],
+      "countries": [
+        "Norway"
+      ],
+      "film_year": 1998,
+      "runtime_min": 7,
+      "language": "various languages with English subtitles read aloud",
+      "section": "25th Anniversary Event",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "The Northern De-Lights",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-04",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-13",
+          "time": "1:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A homeowner's pest-control efforts turn into a friendship.",
+      "cast": [],
+      "page": 18
+    },
+    {
+      "title": "Binkey Can't Fly",
+      "original_title": null,
+      "directors": [
+        "Lennart Gustafsson"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "film_year": 1994,
+      "runtime_min": 15,
+      "language": "various languages with English subtitles read aloud",
+      "section": "25th Anniversary Event",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "The Northern De-Lights",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-04",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-13",
+          "time": "1:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A young magpie must stay behind when his parents fly south.",
+      "cast": [],
+      "page": 18
+    },
+    {
+      "title": "Otto",
+      "original_title": null,
+      "directors": [
+        "Jonas Odell",
+        "Stig Bergqvist"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "film_year": 1997,
+      "runtime_min": 7,
+      "language": "various languages with English subtitles read aloud",
+      "section": "25th Anniversary Event",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "The Northern De-Lights",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-04",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-13",
+          "time": "1:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A boy sent to bed early imagines the fun his siblings are having.",
+      "cast": [],
+      "page": 18
+    },
+    {
+      "title": "One Flew Over the Cuckoo's Nest",
+      "original_title": null,
+      "directors": [
+        "Milos Forman"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 1975,
+      "runtime_min": 133,
+      "language": null,
+      "section": null,
+      "slot": "Tribute",
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-12",
+          "time": "8:45 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A rebellious patient challenges the rigid nurse who runs his psychiatric ward.",
+      "cast": [
+        "Jack Nicholson",
+        "Louise Fletcher",
+        "Will Samson",
+        "Brad Dourif",
+        "William Redfield",
+        "Danny DeVito"
+      ],
+      "page": 19
+    },
+    {
+      "title": "OT: Our Town",
+      "original_title": null,
+      "directors": [
+        "Scott Hamilton Kennedy"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 76,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Scott Hamilton Kennedy"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-11",
+          "time": "6:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-13",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Students at a Compton high school stage Our Town, the school's first play in over twenty years.",
+      "cast": [],
+      "page": 19
+    },
+    {
+      "title": "Little Hands",
+      "original_title": null,
+      "directors": [
+        "Anne Katrine Talks"
+      ],
+      "countries": [
+        "Denmark"
+      ],
+      "film_year": 2002,
+      "runtime_min": 18,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "OT: Our Town",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-11",
+          "time": "6:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-13",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A poetic look at how deaf children communicate.",
+      "cast": [],
+      "page": 19
+    },
+    {
+      "title": "Ping Pong",
+      "original_title": null,
+      "directors": [
+        "Sori"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "film_year": 2002,
+      "runtime_min": 114,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": "World Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-05",
+          "time": "8:45 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "Two contrasting childhood friends compete in a high-stakes table tennis tournament.",
+      "cast": [
+        "Yosuke Kubozuka",
+        "Arata",
+        "Sam Lee",
+        "Shido Nakamura",
+        "Koji Ohkura",
+        "Suzuki Matsuo"
+      ],
+      "page": 19
+    },
+    {
+      "title": "A Place Named Destiny",
+      "original_title": null,
+      "directors": [
+        "Paul Ginocchio"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 68,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": "World Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Paul Ginocchio",
+        "Sarah Crowell"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-13",
+          "time": "2:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Oakland teenagers in the Destiny Arts youth company create a stage show from audition to performance.",
+      "cast": [],
+      "page": 19
+    },
+    {
+      "title": "Puckoon",
+      "original_title": null,
+      "directors": [
+        "Terence Ryan"
+      ],
+      "countries": [
+        "UK",
+        "Ireland"
+      ],
+      "film_year": 2001,
+      "runtime_min": 82,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": "US Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-12",
+          "time": "2:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A 1924 Irish village is split in two by the new border in this farce from Spike Milligan's novel.",
+      "cast": [
+        "Richard Attenborough",
+        "Elliot Gould",
+        "Sean Hughes",
+        "Daragh O'Malley",
+        "John Lynch",
+        "Griff Rhys Jones"
+      ],
+      "page": 20
+    },
+    {
+      "title": "Rabbit-Proof Fence",
+      "original_title": null,
+      "directors": [
+        "Phillip Noyce"
+      ],
+      "countries": [
+        "Australia",
+        "UK"
+      ],
+      "film_year": 2002,
+      "runtime_min": 94,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-05",
+          "time": "9:15 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-10",
+          "time": "9:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "Three Aboriginal girls taken from their mothers in 1931 escape and walk home along a 1,500-mile fence.",
+      "cast": [
+        "Everlyn Sampi",
+        "Tianna Sansbury",
+        "Laura Monaghan",
+        "Kenneth Branagh",
+        "David Gulpilil",
+        "Jason Clarke"
+      ],
+      "page": 20
+    },
+    {
+      "title": "Roger Dodger",
+      "original_title": null,
+      "directors": [
+        "Dylan Kidd"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 105,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Dylan Kidd"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-11",
+          "time": "6:45 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A cynical Manhattan ad writer takes his teenage nephew on a night out to teach him about women.",
+      "cast": [
+        "Campbell Scott",
+        "Jesse Eisenberg",
+        "Isabella Rossellini",
+        "Elizabeth Berkeley",
+        "Jennifer Beals",
+        "Mina Badie"
+      ],
+      "page": 20
+    },
+    {
+      "title": "Before the Guests Arrive",
+      "original_title": null,
+      "directors": [
+        "Jon Bang Carlsen"
+      ],
+      "countries": [
+        "Denmark"
+      ],
+      "film_year": 1986,
+      "runtime_min": 20,
+      "language": null,
+      "section": "25th Anniversary Event",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "A Scandinavian Salute",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-12",
+          "time": "4:15 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "Two women working at an off-season Danish resort share memories.",
+      "cast": [],
+      "page": 20
+    },
+    {
+      "title": "Karin's Face",
+      "original_title": null,
+      "directors": [
+        "Ingmar Bergman"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "film_year": 1984,
+      "runtime_min": 14,
+      "language": null,
+      "section": "25th Anniversary Event",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "A Scandinavian Salute",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-12",
+          "time": "4:15 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "Ingmar Bergman portrays his mother's life through photographs.",
+      "cast": [],
+      "page": 20
+    },
+    {
+      "title": "A Stone Left Unturned",
+      "original_title": null,
+      "directors": [
+        "Maarit Lalli"
+      ],
+      "countries": [
+        "Finland"
+      ],
+      "film_year": 1999,
+      "runtime_min": 18,
+      "language": null,
+      "section": "25th Anniversary Event",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "A Scandinavian Salute",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-12",
+          "time": "4:15 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A bittersweet tale of a father and son's relationship.",
+      "cast": [],
+      "page": 20
+    },
+    {
+      "title": "Eating Out",
+      "original_title": null,
+      "directors": [
+        "Pål Sletaune"
+      ],
+      "countries": [
+        "Norway"
+      ],
+      "film_year": 1993,
+      "runtime_min": 7,
+      "language": null,
+      "section": "25th Anniversary Event",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "A Scandinavian Salute",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-12",
+          "time": "4:15 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A diner robbery leads to an unexpectedly sweet encounter.",
+      "cast": [],
+      "page": 20
+    },
+    {
+      "title": "The Latest News",
+      "original_title": null,
+      "directors": [
+        "Per Carleson"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "film_year": 1996,
+      "runtime_min": 3,
+      "language": null,
+      "section": "25th Anniversary Event",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "A Scandinavian Salute",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-12",
+          "time": "4:15 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "Believing everything on the radio has absurd results.",
+      "cast": [],
+      "page": 20
+    },
+    {
+      "title": "A Year Along the Abandoned Road",
+      "original_title": null,
+      "directors": [],
+      "countries": [
+        "Norway"
+      ],
+      "film_year": 1991,
+      "runtime_min": 12,
+      "language": null,
+      "section": "25th Anniversary Event",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "A Scandinavian Salute",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-12",
+          "time": "4:15 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A single time-lapse shot shows a year passing in a Norwegian village.",
+      "cast": [],
+      "page": 20
+    },
+    {
+      "title": "Scars",
+      "original_title": null,
+      "directors": [
+        "Lars Berg"
+      ],
+      "countries": [
+        "Norway"
+      ],
+      "film_year": 2002,
+      "runtime_min": 76,
+      "language": "Norwegian with English subtitles",
+      "section": null,
+      "slot": null,
+      "premiere": "US Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Lars Berg"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-11",
+          "time": "4:45 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2002-10-12",
+          "time": "1:45 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A boy in a small 1980s Norwegian town comes of age as his idolised brother falls ill and his friends change.",
+      "cast": [
+        "Eirik Evjen",
+        "Martin Jonny Raaen Eidissen",
+        "Eirik Stigar",
+        "Janne Kokkin",
+        "Lasse Kolsrud",
+        "Robert Skaerstad"
+      ],
+      "page": 21
+    },
+    {
+      "title": "Seven Samurai",
+      "original_title": null,
+      "directors": [
+        "Akira Kurosawa"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "film_year": 1954,
+      "runtime_min": 207,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Linda Hoaglund"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-06",
+          "time": "10:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Villagers hire a band of samurai to defend them from bandits, shown in a new print.",
+      "cast": [
+        "Takashi Shimura",
+        "Toshirô Mifune",
+        "Yoshio Inaba",
+        "Seiji Miyaguchi",
+        "Minoru Chiaki",
+        "Daisuke Katô"
+      ],
+      "page": 21
+    },
+    {
+      "title": "The Slaughter Rule",
+      "original_title": null,
+      "directors": [
+        "Andrew Smith",
+        "Alex Smith"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 119,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-12",
+          "time": "9:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "After his father's death, a Montana teenager joins a drifter's rough six-man football team.",
+      "cast": [
+        "David Morse",
+        "Ryan Gosling",
+        "Clea Duvall",
+        "Kelly Lynch",
+        "Eddie Spears"
+      ],
+      "page": 21
+    },
+    {
+      "title": "Spellbound",
+      "original_title": null,
+      "directors": [
+        "Jeff Blitz"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 97,
+      "language": null,
+      "section": "Member Screening",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-08",
+          "time": "6:45 PM",
+          "venue": "Cinema"
+        }
+      ],
+      "summary": "Eight children from varied backgrounds compete for the national spelling bee title.",
+      "cast": [],
+      "page": 21
+    },
+    {
+      "title": "Stand and Deliver",
+      "original_title": null,
+      "directors": [
+        "Ramon Menendez"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 1987,
+      "runtime_min": 101,
+      "language": null,
+      "section": "25th Anniversary Event",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Edward James Olmos"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-05",
+          "time": "4:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A Los Angeles teacher prepares struggling students for the AP calculus exam, based on Jaime Escalante's story.",
+      "cast": [
+        "Edward James Olmos",
+        "Bodie Olmos",
+        "Rosanna DeSoto",
+        "Lou Diamond Phillips"
+      ],
+      "page": 22
+    },
+    {
+      "title": "Standing in the Shadows of Motown",
+      "original_title": null,
+      "directors": [
+        "Paul Justman"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 108,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-10",
+          "time": "7:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2002-10-13",
+          "time": "4:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "The overlooked Funk Brothers session musicians behind Motown's hits are celebrated through interviews and new performances.",
+      "cast": [],
+      "page": 22
+    },
+    {
+      "title": "The Stoneraft",
+      "original_title": "La Balsa de Piedra",
+      "directors": [
+        "George Sluizer"
+      ],
+      "countries": [
+        "Netherlands",
+        "Spain",
+        "Portugal"
+      ],
+      "film_year": 2002,
+      "runtime_min": 112,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": "US Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Yvette Biro"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-05",
+          "time": "6:30 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-07",
+          "time": "9:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "When the Iberian Peninsula breaks away from Europe, five strangers and a dog travel together in search of answers.",
+      "cast": [
+        "Federico Luppi",
+        "Icíar Bollaín",
+        "Gabino Diego",
+        "Ana Padrão",
+        "Diogo Infante",
+        "Golfo"
+      ],
+      "page": 22
+    },
+    {
+      "title": "Strictly Ballroom",
+      "original_title": null,
+      "directors": [
+        "Baz Luhrmann"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "film_year": 1992,
+      "runtime_min": 94,
+      "language": null,
+      "section": "25th Anniversary Event",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Baz Luhrmann"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-09",
+          "time": "3:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A rebellious ballroom dancer defies the rules of competition with an unlikely new partner.",
+      "cast": [
+        "Paul Mercurio",
+        "Tara Morice",
+        "Bill Hunter",
+        "Barry Otto",
+        "Pat Thompson"
+      ],
+      "page": 22
+    },
+    {
+      "title": "Sweet Sixteen",
+      "original_title": null,
+      "directors": [
+        "Ken Loach"
+      ],
+      "countries": [
+        "UK",
+        "Germany",
+        "Spain"
+      ],
+      "film_year": 2002,
+      "runtime_min": 106,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": "US Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-05",
+          "time": "7:15 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2002-10-13",
+          "time": "9:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A Scottish teenager slides into crime trying to build a better home for his mother.",
+      "cast": [
+        "Martin Compston",
+        "William Ruane",
+        "Annmarie Fulton",
+        "Michelle Abercromby",
+        "Michelle Coulter",
+        "Gary McCormack"
+      ],
+      "page": 23
+    },
+    {
+      "title": "Taking Sides",
+      "original_title": null,
+      "directors": [
+        "István Szabó"
+      ],
+      "countries": [
+        "Germany",
+        "France",
+        "UK",
+        "Austria"
+      ],
+      "film_year": 2001,
+      "runtime_min": 106,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-06",
+          "time": "7:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "In postwar Berlin a US major investigates conductor Wilhelm Furtwängler's conduct under the Nazis.",
+      "cast": [
+        "Harvey Keitel",
+        "Stellan Skarsgård",
+        "Moritz Bleibtreu",
+        "Birgit Minichmayr"
+      ],
+      "page": 23
+    },
+    {
+      "title": "These Are Not My Images (neither there nor here)",
+      "original_title": null,
+      "directors": [
+        "Irit Batsry"
+      ],
+      "countries": [
+        "USA",
+        "France",
+        "Germany",
+        "UK"
+      ],
+      "film_year": null,
+      "runtime_min": 80,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Irit Batsry"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-05",
+          "time": "9:30 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-12",
+          "time": "9:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A Western filmmaker is guided across India by a half-blind man in a meditation on images and memory.",
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "Fall (3 Parts)",
+      "original_title": null,
+      "directors": [
+        "Leighton Pierce"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 13,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "These Are Not My Images (neither there nor here)",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-05",
+          "time": "9:30 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-12",
+          "time": "9:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "The world is seen through a child's glass marble.",
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "A Thousand and One Voices—The Music of Islam",
+      "original_title": null,
+      "directors": [
+        "Mahmoud Ben Mahmoud"
+      ],
+      "countries": [
+        "France"
+      ],
+      "film_year": 2001,
+      "runtime_min": 90,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-12",
+          "time": "4:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A filmmaker travels through North Africa, the Middle East and beyond to explore Sufi music and ritual.",
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "The Making of Amadeus",
+      "original_title": null,
+      "directors": [
+        "Bill Jersey"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 60,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": "World Premiere",
+      "is_short": false,
+      "shorts_program": "Two-by-Forman",
+      "guests": [
+        "Bill Jersey"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-11",
+          "time": "9:30 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-13",
+          "time": "3:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A behind-the-scenes look at Milos Forman's battles and mishaps while shooting Amadeus in Prague.",
+      "cast": [],
+      "page": 24
+    },
+    {
+      "title": "The Making of One Flew Over the Cuckoo's Nest",
+      "original_title": null,
+      "directors": [
+        "Jonathan Halperin",
+        "Charles Kislyak"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 47,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": "World Premiere",
+      "is_short": false,
+      "shorts_program": "Two-by-Forman",
+      "guests": [
+        "Jonathan Halperin",
+        "Charles Kislyak"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-11",
+          "time": "9:30 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-13",
+          "time": "3:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "The story behind the casting and location shoot of Forman's Cuckoo's Nest at an Oregon mental hospital.",
+      "cast": [],
+      "page": 24
+    },
+    {
+      "title": "Uncle Ghost",
+      "original_title": "Bhago Bhoot",
+      "directors": [
+        "Sai Paranjpye"
+      ],
+      "countries": [
+        "India"
+      ],
+      "film_year": 2000,
+      "runtime_min": 81,
+      "language": "Hindi with English subtitles read aloud",
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-08",
+          "time": "4:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-13",
+          "time": "11:00 AM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A mischievous village boy discovers the forest 'ghost' is a reclusive man and becomes his secret friend.",
+      "cast": [
+        "Nedumudy Venu",
+        "Vinay Katore",
+        "Arun Hornekar",
+        "Anil Bhagwat",
+        "Vidya Bhagwat",
+        "Farukh Sayyed"
+      ],
+      "page": 24
+    },
+    {
+      "title": "Birju",
+      "original_title": null,
+      "directors": [
+        "Heeraz Marfatia"
+      ],
+      "countries": [
+        "USA",
+        "India"
+      ],
+      "film_year": 2002,
+      "runtime_min": 14,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Uncle Ghost",
+      "guests": [
+        "Heeraz Marfatia"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-08",
+          "time": "4:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-13",
+          "time": "11:00 AM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A four-year-old boy wanders through the sights and sounds of his Indian village.",
+      "cast": [],
+      "page": 24
+    },
+    {
+      "title": "Under One Roof",
+      "original_title": null,
+      "directors": [
+        "Todd Wilson"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 74,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Todd Wilson"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-05",
+          "time": "4:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-07",
+          "time": "9:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A young gay Chinese-American man falls for the new tenant downstairs while his mother tries to find him a wife.",
+      "cast": [
+        "Jay Wong",
+        "James Marks",
+        "Sandra Lee",
+        "James Quedado",
+        "Audrey Finer",
+        "Vivian Kobayashi"
+      ],
+      "page": 24
+    },
+    {
+      "title": "Transgressions",
+      "original_title": null,
+      "directors": [
+        "Stuart Gaffney"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 6,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Under One Roof",
+      "guests": [
+        "Stuart Gaffney"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-05",
+          "time": "4:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-07",
+          "time": "9:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Voice-over and Hollywood imagery explore a young man's queer and mixed-race identity.",
+      "cast": [],
+      "page": 24
+    },
+    {
+      "title": "A History of the Airplane",
+      "original_title": null,
+      "directors": [
+        "Chris Felver"
+      ],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": 3,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Videosyncrasies 2002",
+      "guests": [
+        "Chris Felver"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-05",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-12",
+          "time": "2:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Lawrence Ferlinghetti reads a post-9/11 poem.",
+      "cast": [],
+      "page": 24
+    },
+    {
+      "title": "Blood and Oil",
+      "original_title": null,
+      "directors": [
+        "Sai Selvarajan"
+      ],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": 4,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Videosyncrasies 2002",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-05",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-12",
+          "time": "2:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A video essay on the historical roots of present-day conflict over oil.",
+      "cast": [],
+      "page": 24
+    },
+    {
+      "title": "Hostage: The Bachar Tapes",
+      "original_title": null,
+      "directors": [
+        "Walid Ra'ad",
+        "Souheil Bachar"
+      ],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": 17,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Videosyncrasies 2002",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-05",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-12",
+          "time": "2:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Purported testimony of a hostage examines Lebanon's postcolonial history.",
+      "cast": [],
+      "page": 24
+    },
+    {
+      "title": "State of the Union",
+      "original_title": null,
+      "directors": [
+        "Bryan Boyce"
+      ],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": 2,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Videosyncrasies 2002",
+      "guests": [
+        "Bryan Boyce"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-05",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-12",
+          "time": "2:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A comic manipulation of a presidential address.",
+      "cast": [],
+      "page": 24
+    },
+    {
+      "title": "Listless",
+      "original_title": null,
+      "directors": [
+        "Laurel Swenson"
+      ],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": 6,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Videosyncrasies 2002",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-05",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-12",
+          "time": "2:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A wry look at a woman's daily lists and ambitions.",
+      "cast": [],
+      "page": 24
+    },
+    {
+      "title": "The Fine Arts",
+      "original_title": null,
+      "directors": [
+        "Emily Vey Duke",
+        "Cooper Battersby"
+      ],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": 4,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Videosyncrasies 2002",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-05",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-12",
+          "time": "2:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A sardonic view of trying to make it in the art world.",
+      "cast": [],
+      "page": 24
+    },
+    {
+      "title": "Beelzebub's Bathtub",
+      "original_title": null,
+      "directors": [
+        "André Silva"
+      ],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": 16,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Videosyncrasies 2002",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-05",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-12",
+          "time": "2:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A bizarre stop-motion fantasy.",
+      "cast": [],
+      "page": 24
+    },
+    {
+      "title": "Control",
+      "original_title": null,
+      "directors": [
+        "Ryan Kennedy"
+      ],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": 10,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Videosyncrasies 2002",
+      "guests": [
+        "Ryan Kennedy"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-05",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-12",
+          "time": "2:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A dark science-fiction thriller.",
+      "cast": [],
+      "page": 24
+    },
+    {
+      "title": "This and That, and Other Minor Misunderstandings",
+      "original_title": null,
+      "directors": [
+        "Edin Velez"
+      ],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": 13,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Videosyncrasies 2002",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-05",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-12",
+          "time": "2:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A montage of personal and political memories.",
+      "cast": [],
+      "page": 24
+    },
+    {
+      "title": "The Boogerman",
+      "original_title": null,
+      "directors": [
+        "Jeff Eagle"
+      ],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": 6,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Videosyncrasies 2002",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-05",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-12",
+          "time": "2:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A gentle fairy tale for the digital age.",
+      "cast": [],
+      "page": 24
+    },
+    {
+      "title": "The Warrior",
+      "original_title": null,
+      "directors": [
+        "Asif Kapadia"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "film_year": 2001,
+      "runtime_min": 85,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": "US Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Asif Kapadia"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-10",
+          "time": "6:45 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2002-10-13",
+          "time": "6:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A feared swordsman in Rajasthan renounces violence and tries to return home while hunted by his former master.",
+      "cast": [
+        "Aino Annuddin",
+        "Irfan Khan",
+        "Puru Chibber",
+        "Mandakini Goswami"
+      ],
+      "page": 25
+    },
+    {
+      "title": "The Way Home",
+      "original_title": null,
+      "directors": [
+        "Lee Jung-hyang"
+      ],
+      "countries": [
+        "South Korea"
+      ],
+      "film_year": 2001,
+      "runtime_min": 88,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-12",
+          "time": "4:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2002-10-13",
+          "time": "5:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A spoiled city boy left with his mute grandmother in the countryside slowly learns to value her.",
+      "cast": [
+        "Kim Eul-boon",
+        "Yoo Seung-ho"
+      ],
+      "page": 25
+    },
+    {
+      "title": "Why Can't We Be a Family Again?",
+      "original_title": null,
+      "directors": [
+        "Roger Weisberg",
+        "Murray Nossel"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 27,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "We Are Family",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-06",
+          "time": "1:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Two young brothers raised by their grandmother long for their drug-addicted mother to return.",
+      "cast": [],
+      "page": 25
+    },
+    {
+      "title": "Turusma: A Young Man's Journey to College",
+      "original_title": null,
+      "directors": [
+        "Terrell Tangonan"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2001,
+      "runtime_min": 15,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "We Are Family",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-06",
+          "time": "1:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A straight-A student weighs college against caring for his terminally ill mother.",
+      "cast": [],
+      "page": 25
+    },
+    {
+      "title": "Miracle Makers",
+      "original_title": null,
+      "directors": [
+        "Nicole Wagenberg"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 12,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "We Are Family",
+      "guests": [
+        "Nicole Wagenberg"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-06",
+          "time": "1:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Young people in San Francisco's Bayview-Hunters Point honour the mothers and grandmothers who raised them.",
+      "cast": [],
+      "page": 25
+    },
+    {
+      "title": "Welcome to Collinwood",
+      "original_title": null,
+      "directors": [
+        "Anthony Russo",
+        "Joe Russo"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 86,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Anthony Russo",
+        "Joe Russo"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-04",
+          "time": "7:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2002-10-06",
+          "time": "9:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A group of hapless Cleveland crooks plan a heist that falls apart.",
+      "cast": [
+        "William H. Macy",
+        "Isaiah Washington",
+        "Sam Rockwell",
+        "Michael Jeter",
+        "Luis Guzmán",
+        "Patricia Clarkson"
+      ],
+      "page": 25
+    },
+    {
+      "title": "Welcome to the Club—The Women of Rockabilly",
+      "original_title": null,
+      "directors": [
+        "Beth Harrington"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2001,
+      "runtime_min": 57,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Beth Harrington"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-09",
+          "time": "7:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A history of the women rockabilly pioneers of the 1950s and their influence on later musicians.",
+      "cast": [],
+      "page": 26
+    },
+    {
+      "title": "Cowgirls",
+      "original_title": null,
+      "directors": [
+        "Sally Clark"
+      ],
+      "countries": [
+        "USA",
+        "Canada"
+      ],
+      "film_year": 2001,
+      "runtime_min": 30,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Welcome to the Club—The Women of Rockabilly",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-09",
+          "time": "7:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "Women compete in rodeo events from trick riding to barrel racing.",
+      "cast": [],
+      "page": 26
+    },
+    {
+      "title": "What Do You Believe?",
+      "original_title": null,
+      "directors": [
+        "Sarah Feinbloom"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 50,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": "World Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Sarah Feinbloom"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-06",
+          "time": "2:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-13",
+          "time": "1:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Six American teenagers of different faiths talk about what religion means in their lives.",
+      "cast": [],
+      "page": 26
+    },
+    {
+      "title": "Eye",
+      "original_title": null,
+      "directors": [
+        "Nina Hirten"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 3,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "What Do You Believe?",
+      "guests": [
+        "Nina Hirten"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-06",
+          "time": "2:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-13",
+          "time": "1:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A Mill Valley teenager's animated collage on religious symbols.",
+      "cast": [],
+      "page": 26
+    },
+    {
+      "title": "Perceptions of Silence",
+      "original_title": null,
+      "directors": [
+        "Jnani Butler",
+        "Jay Huyler"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2002,
+      "runtime_min": 6,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "What Do You Believe?",
+      "guests": [
+        "Jay Huyler"
+      ],
+      "screenings": [
+        {
+          "date": "2002-10-06",
+          "time": "2:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2002-10-13",
+          "time": "1:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Young people reflect on what silence means to them.",
+      "cast": [],
+      "page": 26
+    },
+    {
+      "title": "XX/XY",
+      "original_title": null,
+      "directors": [
+        "Austin Chick"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2001,
+      "runtime_min": 91,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2002-10-09",
+          "time": "9:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A college love triangle between one man and two women resurfaces when they meet again ten years later.",
+      "cast": [
+        "Mark Ruffalo",
+        "Kathleen Robertson",
+        "Maya Stange",
+        "Petra Wright",
+        "David Thornton",
+        "Kel O'Neil"
+      ],
+      "page": 26
+    }
+  ],
+  "events": [
+    {
+      "title": "Opening Night: Frida",
+      "kind": "other",
+      "date": null,
+      "time": null,
+      "venue": null,
+      "people": [],
+      "related_films": [
+        "Frida"
+      ],
+      "summary": "Julie Taymor's Frida Kahlo biopic was the opening night film; details were on a page not included in this booklet.",
+      "page": 10
+    },
+    {
+      "title": "Closing Night: Merci Docteur Rey",
+      "kind": "other",
+      "date": null,
+      "time": null,
+      "venue": null,
+      "people": [
+        {
+          "name": "Dianne Wiest",
+          "role": "speaker"
+        },
+        {
+          "name": "Andrew Litvack",
+          "role": "speaker"
+        }
+      ],
+      "related_films": [
+        "Merci Docteur Rey"
+      ],
+      "summary": "The world premiere of Andrew Litvack's Paris comedy closed the festival; details were on a page not included in this booklet.",
+      "page": 16
+    },
+    {
+      "title": "Tribute to Milos Forman",
+      "kind": "tribute",
+      "date": "2002-10-12",
+      "time": "8:45 PM",
+      "venue": "Sequoia",
+      "people": [
+        {
+          "name": "Milos Forman",
+          "role": "honoree"
+        }
+      ],
+      "related_films": [
+        "One Flew Over the Cuckoo's Nest",
+        "Two-by-Forman"
+      ],
+      "summary": "The festival honoured director Milos Forman with a new print of One Flew Over the Cuckoo's Nest.",
+      "page": 19
+    },
+    {
+      "title": "Children's FilmFest Opening: I Was a Rat",
+      "kind": "other",
+      "date": "2002-10-05",
+      "time": "4:30 PM",
+      "venue": "Sequoia",
+      "people": [
+        {
+          "name": "Calum Worthy",
+          "role": "speaker"
+        }
+      ],
+      "related_films": [
+        "I Was a Rat"
+      ],
+      "summary": "The children's section opened with the US premiere of I Was a Rat.",
+      "page": 13
+    },
+    {
+      "title": "Meet the Muppets! panel",
+      "kind": "panel",
+      "date": "2002-10-12",
+      "time": "2:00 PM",
+      "venue": "Rafael",
+      "people": [
+        {
+          "name": "Joseph Mazzarino",
+          "role": "panelist"
+        },
+        {
+          "name": "Jim Lewis",
+          "role": "panelist"
+        },
+        {
+          "name": "Michael Polis",
+          "role": "panelist"
+        }
+      ],
+      "related_films": [
+        "Meet the Muppets! Behind the Scenes of Kermit's Swamp Years"
+      ],
+      "summary": "A live, all-ages panel of Muppet makers and puppets, including Goggles, preceded a screening of Kermit's Swamp Years.",
+      "page": 16
+    },
+    {
+      "title": "Live musical salute to rockabilly",
+      "kind": "music",
+      "date": "2002-10-09",
+      "time": null,
+      "venue": "Sweetwater",
+      "people": [],
+      "related_films": [
+        "Welcome to the Club—The Women of Rockabilly"
+      ],
+      "summary": "A separately ticketed rockabilly music event at Sweetwater followed the documentary screening.",
+      "page": 26
+    },
+    {
+      "title": "Destiny Arts Youth Performance Company live performance",
+      "kind": "music",
+      "date": "2002-10-13",
+      "time": "2:30 PM",
+      "venue": "Rafael",
+      "people": [
+        {
+          "name": "Sarah Crowell",
+          "role": "speaker"
+        }
+      ],
+      "related_films": [
+        "A Place Named Destiny"
+      ],
+      "summary": "Members of the Oakland youth company performed live as part of the documentary's screening.",
+      "page": 19
+    },
+    {
+      "title": "The Barefoot Contessa: special presentation",
+      "kind": "other",
+      "date": "2002-10-12",
+      "time": "10:45 AM",
+      "venue": "Rafael",
+      "people": [
+        {
+          "name": "Robert Gitt",
+          "role": "speaker"
+        }
+      ],
+      "related_films": [
+        "The Barefoot Contessa"
+      ],
+      "summary": "UCLA archivist Robert Gitt presented the restored Technicolor print.",
+      "page": 3
+    },
+    {
+      "title": "Seven Samurai: presentation by the translator",
+      "kind": "other",
+      "date": "2002-10-06",
+      "time": "10:00 AM",
+      "venue": "Rafael",
+      "people": [
+        {
+          "name": "Linda Hoaglund",
+          "role": "speaker"
+        }
+      ],
+      "related_films": [
+        "Seven Samurai"
+      ],
+      "summary": "The translator of the new print's subtitles introduced the screening.",
+      "page": 21
+    },
+    {
+      "title": "We Are Family discussion",
+      "kind": "panel",
+      "date": "2002-10-06",
+      "time": "1:00 PM",
+      "venue": "Rafael",
+      "people": [
+        {
+          "name": "Eva Ostrum",
+          "role": "panelist"
+        },
+        {
+          "name": "Nicole Wagenberg",
+          "role": "panelist"
+        }
+      ],
+      "related_films": [
+        "Why Can't We Be a Family Again?",
+        "Turusma: A Young Man's Journey to College",
+        "Miracle Makers"
+      ],
+      "summary": "Filmmakers, film subjects and the audience discussed the three films about African American families after the screening.",
+      "page": 25
+    },
+    {
+      "title": "What Do You Believe? discussion",
+      "kind": "panel",
+      "date": null,
+      "time": null,
+      "venue": "Rafael",
+      "people": [
+        {
+          "name": "Sarah Feinbloom",
+          "role": "panelist"
+        },
+        {
+          "name": "Nina Hirten",
+          "role": "panelist"
+        },
+        {
+          "name": "Jay Huyler",
+          "role": "panelist"
+        }
+      ],
+      "related_films": [
+        "What Do You Believe?",
+        "Eye",
+        "Perceptions of Silence"
+      ],
+      "summary": "Filmmakers, spiritual leaders and the audience discussed teenagers and religion after the screening.",
+      "page": 26
+    },
+    {
+      "title": "Member Screening: Spellbound",
+      "kind": "other",
+      "date": "2002-10-08",
+      "time": "6:45 PM",
+      "venue": "Cinema",
+      "people": [],
+      "related_films": [
+        "Spellbound"
+      ],
+      "summary": "A screening of the spelling-bee documentary free to festival members with a box office ticket.",
+      "page": 21
+    }
+  ],
+  "awards": [],
+  "staff": [],
+  "notes": "Source is only the alphabetical film-notes section (printed pages 25-50) of the 2002 programme; front matter, schedule grid, Opening Night (printed p.18) and Closing Night (printed p.24) pages are not in this file, so festival date range, venue addresses (except Rafael Film Center), staff and festival awards are absent. Edition 25 taken from repeated '25th Anniversary' references. Screening dates fall Oct 3-13, 2002; Frida's opening-night and Merci Docteur Rey's closing-night screenings are not dated here, only their second screenings. Venue 'Cinema' is as printed (likely Century Cinema, not stated). Shorts programmes (Aardvark Adventures and Other Animania, Animarathon 2002, Animated Amigos, Cake Steak and Cheez Whiz, Even Oddfellows Get the Blues, the five Five@Five programmes, Heaven's Crossroad/Inside the Box, Human Rights and Inhuman Wrongs, The Northern De-Lights, A Scandinavian Salute, Two-by-Forman, Videosyncrasies 2002, We Are Family) are not film records themselves; each constituent film is, with shorts_program set and the programme's screenings copied; shorts shown before a feature have shorts_program = that feature's title. Constituent films of 40+ minutes in such programmes have is_short false. Runtimes printed as m:ss were truncated to whole minutes; 'Don't Let Your Friends Rot' and 'We're All Just People!' share a printed 2 min, runtime null. Shorts with no country printed take the programme country only when the programme is USA-only. Animated Amigos Oct 6 time printed '11:30PM' (probably 11:30AM), kept as printed; Just a Kiss Oct 3 time printed '9:45' without AM/PM. Farang Ba '(Crazy White Foreigner)' and Gagooman '(The Twilight)' parentheticals are English translations, not original titles, so original_title is null. Guests include 'Invited Guest' names. Guest name spellings normalised: 'Sarah Hanneman' -> Sarah Hannemann, 'Nicoloas Breviére' -> Nicolas Brevière, director 'Mahmound Ben Mahmound' -> Mahmoud Ben Mahmoud, 'Kairis̆s' -> Kairišs. These Are Not My Images year printed '2000/2001' so film_year null; Cake, Steak and Cheez Whiz printed 'USA 2001/2002'. Section 'Children's FilmFest' is assigned only to I Was a Rat (explicitly labelled); many other entries say 'Recommended for ages N and up' but no section is printed. Awards printed only as past honours (e.g. Golden Bear for Bloody Sunday, Camera d'Or) are not festival awards and were omitted. Reviewers are credited only by initial and surname, so no staff list was built. Independent Spirits also includes unnamed Hubley shorts; A Year Along the Abandoned Road has no director printed."
+}

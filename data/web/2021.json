@@ -1,0 +1,1637 @@
+{
+ "year": 2021,
+ "edition": 44,
+ "source": "web",
+ "films": [
+  {
+   "title": "A HERO (Ghahreman)",
+   "directors": [
+    "Asghar Farhadi"
+   ],
+   "countries": [
+    "IRAN"
+   ],
+   "film_year": 2021,
+   "runtime_min": 127,
+   "section": "Debate / World",
+   "screenings": [
+    {
+     "date": "2021-10-09",
+     "time": "7:00pm",
+     "venue": "BAMPFA"
+    },
+    {
+     "date": "2021-10-10",
+     "time": "2:30pm",
+     "venue": "Smith Rafael Film Center"
+    }
+   ],
+   "url": "https://www.mvff.com/a-hero-ghahreman/",
+   "is_short": false
+  },
+  {
+   "title": "American Gadfly",
+   "directors": [
+    "Skye Wallin"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2020,
+   "runtime_min": 95,
+   "section": "Us / Docs",
+   "screenings": [
+    {
+     "date": "2021-10-11",
+     "time": "8:15pm",
+     "venue": "CinéArts Sequoia"
+    },
+    {
+     "date": "2021-10-12",
+     "time": "7:30pm",
+     "venue": "CinéArts Sequoia"
+    }
+   ],
+   "url": "https://www.mvff.com/american-gadfly/",
+   "is_short": false
+  },
+  {
+   "title": "Anima",
+   "directors": [
+    "Jinling Cao"
+   ],
+   "countries": [
+    "China"
+   ],
+   "film_year": 2020,
+   "runtime_min": 120,
+   "section": "Mind The Gap / Grow / World",
+   "screenings": [
+    {
+     "date": "2021-10-08",
+     "time": "6:00pm",
+     "venue": "Cinéarts Sequoia"
+    },
+    {
+     "date": "2021-10-11",
+     "time": "12:00pm",
+     "venue": "Smith Rafael Film Center"
+    }
+   ],
+   "url": "https://www.mvff.com/anima/",
+   "is_short": false
+  },
+  {
+   "title": "Bad Attitude: the Art of Spain Rodriguez",
+   "directors": [
+    "Susan Stern"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2021,
+   "runtime_min": 71,
+   "section": "Mind The Gap / ¡Viva El Cine! / Laugh / Docs",
+   "screenings": [
+    {
+     "date": "2021-10-14",
+     "time": "7:30pm",
+     "venue": "CinéArts Sequoia"
+    },
+    {
+     "date": "2021-10-16",
+     "time": "7:00pm",
+     "venue": "BAMPFA"
+    }
+   ],
+   "url": "https://www.mvff.com/bad-attitude/",
+   "is_short": false
+  },
+  {
+   "title": "Becoming Cousteau",
+   "directors": [
+    "Liz Garbus"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2021,
+   "runtime_min": 92,
+   "section": "Mind The Gap / Grow / Docs",
+   "screenings": [
+    {
+     "date": "2021-10-15",
+     "time": "7:30pm",
+     "venue": "CinéArts Sequoia"
+    },
+    {
+     "date": "2021-10-16",
+     "time": "11:00am",
+     "venue": "Smith Rafael Film Center"
+    }
+   ],
+   "url": "https://www.mvff.com/becoming-cousteau/",
+   "is_short": false
+  },
+  {
+   "title": "Belfast",
+   "directors": [
+    "Kenneth Branagh"
+   ],
+   "countries": [
+    "UK"
+   ],
+   "film_year": 2021,
+   "runtime_min": 97,
+   "section": "Heart / World",
+   "screenings": [
+    {
+     "date": "2021-10-15",
+     "time": "6:30pm",
+     "venue": "Smith Rafael Film Center"
+    },
+    {
+     "date": "2021-10-16",
+     "time": "2:00pm",
+     "venue": "CinéArts Sequoia"
+    }
+   ],
+   "url": "https://www.mvff.com/belfast/",
+   "is_short": false
+  },
+  {
+   "title": "Bernstein’s Wall",
+   "directors": [
+    "Douglas Tirola"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2021,
+   "runtime_min": 100,
+   "section": "Create / Docs",
+   "screenings": [
+    {
+     "date": "2021-10-10",
+     "time": "6:00pm",
+     "venue": "CinéArts Sequoia"
+    },
+    {
+     "date": "2021-10-12",
+     "time": "2:00pm",
+     "venue": "Smith Rafael Film Center"
+    }
+   ],
+   "url": "https://www.mvff.com/bernsteins-wall/",
+   "is_short": false
+  },
+  {
+   "title": "Boiling Point",
+   "directors": [
+    "Philip Barantini"
+   ],
+   "countries": [
+    "UK"
+   ],
+   "film_year": 2020,
+   "runtime_min": 96,
+   "section": "Create / World",
+   "screenings": [
+    {
+     "date": "2021-10-12",
+     "time": "7:30pm",
+     "venue": "Smith Rafael Film Center"
+    },
+    {
+     "date": "2021-10-14",
+     "time": "12:00pm",
+     "venue": "Smith Rafael Film Center"
+    }
+   ],
+   "url": "https://www.mvff.com/boiling-point/",
+   "is_short": false
+  },
+  {
+   "title": "Born in Chicago",
+   "directors": [
+    "Bob Sarles",
+    "John Anderson"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2020,
+   "runtime_min": 77,
+   "section": "Create / Docs",
+   "screenings": [
+    {
+     "date": "2021-10-11",
+     "time": "6:30pm",
+     "venue": "CinéArts Sequoia"
+    },
+    {
+     "date": "2021-10-12",
+     "time": "4:00pm",
+     "venue": "CinéArts Sequoia"
+    }
+   ],
+   "url": "https://www.mvff.com/born-in-chicago/",
+   "is_short": false
+  },
+  {
+   "title": "Celts",
+   "directors": [
+    "Milica Tomović"
+   ],
+   "countries": [
+    "SERBIA"
+   ],
+   "film_year": 2021,
+   "runtime_min": 106,
+   "section": "Mind The Gap / Heart / World",
+   "screenings": [
+    {
+     "date": "2021-10-13",
+     "time": "6:30pm",
+     "venue": "Smith Rafael Film Center"
+    }
+   ],
+   "url": "https://www.mvff.com/celts/",
+   "is_short": false
+  },
+  {
+   "title": "Center Divide",
+   "directors": [
+    "Rob Nilsson"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2021,
+   "runtime_min": 136,
+   "section": "Us / Us Cinema",
+   "screenings": [
+    {
+     "date": "2021-10-10",
+     "time": "6:30pm",
+     "venue": "Smith Rafael Film Center"
+    },
+    {
+     "date": "2021-10-13",
+     "time": "11:00am",
+     "venue": "Smith Rafael Film Center"
+    }
+   ],
+   "url": "https://www.mvff.com/center-divide/",
+   "is_short": false
+  },
+  {
+   "title": "Clara Sola",
+   "directors": [
+    "Nathalie Álvarez Mesén"
+   ],
+   "countries": [
+    "SWEDEN",
+    "COSTA RICA",
+    "BELGIUM",
+    "GERMANY"
+   ],
+   "film_year": 2021,
+   "runtime_min": 106,
+   "section": "¡Viva El Cine! / Mind The Gap / Spirit / World",
+   "screenings": [
+    {
+     "date": "2021-10-08",
+     "time": "7:00pm",
+     "venue": "Smith Rafael Film Center"
+    },
+    {
+     "date": "2021-10-09",
+     "time": "1:00pm",
+     "venue": "Smith Rafael Film Center"
+    }
+   ],
+   "url": "https://www.mvff.com/clara-sola/",
+   "is_short": false
+  },
+  {
+   "title": "C’mon C’mon",
+   "directors": [
+    "Mike Mills"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2021,
+   "runtime_min": 108,
+   "section": "Heart / Us Cinema",
+   "screenings": [
+    {
+     "date": "2021-10-12",
+     "time": "6:00pm",
+     "venue": "Smith Rafael Film Center"
+    },
+    {
+     "date": "2021-10-14",
+     "time": "4:30pm",
+     "venue": "CinéArts Sequoia"
+    }
+   ],
+   "url": "https://www.mvff.com/cmon-cmon/",
+   "is_short": false
+  },
+  {
+   "title": "Coextinction",
+   "directors": [
+    "Gloria Pancrazi",
+    "Elena Jean"
+   ],
+   "countries": [
+    "Canada"
+   ],
+   "film_year": 2021,
+   "runtime_min": 94,
+   "section": "Mind The Gap / Active Cinema / Grow / Docs",
+   "screenings": [
+    {
+     "date": "2021-10-11",
+     "time": "7:00pm",
+     "venue": "Smith Rafael Film Center"
+    },
+    {
+     "date": "2021-10-14",
+     "time": "3:00pm",
+     "venue": "Smith Rafael Film Center"
+    }
+   ],
+   "url": "https://www.mvff.com/coextinction/",
+   "is_short": false
+  },
+  {
+   "title": "Courtroom 3h",
+   "directors": [
+    "Antonio Méndez Esparza"
+   ],
+   "countries": [
+    "SPAIN",
+    "US"
+   ],
+   "film_year": 2020,
+   "runtime_min": 115,
+   "section": "Debate / Docs",
+   "screenings": [
+    {
+     "date": "2021-10-08",
+     "time": "4:00pm",
+     "venue": "Smith Rafael Film Center"
+    },
+    {
+     "date": "2021-10-10",
+     "time": "4:00pm",
+     "venue": "BAMPFA"
+    }
+   ],
+   "url": "https://www.mvff.com/courtroom-3h/",
+   "is_short": false
+  },
+  {
+   "title": "Cow",
+   "directors": [
+    "Andrea Arnold"
+   ],
+   "countries": [
+    "UK"
+   ],
+   "film_year": 2021,
+   "runtime_min": 93,
+   "section": "Mind The Gap / Grow / World",
+   "screenings": [
+    {
+     "date": "2021-10-12",
+     "time": "6:00pm",
+     "venue": "CinéArts Sequoia"
+    },
+    {
+     "date": "2021-10-14",
+     "time": "4:00pm",
+     "venue": "Smith Rafael Film Center"
+    }
+   ],
+   "url": "https://www.mvff.com/cow/",
+   "is_short": false
+  },
+  {
+   "title": "Cyrano",
+   "directors": [
+    "Joe Wright"
+   ],
+   "countries": [
+    "UK",
+    "ITALY",
+    "CANADA",
+    "US"
+   ],
+   "film_year": 2021,
+   "runtime_min": 120,
+   "section": "Heart / World",
+   "screenings": [],
+   "url": "https://www.mvff.com/cyrano/",
+   "is_short": false
+  },
+  {
+   "title": "Drive My Car",
+   "directors": [
+    "Ryûsuke Hamaguchi"
+   ],
+   "countries": [
+    "JAPAN"
+   ],
+   "film_year": 2021,
+   "runtime_min": 179,
+   "section": "Heart / World",
+   "screenings": [
+    {
+     "date": "2021-10-10",
+     "time": "2:00pm",
+     "venue": "CinéArts Sequoia"
+    },
+    {
+     "date": "2021-10-17",
+     "time": "3:00pm",
+     "venue": "BAMPFA"
+    }
+   ],
+   "url": "https://www.mvff.com/drive-my-car/",
+   "is_short": false
+  },
+  {
+   "title": "Dune",
+   "directors": [
+    "Denis Villeneuve"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2021,
+   "runtime_min": 155,
+   "section": "Spirit / Us Cinema",
+   "screenings": [],
+   "url": "https://www.mvff.com/dune/",
+   "is_short": false
+  },
+  {
+   "title": "Found",
+   "directors": [
+    "Amanda Lipitz"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2021,
+   "runtime_min": 97,
+   "section": "Mind The Gap / Passages / Docs",
+   "screenings": [
+    {
+     "date": "2021-10-16",
+     "time": "6:30pm",
+     "venue": "Smith Rafael Film Center"
+    }
+   ],
+   "url": "https://www.mvff.com/found/",
+   "is_short": false
+  },
+  {
+   "title": "Haute Couture",
+   "directors": [
+    "Sylvie Ohayon"
+   ],
+   "countries": [
+    "FRANCE"
+   ],
+   "film_year": 2021,
+   "runtime_min": 119,
+   "section": "Mind The Gap / Create",
+   "screenings": [
+    {
+     "date": "2021-10-13",
+     "time": "7:00pm",
+     "venue": "CinéArts Sequoia"
+    },
+    {
+     "date": "2021-10-15",
+     "time": "3:00pm",
+     "venue": "Smith Rafael Film Center"
+    }
+   ],
+   "url": "https://www.mvff.com/haute-couture/",
+   "is_short": false
+  },
+  {
+   "title": "India Sweets and Spices",
+   "directors": [
+    "Geeta Malik"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2021,
+   "runtime_min": 101,
+   "section": "Mind The Gap / Laugh / Us Cinema",
+   "screenings": [
+    {
+     "date": "2021-10-17",
+     "time": "1:00pm",
+     "venue": "Smith Rafael Film Center"
+    }
+   ],
+   "url": "https://www.mvff.com/india-sweets-and-spices/",
+   "is_short": false
+  },
+  {
+   "title": "Jockey",
+   "directors": [
+    "Clint Bentley"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2021,
+   "runtime_min": 99,
+   "section": "Us / Us Cinema",
+   "screenings": [
+    {
+     "date": "2021-10-08",
+     "time": "3:00pm",
+     "venue": "Smith Rafael Film Center"
+    },
+    {
+     "date": "2021-10-09",
+     "time": "11:00am",
+     "venue": "Smith Rafael Film Center"
+    }
+   ],
+   "url": "https://www.mvff.com/jockey/",
+   "is_short": false
+  },
+  {
+   "title": "Julia",
+   "directors": [
+    "Julie Cohen",
+    "Betsy West"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2021,
+   "runtime_min": 95,
+   "section": "Mind The Gap / Spirit / Docs",
+   "screenings": [
+    {
+     "date": "2021-10-09",
+     "time": "2:30pm",
+     "venue": "Smith Rafael Film Center"
+    },
+    {
+     "date": "2021-10-13",
+     "time": "4:00pm",
+     "venue": "CinéArts Sequoia"
+    }
+   ],
+   "url": "https://www.mvff.com/julia/",
+   "is_short": false
+  },
+  {
+   "title": "La Civil",
+   "directors": [
+    "Teodora Ana Mihai"
+   ],
+   "countries": [
+    "MEXICO",
+    "ROMANIA",
+    "BELGIUM"
+   ],
+   "film_year": 2021,
+   "runtime_min": 140,
+   "section": "Mind The Gap / ¡Viva El Cine! / Surprise / World",
+   "screenings": [
+    {
+     "date": "2021-10-10",
+     "time": "5:30pm",
+     "venue": "Smith Rafael Film Center"
+    }
+   ],
+   "url": "https://www.mvff.com/la-civil/",
+   "is_short": false
+  },
+  {
+   "title": "Lady Buds",
+   "directors": [
+    "Chris J. Russo"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2021,
+   "runtime_min": 96,
+   "section": "Mind The Gap / Active Cinema / Docs / Grow",
+   "screenings": [
+    {
+     "date": "2021-10-09",
+     "time": "4:30pm",
+     "venue": "CinéArts Sequoia"
+    },
+    {
+     "date": "2021-10-13",
+     "time": "12:00pm",
+     "venue": "Smith Rafael Film Center"
+    }
+   ],
+   "url": "https://www.mvff.com/lady-buds/",
+   "is_short": false
+  },
+  {
+   "title": "Last Film Show",
+   "directors": [
+    "Pan Nalin"
+   ],
+   "countries": [
+    "India"
+   ],
+   "film_year": 2021,
+   "runtime_min": 110,
+   "section": "Heart / World / Family",
+   "screenings": [
+    {
+     "date": "2021-10-16",
+     "time": "4:00pm",
+     "venue": "Smith Rafael Film Center"
+    },
+    {
+     "date": "2021-10-17",
+     "time": "1:00pm",
+     "venue": "CinéArts Sequoia"
+    }
+   ],
+   "url": "https://www.mvff.com/last-film-show/",
+   "is_short": false
+  },
+  {
+   "title": "Like a Rolling Stone: the Life and Times of Ben Fong-torres",
+   "directors": [
+    "Suzanne Joe Kai"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2021,
+   "runtime_min": 102,
+   "section": "Mind The Gap / Create / Docs",
+   "screenings": [
+    {
+     "date": "2021-10-10",
+     "time": "5:00pm",
+     "venue": "CinéArts Sequoia"
+    },
+    {
+     "date": "2021-10-11",
+     "time": "2:00pm",
+     "venue": "Smith Rafael Film Center"
+    }
+   ],
+   "url": "https://www.mvff.com/like-a-rolling-stone/",
+   "is_short": false
+  },
+  {
+   "title": "Marvelous and the Black Hole",
+   "directors": [
+    "Kate Tsang"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2021,
+   "runtime_min": 81,
+   "section": "Mind The Gap / Laugh / Family",
+   "screenings": [
+    {
+     "date": "2021-10-16",
+     "time": "3:00pm",
+     "venue": "Smith Rafael Film Center"
+    }
+   ],
+   "url": "https://www.mvff.com/marvelous-and-the-black-hole/",
+   "is_short": false
+  },
+  {
+   "title": "Memoria",
+   "directors": [
+    "Apichatpong Weerasethakul"
+   ],
+   "countries": [
+    "Colombia",
+    "Mexico",
+    "France",
+    "UK",
+    "Thailand",
+    "Germany",
+    "China",
+    "Switzerland"
+   ],
+   "film_year": 2020,
+   "runtime_min": 136,
+   "section": "¡Viva El Cine! / Surprise",
+   "screenings": [
+    {
+     "date": "2021-10-08",
+     "time": "7:00pm",
+     "venue": "BAMPFA"
+    },
+    {
+     "date": "2021-10-15",
+     "time": "6:00pm",
+     "venue": "Smith Rafael Film Center"
+    }
+   ],
+   "url": "https://www.mvff.com/memoria/",
+   "is_short": false
+  },
+  {
+   "title": "Mission: Joy",
+   "directors": [
+    "Louie Psihoyos",
+    "Peggy Callahan"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2021,
+   "runtime_min": 90,
+   "section": "Mind The Gap / Active Cinema / Spirit / Docs",
+   "screenings": [
+    {
+     "date": "2021-10-09",
+     "time": "6:30pm",
+     "venue": "CinéArts Sequoia"
+    }
+   ],
+   "url": "https://www.mvff.com/mission-joy/",
+   "is_short": false
+  },
+  {
+   "title": "Mothering Sunday",
+   "directors": [
+    "Eva Husson"
+   ],
+   "countries": [
+    "UK"
+   ],
+   "film_year": 2021,
+   "runtime_min": 110,
+   "section": "Mind The Gap / Heart / World",
+   "screenings": [
+    {
+     "date": "2021-10-15",
+     "time": "12:00pm",
+     "venue": "Smith Rafael Film Center"
+    }
+   ],
+   "url": "https://www.mvff.com/mothering-sunday/",
+   "is_short": false
+  },
+  {
+   "title": "My Dead Dad",
+   "directors": [
+    "Fabio Frey"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2021,
+   "runtime_min": 90,
+   "section": "¡Viva El Cine! / Passages / Us Cinema",
+   "screenings": [
+    {
+     "date": "2021-10-09",
+     "time": "6:00pm",
+     "venue": "Smith Rafael Film Center"
+    },
+    {
+     "date": "2021-10-11",
+     "time": "3:00pm",
+     "venue": "Smith Rafael Film Center"
+    }
+   ],
+   "url": "https://www.mvff.com/my-dead-dad/",
+   "is_short": false
+  },
+  {
+   "title": "NINJABABY (Fallteknikk)",
+   "directors": [
+    "Yngvild Sve Flikke"
+   ],
+   "countries": [
+    "NORWAY"
+   ],
+   "film_year": 2021,
+   "runtime_min": 103,
+   "section": "Mind The Gap / Passages / World",
+   "screenings": [
+    {
+     "date": "2021-10-08",
+     "time": "4:30pm",
+     "venue": "CinéArts Sequoia"
+    },
+    {
+     "date": "2021-10-17",
+     "time": "2:00pm",
+     "venue": "Smith Rafael Film Center"
+    }
+   ],
+   "url": "https://www.mvff.com/ninjababy-fallteknikk/",
+   "is_short": false
+  },
+  {
+   "title": "Paper & Glue",
+   "directors": [
+    "JR"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2021,
+   "runtime_min": 95,
+   "section": "Documentary/Create",
+   "screenings": [
+    {
+     "date": "2021-10-11",
+     "time": "5:30pm",
+     "venue": "CinéArts Sequoia"
+    },
+    {
+     "date": "2021-10-13",
+     "time": "7:30pm",
+     "venue": "Smith Rafael Film Center"
+    }
+   ],
+   "url": "https://www.mvff.com/paper--glue/",
+   "is_short": false
+  },
+  {
+   "title": "Parallel Mothers",
+   "directors": [
+    "Pedro Almodóvar"
+   ],
+   "countries": [
+    "Spain"
+   ],
+   "film_year": 2021,
+   "runtime_min": 120,
+   "section": "Surprise/¡Viva El Cine!",
+   "screenings": [
+    {
+     "date": "2021-10-14",
+     "time": "2:00pm",
+     "venue": "Smith Rafael Film Center"
+    },
+    {
+     "date": "2021-10-16",
+     "time": "7:00 pm",
+     "venue": "CinéArts Sequoia"
+    }
+   ],
+   "url": "https://www.mvff.com/parallel-mothers/",
+   "is_short": false
+  },
+  {
+   "title": "Passing",
+   "directors": [
+    "Rebecca Hall"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2021,
+   "runtime_min": 98,
+   "section": "Mind The Gap / Us / Special Screening",
+   "screenings": [
+    {
+     "date": "2021-10-14",
+     "time": "6:30pm",
+     "venue": "Smith Rafael Film Center"
+    },
+    {
+     "date": "2021-10-15",
+     "time": "2:00pm",
+     "venue": "Smith Rafael Film Center"
+    }
+   ],
+   "url": "https://www.mvff.com/passing/",
+   "is_short": false
+  },
+  {
+   "title": "Petite Maman",
+   "directors": [
+    "Céline Sciamma"
+   ],
+   "countries": [
+    "France"
+   ],
+   "film_year": 2020,
+   "runtime_min": 72,
+   "section": "Mind The Gap / Heart / World",
+   "screenings": [
+    {
+     "date": "2021-10-09",
+     "time": "5:00pm",
+     "venue": "BAMPFA"
+    },
+    {
+     "date": "2021-10-10",
+     "time": "3:00pm",
+     "venue": "Smith Rafael Film Center"
+    }
+   ],
+   "url": "https://www.mvff.com/petite-maman/",
+   "is_short": false
+  },
+  {
+   "title": "Queen of Glory",
+   "directors": [
+    "Nana Mensah"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2021,
+   "runtime_min": 75,
+   "section": "Mind The Gap / Laugh / Us Cinema",
+   "screenings": [],
+   "url": "https://www.mvff.com/queen-of-glory/",
+   "is_short": false
+  },
+  {
+   "title": "Raiders of the Lost Ark",
+   "directors": [
+    "Steven Spielberg"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 1981,
+   "runtime_min": 115,
+   "section": "Laugh / Family",
+   "screenings": [
+    {
+     "date": "2021-10-10",
+     "time": "8:00pm",
+     "venue": "CinéArts Sequoia"
+    }
+   ],
+   "url": "https://www.mvff.com/raiders-of-the-lost-ark/",
+   "is_short": false
+  },
+  {
+   "title": "Red Rocket",
+   "directors": [
+    "Sean Baker"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2021,
+   "runtime_min": 128,
+   "section": "Us / Us Cinema",
+   "screenings": [],
+   "url": "https://www.mvff.com/red-rocket/",
+   "is_short": false
+  },
+  {
+   "title": "Rehab Cabin",
+   "directors": [
+    "Kate Beacom",
+    "Louis Legge"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2020,
+   "runtime_min": 77,
+   "section": "Mind The Gap / Laugh / Us Cinema",
+   "screenings": [
+    {
+     "date": "2021-10-14",
+     "time": "6:00pm",
+     "venue": "Smith Rafael Film Center"
+    },
+    {
+     "date": "2021-10-16",
+     "time": "12:30pm",
+     "venue": "CinéArts Sequoia"
+    }
+   ],
+   "url": "https://www.mvff.com/rehab-cabin/",
+   "is_short": false
+  },
+  {
+   "title": "Rickshaw Girl",
+   "directors": [
+    "Amitabh Reza Chowdhury"
+   ],
+   "countries": [
+    "Bangladesh"
+   ],
+   "film_year": 2020,
+   "runtime_min": 102,
+   "section": "Create / Family",
+   "screenings": [
+    {
+     "date": "2021-10-09",
+     "time": "3:30pm",
+     "venue": "CinéArts Sequoia"
+    },
+    {
+     "date": "2021-10-11",
+     "time": "1:00pm",
+     "venue": "CinéArts Sequoia"
+    }
+   ],
+   "url": "https://www.mvff.com/rickshaw-girl/",
+   "is_short": false
+  },
+  {
+   "title": "Sami, Joe and I",
+   "directors": [
+    "Karin Heberlein"
+   ],
+   "countries": [
+    "Switzerland"
+   ],
+   "film_year": 2020,
+   "runtime_min": 94,
+   "section": "Mind The Gap / Passages / World",
+   "screenings": [
+    {
+     "date": "2021-10-11",
+     "time": "4:00pm",
+     "venue": "Smith Rafael Film Center"
+    }
+   ],
+   "url": "https://www.mvff.com/sami-joe-and-i/",
+   "is_short": false
+  },
+  {
+   "title": "Shorts: from Faeries to Fatalities",
+   "directors": [],
+   "countries": [
+    "Director Benji Tucker",
+    "US"
+   ],
+   "film_year": 2020,
+   "runtime_min": 6,
+   "section": null,
+   "screenings": [
+    {
+     "date": "2021-10-17",
+     "time": "11:00am",
+     "venue": "Smith Rafael Film Center"
+    }
+   ],
+   "url": "https://www.mvff.com/shorts-from-faeries-to-fatalities/",
+   "is_short": true
+  },
+  {
+   "title": "Shorts: Pale Blue Eyes",
+   "directors": [],
+   "countries": [
+    "Chelsi de Cuba",
+    "Gabriel de Cuba",
+    "US"
+   ],
+   "film_year": 2020,
+   "runtime_min": 18,
+   "section": null,
+   "screenings": [
+    {
+     "date": "2021-10-12",
+     "time": "3:00pm",
+     "venue": "Smith Rafael Film Center"
+    }
+   ],
+   "url": "https://www.mvff.com/shorts-pale-blue-eyes/",
+   "is_short": true
+  },
+  {
+   "title": "Shorts: Some Kinda Love",
+   "directors": [],
+   "countries": [
+    "Matthew Avery Berg",
+    "US"
+   ],
+   "film_year": 2021,
+   "runtime_min": 12,
+   "section": null,
+   "screenings": [
+    {
+     "date": "2021-10-13",
+     "time": "4:00pm",
+     "venue": "Smith Rafael Film Center"
+    }
+   ],
+   "url": "https://www.mvff.com/shorts-some-kinda-love/",
+   "is_short": true
+  },
+  {
+   "title": "Shorts: Spread Your Wings and Fly",
+   "directors": [],
+   "countries": [
+    "Sindha Agha",
+    "US"
+   ],
+   "film_year": 2021,
+   "runtime_min": 5,
+   "section": null,
+   "screenings": [
+    {
+     "date": "2021-10-10",
+     "time": "2:00pm",
+     "venue": "Smith Rafael Film Center"
+    }
+   ],
+   "url": "https://www.mvff.com/shorts-spread-your-wings-and-fly/",
+   "is_short": true
+  },
+  {
+   "title": "Shorts: the New Environmentalists",
+   "directors": [],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2021,
+   "runtime_min": 30,
+   "section": null,
+   "screenings": [
+    {
+     "date": "2021-10-09",
+     "time": "4:00pm",
+     "venue": "Smith Rafael Film Center"
+    },
+    {
+     "date": "2021-10-16",
+     "time": "11:00am",
+     "venue": "CinéArts Sequoia"
+    }
+   ],
+   "url": "https://www.mvff.com/shorts-the-new-environmentalists/",
+   "is_short": true
+  },
+  {
+   "title": "Shorts: the Ocean",
+   "directors": [],
+   "countries": [
+    "Marianne Farley",
+    "Canada"
+   ],
+   "film_year": 2021,
+   "runtime_min": 20,
+   "section": null,
+   "screenings": [
+    {
+     "date": "2021-10-11",
+     "time": "8:00pm",
+     "venue": "Smith Rafael Film Center"
+    }
+   ],
+   "url": "https://www.mvff.com/shorts-the-ocean/",
+   "is_short": true
+  },
+  {
+   "title": "Shorts: There She Goes Again",
+   "directors": [],
+   "countries": [
+    "Suzannah Mirghani",
+    "Sudan",
+    "Qatar"
+   ],
+   "film_year": 2020,
+   "runtime_min": 20,
+   "section": null,
+   "screenings": [
+    {
+     "date": "2021-10-08",
+     "time": "5:00pm",
+     "venue": "Smith Rafael Film Center"
+    }
+   ],
+   "url": "https://www.mvff.com/shorts-there-she-goes-again/",
+   "is_short": true
+  },
+  {
+   "title": "Song for Cesar",
+   "directors": [
+    "Andres Alegria",
+    "Abel Sanchez"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2021,
+   "runtime_min": 85,
+   "section": "¡Viva El Cine! / Create / Docs",
+   "screenings": [
+    {
+     "date": "2021-10-15",
+     "time": "6:30pm",
+     "venue": "CinéArts Sequoia"
+    },
+    {
+     "date": "2021-10-16",
+     "time": "4:30pm",
+     "venue": "BAMPFA"
+    }
+   ],
+   "url": "https://www.mvff.com/song-for-cesar/",
+   "is_short": false
+  },
+  {
+   "title": "Spencer",
+   "directors": [
+    "Pablo Larraín"
+   ],
+   "countries": [
+    "UK",
+    "Germany",
+    "Chile"
+   ],
+   "film_year": 2021,
+   "runtime_min": 111,
+   "section": null,
+   "screenings": [
+    {
+     "date": "2021-10-13",
+     "time": "2:00pm",
+     "venue": "Smith Rafael Film Center"
+    },
+    {
+     "date": "2021-10-16",
+     "time": "6:00pm",
+     "venue": "CinéArts Sequoia"
+    }
+   ],
+   "url": "https://www.mvff.com/spencer/",
+   "is_short": false
+  },
+  {
+   "title": "Subjects of Desire",
+   "directors": [
+    "Jennifer Holness"
+   ],
+   "countries": [
+    "Canada"
+   ],
+   "film_year": 2020,
+   "runtime_min": 102,
+   "section": "Mind The Gap / Spirit / Docs",
+   "screenings": [],
+   "url": "https://www.mvff.com/subjects-of-desire/",
+   "is_short": false
+  },
+  {
+   "title": "The Bears’ Famous Invasion",
+   "directors": [
+    "Lorenzo Mattotti"
+   ],
+   "countries": [
+    "FRANCE",
+    "ITALY"
+   ],
+   "film_year": 2019,
+   "runtime_min": 82,
+   "section": "Family / Grow",
+   "screenings": [
+    {
+     "date": "2021-10-09",
+     "time": "12:00pm",
+     "venue": "Smith Rafael Film Center"
+    }
+   ],
+   "url": "https://www.mvff.com/the-bears-famous-invasion/",
+   "is_short": false
+  },
+  {
+   "title": "The Drover’s Wife",
+   "directors": [
+    "Leah Purcell"
+   ],
+   "countries": [
+    "AUSTRALIA"
+   ],
+   "film_year": 2021,
+   "runtime_min": 109,
+   "section": "Mind The Gap / Heart / World",
+   "screenings": [
+    {
+     "date": "2021-10-12",
+     "time": "4:30pm",
+     "venue": "Smith Rafael Film Center"
+    },
+    {
+     "date": "2021-10-16",
+     "time": "3:30pm",
+     "venue": "CinéArts Sequoia"
+    }
+   ],
+   "url": "https://www.mvff.com/the-drovers-wife/",
+   "is_short": false
+  },
+  {
+   "title": "The Electrical Life of Louis Wain",
+   "directors": [
+    "Will Sharpe"
+   ],
+   "countries": [
+    "UK"
+   ],
+   "film_year": 2021,
+   "runtime_min": 111,
+   "section": "Create / World",
+   "screenings": [
+    {
+     "date": "2021-10-08",
+     "time": "12:00pm",
+     "venue": "Smith Rafael Film Center"
+    },
+    {
+     "date": "2021-10-09",
+     "time": "7:30pm",
+     "venue": "CinéArts Sequoia"
+    }
+   ],
+   "url": "https://www.mvff.com/the-electrical-life-of-louis-wain/",
+   "is_short": false
+  },
+  {
+   "title": "The French Dispatch",
+   "directors": [
+    "Wes Anderson"
+   ],
+   "countries": [
+    "GERMANY",
+    "US"
+   ],
+   "film_year": 2021,
+   "runtime_min": 103,
+   "section": "Laugh / World",
+   "screenings": [
+    {
+     "date": "2021-10-17",
+     "time": "5:00pm",
+     "venue": "Smith Rafael Film Center + CinéArts Sequoia"
+    }
+   ],
+   "url": "https://www.mvff.com/the-french-dispatch/",
+   "is_short": false
+  },
+  {
+   "title": "THE HAND OF GOD (È stata la mano di Dio)",
+   "directors": [
+    "Paolo Sorrentino"
+   ],
+   "countries": [
+    "ITALY"
+   ],
+   "film_year": 2021,
+   "runtime_min": 130,
+   "section": "Passages / World",
+   "screenings": [
+    {
+     "date": "2021-10-16",
+     "time": "2:00pm",
+     "venue": "Smith Rafael Film Center"
+    }
+   ],
+   "url": "https://www.mvff.com/the-hand-of-god/",
+   "is_short": false
+  },
+  {
+   "title": "The Last Bus",
+   "directors": [
+    "Gillies MacKinnon"
+   ],
+   "countries": [
+    "UK"
+   ],
+   "film_year": 2021,
+   "runtime_min": 88,
+   "section": "Heart / World",
+   "screenings": [
+    {
+     "date": "2021-10-08",
+     "time": "7:00pm",
+     "venue": "CinéArts Sequoia"
+    }
+   ],
+   "url": "https://www.mvff.com/the-last-bus/",
+   "is_short": false
+  },
+  {
+   "title": "The Lost Daughter",
+   "directors": [
+    "Maggie Gyllenhaal"
+   ],
+   "countries": [
+    "US",
+    "UK",
+    "Greece",
+    "Israel"
+   ],
+   "film_year": 2021,
+   "runtime_min": 121,
+   "section": "Mind The Gap / Spirit",
+   "screenings": [
+    {
+     "date": "2021-10-16",
+     "time": "6:00pm",
+     "venue": "Smith Rafael Film Center"
+    },
+    {
+     "date": "2021-10-17",
+     "time": "12:00pm",
+     "venue": "CinéArts Sequoia"
+    }
+   ],
+   "url": "https://www.mvff.com/the-lost-daughter/",
+   "is_short": false
+  },
+  {
+   "title": "The Novice",
+   "directors": [
+    "Lauren Hadaway"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2021,
+   "runtime_min": 97,
+   "section": "Mind The Gap / Spirit / Us Cinema",
+   "screenings": [
+    {
+     "date": "2021-10-09",
+     "time": "3:00pm",
+     "venue": "Smith Rafael Film Center"
+    },
+    {
+     "date": "2021-10-13",
+     "time": "3:00pm",
+     "venue": "Smith Rafael Film Center"
+    }
+   ],
+   "url": "https://www.mvff.com/the-novice/",
+   "is_short": false
+  },
+  {
+   "title": "The Power of the Dog",
+   "directors": [
+    "Jane Campion"
+   ],
+   "countries": [
+    "UK",
+    "Australia",
+    "US",
+    "Canada",
+    "New Zealand"
+   ],
+   "film_year": 2021,
+   "runtime_min": 125,
+   "section": "Mind The Gap / Us / World",
+   "screenings": [
+    {
+     "date": "2021-10-10",
+     "time": "11:00am",
+     "venue": "Smith Rafael Film Center"
+    },
+    {
+     "date": "2021-10-12",
+     "time": "2:30pm",
+     "venue": "CinéArts Sequoia"
+    }
+   ],
+   "url": "https://www.mvff.com/the-power-of-the-dog/",
+   "is_short": false
+  },
+  {
+   "title": "The Princess Diaries",
+   "directors": [
+    "Garry Marshall"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2001,
+   "runtime_min": 115,
+   "section": "Laugh / Family",
+   "screenings": [],
+   "url": "https://www.mvff.com/the-princess-diaries/",
+   "is_short": false
+  },
+  {
+   "title": "The Rescue",
+   "directors": [
+    "Elizabeth Chai Vasarhelyi",
+    "Jimmy Chin"
+   ],
+   "countries": [
+    "US",
+    "UK"
+   ],
+   "film_year": 2021,
+   "runtime_min": 110,
+   "section": "Mind The Gap / Surprise / Docs",
+   "screenings": [
+    {
+     "date": "2021-10-11",
+     "time": "6:00pm",
+     "venue": "Smith Rafael Film Center"
+    },
+    {
+     "date": "2021-10-12",
+     "time": "12:00pm",
+     "venue": "Smith Rafael Film Center"
+    }
+   ],
+   "url": "https://www.mvff.com/the-rescue/",
+   "is_short": false
+  },
+  {
+   "title": "The Velvet Underground",
+   "directors": [
+    "Todd Haynes"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2021,
+   "runtime_min": 110,
+   "section": null,
+   "screenings": [
+    {
+     "date": "2021-10-17",
+     "time": "12:00pm",
+     "venue": "Smith Rafael Film Center"
+    }
+   ],
+   "url": "https://www.mvff.com/the-velvet-underground/",
+   "is_short": false
+  },
+  {
+   "title": "Who We Are: a Chronicle of Racism in America",
+   "directors": [
+    "Emily Kunstler",
+    "Sarah Kunstler"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2021,
+   "runtime_min": 117,
+   "section": "Mind The Gap / Debate / Docs",
+   "screenings": [],
+   "url": "https://www.mvff.com/who-we-are-a-chronicle-of-racism-in-america/",
+   "is_short": false
+  },
+  {
+   "title": "Women Is Losers",
+   "directors": [
+    "Lissette Feliciano"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2020,
+   "runtime_min": 84,
+   "section": "Mind The Gap / ¡Viva El Cine! / Us",
+   "screenings": [
+    {
+     "date": "2021-10-08",
+     "time": "8:00pm",
+     "venue": "Smith Rafael Film Center"
+    }
+   ],
+   "url": "https://www.mvff.com/women-is-losers/",
+   "is_short": false
+  }
+ ],
+ "unparsed": [
+  "7-prisoners",
+  "bergman-island",
+  "bulado",
+  "lingui",
+  "lunafest-film-festival",
+  "merch",
+  "music",
+  "mvff-jobs",
+  "reflection-a-walk-with-water",
+  "shorts-finding-where-you-belong",
+  "strands",
+  "viva-el-cine"
+ ]
+}

@@ -1,0 +1,6696 @@
+{
+ "year": 2024,
+ "edition": 47,
+ "source": "web",
+ "films": [
+  {
+   "title": "THE NEXT WAVE: MIND THE GAP FILMMAKER ROUNDTABLE",
+   "original_title": null,
+   "directors": [],
+   "countries": [],
+   "film_year": 0,
+   "runtime_min": 0,
+   "language": null,
+   "section": "Behind the Screens",
+   "sections": [
+    "Behind the Screens"
+   ],
+   "strand": null,
+   "initiative": [
+    "Mind the Gap"
+   ],
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "ZOE EISENBERG: Chaperone",
+    "BILIANA GROZDANOVA: Eastern Western",
+    "MARINA GROZDANOVA: Eastern Western",
+    "KELSEY TAYLOR: To Kill A Wolf",
+    "OSINACHI IBE: Moderator  |  Programmer + Mind the Gap Manager"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-07",
+     "time": "16:00",
+     "venue": "Outdoor Art Club"
+    }
+   ],
+   "logline": "Celebrating the next wave of exceptional female and nonbinary filmmakers!",
+   "url": "https://www.mvff.com/program/the-next-wave-mind-the-gap-filmmaker-roundtable/",
+   "slug": "the-next-wave-mind-the-gap-filmmaker-roundtable",
+   "child_ids": [],
+   "id": 34875
+  },
+  {
+   "title": "Wouldn't Make It Any Other Way",
+   "original_title": null,
+   "directors": [
+    "Hao Zhou"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 20,
+   "language": "English",
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-07",
+     "time": "21:00",
+     "venue": "Rafael 3"
+    },
+    {
+     "date": "2024-10-08",
+     "time": "14:00",
+     "venue": "Rafael 3"
+    }
+   ],
+   "logline": "From Iowa to Guam, an aspiring costume designer visits their homeland to make costumes for a children’s theater and reconnect with distanced parents.",
+   "url": "https://www.mvff.com/program/wouldnt-make-it-any-other-way/",
+   "slug": "wouldnt-make-it-any-other-way",
+   "child_ids": [],
+   "id": 34578
+  },
+  {
+   "title": "The Door",
+   "original_title": null,
+   "directors": [
+    "Alexander Seltzer"
+   ],
+   "countries": [
+    "Canada"
+   ],
+   "film_year": 2023,
+   "runtime_min": 14,
+   "language": "English",
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-10",
+     "time": "14:30",
+     "venue": "Rafael 3"
+    },
+    {
+     "date": "2024-10-11",
+     "time": "20:45",
+     "venue": "Rafael 3"
+    }
+   ],
+   "logline": "In Alexander Seltzer's film, a grieving couple find a bizarre portal when they deal with loss.",
+   "url": "https://www.mvff.com/program/the-door/",
+   "slug": "the-door",
+   "child_ids": [],
+   "id": 34577
+  },
+  {
+   "title": "The Social Chameleon",
+   "original_title": null,
+   "directors": [
+    "Alex Ross"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2022,
+   "runtime_min": 9,
+   "language": null,
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "ALEX ROSS: Director"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-05",
+     "time": "11:00",
+     "venue": "Sequoia 2"
+    },
+    {
+     "date": "2024-10-12",
+     "time": "11:00",
+     "venue": "The Lark Theater"
+    }
+   ],
+   "logline": "An inspiring story about finding your true colors.",
+   "url": "https://www.mvff.com/program/the-social-chameleon/",
+   "slug": "the-social-chameleon",
+   "child_ids": [],
+   "id": 34576
+  },
+  {
+   "title": "Why The Cattle Wait",
+   "original_title": null,
+   "directors": [
+    "Phumi Morare"
+   ],
+   "countries": [
+    "South Africa"
+   ],
+   "film_year": 2024,
+   "runtime_min": 20,
+   "language": "IsiXhosa",
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-08",
+     "time": "20:30",
+     "venue": "Rafael 3"
+    }
+   ],
+   "logline": "The intimate tale of a goddess who tries to win back the affection of her former lover who has moved on in life without her.",
+   "url": "https://www.mvff.com/program/why-the-cattle-wait/",
+   "slug": "why-the-cattle-wait",
+   "child_ids": [],
+   "id": 34575
+  },
+  {
+   "title": "Something Borrowed, Something Pink",
+   "original_title": null,
+   "directors": [
+    "Nadia Johnson"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 9,
+   "language": "English",
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "NADIA JOHNSON: Director",
+    "BEN SNYDER"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-10",
+     "time": "20:30",
+     "venue": "Rafael 3"
+    },
+    {
+     "date": "2024-10-11",
+     "time": "15:00",
+     "venue": "Rafael 3"
+    }
+   ],
+   "logline": "An old flame and trans friend discover that the road to identity can be beautifully fluid.",
+   "url": "https://www.mvff.com/program/something-borrowed-something-pink/",
+   "slug": "something-borrowed-something-pink",
+   "child_ids": [],
+   "id": 34574
+  },
+  {
+   "title": "The Bird Rescue Center",
+   "original_title": null,
+   "directors": [
+    "Derek Knowles"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2023,
+   "runtime_min": 12,
+   "language": "English",
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "DEREK KNOWLES: Director",
+    "JOHWELL ST-CILIEN: Producer",
+    "ILAN LEVENTHAL: Composer"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-07",
+     "time": "21:00",
+     "venue": "Rafael 3"
+    },
+    {
+     "date": "2024-10-08",
+     "time": "14:00",
+     "venue": "Rafael 3"
+    }
+   ],
+   "logline": "A cinematic window into the world of a California bird rescue sanctuary and the people who give wildlife a second chance.",
+   "url": "https://www.mvff.com/program/the-bird-rescue-center/",
+   "slug": "the-bird-rescue-center",
+   "child_ids": [],
+   "id": 34573
+  },
+  {
+   "title": "The Last Supper",
+   "original_title": null,
+   "directors": [
+    "Trudy Flashford"
+   ],
+   "countries": [
+    "Canada"
+   ],
+   "film_year": 2024,
+   "runtime_min": 4,
+   "language": "English",
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-12",
+     "time": "12:00",
+     "venue": "Sequoia 2"
+    }
+   ],
+   "logline": "Hell breaks loose when Betty’s narcissistic grandmother and obnoxious older sister come home for a family dinner.",
+   "url": "https://www.mvff.com/program/the-last-supper/",
+   "slug": "the-last-supper",
+   "child_ids": [],
+   "id": 34572
+  },
+  {
+   "title": "ᏗᏂᏠᎯ ᎤᏪᏯ (Meet Me at the Creek)",
+   "original_title": null,
+   "directors": [
+    "Loren Waters"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2023,
+   "runtime_min": 9,
+   "language": "English",
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-07",
+     "time": "21:00",
+     "venue": "Rafael 3"
+    },
+    {
+     "date": "2024-10-08",
+     "time": "14:00",
+     "venue": "Rafael 3"
+    }
+   ],
+   "logline": "A Cherokee Nation citizen, a Waterkeeper Warrior, leads the effort to restore Oklahoma’s Tar Creek.",
+   "url": "https://www.mvff.com/program/meet-me-at-the-creek/",
+   "slug": "meet-me-at-the-creek",
+   "child_ids": [],
+   "id": 34571
+  },
+  {
+   "title": "Like a Stone or Flower",
+   "original_title": null,
+   "directors": [
+    "Kaiya Ming Jordan"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2023,
+   "runtime_min": 9,
+   "language": "English",
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-12",
+     "time": "12:00",
+     "venue": "Sequoia 2"
+    }
+   ],
+   "logline": "Three artists of different generations reflect on the ability of art to transcend rationality and logic.",
+   "url": "https://www.mvff.com/program/like-a-stone-or-flower/",
+   "slug": "like-a-stone-or-flower",
+   "child_ids": [],
+   "id": 34570
+  },
+  {
+   "title": "Everything Will Be OK Again",
+   "original_title": null,
+   "directors": [
+    "Marek Čermák"
+   ],
+   "countries": [
+    "Czech Republic"
+   ],
+   "film_year": 2023,
+   "runtime_min": 20,
+   "language": "Czech",
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-07",
+     "time": "15:00",
+     "venue": "Rafael 3"
+    },
+    {
+     "date": "2024-10-09",
+     "time": "21:00",
+     "venue": "Rafael 3"
+    }
+   ],
+   "logline": "A mother must come to terms with her son's character when he unexpectedly makes the local news.",
+   "url": "https://www.mvff.com/program/everything-will-be-ok-again/",
+   "slug": "everything-will-be-ok-again",
+   "child_ids": [],
+   "id": 34569
+  },
+  {
+   "title": "The Callback",
+   "original_title": null,
+   "directors": [
+    "Kara Herold"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 13,
+   "language": "English",
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "KARA HEROLD: Director",
+    "LISA MCELROY: Writer"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-10",
+     "time": "14:30",
+     "venue": "Rafael 3"
+    },
+    {
+     "date": "2024-10-11",
+     "time": "20:45",
+     "venue": "Rafael 3"
+    }
+   ],
+   "logline": "An ambitious actress finds her way, and herself, on the road to building a character.",
+   "url": "https://www.mvff.com/program/the-callback/",
+   "slug": "the-callback",
+   "child_ids": [],
+   "id": 34568
+  },
+  {
+   "title": "Lil Red is Riding the Wrong Way in the Hood",
+   "original_title": null,
+   "directors": [
+    "Venus Jones"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2023,
+   "runtime_min": 8,
+   "language": "English",
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "VENUS JONES: Director"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-05",
+     "time": "11:00",
+     "venue": "Sequoia 2"
+    },
+    {
+     "date": "2024-10-12",
+     "time": "11:00",
+     "venue": "The Lark Theater"
+    }
+   ],
+   "logline": "Lil' Red is Riding the Wrong Way in the Hood is a hip hop and gender twist on a classic cautionary tale.",
+   "url": "https://www.mvff.com/program/lil-red-is-riding-the-wrong-way-in-the-hood/",
+   "slug": "lil-red-is-riding-the-wrong-way-in-the-hood",
+   "child_ids": [],
+   "id": 34566
+  },
+  {
+   "title": "There Will Be Hurt",
+   "original_title": null,
+   "directors": [
+    "Drew McCoy",
+    "Anthony Gilmore"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 18,
+   "language": "English",
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "RYAN SEALE: Cinematographer",
+    "ERIKO SEALE: Associate Producer"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-07",
+     "time": "15:00",
+     "venue": "Rafael 3"
+    },
+    {
+     "date": "2024-10-09",
+     "time": "21:00",
+     "venue": "Rafael 3"
+    }
+   ],
+   "logline": "A mournful story about people sobered and haunted by their traumatic past, a story about lost souls fighting to come to terms with their shattered lives while exploring the compelling thematic triangle of revenge, redemption, and justice.",
+   "url": "https://www.mvff.com/program/there-will-be-hurt/",
+   "slug": "there-will-be-hurt",
+   "child_ids": [],
+   "id": 34565
+  },
+  {
+   "title": "Out of the Dark: Cal Calamia",
+   "original_title": null,
+   "directors": [
+    "Tom Mason",
+    "Sarah Klein"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 8,
+   "language": "English",
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "CAL CALAMIA: Film Subject",
+    "DEREK ROBERTO: Executive Producer"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-05",
+     "time": "15:00",
+     "venue": "Rafael 3"
+    },
+    {
+     "date": "2024-10-09",
+     "time": "15:30",
+     "venue": "Rafael 3"
+    }
+   ],
+   "logline": "An intimate look at the journey of professional athlete Cal Calamia, a transgender marathon runner who's advocating for inclusion in the running world.",
+   "url": "https://www.mvff.com/program/out-of-the-dark-cal-calamia/",
+   "slug": "out-of-the-dark-cal-calamia",
+   "child_ids": [],
+   "id": 34528
+  },
+  {
+   "title": "Armand",
+   "original_title": null,
+   "directors": [
+    "Halfdan Ullmann Tøndel"
+   ],
+   "countries": [
+    "Norway",
+    "Netherlands",
+    "Germany",
+    "Sweden"
+   ],
+   "film_year": 2024,
+   "runtime_min": 117,
+   "language": null,
+   "section": "World Cinema",
+   "sections": [
+    "World Cinema"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": [],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-09",
+     "time": "20:00",
+     "venue": "Sequoia 1"
+    },
+    {
+     "date": "2024-10-11",
+     "time": "19:00",
+     "venue": "BAMPFA"
+    }
+   ],
+   "logline": "Two boys, their parents, and staff struggle for redemption after a mysterious incident at school in this drama that unveils secrets with chilling precision. A gripping exploration of parenthood, perception, and the unknown.",
+   "url": "https://www.mvff.com/program/armand/",
+   "slug": "armand",
+   "child_ids": [],
+   "id": 34406
+  },
+  {
+   "title": "Checkpoint Zoo",
+   "original_title": null,
+   "directors": [
+    "Joshua Zeman"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 108,
+   "language": "English, Ukrainian",
+   "section": "Documentary",
+   "sections": [
+    "Documentary"
+   ],
+   "strand": null,
+   "initiative": [
+    "Active Cinema"
+   ],
+   "slot": null,
+   "premiere": [
+    "West Coast"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "JOSHUA ZEMAN: Director",
+    "ADRIANNE OWINGS: Associate Producer"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-05",
+     "time": "12:45",
+     "venue": "Rafael 1"
+    },
+    {
+     "date": "2024-10-09",
+     "time": "16:00",
+     "venue": "Sequoia 2"
+    }
+   ],
+   "logline": "In the midst of Russia’s 2022 invasion of Ukraine, a volunteer team embarks on a mission to evacuate a zoo’s 5,000 creatures from the bombardment zone.",
+   "url": "https://www.mvff.com/program/checkpoint-zoo/",
+   "slug": "checkpoint-zoo",
+   "child_ids": [],
+   "id": 34405
+  },
+  {
+   "title": "Shorts: Time to Come Home",
+   "original_title": null,
+   "directors": [],
+   "countries": [],
+   "film_year": 0,
+   "runtime_min": 0,
+   "language": null,
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": [
+    "Heart"
+   ],
+   "initiative": [
+    "Mind the Gap"
+   ],
+   "slot": null,
+   "premiere": [],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-10",
+     "time": "20:30",
+     "venue": "Rafael 3"
+    },
+    {
+     "date": "2024-10-11",
+     "time": "15:00",
+     "venue": "Rafael 3"
+    }
+   ],
+   "logline": "“Words can’t express what I feel inside of my flesh.” Whether they’re new partners or soulmates, these stories of love and attraction run the gamut of experiences both fresh and familiar.",
+   "url": "https://www.mvff.com/program/shorts-time-to-come-home/",
+   "slug": "shorts-time-to-come-home",
+   "child_ids": [
+    "recFXipz9W7tnUIbL",
+    "rec17JFLt4Bg6j9gJ",
+    "recXyR7k8YKI6yg1z",
+    "recSn6ZfEfRd64eNk",
+    "rec9wFyQkSF4BcXrS",
+    "rectuztuFysxAbTrg",
+    "recb9od0ZM81yTI0e"
+   ],
+   "id": 34404
+  },
+  {
+   "title": "The Day Iceland Stood Still",
+   "original_title": null,
+   "directors": [
+    "Pamela J Hogan"
+   ],
+   "countries": [
+    "US",
+    "Iceland"
+   ],
+   "film_year": 2024,
+   "runtime_min": 70,
+   "language": "English, Icelandic",
+   "section": "Documentary",
+   "sections": [
+    "Documentary"
+   ],
+   "strand": [
+    "Trailblazers"
+   ],
+   "initiative": [
+    "Mind the Gap"
+   ],
+   "slot": null,
+   "premiere": [
+    "West Coast"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "PAMELA HOGAN: Director, Producer",
+    "HRABBA GUNNARSDÓTTIR: Producer"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-12",
+     "time": "16:30",
+     "venue": "Rafael 2"
+    },
+    {
+     "date": "2024-10-13",
+     "time": "20:00",
+     "venue": "Rafael 2"
+    }
+   ],
+   "logline": "A subversive, funny, and galvanizing documentary about the astonishing events of October 24, 1975, when 90% of Iceland’s women walked off their jobs. Vibrant interviews and color-soaked animation capture key moments and the real change that followed.",
+   "url": "https://www.mvff.com/program/the-day-iceland-stood-still/",
+   "slug": "the-day-iceland-stood-still",
+   "child_ids": [],
+   "id": 34403
+  },
+  {
+   "title": "Red Boat Crossing/The Ship That Turned Back",
+   "original_title": null,
+   "directors": [
+    "Jeanne C. Finley",
+    "Allie Light"
+   ],
+   "countries": [],
+   "film_year": 0,
+   "runtime_min": 0,
+   "language": null,
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": [
+    "Mind the Gap"
+   ],
+   "slot": null,
+   "premiere": [],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "JEANNE C. FINLEY: Director, Red Boat Crossing",
+    "YUMENG GUO:",
+    "JULIA HILDER: Producer, The Ship That Turned Back",
+    "ANNE FLATTE: Editor, The Ship That Turned Back"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-10",
+     "time": "19:30",
+     "venue": "Rafael 2"
+    }
+   ],
+   "logline": "Bay Area directors create warmly emotional odes to family members’ WWII travails. Allie Light’s The Ship That Turned Back chronicles late spouse Irving Saraf’s childhood escape from occupied Poland; Jeanne C. Finley’s Red Boat Crossing recalls her mother’s dramatic Red Cross service.",
+   "url": "https://www.mvff.com/program/red-boat-crossing-the-ship-that-turned-back/",
+   "slug": "red-boat-crossing-the-ship-that-turned-back",
+   "child_ids": [],
+   "id": 34402
+  },
+  {
+   "title": "Shorts: Superpower",
+   "original_title": null,
+   "directors": [],
+   "countries": [],
+   "film_year": 0,
+   "runtime_min": 0,
+   "language": null,
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": [
+    "Mind the Gap"
+   ],
+   "slot": null,
+   "premiere": [],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-10",
+     "time": "14:30",
+     "venue": "Rafael 3"
+    },
+    {
+     "date": "2024-10-11",
+     "time": "20:45",
+     "venue": "Rafael 3"
+    }
+   ],
+   "logline": "“When I’m standing in this mirror, after all these years, what I’m viewing is a little different.” These shorts immerse themselves, and the adventurous viewer, in entertaining flights of fancy.",
+   "url": "https://www.mvff.com/program/shorts-superpower/",
+   "slug": "shorts-superpower",
+   "child_ids": [
+    "recmTcjoa8ueqrSme",
+    "recMPsi8ceDS2cG26",
+    "recUFYYpZw5dxOfIw",
+    "recGwvOrqqtY6veSP",
+    "recSVZfkWb0f23gim",
+    "recw8dUsGdSD3jJep"
+   ],
+   "id": 34401
+  },
+  {
+   "title": "Lost in Time: Druid Heights",
+   "original_title": null,
+   "directors": [
+    "D. Damian Panetta"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2023,
+   "runtime_min": 75,
+   "language": "English",
+   "section": "Documentary",
+   "sections": [
+    "Documentary"
+   ],
+   "strand": [
+    "Create"
+   ],
+   "initiative": null,
+   "slot": null,
+   "premiere": [
+    "World"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "DAMIAN PANETTA: Director",
+    "ECHO HERON: Writer",
+    "ED STILES: Film Subject | Current Resident",
+    "JAN VAN VLAENDEREN: Film Subject",
+    "JOSH WINCHELL: National Parks Service"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-05",
+     "time": "20:30",
+     "venue": "Rafael 2"
+    },
+    {
+     "date": "2024-10-11",
+     "time": "13:00",
+     "venue": "The Lark Theater"
+    }
+   ],
+   "logline": "Crumbling Druid Heights, a once-thriving bohemian enclave near Mill Valley, could face the wrecking ball. Longtime resident Ed Stiles recalls a vibrant community and details its outsized influence on countless disparate 20th-century cultural movements.",
+   "url": "https://www.mvff.com/program/lost-in-time-druid-heights/",
+   "slug": "lost-in-time-druid-heights",
+   "child_ids": [],
+   "id": 34400
+  },
+  {
+   "title": "Wild Diamond",
+   "original_title": "Diamant Brut",
+   "directors": [
+    "Agathe Riedinger"
+   ],
+   "countries": [
+    "France"
+   ],
+   "film_year": 2024,
+   "runtime_min": 103,
+   "language": null,
+   "section": "World Cinema",
+   "sections": [
+    "World Cinema"
+   ],
+   "strand": null,
+   "initiative": [
+    "Mind the Gap"
+   ],
+   "slot": null,
+   "premiere": [
+    "West Coast"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-07",
+     "time": "20:00",
+     "venue": "Rafael 2"
+    },
+    {
+     "date": "2024-10-10",
+     "time": "17:45",
+     "venue": "Rafael 3"
+    }
+   ],
+   "logline": "Nineteen-year-old Liane pursues fame as her escape from harsh reality, believing beauty is her power. Auditioning for a reality show, she chases validation, but the cost of being seen is steep in this gripping exploration of self-worth.",
+   "url": "https://www.mvff.com/program/wild-diamond/",
+   "slug": "wild-diamond",
+   "child_ids": [],
+   "id": 34399
+  },
+  {
+   "title": "Nightbitch",
+   "original_title": null,
+   "directors": [
+    "Marielle Heller"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 98,
+   "language": "English",
+   "section": "US Cinema, Big Nights",
+   "sections": [
+    "US Cinema",
+    "Big Nights"
+   ],
+   "strand": null,
+   "initiative": [
+    "Mind the Gap"
+   ],
+   "slot": null,
+   "premiere": [
+    "Bay Area"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "AMY ADAMS"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-13",
+     "time": "17:00",
+     "venue": "Sequoia 1"
+    },
+    {
+     "date": "2024-10-13",
+     "time": "17:00",
+     "venue": "Rafael 1"
+    },
+    {
+     "date": "2024-10-13",
+     "time": "17:00",
+     "venue": "Rafael 3"
+    },
+    {
+     "date": "2024-10-13",
+     "time": "17:00",
+     "venue": "Sequoia 2"
+    },
+    {
+     "date": "2024-10-13",
+     "time": "17:00",
+     "venue": "Rafael 2"
+    }
+   ],
+   "logline": "Marielle Heller’s ( Can You Ever Forgive Me? ) bold new film starring the impeccable Amy Adams explores the darker side of motherhood with humor and a dash of suspense.",
+   "url": "https://www.mvff.com/program/nightbitch/",
+   "slug": "nightbitch",
+   "child_ids": [],
+   "id": 34398
+  },
+  {
+   "title": "The Room Next Door",
+   "original_title": null,
+   "directors": [
+    "Pedro Almodóvar"
+   ],
+   "countries": [
+    "Spain"
+   ],
+   "film_year": 2024,
+   "runtime_min": 110,
+   "language": "English",
+   "section": "World Cinema",
+   "sections": [
+    "World Cinema"
+   ],
+   "strand": null,
+   "initiative": [
+    "!Viva el Cine!"
+   ],
+   "slot": null,
+   "premiere": [
+    "West Coast"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-06",
+     "time": "16:15",
+     "venue": "Sequoia 1"
+    },
+    {
+     "date": "2024-10-07",
+     "time": "16:00",
+     "venue": "Rafael 1"
+    }
+   ],
+   "logline": "In Pedro Almodóvar’s first film in English, a formidable bond blossoms between two old friends (Tilda Swinton, Julianne Moore) who reconnect. Beautifully performed and visually striking, this masterful film explores how shared struggle can create a circuit of compassion",
+   "url": "https://www.mvff.com/program/the-room-next-door/",
+   "slug": "the-room-next-door",
+   "child_ids": [],
+   "id": 34397
+  },
+  {
+   "title": "Conclave",
+   "original_title": null,
+   "directors": [
+    "Edward Berger"
+   ],
+   "countries": [
+    "UK",
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 120,
+   "language": null,
+   "section": "World Cinema, Big Nights",
+   "sections": [
+    "World Cinema",
+    "Big Nights"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": [],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "EDWARD BERGER: Director",
+    "RALPH FIENNES: Actor"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-03",
+     "time": "18:30",
+     "venue": "Sequoia 1"
+    },
+    {
+     "date": "2024-10-03",
+     "time": "18:30",
+     "venue": "Rafael 1"
+    },
+    {
+     "date": "2024-10-03",
+     "time": "18:30",
+     "venue": "Rafael 3"
+    },
+    {
+     "date": "2024-10-03",
+     "time": "18:30",
+     "venue": "Sequoia 2"
+    },
+    {
+     "date": "2024-10-03",
+     "time": "18:30",
+     "venue": "Rafael 2"
+    }
+   ],
+   "logline": "Cardinal Lawrence wants to resign but the Pope has just died and the Church’s future falls to him. Led by Ralph Fiennes’ brilliant turn as Father Lawrence, Conclave ’s stellar cast includes Stanley Tucci, John Lithgow, Lucian Msamati, and Isabella Rossellini.",
+   "url": "https://www.mvff.com/program/conclave/",
+   "slug": "conclave",
+   "child_ids": [],
+   "id": 34396
+  },
+  {
+   "title": "Into the Heart of the Mountain",
+   "original_title": null,
+   "directors": [
+    "Annegré Bosman"
+   ],
+   "countries": [
+    "Netherlands"
+   ],
+   "film_year": 2023,
+   "runtime_min": 97,
+   "language": "English, Nepali",
+   "section": "Documentary",
+   "sections": [
+    "Documentary"
+   ],
+   "strand": null,
+   "initiative": [
+    "Mind the Gap",
+    "Active Cinema"
+   ],
+   "slot": null,
+   "premiere": [
+    "US"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "JOAN HALIFAX: Subject",
+    "CHARLES MCDONALD: Subject",
+    "WENDY LAU: Subject",
+    "ELIZABETH CALLARD: Subject"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-11",
+     "time": "17:00",
+     "venue": "Sequoia 1"
+    },
+    {
+     "date": "2024-10-13",
+     "time": "12:00",
+     "venue": "Sequoia 2"
+    }
+   ],
+   "logline": "Walk beside Zen Buddhist priest and social activist Roshi Joan Halifax on her path to empower women and indigenous people in this magnificent, emotionally bracing documentary.",
+   "url": "https://www.mvff.com/program/into-the-heart-of-the-mountain/",
+   "slug": "into-the-heart-of-the-mountain",
+   "child_ids": [],
+   "id": 34395
+  },
+  {
+   "title": "Bird",
+   "original_title": null,
+   "directors": [
+    "Andrea Arnold"
+   ],
+   "countries": [
+    "UK",
+    "US",
+    "France",
+    "Germany"
+   ],
+   "film_year": 2024,
+   "runtime_min": 119,
+   "language": "English",
+   "section": "World Cinema",
+   "sections": [
+    "World Cinema"
+   ],
+   "strand": null,
+   "initiative": [
+    "Mind the Gap"
+   ],
+   "slot": null,
+   "premiere": [
+    "West Coast"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-04",
+     "time": "19:00",
+     "venue": "BAMPFA"
+    },
+    {
+     "date": "2024-10-06",
+     "time": "15:00",
+     "venue": "The Lark Theater"
+    }
+   ],
+   "logline": "Barry Keoghan and Franz Rogowski costar in Andrea Arnold’s ( Fish Tank ) deft portrait of the burgeoning friendship between a wise-beyond-her-years tween and a free spirit named Bird.",
+   "url": "https://www.mvff.com/program/bird/",
+   "slug": "bird",
+   "child_ids": [],
+   "id": 34394
+  },
+  {
+   "title": "We Live in Time",
+   "original_title": null,
+   "directors": [
+    "John Crowley"
+   ],
+   "countries": [
+    "UK"
+   ],
+   "film_year": 2024,
+   "runtime_min": 108,
+   "language": "English",
+   "section": "World Cinema",
+   "sections": [
+    "World Cinema"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-05",
+     "time": "16:00",
+     "venue": "Rafael 1"
+    }
+   ],
+   "logline": "Florence Pugh and Andrew Garfield prove great foils for each other as a chef (Pugh) and divorcé (Garfield) brought together by an accidental encounter. The seemingly unlikely match becomes a life-affirming journey that’s both defined by and transcends time.",
+   "url": "https://www.mvff.com/program/we-live-in-time/",
+   "slug": "we-live-in-time",
+   "child_ids": [],
+   "id": 34393
+  },
+  {
+   "title": "Shorts: LoveHappy (Youth Works)",
+   "original_title": null,
+   "directors": [],
+   "countries": [],
+   "film_year": 0,
+   "runtime_min": 0,
+   "language": null,
+   "section": "Family Films",
+   "sections": [
+    "Family Films"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": [],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-12",
+     "time": "12:00",
+     "venue": "Sequoia 2"
+    }
+   ],
+   "logline": "This year’s collection of peer-reviewed, youth-produced short films showcases storytellers who are redefining humor in comedies, personal stories in documentaries, and murder in thrillers.",
+   "url": "https://www.mvff.com/program/shorts-lovehappy-youth-works/",
+   "slug": "shorts-lovehappy-youth-works",
+   "child_ids": [
+    "recWHr5dsHA745emb",
+    "recsDLug9pqCHVAlL",
+    "recptXVXXKqrZAGns",
+    "recaOFGpVFj91soXP",
+    "recAY9ODpQ7Bfwr5h",
+    "recDpm5uNEnkG9ihU",
+    "recQt1mRbkftagkF8",
+    "recSrv0F8wTDgkOhl",
+    "recbcdJ7t3cWyyWlo",
+    "recZWMdEFHkkEL3aF",
+    "recWmrQBig2MZtzbL",
+    "recG2zoX5k1V3yfH1",
+    "recQuuWGG2Th0E1qS"
+   ],
+   "id": 34392
+  },
+  {
+   "title": "2073",
+   "original_title": null,
+   "directors": [
+    "Asif Kapadia"
+   ],
+   "countries": [
+    "UK",
+    "US"
+   ],
+   "film_year": 0,
+   "runtime_min": 85,
+   "language": null,
+   "section": "Documentary",
+   "sections": [
+    "Documentary"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": [
+    "US"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-13",
+     "time": "20:00",
+     "venue": "Rafael 3"
+    }
+   ],
+   "logline": "Inspired by Chris Marker’s classic La Jetée, this experimental drama-documentary gives The Last of Us vibes mixed with the familiar horror of watching democracy and humanity imperiled daily.",
+   "url": "https://www.mvff.com/program/2073/",
+   "slug": "2073",
+   "child_ids": [],
+   "id": 34391
+  },
+  {
+   "title": "All We Imagine as Light",
+   "original_title": null,
+   "directors": [
+    "Payal Kapadia"
+   ],
+   "countries": [
+    "India",
+    "France",
+    "Netherlands",
+    "Luxembourg"
+   ],
+   "film_year": 2024,
+   "runtime_min": 118,
+   "language": " Malayalam, Hindi",
+   "section": "World Cinema, Big Nights",
+   "sections": [
+    "World Cinema",
+    "Big Nights"
+   ],
+   "strand": [
+    "Spirit"
+   ],
+   "initiative": [
+    "Mind the Gap"
+   ],
+   "slot": null,
+   "premiere": [
+    "West Coast"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "PAYAL KAPADIA: Writer/Director"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-12",
+     "time": "19:00",
+     "venue": "BAMPFA"
+    },
+    {
+     "date": "2024-10-11",
+     "time": "19:00",
+     "venue": "Rafael 1"
+    }
+   ],
+   "logline": "Crafted with visual poetry and empathy, MVFF Mind the Gap Award honoree Payal Kapadia’s drama shines a light on three nurses as they negotiate love and life in teeming Mumbai.",
+   "url": "https://www.mvff.com/program/all-we-imagine-as-light/",
+   "slug": "all-we-imagine-as-light",
+   "child_ids": [],
+   "id": 34390
+  },
+  {
+   "title": "American Cats: The Good, the Bad, and the Cuddly",
+   "original_title": null,
+   "directors": [
+    "Todd Bieber"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 91,
+   "language": "English",
+   "section": "Documentary",
+   "sections": [
+    "Documentary"
+   ],
+   "strand": [
+    "Heart",
+    "Laugh"
+   ],
+   "initiative": [
+    "Active Cinema"
+   ],
+   "slot": null,
+   "premiere": [
+    "West Coast"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "GRACE LEESON: Producer",
+    "DR. JENNIFER CONRAD: Film Subject"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-13",
+     "time": "13:30",
+     "venue": "Sequoia 1"
+    }
+   ],
+   "logline": "Cats are dubbed “the quiet royalty of the living room” in this fond, furry portrait. But they’ve got a gripe...",
+   "url": "https://www.mvff.com/program/american-cats-the-good-the-bad-and-the-cuddly/",
+   "slug": "american-cats-the-good-the-bad-and-the-cuddly",
+   "child_ids": [],
+   "id": 34389
+  },
+  {
+   "title": "I'm Still Here",
+   "original_title": "Ainda Estou Aqui",
+   "directors": [
+    "Walter Salles"
+   ],
+   "countries": [
+    "Brazil"
+   ],
+   "film_year": 2024,
+   "runtime_min": 136,
+   "language": "Portuguese",
+   "section": "World Cinema",
+   "sections": [
+    "World Cinema"
+   ],
+   "strand": [
+    "Trailblazers"
+   ],
+   "initiative": [
+    "!Viva el Cine!"
+   ],
+   "slot": null,
+   "premiere": [
+    "West Coast"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-11",
+     "time": "15:00",
+     "venue": "Sequoia 2"
+    },
+    {
+     "date": "2024-10-13",
+     "time": "20:00",
+     "venue": "Rafael 1"
+    }
+   ],
+   "logline": "In 1970s Brazil, a family's life collapses when the military regime seizes former congressman Rubens Paiva. His wife, Eunice, becomes a fierce advocate for justice. Walter Salles directs this poignant film, which reveals the pain and resilience of fighting for truth.",
+   "url": "https://www.mvff.com/program/im-still-here/",
+   "slug": "im-still-here",
+   "child_ids": [],
+   "id": 34388
+  },
+  {
+   "title": "JessZilla",
+   "original_title": null,
+   "directors": [
+    "Emily Sheskin"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2023,
+   "runtime_min": 90,
+   "language": "English",
+   "section": "Family Films",
+   "sections": [
+    "Family Films"
+   ],
+   "strand": [
+    "Trailblazers",
+    "Heart"
+   ],
+   "initiative": [
+    "Mind the Gap",
+    "!Viva el Cine!"
+   ],
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-06",
+     "time": "13:00",
+     "venue": "Rafael 3"
+    },
+    {
+     "date": "2024-10-12",
+     "time": "12:00",
+     "venue": "Rafael 3"
+    }
+   ],
+   "logline": "Jesselyn, 16, has a mischievous smile and the world’s best dad. Like him, she’s hooked on boxing. Director Emily Sheskin follows Jess on her road to the Junior Olympics, and her battle with the one opponent she’s unprepared to fight.",
+   "url": "https://www.mvff.com/program/jesszilla/",
+   "slug": "jesszilla",
+   "child_ids": [],
+   "id": 34387
+  },
+  {
+   "title": "Better Man",
+   "original_title": null,
+   "directors": [
+    "Michael Gracey"
+   ],
+   "countries": [
+    "Australia"
+   ],
+   "film_year": 2024,
+   "runtime_min": 131,
+   "language": null,
+   "section": "Centerpiece, World Cinema, Big Nights",
+   "sections": [
+    "Centerpiece",
+    "World Cinema",
+    "Big Nights"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": [],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "MICHAEL GRACEY: Director",
+    "JONNO DAVIES: Lead Actor"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-10",
+     "time": "18:00",
+     "venue": "Sequoia 2"
+    },
+    {
+     "date": "2024-10-11",
+     "time": "13:00",
+     "venue": "Sequoia 1"
+    }
+   ],
+   "logline": "This exuberant, unconventional musical biopic of singer Robbie Williams blends extravagant song-and-dance sequences with a frank portrayal of the demons that accompanied his rise to worldwide acclaim.",
+   "url": "https://www.mvff.com/program/better-man/",
+   "slug": "better-man",
+   "child_ids": [],
+   "id": 34386
+  },
+  {
+   "title": "Norah",
+   "original_title": null,
+   "directors": [
+    "Tawfik Alzaidi"
+   ],
+   "countries": [
+    "Saudi Arabia"
+   ],
+   "film_year": 2024,
+   "runtime_min": 94,
+   "language": null,
+   "section": "World Cinema",
+   "sections": [
+    "World Cinema"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": [
+    "US"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-04",
+     "time": "15:30",
+     "venue": "Rafael 1"
+    },
+    {
+     "date": "2024-10-11",
+     "time": "16:00",
+     "venue": "The Lark Theater"
+    }
+   ],
+   "logline": "In this moving debut feature set in rural Saudi Arabia, a young woman rebels against laws condemning printed and drawn images. When she asks the new teacher to paint her portrait, tensions swirl memorably around and between them.",
+   "url": "https://www.mvff.com/program/norah/",
+   "slug": "norah",
+   "child_ids": [],
+   "id": 34385
+  },
+  {
+   "title": "Memoir of a Snail",
+   "original_title": null,
+   "directors": [
+    "Adam Elliot"
+   ],
+   "countries": [
+    "Australia"
+   ],
+   "film_year": 2024,
+   "runtime_min": 94,
+   "language": null,
+   "section": "World Cinema, Big Nights",
+   "sections": [
+    "World Cinema",
+    "Big Nights"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": [],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "ADAM ELLIOT: Director"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-12",
+     "time": "19:00",
+     "venue": "Sequoia 2"
+    }
+   ],
+   "logline": "Director Adam Elliot’s exquisitely eccentric snail-centered stop-motion family dramedy for adults is a basket of wonders, featuring voiceover talents of Australian luminaries Sarah Snook ( Succession ), Eric Bana ( Full Frontal ) and Kodi Smit-McPhee ( Power of the Dog ). Slimily sublime!",
+   "url": "https://www.mvff.com/program/memoir-of-a-snail/",
+   "slug": "memoir-of-a-snail",
+   "child_ids": [],
+   "id": 34384
+  },
+  {
+   "title": "Blitz",
+   "original_title": null,
+   "directors": [
+    "Steve McQueen"
+   ],
+   "countries": [
+    "UK",
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 120,
+   "language": "English",
+   "section": "World Cinema",
+   "sections": [
+    "World Cinema"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": [
+    "California"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-12",
+     "time": "19:30",
+     "venue": "Rafael 1"
+    },
+    {
+     "date": "2024-10-13",
+     "time": "19:00",
+     "venue": "BAMPFA"
+    }
+   ],
+   "logline": "In Oscar® winner Steve McQueen's brilliant drama, a young boy sent to the country to wait out the WWII Blitz runs away, determined to make it back home to London.",
+   "url": "https://www.mvff.com/program/blitz/",
+   "slug": "blitz",
+   "child_ids": [],
+   "id": 34383
+  },
+  {
+   "title": "Exhibiting Forgiveness",
+   "original_title": null,
+   "directors": [
+    "Titus Kaphar"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 117,
+   "language": null,
+   "section": "US Cinema",
+   "sections": [
+    "US Cinema"
+   ],
+   "strand": [
+    "Create"
+   ],
+   "initiative": null,
+   "slot": null,
+   "premiere": [],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "TITUS KAPHAR: Director",
+    "STEPHANIE ALLAIN: Producer"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-04",
+     "time": "19:00",
+     "venue": "Rafael 2"
+    },
+    {
+     "date": "2024-10-05",
+     "time": "12:00",
+     "venue": "Rafael 3"
+    }
+   ],
+   "logline": "Painter and sculptor Titus Kaphar brings his sense of wonder to the big screen with this affirming debut. The writer-director delivers a wrenching and deeply felt excavation of family, particularly the bonds that exist between fathers and sons.",
+   "url": "https://www.mvff.com/program/exhibiting-forgiveness/",
+   "slug": "exhibiting-forgiveness",
+   "child_ids": [],
+   "id": 34382
+  },
+  {
+   "title": "The Ship That Turned Back",
+   "original_title": null,
+   "directors": [
+    "Allie Light"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 0,
+   "runtime_min": 34,
+   "language": null,
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": [
+    "Mind the Gap"
+   ],
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "JULIA HILDER: Producer",
+    "ANNE FLATTE: Editor"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-10",
+     "time": "19:30",
+     "venue": "Rafael 2"
+    }
+   ],
+   "logline": "Oscar® and Emmy winner Allie Light’s _The Ship That Turned Back _draws on a mix of elements in letting late husband/collaborator Irving Saraf recall his Jewish family’s harrowing flight from Nazi-occupied Poland.",
+   "url": "https://www.mvff.com/program/the-ship-that-turned-back/",
+   "slug": "the-ship-that-turned-back",
+   "child_ids": [
+    "recuVbtDUMQql0K8B"
+   ],
+   "id": 34939
+  },
+  {
+   "title": "Lunar Power",
+   "original_title": null,
+   "directors": [
+    "Annastacia Henry-Ramos"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 3,
+   "language": null,
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": [
+    "!Viva el Cine!"
+   ],
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-05",
+     "time": "11:00",
+     "venue": "Sequoia 2"
+    },
+    {
+     "date": "2024-10-12",
+     "time": "11:00",
+     "venue": "The Lark Theater"
+    }
+   ],
+   "logline": "Video game nut Miguel has a cheeky chat with his older, wiser Cousin Amaya. Miguel, un fanático de los videojuegos, tiene una charla descarada con su prima Amaya, que es mayor y más sabia.",
+   "url": "https://www.mvff.com/program/lunar-power/",
+   "slug": "lunar-power",
+   "child_ids": [],
+   "id": 34563
+  },
+  {
+   "title": "Mind the Gap Day @MVFF47",
+   "original_title": null,
+   "directors": [],
+   "countries": [],
+   "film_year": 0,
+   "runtime_min": 0,
+   "language": null,
+   "section": null,
+   "sections": [],
+   "strand": null,
+   "initiative": [
+    "Mind the Gap"
+   ],
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": "Event",
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-05",
+     "time": "21:38",
+     "venue": "Outdoor Art Club"
+    }
+   ],
+   "logline": "A celebration of female and nonbinary voices in filmmaking. The day’s festivities include a summit and networking lunch, film screenings, access to the filmmaker lounge, and a happy hour.",
+   "url": "https://www.mvff.com/program/mind-the-gap-day-mvff47/",
+   "slug": "mind-the-gap-day-mvff47",
+   "child_ids": [],
+   "id": 34444
+  },
+  {
+   "title": "Bob Trevino Likes It",
+   "original_title": null,
+   "directors": [
+    "Tracie Laymon"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 102,
+   "language": "English",
+   "section": "US Cinema",
+   "sections": [
+    "US Cinema"
+   ],
+   "strand": [
+    "Heart"
+   ],
+   "initiative": [
+    "Mind the Gap"
+   ],
+   "slot": null,
+   "premiere": [
+    "California"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "TRACIE LAYMON: Director"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-05",
+     "time": "17:00",
+     "venue": "Sequoia 1"
+    },
+    {
+     "date": "2024-10-11",
+     "time": "18:00",
+     "venue": "Rafael 3"
+    }
+   ],
+   "logline": "While searching on Facebook for her estranged father, a young woman finds a man (John Leguizamo) with the same name, a caring father figure, who also could use a friend.",
+   "url": "https://www.mvff.com/program/bob-trevino-likes-it/",
+   "slug": "bob-trevino-likes-it",
+   "child_ids": [],
+   "id": 34381
+  },
+  {
+   "title": "The Black Sea",
+   "original_title": null,
+   "directors": [
+    "Crystal Moselle",
+    "Derrick B. Harden"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 96,
+   "language": "English",
+   "section": "US Cinema",
+   "sections": [
+    "US Cinema"
+   ],
+   "strand": [
+    "Laugh"
+   ],
+   "initiative": [
+    "Mind the Gap"
+   ],
+   "slot": null,
+   "premiere": [
+    "California"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "CRYSTAL MOSELLE: Director",
+    "DERRICK B. HARDEN: Director"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-05",
+     "time": "16:30",
+     "venue": "Rafael 2"
+    },
+    {
+     "date": "2024-10-07",
+     "time": "14:00",
+     "venue": "Sequoia 2"
+    }
+   ],
+   "logline": "Aspiring rapper Khalid heads to Bulgaria for a gigolo gig he found on Facebook. Bay Area bigheartedness meets Brooklyn moxie in Crystal Moselle and Derrick B. Harden’s fish-out-of-water tale that’s refreshing as a cool drink on a hot summer day.",
+   "url": "https://www.mvff.com/program/the-black-sea/",
+   "slug": "the-black-sea",
+   "child_ids": [],
+   "id": 34380
+  },
+  {
+   "title": "Gloria!",
+   "original_title": null,
+   "directors": [
+    "Margherita Vicario"
+   ],
+   "countries": [
+    "Italy",
+    "Switzerland"
+   ],
+   "film_year": 2024,
+   "runtime_min": 106,
+   "language": null,
+   "section": "World Cinema",
+   "sections": [
+    "World Cinema"
+   ],
+   "strand": [
+    "Create"
+   ],
+   "initiative": [
+    "Mind the Gap"
+   ],
+   "slot": null,
+   "premiere": [
+    "California"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "GALATÉA BELLUGI: Actor"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-10",
+     "time": "20:00",
+     "venue": "Sequoia 1"
+    },
+    {
+     "date": "2024-10-11",
+     "time": "13:45",
+     "venue": "Rafael 2"
+    }
+   ],
+   "logline": "The mysterious arrival of a piano at a Catholic shelter near Venice in the early 1800s sets progressive and orthodox musical outlooks ablaze in this rousing musical drama.",
+   "url": "https://www.mvff.com/program/gloria/",
+   "slug": "gloria",
+   "child_ids": [],
+   "id": 34379
+  },
+  {
+   "title": "Mollie's Pack",
+   "original_title": null,
+   "directors": [
+    "Thomas Winston"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 90,
+   "language": null,
+   "section": "Documentary",
+   "sections": [
+    "Documentary"
+   ],
+   "strand": [
+    "Trailblazers"
+   ],
+   "initiative": [
+    "Active Cinema"
+   ],
+   "slot": null,
+   "premiere": [
+    "World"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "THOMAS WINSTON: Director",
+    "AVELA GRENIER: Editor",
+    "DASH HAMMERSTEIN: Composer"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-12",
+     "time": "14:00",
+     "venue": "Sequoia 1"
+    },
+    {
+     "date": "2024-10-13",
+     "time": "20:00",
+     "venue": "Sequoia 1"
+    }
+   ],
+   "logline": "With newly recovered 16mm footage of the 1995 reintroduction of gray wolves to the American West and stories told by those who made it happen, this thrilling documentary offers an insider’s view of the animals’ return to their rightful rangelands.",
+   "url": "https://www.mvff.com/program/mollies-pack/",
+   "slug": "mollies-pack",
+   "child_ids": [],
+   "id": 34378
+  },
+  {
+   "title": "Mistura",
+   "original_title": null,
+   "directors": [
+    "Ricardo de Montreuil"
+   ],
+   "countries": [
+    "Peru"
+   ],
+   "film_year": 2024,
+   "runtime_min": 101,
+   "language": null,
+   "section": "World Cinema",
+   "sections": [
+    "World Cinema"
+   ],
+   "strand": null,
+   "initiative": [
+    "!Viva el Cine!"
+   ],
+   "slot": null,
+   "premiere": [
+    "World"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "RICARDO DE MONTREUIL: Director",
+    "CHRISTIAN MEIER: Executive Producer / Actor",
+    "IVAN ORLIC: Producer",
+    "PATRICK PFUPAJENA: Co-Producer",
+    "TIM WILLIAMS: Composer"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-08",
+     "time": "18:15",
+     "venue": "Sequoia 1"
+    },
+    {
+     "date": "2024-10-09",
+     "time": "14:00",
+     "venue": "Rafael 2"
+    }
+   ],
+   "logline": "This richly enjoyable mid-1960s period piece finds a Lima socialite at loose ends after her unfaithful husband’s departure. But she discovers more inner resources than anyone expects, forging a surprising new path of independence and culinary invention.",
+   "url": "https://www.mvff.com/program/mistura/",
+   "slug": "mistura",
+   "child_ids": [],
+   "id": 34377
+  },
+  {
+   "title": "Zurawski v Texas",
+   "original_title": null,
+   "directors": [
+    "Maisie Crow",
+    "Abbie Perrault"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 90,
+   "language": "English",
+   "section": "Documentary",
+   "sections": [
+    "Documentary"
+   ],
+   "strand": [
+    "Trailblazers"
+   ],
+   "initiative": [
+    "Active Cinema",
+    "Mind the Gap"
+   ],
+   "slot": null,
+   "premiere": [
+    "California"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "ABBIE PERRAULT: Director",
+    "MAISIE CROW: Director",
+    "AMANDA ZURAWSKI: Film Subject"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-08",
+     "time": "19:15",
+     "venue": "Sequoia 2"
+    },
+    {
+     "date": "2024-10-10",
+     "time": "16:00",
+     "venue": "Rafael 2"
+    }
+   ],
+   "logline": "This urgent documentary reveals the devastation inflicted on pregnant Texans, effectively barred from emergency obstetric care, due to the state’s draconian abortion ban. Women push back, engaging in an epic legal battle to clarify medical exemptions and save lives.",
+   "url": "https://www.mvff.com/program/zurawski-v-texas/",
+   "slug": "zurawski-v-texas",
+   "child_ids": [],
+   "id": 34376
+  },
+  {
+   "title": "MVFF47 OPENING NIGHT GALA",
+   "original_title": null,
+   "directors": [],
+   "countries": [],
+   "film_year": 0,
+   "runtime_min": 0,
+   "language": null,
+   "section": "Big Nights",
+   "sections": [
+    "Big Nights"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-03",
+     "time": "21:00",
+     "venue": "Marin Country Mart"
+    }
+   ],
+   "logline": "Join us in celebrating the Opening of the 47th Mill Valley Film Festival!",
+   "url": "https://www.mvff.com/program/mvff47-opening-night-gala/",
+   "slug": "mvff47-opening-night-gala",
+   "child_ids": [],
+   "id": 34983
+  },
+  {
+   "title": "Familiar Touch & Creative Aging Workshop",
+   "original_title": null,
+   "directors": [],
+   "countries": [],
+   "film_year": 0,
+   "runtime_min": 0,
+   "language": null,
+   "section": "Behind the Screens",
+   "sections": [
+    "Behind the Screens"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": "Event",
+   "shorts_program": null,
+   "guests": [
+    "SARAH FRIEDLAND: Director, Familiar Touch"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-07",
+     "time": "17:30",
+     "venue": "Outdoor Art Club"
+    }
+   ],
+   "logline": "Join filmmaker Sarah Friedland ( Familiar Touch 2024) and lead actress Kathleen Ann Chalfant for a Creative Aging Workshop for older adults, care persons and their families. The filmmaking team will walk you through making your own short film.",
+   "url": "https://www.mvff.com/program/familiar-touch-creative-aging-workshop/",
+   "slug": "familiar-touch-creative-aging-workshop",
+   "child_ids": [],
+   "id": 34826
+  },
+  {
+   "title": "There Can Only Be One...",
+   "original_title": null,
+   "directors": [
+    "Britney Fan"
+   ],
+   "countries": [],
+   "film_year": 0,
+   "runtime_min": 0,
+   "language": null,
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "BRITNEY FAN: Director"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-10",
+     "time": "20:30",
+     "venue": "Rafael 3"
+    },
+    {
+     "date": "2024-10-11",
+     "time": "15:00",
+     "venue": "Rafael 3"
+    }
+   ],
+   "logline": "A chaotic battle ensues between a cat and a girlfriend in order to compete for the love and attention from the oblivious boyfriend.",
+   "url": "https://www.mvff.com/program/there-can-only-be-one/",
+   "slug": "there-can-only-be-one",
+   "child_ids": [],
+   "id": 34703
+  },
+  {
+   "title": "PANEL: STATE OF THE INDUSTRY",
+   "original_title": null,
+   "directors": [],
+   "countries": [],
+   "film_year": 0,
+   "runtime_min": 0,
+   "language": null,
+   "section": "Behind the Screens",
+   "sections": [
+    "Behind the Screens"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": "Event",
+   "shorts_program": null,
+   "guests": [
+    "ALBERT BERGER: Producer (Election, Cold Mountain, Little Miss Sunshine, Nebraska)",
+    "PETER BAXTER: Co-Founder, Slamdance",
+    "JALENA KEANE-LEE: Director, Standing Above the Clouds ",
+    "MARK FISHKIN: Moderator | California Film Institute Executive Director"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-12",
+     "time": "11:30",
+     "venue": "Outdoor Art Club"
+    }
+   ],
+   "logline": "Audience enthusiasm energizes a resurgent independent film world",
+   "url": "https://www.mvff.com/program/panel-state-of-the-industry/",
+   "slug": "panel-state-of-the-industry",
+   "child_ids": [],
+   "id": 34699
+  },
+  {
+   "title": "The Chihuahua Shake",
+   "original_title": null,
+   "directors": [
+    "Chase Olivera"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 13,
+   "language": "English",
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-12",
+     "time": "12:00",
+     "venue": "Sequoia 2"
+    }
+   ],
+   "logline": "A musical comedy about a famous Parisian dachshund who is tasked with painting a portrait of a crazy chihuahua who just won't stop shaking.",
+   "url": "https://www.mvff.com/program/the-chihuahua-shake/",
+   "slug": "the-chihuahua-shake",
+   "child_ids": [],
+   "id": 34562
+  },
+  {
+   "title": "Minus Daisy",
+   "original_title": null,
+   "directors": [
+    "Samuel Green"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 5,
+   "language": "English",
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-12",
+     "time": "12:00",
+     "venue": "Sequoia 2"
+    }
+   ],
+   "logline": "After his favorite stuffed animal, Daisy, is taken away by his dad, a young boy must go on a frightening nighttime journey throughout his house to get it back.",
+   "url": "https://www.mvff.com/program/minus-daisy/",
+   "slug": "minus-daisy",
+   "child_ids": [],
+   "id": 34561
+  },
+  {
+   "title": "Dreamkeeping",
+   "original_title": null,
+   "directors": [
+    "Mimi Mühle"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2023,
+   "runtime_min": 5,
+   "language": "English",
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "MIMI MÜHLE: Director"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-12",
+     "time": "12:00",
+     "venue": "Sequoia 2"
+    }
+   ],
+   "logline": "Dreams of a housekeeping room attendant come to life as she imagines what her future might hold.",
+   "url": "https://www.mvff.com/program/dreamkeeping/",
+   "slug": "dreamkeeping",
+   "child_ids": [],
+   "id": 34560
+  },
+  {
+   "title": "Five Minutes to Five Years",
+   "original_title": null,
+   "directors": [
+    "Paula Levine"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 11,
+   "language": "English",
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "PAULA LEVINE: Director",
+    "GUO YUMENG"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-10",
+     "time": "20:30",
+     "venue": "Rafael 3"
+    },
+    {
+     "date": "2024-10-11",
+     "time": "15:00",
+     "venue": "Rafael 3"
+    }
+   ],
+   "logline": "A familiar and banal space of a parking lot transforms into something unfamiliar and uncanny. What is usually the welcomed end of a day becomes a liminal space that exists somewhere between ‘before’ and ‘after.’",
+   "url": "https://www.mvff.com/program/five-minutes-to-five-years/",
+   "slug": "five-minutes-to-five-years",
+   "child_ids": [],
+   "id": 34559
+  },
+  {
+   "title": "Forever Mine",
+   "original_title": null,
+   "directors": [
+    "Isabella DeWitt"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 3,
+   "language": "English",
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "ISABELLA DEWITT: Director"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-12",
+     "time": "12:00",
+     "venue": "Sequoia 2"
+    }
+   ],
+   "logline": "Reminiscing on the memory of a past relationship.",
+   "url": "https://www.mvff.com/program/forever-mine/",
+   "slug": "forever-mine",
+   "child_ids": [],
+   "id": 34557
+  },
+  {
+   "title": "Guiding Light",
+   "original_title": null,
+   "directors": [
+    "India Anne Mitchell"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 5,
+   "language": "English",
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "INDIA ANNE MITCHELL: Director"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-12",
+     "time": "12:00",
+     "venue": "Sequoia 2"
+    }
+   ],
+   "logline": "Thirty years after an infamous kidnapping, a teen growing up in the same town brings a fresh perspective and highlights the importance of the legacy of this case to the continuing endeavor to keep children safe.",
+   "url": "https://www.mvff.com/program/guiding-light/",
+   "slug": "guiding-light",
+   "child_ids": [],
+   "id": 34556
+  },
+  {
+   "title": "Heaven in a Wild Flower",
+   "original_title": null,
+   "directors": [
+    "Jesseca Ynez Simmons"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 6,
+   "language": "English, The film is non verbal (no spoken dialogue), but there are burnt in chapter titles in English.",
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "JESSICA YNEZ SIMMONS: Director"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-10",
+     "time": "14:30",
+     "venue": "Rafael 3"
+    },
+    {
+     "date": "2024-10-11",
+     "time": "20:45",
+     "venue": "Rafael 3"
+    }
+   ],
+   "logline": "In Heaven in a Wild Flower we immerse ourselves in a lyrical exploration of the perilous consequences of pesticides on bees and their intricate ecosystem. In a mesmerizing microscopic world, science meets artistry, fraught with danger and beauty.",
+   "url": "https://www.mvff.com/program/heaven-in-a-wild-flower/",
+   "slug": "heaven-in-a-wild-flower",
+   "child_ids": [],
+   "id": 34555
+  },
+  {
+   "title": "Appa Tales: Stories From My Grandfather",
+   "original_title": null,
+   "directors": [
+    "Noah Shin"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 5,
+   "language": "English",
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-12",
+     "time": "12:00",
+     "venue": "Sequoia 2"
+    }
+   ],
+   "logline": "My grandfather recounts stories from his childhood when he was growing up during and after the Korean War.",
+   "url": "https://www.mvff.com/program/appa-tales-stories-from-my-grandfather/",
+   "slug": "appa-tales-stories-from-my-grandfather",
+   "child_ids": [],
+   "id": 34554
+  },
+  {
+   "title": "Keep It Open",
+   "original_title": null,
+   "directors": [
+    "Lucy Teitler"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2023,
+   "runtime_min": 9,
+   "language": "English",
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "LUCY TEITLER: Director",
+    "GABRIEL DE LA CRUZ: Cinematographer"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-10",
+     "time": "20:30",
+     "venue": "Rafael 3"
+    },
+    {
+     "date": "2024-10-11",
+     "time": "15:00",
+     "venue": "Rafael 3"
+    }
+   ],
+   "logline": "A queer couple is tested when a mystery man comes to town.",
+   "url": "https://www.mvff.com/program/keep-it-open/",
+   "slug": "keep-it-open",
+   "child_ids": [],
+   "id": 34553
+  },
+  {
+   "title": "This Is a Story Without a Plan",
+   "original_title": null,
+   "directors": [
+    "Cassie Shao"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2023,
+   "runtime_min": 7,
+   "language": "English",
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-10",
+     "time": "14:30",
+     "venue": "Rafael 3"
+    },
+    {
+     "date": "2024-10-11",
+     "time": "20:45",
+     "venue": "Rafael 3"
+    }
+   ],
+   "logline": "Beautifully surreal landscape is the entrancing hook to the animated This is a Story without a Plan.",
+   "url": "https://www.mvff.com/program/this-is-a-story-without-a-plan/",
+   "slug": "this-is-a-story-without-a-plan",
+   "child_ids": [],
+   "id": 34552
+  },
+  {
+   "title": "Shorts: Sweet Dreams",
+   "original_title": null,
+   "directors": [],
+   "countries": [],
+   "film_year": 0,
+   "runtime_min": 0,
+   "language": null,
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": [],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-07",
+     "time": "21:00",
+     "venue": "Rafael 3"
+    },
+    {
+     "date": "2024-10-08",
+     "time": "14:00",
+     "venue": "Rafael 3"
+    }
+   ],
+   "logline": "“Can you hold my hands and be my guide? Clouds filled with stars cover your skies.” This documentary shorts program reflects on the value of intergenerational community, love, and activism.",
+   "url": "https://www.mvff.com/program/shorts-sweet-dreams/",
+   "slug": "shorts-sweet-dreams",
+   "child_ids": [
+    "recsigjgXYqLPokjx",
+    "recqVp787ITiViAEL",
+    "recP2rqok6a0FFJcA",
+    "recxt16Jyw3YLGk7r",
+    "recENXhCLRsrVvxdn"
+   ],
+   "id": 34375
+  },
+  {
+   "title": "Brief History of a Family",
+   "original_title": null,
+   "directors": [
+    "Jianjie Lin"
+   ],
+   "countries": [
+    "China",
+    "France",
+    "Denmark",
+    "Qatar"
+   ],
+   "film_year": 2024,
+   "runtime_min": 99,
+   "language": "Mandarin",
+   "section": "World Cinema",
+   "sections": [
+    "World Cinema"
+   ],
+   "strand": [
+    "Spirit"
+   ],
+   "initiative": null,
+   "slot": null,
+   "premiere": [
+    "West Coast"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-04",
+     "time": "15:15",
+     "venue": "Sequoia 2"
+    },
+    {
+     "date": "2024-10-11",
+     "time": "16:30",
+     "venue": "BAMPFA"
+    }
+   ],
+   "logline": "With shades of Joseph Losey’s The Servant and Bong Joon-ho’s Parasite in his scintillating directorial debut, Jianjie Lin invites us into a middle-class household in Beijing",
+   "url": "https://www.mvff.com/program/brief-history-of-a-family/",
+   "slug": "brief-history-of-a-family",
+   "child_ids": [],
+   "id": 34374
+  },
+  {
+   "title": "Standing Above the Clouds",
+   "original_title": null,
+   "directors": [
+    "Jalena Keane-Lee"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2023,
+   "runtime_min": 82,
+   "language": "English, Hawaiian",
+   "section": "Documentary",
+   "sections": [
+    "Documentary"
+   ],
+   "strand": [
+    "Grow",
+    "Heart"
+   ],
+   "initiative": [
+    "Active Cinema",
+    "Mind the Gap"
+   ],
+   "slot": null,
+   "premiere": [
+    "Bay Area"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "JALENA KEANE-LEE: Director",
+    "AMBER ESPINOSA-JONES: Producer",
+    "DIANA DIROY: Editor"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-12",
+     "time": "15:00",
+     "venue": "Rafael 1"
+    }
+   ],
+   "logline": "Up above the clouds, on the highest mountain from the seafloor, a group of native Hawaiian women fight to defend the sacred mountain of Mauna Kea from the world’s largest telescope.",
+   "url": "https://www.mvff.com/program/standing-above-the-clouds/",
+   "slug": "standing-above-the-clouds",
+   "child_ids": [],
+   "id": 34373
+  },
+  {
+   "title": "Dahomey",
+   "original_title": null,
+   "directors": [
+    "Mati Diop"
+   ],
+   "countries": [
+    "France",
+    "Senegal",
+    "Benin"
+   ],
+   "film_year": 2024,
+   "runtime_min": 68,
+   "language": "French",
+   "section": "World Cinema",
+   "sections": [
+    "World Cinema"
+   ],
+   "strand": [
+    "Create"
+   ],
+   "initiative": [
+    "Mind the Gap"
+   ],
+   "slot": null,
+   "premiere": [
+    "West Coast"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-11",
+     "time": "17:00",
+     "venue": "Rafael 2"
+    },
+    {
+     "date": "2024-10-12",
+     "time": "16:30",
+     "venue": "BAMPFA"
+    }
+   ],
+   "logline": "Brimming with insight, French-Senegalese filmmaker Mati Diop’s imaginative and pointed hybrid documentary depicts the story of 26 antiquities returned to Benin by France, the country’s former colonizer.",
+   "url": "https://www.mvff.com/program/dahomey/",
+   "slug": "dahomey",
+   "child_ids": [],
+   "id": 34372
+  },
+  {
+   "title": "Pimpinero: Blood and Oil",
+   "original_title": null,
+   "directors": [
+    "Andrés Baiz"
+   ],
+   "countries": [
+    "Colombia"
+   ],
+   "film_year": 2024,
+   "runtime_min": 132,
+   "language": null,
+   "section": "World Cinema",
+   "sections": [
+    "World Cinema"
+   ],
+   "strand": null,
+   "initiative": [
+    "!Viva el Cine!"
+   ],
+   "slot": null,
+   "premiere": [
+    "US"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-08",
+     "time": "15:00",
+     "venue": "Sequoia 1"
+    },
+    {
+     "date": "2024-10-11",
+     "time": "19:00",
+     "venue": "The Lark Theater"
+    }
+   ],
+   "logline": "In Andrés Baiz’s drama, a young smuggler's world unravels amidst a deadly rivalry on the Colombia-Venezuela border. With gripping performances and stunning visuals, this electrifying thriller explores betrayal, greed, and survival in a lawless land.",
+   "url": "https://www.mvff.com/program/pimpinero-blood-and-oil/",
+   "slug": "pimpinero-blood-and-oil",
+   "child_ids": [],
+   "id": 34371
+  },
+  {
+   "title": "Good Men",
+   "original_title": null,
+   "directors": [
+    "Bobby Roth"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 90,
+   "language": "English",
+   "section": "Documentary",
+   "sections": [
+    "Documentary"
+   ],
+   "strand": [
+    "Spirit"
+   ],
+   "initiative": null,
+   "slot": null,
+   "premiere": [
+    "World"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "BOBBY ROTH: Director, Producer",
+    "JESSE KANE: Producer"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-04",
+     "time": "16:00",
+     "venue": "Rafael 2"
+    },
+    {
+     "date": "2024-10-06",
+     "time": "19:30",
+     "venue": "Rafael 3"
+    }
+   ],
+   "logline": "Filmmaker Bobby Roth embarks on a thought-provoking journey seeking candid answers to questions on masculinity, femininity, and whether we have the power to change.",
+   "url": "https://www.mvff.com/program/good-men/",
+   "slug": "good-men",
+   "child_ids": [],
+   "id": 34370
+  },
+  {
+   "title": "The Legend In Me",
+   "original_title": null,
+   "directors": [
+    "Calvin Hwang"
+   ],
+   "countries": [
+    "Canada"
+   ],
+   "film_year": 2024,
+   "runtime_min": 83,
+   "language": "English",
+   "section": "Documentary",
+   "sections": [
+    "Documentary"
+   ],
+   "strand": null,
+   "initiative": [
+    "Mind the Gap"
+   ],
+   "slot": null,
+   "premiere": [],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "CALVIN HWANG: Director",
+    "LIONEL CONACHER: Producer",
+    "CHAS CONACHER: Producer"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-08",
+     "time": "17:15",
+     "venue": "Rafael 3"
+    },
+    {
+     "date": "2024-10-13",
+     "time": "13:00",
+     "venue": "Rafael 3"
+    }
+   ],
+   "logline": "A 20th-century Canadian sports legend, Lionel Conacher begat a line of other star-athlete descendants. But in this simultaneously nostalgic and forward-looking documentary, their 21st-century progeny explores the very different fields of non-binary queer identity.",
+   "url": "https://www.mvff.com/program/the-legend-in-me/",
+   "slug": "the-legend-in-me",
+   "child_ids": [],
+   "id": 34369
+  },
+  {
+   "title": "Everybody Loves Touda",
+   "original_title": null,
+   "directors": [
+    "Nabil Ayouch"
+   ],
+   "countries": [
+    "France",
+    "Morocco",
+    "Belgium",
+    "Denmark",
+    "Netherlands"
+   ],
+   "film_year": 2024,
+   "runtime_min": 102,
+   "language": "Arabic",
+   "section": "World Cinema",
+   "sections": [
+    "World Cinema"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": [
+    "US"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "NISRIN ERRADI: Actor"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-06",
+     "time": "19:00",
+     "venue": "The Lark Theater"
+    },
+    {
+     "date": "2024-10-08",
+     "time": "16:00",
+     "venue": "Sequoia 2"
+    }
+   ],
+   "logline": "A woman (a dazzling Nisrin Erradi) pursues her dream of becoming a singer of traditional Aita with the same fierceness as the Bedouins who came before her, facing her modern-day obstacles with an exuberance equaled by her songs.",
+   "url": "https://www.mvff.com/program/everybody-loves-touda/",
+   "slug": "everybody-loves-touda",
+   "child_ids": [],
+   "id": 34368
+  },
+  {
+   "title": "Fools' Paradise (lost?)",
+   "original_title": null,
+   "directors": [
+    "Alexandra Lexton"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 138,
+   "language": "English",
+   "section": "Documentary",
+   "sections": [
+    "Documentary"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": [
+    "World"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "ALEXANDRA LEXTON: Director",
+    "LINDA PECKHAM: Co-Producer/Editor"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-12",
+     "time": "17:00",
+     "venue": "Sequoia 1"
+    }
+   ],
+   "logline": "An ailing planet is very much tied to human beings’ own ills, physical and psychological. Filmmaker Alexandra Lexton’s scenic documentary probes that connection via the stories of individuals from her own backyard to the Tanzanian outback.",
+   "url": "https://www.mvff.com/program/fools-paradise-lost/",
+   "slug": "fools-paradise-lost",
+   "child_ids": [],
+   "id": 34367
+  },
+  {
+   "title": "Milonga",
+   "original_title": null,
+   "directors": [
+    "Laura González"
+   ],
+   "countries": [
+    "Uruguay",
+    "Argentina"
+   ],
+   "film_year": 2023,
+   "runtime_min": 106,
+   "language": "Spanish",
+   "section": "World Cinema",
+   "sections": [
+    "World Cinema"
+   ],
+   "strand": null,
+   "initiative": [
+    "Mind the Gap",
+    "!Viva el Cine!"
+   ],
+   "slot": null,
+   "premiere": [
+    "West Coast"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "LAURA GONZÁLEZ: Director, Producer"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-09",
+     "time": "19:00",
+     "venue": "Rafael 2"
+    },
+    {
+     "date": "2024-10-10",
+     "time": "19:00",
+     "venue": "BAMPFA"
+    }
+   ],
+   "logline": "Middle-aged widow Rosa lives a quiet life dominated by the ghosts of her long ago marriage. As she makes a new life for herself, jarring revelations force her to face facts about her past and who she is today.",
+   "url": "https://www.mvff.com/program/milonga/",
+   "slug": "milonga",
+   "child_ids": [],
+   "id": 34366
+  },
+  {
+   "title": "Thelma's Perfect Birthday",
+   "original_title": null,
+   "directors": [
+    "Reinis Kalnaellis"
+   ],
+   "countries": [
+    "Latvia"
+   ],
+   "film_year": 0,
+   "runtime_min": 71,
+   "language": null,
+   "section": "Family Films",
+   "sections": [
+    "Family Films"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": [
+    "World"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-06",
+     "time": "11:00",
+     "venue": "The Lark Theater"
+    }
+   ],
+   "logline": "Thelma, an adventuresome penguin, is four and soon she’ll turn five – she hopes. What if she’s not home when her Birthday arrives? Reinis Kalnaellis brings to life a beautifully animated tale of self-acceptance, friendship and the meaning of growing up.",
+   "url": "https://www.mvff.com/program/thelmas-perfect-birthday/",
+   "slug": "thelmas-perfect-birthday",
+   "child_ids": [],
+   "id": 34365
+  },
+  {
+   "title": "Anora",
+   "original_title": null,
+   "directors": [
+    "Sean Baker"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 138,
+   "language": "English, English and Russian with English subtitles",
+   "section": "US Cinema, Big Nights",
+   "sections": [
+    "US Cinema",
+    "Big Nights"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": [
+    "Bay Area"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "MIKEY MADISON: Actress ",
+    "SEAN BAKER: Director"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-04",
+     "time": "18:00",
+     "venue": "Sequoia 2"
+    },
+    {
+     "date": "2024-10-04",
+     "time": "19:30",
+     "venue": "Sequoia 1"
+    }
+   ],
+   "logline": "MVFF47 honoree Mikey Madison’s breakthrough performance as a sex worker who impulsively marries a Russian oligarch’s son powers Sean Baker’s latest indie marvel, Cannes’ Palme d’Or winner.",
+   "url": "https://www.mvff.com/program/anora/",
+   "slug": "anora",
+   "child_ids": [],
+   "id": 34364
+  },
+  {
+   "title": "Waves",
+   "original_title": null,
+   "directors": [
+    "Jirí Mádl"
+   ],
+   "countries": [
+    "Czech Republic",
+    "Slovakia"
+   ],
+   "film_year": 2024,
+   "runtime_min": 131,
+   "language": null,
+   "section": "World Cinema",
+   "sections": [
+    "World Cinema"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": [
+    "West Coast"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-05",
+     "time": "13:15",
+     "venue": "Rafael 2"
+    },
+    {
+     "date": "2024-10-08",
+     "time": "16:30",
+     "venue": "Rafael 1"
+    }
+   ],
+   "logline": "Set during the heady days of the 1968 Prague Spring and the subsequent Warsaw Pact invasion of Czechoslovakia, this thriller blending fact and fiction is a gripping ode to press freedom and a timely reminder of the dangers of censorship.",
+   "url": "https://www.mvff.com/program/waves/",
+   "slug": "waves",
+   "child_ids": [],
+   "id": 34363
+  },
+  {
+   "title": "To Kill A Wolf",
+   "original_title": null,
+   "directors": [
+    "Kelsey Taylor"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2023,
+   "runtime_min": 91,
+   "language": "English",
+   "section": "US Cinema",
+   "sections": [
+    "US Cinema"
+   ],
+   "strand": null,
+   "initiative": [
+    "Mind the Gap"
+   ],
+   "slot": null,
+   "premiere": [
+    "US"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "KELSEY TAYLOR: Director",
+    "ADAM LEE: Producer/ Cinematographer"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-08",
+     "time": "19:30",
+     "venue": "Rafael 2"
+    },
+    {
+     "date": "2024-10-09",
+     "time": "18:00",
+     "venue": "Rafael 3"
+    }
+   ],
+   "logline": "Stunning shots of a forest and a haunting soundtrack set the stage for this contemporary riff on Little Red Riding Hood. First-time feature writer-director Kelsey Taylor explores what might have inspired the original fairy tale.",
+   "url": "https://www.mvff.com/program/to-kill-a-wolf/",
+   "slug": "to-kill-a-wolf",
+   "child_ids": [],
+   "id": 34362
+  },
+  {
+   "title": "BAY AREA COMMUNITY MIXER: THE FUTURE OF FILMMAKING IN THE BAY AREA",
+   "original_title": null,
+   "directors": [],
+   "countries": [],
+   "film_year": 0,
+   "runtime_min": 0,
+   "language": null,
+   "section": "Behind the Screens",
+   "sections": [
+    "Behind the Screens"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "BIANCA BEYROUTI: Independent Filmmaker & Producer",
+    "NIEMA JORDAN: Award Winning Filmmaker, Writer and Speaker & Co-Director of Cinemama",
+    "GRACE PORRAS: Emmy Winning Producer, Co-Director #MakeItBay",
+    "DAWN VALADEZ: Filmmaker & Director of Youth & Artist Development at BAVC Media",
+    "OSINACHI IBE: Moderator  |  Programmer and Mind the Gap Manager "
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-12",
+     "time": "16:00",
+     "venue": "Outdoor Art Club"
+    }
+   ],
+   "logline": "Join us for an afternoon of connection and conversation with filmmakers and film lovers from across the Bay Area!",
+   "url": "https://www.mvff.com/program/bay-area-community-mixer-the-future-of-filmmaking-in-the-bay-area/",
+   "slug": "bay-area-community-mixer-the-future-of-filmmaking-in-the-bay-area",
+   "child_ids": [],
+   "id": 34874
+  },
+  {
+   "title": "Queer",
+   "original_title": null,
+   "directors": [
+    "Luca Guadagnino"
+   ],
+   "countries": [
+    "Italy",
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 135,
+   "language": "English",
+   "section": "World Cinema",
+   "sections": [
+    "World Cinema"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": [
+    "West Coast"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-09",
+     "time": "17:00",
+     "venue": "Sequoia 1"
+    }
+   ],
+   "logline": "Daniel Craig ( Glass Onion , MVFF45) is magnificent in Luca Guadagnino’s audacious, erotic, hallucinogenic take on Beat legend William S. Burroughs’ autobiographical novel set on the seedy side of 1950s Mexico City.",
+   "url": "https://www.mvff.com/program/queer/",
+   "slug": "queer",
+   "child_ids": [],
+   "id": 34720
+  },
+  {
+   "title": "ÁHKUIN",
+   "original_title": null,
+   "directors": [
+    "Radio-Jus Sunná / Sunná Nousuniemi",
+    "Guhtur Niillas Rita Duomis / Tuomas Kumpulaine"
+   ],
+   "countries": [
+    "Finland"
+   ],
+   "film_year": 2024,
+   "runtime_min": 19,
+   "language": "Northern Sámi",
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-08",
+     "time": "20:30",
+     "venue": "Rafael 3"
+    }
+   ],
+   "logline": "Three generations of women in a Sámi family have connected over time through practicing joik —a Sámi oral tradition that combines music and storytelling.",
+   "url": "https://www.mvff.com/program/hkuin/",
+   "slug": "hkuin",
+   "child_ids": [],
+   "id": 34594
+  },
+  {
+   "title": "Bickering",
+   "original_title": null,
+   "directors": [
+    "Gabrielle Hanson Chong"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 1,
+   "language": "English",
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "GABRIELLE HANSON CHONG: Director"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-12",
+     "time": "12:00",
+     "venue": "Sequoia 2"
+    },
+    {
+     "date": "2024-10-10",
+     "time": "18:00",
+     "venue": "Sequoia 2"
+    }
+   ],
+   "logline": "Best friends Harriet and Priscilla argue over a small misunderstanding.",
+   "url": "https://www.mvff.com/program/bickering/",
+   "slug": "bickering",
+   "child_ids": [],
+   "id": 34551
+  },
+  {
+   "title": "The Alien",
+   "original_title": null,
+   "directors": [
+    "Maxwell Warner"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 9,
+   "language": "English",
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "MAXWELL WARNER: Director",
+    "ALICE WILSON: Producer"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-12",
+     "time": "12:00",
+     "venue": "Sequoia 2"
+    }
+   ],
+   "logline": "17-year-old Jesse tries his best to avoid going to a New Year's Eve party, as many obstacles get in his way.",
+   "url": "https://www.mvff.com/program/the-alien/",
+   "slug": "the-alien",
+   "child_ids": [],
+   "id": 34550
+  },
+  {
+   "title": "Sunchong",
+   "original_title": null,
+   "directors": [
+    "Yoontaek Hong"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 13,
+   "language": "Korean",
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "YOOKTAEK HONG: Director",
+    "SUNGBIN MOON: Producer"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-07",
+     "time": "21:00",
+     "venue": "Rafael 3"
+    },
+    {
+     "date": "2024-10-08",
+     "time": "14:00",
+     "venue": "Rafael 3"
+    }
+   ],
+   "logline": "An 89-year-old Korean immigrant who volunteers at a senior center reflects on his life’s journey with his beloved wife.",
+   "url": "https://www.mvff.com/program/sunchong/",
+   "slug": "sunchong",
+   "child_ids": [],
+   "id": 34549
+  },
+  {
+   "title": "The Crow and the Squirrel",
+   "original_title": null,
+   "directors": [
+    "Guillermo Gomez"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2018,
+   "runtime_min": 4,
+   "language": null,
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": [
+    "!Viva el Cine!"
+   ],
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "GUILLERMO GOMEZ: Director"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-05",
+     "time": "11:00",
+     "venue": "Sequoia 2"
+    },
+    {
+     "date": "2024-10-12",
+     "time": "11:00",
+     "venue": "The Lark Theater"
+    }
+   ],
+   "logline": "The Crow and the Squirrel provides a beautiful lesson in communication and compassion. “El cuervo y la ardilla” ofrece una hermosa lección de comunicación y compasión.",
+   "url": "https://www.mvff.com/program/the-crow-and-the-squirrel/",
+   "slug": "the-crow-and-the-squirrel",
+   "child_ids": [],
+   "id": 34548
+  },
+  {
+   "title": "The Anchor and the Kite",
+   "original_title": null,
+   "directors": [
+    "Jeff O'Brien Myers",
+    "Forest Blakk"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 2,
+   "language": "English",
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "JEFF O'BRIEN MYERS: Director"
+   ],
+   "screenings": [],
+   "logline": "The Anchor is bound to the ground by the weight of his cumbersome existence. The Kite is vibrant and brave but has little control over her path in life. A glimmer in the distance leads to a life-changing encounter between the two.",
+   "url": "https://www.mvff.com/program/the-anchor-and-the-kite/",
+   "slug": "the-anchor-and-the-kite",
+   "child_ids": [],
+   "id": 34547
+  },
+  {
+   "title": "The Captives",
+   "original_title": null,
+   "directors": [
+    "Talia Light Rake"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 13,
+   "language": "English",
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "TALIA LIGHT RAKE: Director",
+    "CLAIRE HAMSPEY: Writer"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-07",
+     "time": "15:00",
+     "venue": "Rafael 3"
+    },
+    {
+     "date": "2024-10-09",
+     "time": "21:00",
+     "venue": "Rafael 3"
+    }
+   ],
+   "logline": "When her mother gives Jolie an ultimatum, she is suddenly forced to face who she is and who she ultimately wants to become.",
+   "url": "https://www.mvff.com/program/the-captives/",
+   "slug": "the-captives",
+   "child_ids": [],
+   "id": 34546
+  },
+  {
+   "title": "The Curtains Glow At Night",
+   "original_title": null,
+   "directors": [
+    "Skye Schoenhoeft"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 13,
+   "language": "English",
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "SKYE SCHOENHOEFT: Director",
+    "ZANNA HOCKER: Producer"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-10",
+     "time": "14:30",
+     "venue": "Rafael 3"
+    },
+    {
+     "date": "2024-10-11",
+     "time": "20:45",
+     "venue": "Rafael 3"
+    }
+   ],
+   "logline": "When Wren comes home from college, they discover a ghost in their childhood bedroom.",
+   "url": "https://www.mvff.com/program/the-curtains-glow-at-night/",
+   "slug": "the-curtains-glow-at-night",
+   "child_ids": [],
+   "id": 34545
+  },
+  {
+   "title": "Llamas at the Laundromat",
+   "original_title": null,
+   "directors": [
+    "Martha Grant"
+   ],
+   "countries": [
+    "Canada"
+   ],
+   "film_year": 2023,
+   "runtime_min": 2,
+   "language": "English",
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-05",
+     "time": "11:00",
+     "venue": "Sequoia 2"
+    },
+    {
+     "date": "2024-10-12",
+     "time": "11:00",
+     "venue": "The Lark Theater"
+    }
+   ],
+   "logline": "Martha Grant’s Llamas at the Laundromat is a delightful musical starring dancing llamas in fashionable attire.",
+   "url": "https://www.mvff.com/program/llamas-at-the-laundromat/",
+   "slug": "llamas-at-the-laundromat",
+   "child_ids": [],
+   "id": 34544
+  },
+  {
+   "title": "Tayal Forest Club",
+   "original_title": null,
+   "directors": [
+    "Laha Mebow"
+   ],
+   "countries": [
+    "Taiwan"
+   ],
+   "film_year": 2024,
+   "runtime_min": 19,
+   "language": "Atayal, Mandarin",
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-08",
+     "time": "20:30",
+     "venue": "Rafael 3"
+    }
+   ],
+   "logline": "Through the help of their ancestor, two Atayal teens manage to find not only their way home but also themselves.",
+   "url": "https://www.mvff.com/program/tayal-forest-club/",
+   "slug": "tayal-forest-club",
+   "child_ids": [],
+   "id": 34543
+  },
+  {
+   "title": "Knead",
+   "original_title": null,
+   "directors": [
+    "Timothy Michael Cooper"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 11,
+   "language": "English",
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "ALICIA FISCHER: Co-Producer"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-10",
+     "time": "14:30",
+     "venue": "Rafael 3"
+    },
+    {
+     "date": "2024-10-11",
+     "time": "20:45",
+     "venue": "Rafael 3"
+    }
+   ],
+   "logline": "The arrival of aliens dovetails nicely with a dissatisfied wife's wishes.",
+   "url": "https://www.mvff.com/program/knead/",
+   "slug": "knead",
+   "child_ids": [],
+   "id": 34542
+  },
+  {
+   "title": "Killer Love",
+   "original_title": null,
+   "directors": [
+    "Jace Skinnell"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 7,
+   "language": null,
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "VIENNA SKINNELL: Writer/Director",
+    "JOAQUIN FOSTER: Producer/Actor",
+    "TED MILLER: Cinematographer"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-12",
+     "time": "12:00",
+     "venue": "Sequoia 2"
+    }
+   ],
+   "logline": "Cupid with a knife.",
+   "url": "https://www.mvff.com/program/killer-love/",
+   "slug": "killer-love",
+   "child_ids": [],
+   "id": 34541
+  },
+  {
+   "title": "Ma ŋaye ka Masaala a se ka Wɔmɛti (From God to Man)",
+   "original_title": null,
+   "directors": [
+    "Lansana Mansaray"
+   ],
+   "countries": [
+    "Sierra Leone"
+   ],
+   "film_year": 2024,
+   "runtime_min": 15,
+   "language": "Limba, Krio",
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-08",
+     "time": "20:30",
+     "venue": "Rafael 3"
+    }
+   ],
+   "logline": "Filmmaker Lansana Mansaray documents his return home.",
+   "url": "https://www.mvff.com/program/ma-aye-ka-masaala-a-se-ka-w-m-ti-from-god-to-man/",
+   "slug": "ma-aye-ka-masaala-a-se-ka-w-m-ti-from-god-to-man",
+   "child_ids": [],
+   "id": 34540
+  },
+  {
+   "title": "Crab Claw",
+   "original_title": null,
+   "directors": [
+    "Steve Sanders"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 9,
+   "language": "English",
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "STEVE SANDERS: Director",
+    "SARAH YOAKLEY: Producer"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-10",
+     "time": "20:30",
+     "venue": "Rafael 3"
+    },
+    {
+     "date": "2024-10-11",
+     "time": "15:00",
+     "venue": "Rafael 3"
+    }
+   ],
+   "logline": "Crab Claw features an incredibly awkward marriage counseling session.",
+   "url": "https://www.mvff.com/program/crab-claw/",
+   "slug": "crab-claw",
+   "child_ids": [],
+   "id": 34539
+  },
+  {
+   "title": "We Ride for Her",
+   "original_title": null,
+   "directors": [
+    "Prairie Rose Seminole",
+    "Katrina Lillian Sorrentino"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2023,
+   "runtime_min": 17,
+   "language": "English",
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-07",
+     "time": "21:00",
+     "venue": "Rafael 3"
+    },
+    {
+     "date": "2024-10-08",
+     "time": "14:00",
+     "venue": "Rafael 3"
+    }
+   ],
+   "logline": "An Indigenous women’s motorcycle group rides to end the crisis of Missing and Murdered Indigenous Women while a member of their community searches for a missing sister.",
+   "url": "https://www.mvff.com/program/we-ride-for-her/",
+   "slug": "we-ride-for-her",
+   "child_ids": [],
+   "id": 34538
+  },
+  {
+   "title": "Sole Sista",
+   "original_title": null,
+   "directors": [
+    "Emerie Elise Boone"
+   ],
+   "countries": [
+    "Australia"
+   ],
+   "film_year": 2024,
+   "runtime_min": 6,
+   "language": "English",
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "EMERIE ELISE BOONE: Writer/Director",
+    "TERRYN PINDER: 1st Assistant Director"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-12",
+     "time": "12:00",
+     "venue": "Sequoia 2"
+    }
+   ],
+   "logline": "Chelsea navigates the feeling of being different as the only black girl in school.",
+   "url": "https://www.mvff.com/program/sole-sista/",
+   "slug": "sole-sista",
+   "child_ids": [],
+   "id": 34537
+  },
+  {
+   "title": "Mother",
+   "original_title": null,
+   "directors": [
+    "Meg Shutzer",
+    "Brandon Yadegari Moreno"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2023,
+   "runtime_min": 23,
+   "language": "English",
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "MEG SHUTZER: Director",
+    "BRANDON YADEGARI: Writer"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-05",
+     "time": "15:00",
+     "venue": "Rafael 3"
+    },
+    {
+     "date": "2024-10-09",
+     "time": "15:30",
+     "venue": "Rafael 3"
+    }
+   ],
+   "logline": "There hasn't been a lesbian bar in San Francisco for almost a decade. Malia Spanyol, a self-identified dyke, sets out to build one for the next generation of women and femmes.",
+   "url": "https://www.mvff.com/program/mother/",
+   "slug": "mother",
+   "child_ids": [],
+   "id": 34527
+  },
+  {
+   "title": "Democracy Noir",
+   "original_title": null,
+   "directors": [
+    "Connie Field"
+   ],
+   "countries": [
+    "US",
+    "Denmark",
+    "Germany",
+    "Hungary"
+   ],
+   "film_year": 2024,
+   "runtime_min": 90,
+   "language": "English, Hungarian",
+   "section": "Documentary",
+   "sections": [
+    "Documentary"
+   ],
+   "strand": null,
+   "initiative": [
+    "Mind the Gap"
+   ],
+   "slot": null,
+   "premiere": [
+    "US"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "CONNIE FIELD: Director",
+    "PIERRE DIVENYI: Associate Producer"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-11",
+     "time": "19:30",
+     "venue": "Rafael 2"
+    },
+    {
+     "date": "2024-10-12",
+     "time": "13:30",
+     "venue": "BAMPFA"
+    }
+   ],
+   "logline": "A political thriller, character drama, and clarion call to action, this riveting documentary portraying resistance to Hungary’s authoritarian ruler Viktor Orbán is perfectly relevant for this political moment.",
+   "url": "https://www.mvff.com/program/democracy-noir/",
+   "slug": "democracy-noir",
+   "child_ids": [],
+   "id": 34361
+  },
+  {
+   "title": "The Piano Lesson",
+   "original_title": null,
+   "directors": [
+    "Malcolm Washington"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 125,
+   "language": null,
+   "section": "US Cinema, Big Nights",
+   "sections": [
+    "US Cinema",
+    "Big Nights"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": [
+    "West Coast"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "DANIELLE DEADWYLER",
+    "MALCOLM WASHINGTON: Director"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-10",
+     "time": "14:45",
+     "venue": "Sequoia 2"
+    },
+    {
+     "date": "2024-10-06",
+     "time": "18:30",
+     "venue": "Sequoia 2"
+    }
+   ],
+   "logline": "John David Washington and Danielle Deadwyler deliver striking performances as a Depression-era brother and sister fighting over what is to become of their family’s heirloom piano in Malcolm Washington’s memorable directing debut, a searing adaptation of August Wilson’s play,",
+   "url": "https://www.mvff.com/program/the-piano-lesson/",
+   "slug": "the-piano-lesson",
+   "child_ids": [],
+   "id": 34360
+  },
+  {
+   "title": "Griffin In Summer",
+   "original_title": null,
+   "directors": [
+    "Nicholas Colia"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 90,
+   "language": null,
+   "section": "US Cinema",
+   "sections": [
+    "US Cinema"
+   ],
+   "strand": [
+    "Create"
+   ],
+   "initiative": null,
+   "slot": null,
+   "premiere": [
+    "West Coast"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "NICHOLAS COLIA: Director"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-04",
+     "time": "18:00",
+     "venue": "Rafael 3"
+    },
+    {
+     "date": "2024-10-12",
+     "time": "13:30",
+     "venue": "Rafael 2"
+    }
+   ],
+   "logline": "Summer. Suburbia. Everyone is out having fun…except our 14-year-old hero, who in his pretentious precocity aims to write and stage the Great American Stage Drama. Even he gets distracted, however, once mom hires a hunky young handyman.",
+   "url": "https://www.mvff.com/program/griffin-in-summer/",
+   "slug": "griffin-in-summer",
+   "child_ids": [],
+   "id": 34359
+  },
+  {
+   "title": "Windcatcher",
+   "original_title": null,
+   "directors": [
+    "Tanith Glynn-Maloney"
+   ],
+   "countries": [
+    "Australia"
+   ],
+   "film_year": 2024,
+   "runtime_min": 80,
+   "language": null,
+   "section": "Family Films",
+   "sections": [
+    "Family Films"
+   ],
+   "strand": [
+    "Spirit"
+   ],
+   "initiative": [
+    "Mind the Gap"
+   ],
+   "slot": null,
+   "premiere": [
+    "North American"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-12",
+     "time": "11:30",
+     "venue": "Rafael 1"
+    },
+    {
+     "date": "2024-10-13",
+     "time": "12:00",
+     "venue": "Rafael 2"
+    }
+   ],
+   "logline": "Percy Boy may be the fastest runner in school, but he’s always late to class. The Aboriginal boy has few allies except new kid Keithy, and Daisy, the scariest girl around. Tanith Glynn-Maloney’s debut feature celebrates family, friendship, and heritage.",
+   "url": "https://www.mvff.com/program/windcatcher/",
+   "slug": "windcatcher",
+   "child_ids": [],
+   "id": 34358
+  },
+  {
+   "title": "Eastern Western",
+   "original_title": null,
+   "directors": [
+    "Biliana Grozdanova",
+    "Marina Grozdanova"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 108,
+   "language": "English",
+   "section": "US Cinema",
+   "sections": [
+    "US Cinema"
+   ],
+   "strand": [
+    "Spirit"
+   ],
+   "initiative": [
+    "Mind the Gap"
+   ],
+   "slot": null,
+   "premiere": [
+    "World"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "BILIANA GROZDANOVA: Director",
+    "MARINA GROZDANOVA: Director"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-05",
+     "time": "19:30",
+     "venue": "Rafael 3"
+    },
+    {
+     "date": "2024-10-06",
+     "time": "12:00",
+     "venue": "Rafael 2"
+    }
+   ],
+   "logline": "A beautifully understated story of a son raised by two fathers, one from the European East and one the American West. Co-directors Biliana and Marina Grozdanova command the mise-en-scene with effortless elegance, in a resonant tale of friendship and resolve.",
+   "url": "https://www.mvff.com/program/eastern-western/",
+   "slug": "eastern-western",
+   "child_ids": [],
+   "id": 34357
+  },
+  {
+   "title": "My Dead Friend Zoe",
+   "original_title": null,
+   "directors": [
+    "Kyle Hausmann-Stokes"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2023,
+   "runtime_min": 101,
+   "language": "English",
+   "section": "US Cinema",
+   "sections": [
+    "US Cinema"
+   ],
+   "strand": [
+    "Heart"
+   ],
+   "initiative": null,
+   "slot": null,
+   "premiere": [
+    "Bay Area"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "KYLE HAUSMANN-STOKES: Director",
+    "PAUL SCANLAN: Producer",
+    "RAY MAIELLO: Producer"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-05",
+     "time": "19:00",
+     "venue": "Sequoia 2"
+    },
+    {
+     "date": "2024-10-06",
+     "time": "11:30",
+     "venue": "Sequoia 2"
+    }
+   ],
+   "logline": "A former US Army mechanic with PTSD (Sonequa Martin-Green) has a most unusual “best friend”—her late colleague (Natalie Morales) from a tour in Afghanistan, still a motor-mouthed constant companion despite the inconvenience of death.",
+   "url": "https://www.mvff.com/program/my-dead-friend-zoe/",
+   "slug": "my-dead-friend-zoe",
+   "child_ids": [],
+   "id": 34356
+  },
+  {
+   "title": "Oceania: Journey to the Center",
+   "original_title": null,
+   "directors": [
+    "Natalie Zimmerman"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 75,
+   "language": "English, I-Kiribati ",
+   "section": "Documentary",
+   "sections": [
+    "Documentary"
+   ],
+   "strand": [
+    "Grow"
+   ],
+   "initiative": [
+    "Active Cinema",
+    "Mind the Gap"
+   ],
+   "slot": null,
+   "premiere": [
+    "World"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "NATALIE ZIMMERMAN: Director",
+    "GUETTY FELIN: Producer",
+    "ARIEL ARRECHEA: Associate Producer"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-05",
+     "time": "13:00",
+     "venue": "Sequoia 1"
+    },
+    {
+     "date": "2024-10-06",
+     "time": "15:30",
+     "venue": "BAMPFA"
+    }
+   ],
+   "logline": "The brutal impact of climate change drives Bay Area filmmaker Natalie Zimmerman's intense documentary. Focused on the Pacific Island nation of Kiribati, the film weaves breathtaking natural footage with the struggles of people navigating an environment that is slipping away.",
+   "url": "https://www.mvff.com/program/oceania-journey-to-the-center/",
+   "slug": "oceania-journey-to-the-center",
+   "child_ids": [],
+   "id": 34355
+  },
+  {
+   "title": "Billy Preston: That’s The Way God Planned It",
+   "original_title": null,
+   "directors": [
+    "Paris Barclay"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 105,
+   "language": "English",
+   "section": "Documentary",
+   "sections": [
+    "Documentary"
+   ],
+   "strand": [
+    "Heart"
+   ],
+   "initiative": null,
+   "slot": null,
+   "premiere": [
+    "West Coast"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "STEPHANIE ALLAIN: Producer",
+    "JEANNE ELFANT: Producer"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-06",
+     "time": "19:00",
+     "venue": "Rafael 1"
+    },
+    {
+     "date": "2024-10-07",
+     "time": "19:30",
+     "venue": "Sequoia 1"
+    }
+   ],
+   "logline": "This riveting documentary examines Billy Preston’s extraordinary career and life and pays soulful homage to the musical genius who blazed through the 1960s-‘70s music scene like a supernova.",
+   "url": "https://www.mvff.com/program/billy-preston-that-s-the-way-god-planned-it/",
+   "slug": "billy-preston-that-s-the-way-god-planned-it",
+   "child_ids": [],
+   "id": 34354
+  },
+  {
+   "title": "Saturday Night",
+   "original_title": null,
+   "directors": [
+    "Jason Reitman"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 109,
+   "language": null,
+   "section": "US Cinema",
+   "sections": [
+    "US Cinema"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": [],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-05",
+     "time": "21:00",
+     "venue": "Sequoia 1"
+    },
+    {
+     "date": "2024-10-06",
+     "time": "11:00",
+     "venue": "Rafael 1"
+    }
+   ],
+   "logline": "10pm. If Lorne Michaels can’t pull everything together by 11:30pm, his career ends before it’s begun. Jason Reitman delivers a delirious vision of the moments leading up to Chevy Chase’s first proclamation, “Live from New York, it’s Saturday Night!”",
+   "url": "https://www.mvff.com/program/saturday-night/",
+   "slug": "saturday-night",
+   "child_ids": [],
+   "id": 34353
+  },
+  {
+   "title": "Malu",
+   "original_title": null,
+   "directors": [
+    "Pedro Freire"
+   ],
+   "countries": [
+    "Brazil"
+   ],
+   "film_year": 2024,
+   "runtime_min": 101,
+   "language": "Portuguese",
+   "section": "World Cinema",
+   "sections": [
+    "World Cinema"
+   ],
+   "strand": [
+    "Spirit"
+   ],
+   "initiative": [
+    "!Viva el Cine!"
+   ],
+   "slot": null,
+   "premiere": [
+    "California"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-12",
+     "time": "19:00",
+     "venue": "Rafael 2"
+    },
+    {
+     "date": "2024-10-13",
+     "time": "18:30",
+     "venue": "The Lark Theater"
+    }
+   ],
+   "logline": "A former actress battles her troubled past, strained family ties, and lingering scars from Brazil's political turmoil. This powerful drama, rich in emotion and resilience, offers a raw and moving portrait of three women bound by generational trauma.",
+   "url": "https://www.mvff.com/program/malu/",
+   "slug": "malu",
+   "child_ids": [],
+   "id": 34352
+  },
+  {
+   "title": "Bring Them Home/Aiskótáhkapiyaaya",
+   "original_title": null,
+   "directors": [
+    "Ivan MacDonald",
+    "Ivy MacDonald",
+    "Daniel Glick"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 85,
+   "language": "English",
+   "section": "Documentary",
+   "sections": [
+    "Documentary"
+   ],
+   "strand": [
+    "Grow"
+   ],
+   "initiative": [
+    "Active Cinema",
+    "Mind the Gap"
+   ],
+   "slot": null,
+   "premiere": [
+    "Bay Area"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "SARAH CLARKE: Producer",
+    "MELISSA GRUMHAUS: Executive Producer",
+    "NIK DEHEJIA: CEO Oakland Zoo"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-04",
+     "time": "16:15",
+     "venue": "Sequoia 1"
+    },
+    {
+     "date": "2024-10-11",
+     "time": "12:00",
+     "venue": "Sequoia 2"
+    }
+   ],
+   "logline": "Buffalo ruled the Great Plains, until hunted to near-extinction—simultaneously imperiling Native Americans who depended on them. Now Blackfoot tribes are working to return these animals to the wild.",
+   "url": "https://www.mvff.com/program/bring-them-home-aisko-ta-hkapiyaaya/",
+   "slug": "bring-them-home-aisko-ta-hkapiyaaya",
+   "child_ids": [],
+   "id": 34351
+  },
+  {
+   "title": "Shorts: Saturday Morning Cartoons",
+   "original_title": null,
+   "directors": [],
+   "countries": [],
+   "film_year": 0,
+   "runtime_min": 0,
+   "language": null,
+   "section": "Family Films",
+   "sections": [
+    "Family Films"
+   ],
+   "strand": [
+    "Laugh"
+   ],
+   "initiative": null,
+   "slot": null,
+   "premiere": [],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-05",
+     "time": "11:00",
+     "venue": "Sequoia 2"
+    },
+    {
+     "date": "2024-10-12",
+     "time": "11:00",
+     "venue": "The Lark Theater"
+    }
+   ],
+   "logline": "Who says watching Saturday morning cartoons with the family ended with the 20th century? Not us! Join us for this fun frenzy of animated wonders for kids of all ages, presented in collaboration with the Poppy Jasper International Film Festival.",
+   "url": "https://www.mvff.com/program/shorts-saturday-morning-cartoons/",
+   "slug": "shorts-saturday-morning-cartoons",
+   "child_ids": [
+    "recO5tKoMMU2ZkSIb",
+    "reckn4M1UDoRzwdKL",
+    "recKRVkfUUhzayGq9",
+    "rec2jldkfKogstWy3",
+    "rec6evglJo6ROuctx",
+    "recgWlnpxQn7qdv8o",
+    "recvD76gwdLAZAawT"
+   ],
+   "id": 34350
+  },
+  {
+   "title": "Shorts: Ring the Alarm",
+   "original_title": null,
+   "directors": [],
+   "countries": [],
+   "film_year": 0,
+   "runtime_min": 0,
+   "language": null,
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": [],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-07",
+     "time": "15:00",
+     "venue": "Rafael 3"
+    },
+    {
+     "date": "2024-10-09",
+     "time": "21:00",
+     "venue": "Rafael 3"
+    }
+   ],
+   "logline": "\"Tell me how should I feel when I know what I know.\" This international collection is a vivid exploration of families who are confronted with some very harsh truths.",
+   "url": "https://www.mvff.com/program/shorts-ring-the-alarm/",
+   "slug": "shorts-ring-the-alarm",
+   "child_ids": [
+    "recMvXJHINW6a8tor",
+    "recopmbaQu50y9iE3",
+    "rec8U8L3D3UxsbgkS",
+    "recjsCNyZRLOfFeGd"
+   ],
+   "id": 34349
+  },
+  {
+   "title": "On Becoming A Guinea Fowl",
+   "original_title": null,
+   "directors": [
+    "Rungano Nyoni"
+   ],
+   "countries": [
+    "Zambia",
+    "UK",
+    "Ireland"
+   ],
+   "film_year": 2024,
+   "runtime_min": 95,
+   "language": null,
+   "section": "World Cinema",
+   "sections": [
+    "World Cinema"
+   ],
+   "strand": null,
+   "initiative": [
+    "Mind the Gap"
+   ],
+   "slot": null,
+   "premiere": [],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-05",
+     "time": "16:30",
+     "venue": "BAMPFA"
+    },
+    {
+     "date": "2024-10-12",
+     "time": "20:00",
+     "venue": "Rafael 3"
+    }
+   ],
+   "logline": "A woman discovers the corpse of her uncle, a man who caused her considerable pain, in this darkly funny portrait of Zambia’s matriarchal society that grippingly explores the younger generation’s desire to break free from the sins of the past.",
+   "url": "https://www.mvff.com/program/on-becoming-a-guinea-fowl/",
+   "slug": "on-becoming-a-guinea-fowl",
+   "child_ids": [],
+   "id": 34348
+  },
+  {
+   "title": "The True Story of Tamara De Lempicka & The Art of Survival",
+   "original_title": null,
+   "directors": [
+    "Julie Colleen Rubio"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 96,
+   "language": "English",
+   "section": "Documentary",
+   "sections": [
+    "Documentary"
+   ],
+   "strand": null,
+   "initiative": [
+    "Mind the Gap"
+   ],
+   "slot": null,
+   "premiere": [
+    "World"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "JULIE RUBIO: Director",
+    "SVETLANA CVETKO: Co-Producer/Cinematographer",
+    "NEVA TASSAN: Co-Producer",
+    "AMY HARRISON: Co-Producer",
+    "PAULA BIRNBAUM: Cast",
+    "NANCY COUCH: Cast",
+    "MARISA DE LEMPICKA: Cast",
+    "VICTORIA DE LEMPICKA: Cast",
+    "SCOTT NIICHEL: Sothby's"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-11",
+     "time": "19:00",
+     "venue": "Sequoia 2"
+    },
+    {
+     "date": "2024-10-13",
+     "time": "14:00",
+     "venue": "The Lark Theater"
+    }
+   ],
+   "logline": "One of the defining artists of the 20th century, Tamara de Lempicka was a working mother, feminist, style icon, and bisexual libertine, who embodied Art Deco’s spirit and portrayed women in boldly erotic terms that broke the male gaze.",
+   "url": "https://www.mvff.com/program/the-true-story-of-tamara-de-lempicka-the-art-of-survival/",
+   "slug": "the-true-story-of-tamara-de-lempicka-the-art-of-survival",
+   "child_ids": [],
+   "id": 34347
+  },
+  {
+   "title": "Homegrown",
+   "original_title": null,
+   "directors": [
+    "Michael Premo"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 108,
+   "language": "English",
+   "section": "Documentary",
+   "sections": [
+    "Documentary"
+   ],
+   "strand": null,
+   "initiative": [
+    "Active Cinema"
+   ],
+   "slot": null,
+   "premiere": [
+    "West Coast"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "MICHAEL PREMO: Director, Producer",
+    "RACHEL FALCONE: Producer"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-12",
+     "time": "19:00",
+     "venue": "The Lark Theater"
+    },
+    {
+     "date": "2024-10-13",
+     "time": "13:00",
+     "venue": "BAMPFA"
+    }
+   ],
+   "logline": "Filmmaker Michael Premo follows three impassioned right-wing activists through the 2020 election, the January 6 Capitol riot, and beyond. With unexpected nuance and intimacy, he captures his protagonists’ combustible blend of delusional cosplayer, stalwart patriot, and potential threat.",
+   "url": "https://www.mvff.com/program/homegrown/",
+   "slug": "homegrown",
+   "child_ids": [],
+   "id": 34346
+  },
+  {
+   "title": "Cheech & Chong's Last Movie",
+   "original_title": null,
+   "directors": [
+    "David Bushell"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 121,
+   "language": "English",
+   "section": "Documentary",
+   "sections": [
+    "Documentary"
+   ],
+   "strand": [
+    "Laugh"
+   ],
+   "initiative": [
+    "!Viva el Cine!"
+   ],
+   "slot": null,
+   "premiere": [
+    "West Coast"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "DAVID BUSHELL: Director, Producer",
+    "ROBBI CHONG: Producer"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-04",
+     "time": "19:30",
+     "venue": "Rafael 1"
+    },
+    {
+     "date": "2024-10-09",
+     "time": "15:00",
+     "venue": "Rafael 1"
+    }
+   ],
+   "logline": "Chinese Canadian Tommy Chong and Mexican American Richard “Cheech” Marin relate the story of their decades-long partnership as one of the most successful comedy duos of all time.",
+   "url": "https://www.mvff.com/program/cheech-chongs-last-movie/",
+   "slug": "cheech-chongs-last-movie",
+   "child_ids": [],
+   "id": 34345
+  },
+  {
+   "title": "Jude Law Tribute",
+   "original_title": null,
+   "directors": [],
+   "countries": [],
+   "film_year": 0,
+   "runtime_min": 0,
+   "language": null,
+   "section": "Big Nights",
+   "sections": [
+    "Big Nights"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": [],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "JUDE LAW"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-13",
+     "time": "14:00",
+     "venue": "Rafael 1"
+    }
+   ],
+   "logline": "In the realm of cinema, few actors possess the captivating allure and versatile talent quite like Jude Law. This Tribute will revisit key moments from his remarkable and diverse career.",
+   "url": "https://www.mvff.com/program/jude-law-tribute/",
+   "slug": "jude-law-tribute",
+   "child_ids": [],
+   "id": 34344
+  },
+  {
+   "title": "Tummy Tom and the Lost Teddy Bear",
+   "original_title": "Dikkie Dik en de Verdwenen Knuffel",
+   "directors": [
+    "Joost Van Den Bosch & Erik Verkerk"
+   ],
+   "countries": [
+    "Netherlands",
+    "Belgium"
+   ],
+   "film_year": 2024,
+   "runtime_min": 62,
+   "language": "English",
+   "section": "Family Films",
+   "sections": [
+    "Family Films"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": [
+    "US"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "ERIK VERKERK: Co-Director",
+    "DIGNA VAN DER PUT: Animation Director"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-13",
+     "time": "11:00",
+     "venue": "Sequoia 1"
+    }
+   ],
+   "logline": "Tummy Tom loves to curl up for catnaps with his favorite stuffed teddy. One day, he discovers…Bear is missing! Joost Van Den Bosch and Erik Verkerk’s sing-a-long animation is an interactive delight for kids age 2 to 200 (that’s cat-years).",
+   "url": "https://www.mvff.com/program/tummy-tom-and-the-lost-teddy-bear/",
+   "slug": "tummy-tom-and-the-lost-teddy-bear",
+   "child_ids": [
+    "recNf2w53K1OTfVv7",
+    "recb9od0ZM81yTI0e"
+   ],
+   "id": 34343
+  },
+  {
+   "title": "Queens",
+   "original_title": "Reinas",
+   "directors": [
+    "Klaudia Reynicke"
+   ],
+   "countries": [
+    "Switzerland",
+    "Spain",
+    "Peru"
+   ],
+   "film_year": 2024,
+   "runtime_min": 104,
+   "language": "Spanish",
+   "section": "World Cinema",
+   "sections": [
+    "World Cinema"
+   ],
+   "strand": [
+    "Heart"
+   ],
+   "initiative": [
+    "Mind the Gap",
+    "!Viva el Cine!"
+   ],
+   "slot": null,
+   "premiere": [
+    "West Coast"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "KLAUDIA REYNICKE-CANDELORO: Director",
+    "BRITTA RINDELAUB: Producer"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-11",
+     "time": "20:00",
+     "venue": "Sequoia 1"
+    },
+    {
+     "date": "2024-10-13",
+     "time": "16:00",
+     "venue": "BAMPFA"
+    }
+   ],
+   "logline": "In 1992, amidst Lima’s political turmoil, two sisters and their mother prepare to flee Peru while their estranged father seeks reconciliation.Klaudia Reynicke’s poignant drama beautifully blends coming-of-age intimacy with powerful socio-political commentary.",
+   "url": "https://www.mvff.com/program/queens/",
+   "slug": "queens",
+   "child_ids": [],
+   "id": 34342
+  },
+  {
+   "title": "Out of My Mind",
+   "original_title": null,
+   "directors": [
+    "Amber Sealey"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 0,
+   "runtime_min": 102,
+   "language": null,
+   "section": "Family Films",
+   "sections": [
+    "Family Films"
+   ],
+   "strand": [
+    "Trailblazers"
+   ],
+   "initiative": [
+    "Mind the Gap"
+   ],
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "AMBER SEALEY: Director",
+    "JIM LEBRECHT: Guest Moderator"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-06",
+     "time": "14:45",
+     "venue": "Rafael 1"
+    },
+    {
+     "date": "2024-10-13",
+     "time": "11:00",
+     "venue": "The Lark Theater"
+    }
+   ],
+   "logline": "A sixth grader with cerebral palsy shows what she has to say is more important than how she says it.",
+   "url": "https://www.mvff.com/program/out-of-my-mind/",
+   "slug": "out-of-my-mind",
+   "child_ids": [],
+   "id": 34341
+  },
+  {
+   "title": "The Seed of The Sacred Fig",
+   "original_title": null,
+   "directors": [
+    "Mohammad Rasoulof"
+   ],
+   "countries": [
+    "Germany",
+    "France",
+    "Iran"
+   ],
+   "film_year": 2024,
+   "runtime_min": 167,
+   "language": "Farsi",
+   "section": "World Cinema",
+   "sections": [
+    "World Cinema"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": [
+    "California"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-05",
+     "time": "19:00",
+     "venue": "BAMPFA"
+    },
+    {
+     "date": "2024-10-06",
+     "time": "12:30",
+     "venue": "Sequoia 1"
+    }
+   ],
+   "logline": "A seemingly honorable man gets promoted to investigating judge—a job that requires him to sign protesters’ death warrants—in this gripping thriller that brilliantly depicts how Iran’s oppressive regime obliterates the souls of its citizens.",
+   "url": "https://www.mvff.com/program/the-seed-of-the-sacred-fig/",
+   "slug": "the-seed-of-the-sacred-fig",
+   "child_ids": [],
+   "id": 34340
+  },
+  {
+   "title": "Shorts: Freedom",
+   "original_title": null,
+   "directors": [],
+   "countries": [],
+   "film_year": 0,
+   "runtime_min": 0,
+   "language": null,
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": [
+    "Mind the Gap"
+   ],
+   "slot": null,
+   "premiere": [],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-05",
+     "time": "15:00",
+     "venue": "Rafael 3"
+    },
+    {
+     "date": "2024-10-09",
+     "time": "15:30",
+     "venue": "Rafael 3"
+    }
+   ],
+   "logline": "“I had my ups and downs, but I always find the inner strength to pull myself up.” In this shorts program, we present a collection of true-life tales about extraordinary individuals and cultural changemakers from around the world.",
+   "url": "https://www.mvff.com/program/shorts-freedom/",
+   "slug": "shorts-freedom",
+   "child_ids": [
+    "rec5DLVxdnmHIfXbs",
+    "recLSEnbEG0G69LUs",
+    "rectgeGJeRmgUgqnC",
+    "rec4YEY5cwyPy06oq"
+   ],
+   "id": 34339
+  },
+  {
+   "title": "MVFF47 CLOSING NIGHT PARTY",
+   "original_title": null,
+   "directors": [],
+   "countries": [],
+   "film_year": 0,
+   "runtime_min": 0,
+   "language": null,
+   "section": "Big Nights",
+   "sections": [
+    "Big Nights"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-13",
+     "time": "19:00",
+     "venue": "1312 Mission Avenue, San Rafael"
+    }
+   ],
+   "logline": "That's a wrap! A festive night to close out yet other amazing year of celebrating great cinema.",
+   "url": "https://www.mvff.com/program/mvff47-closing-night-party/",
+   "slug": "mvff47-closing-night-party",
+   "child_ids": [],
+   "id": 34982
+  },
+  {
+   "title": "RED BOAT CROSSING",
+   "original_title": null,
+   "directors": [
+    "Jeanne C. Finley"
+   ],
+   "countries": [],
+   "film_year": 0,
+   "runtime_min": 39,
+   "language": null,
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": [
+    "Mind the Gap"
+   ],
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "JEANNE C. FINLEY: Director",
+    "YUMENG GUO: Assistant Editor",
+    "JIM MCKEE: Sound Designer"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-10",
+     "time": "19:30",
+     "venue": "Rafael 2"
+    }
+   ],
+   "logline": "An admiring tribute to quiet heroism that’s equal parts documentary and poetic reverie.",
+   "url": "https://www.mvff.com/program/red-boat-crossing/",
+   "slug": "red-boat-crossing",
+   "child_ids": [
+    "recuVbtDUMQql0K8B"
+   ],
+   "id": 34938
+  },
+  {
+   "title": "Four Nights and a Fire",
+   "original_title": null,
+   "directors": [],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2023,
+   "runtime_min": 12,
+   "language": "English",
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "YUMENG GUO: Editor"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-08",
+     "time": "20:30",
+     "venue": "Rafael 3"
+    }
+   ],
+   "logline": "A young Ojibwe photographer stubbornly takes on the responsibility of keeping a sacred fire alive for four consecutive days and nights in mourning of his father. His father's spirit tries to reach him from the other side.",
+   "url": "https://www.mvff.com/program/four-nights-and-a-fire/",
+   "slug": "four-nights-and-a-fire",
+   "child_ids": [],
+   "id": 34789
+  },
+  {
+   "title": "PANEL: FILM TECHNOLOGY",
+   "original_title": null,
+   "directors": [],
+   "countries": [],
+   "film_year": 0,
+   "runtime_min": 0,
+   "language": null,
+   "section": "Behind the Screens",
+   "sections": [
+    "Behind the Screens"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": "Event",
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-12",
+     "time": "13:30",
+     "venue": "Outdoor Art Club"
+    }
+   ],
+   "logline": "Join us to explore how emerging technologies are transforming storytelling across film, television, experiential entertainment, and more.",
+   "url": "https://www.mvff.com/program/panel-film-technology/",
+   "slug": "panel-film-technology",
+   "child_ids": [],
+   "id": 34700
+  },
+  {
+   "title": "Practical Rabbit Hunting Strategies for the Modern Man",
+   "original_title": null,
+   "directors": [
+    "Rishan Sathiyaa"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 10,
+   "language": "English",
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "RISHAN SATHIYAA: Director",
+    "EASUN HUNG: Producer"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-12",
+     "time": "12:00",
+     "venue": "Sequoia 2"
+    }
+   ],
+   "logline": "A boy hunts a rabbit on his 18th birthday in an attempt to understand what it means to grow up.",
+   "url": "https://www.mvff.com/program/practical-rabbit-hunting-strategies-for-the-modern-man/",
+   "slug": "practical-rabbit-hunting-strategies-for-the-modern-man",
+   "child_ids": [],
+   "id": 34536
+  },
+  {
+   "title": "Sixteen",
+   "original_title": null,
+   "directors": [
+    "Naomi Iwamoto"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 13,
+   "language": "English",
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "NAOMI IWAMOTO: Director",
+    "ANEL MARAT: Actor"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-10",
+     "time": "20:30",
+     "venue": "Rafael 3"
+    },
+    {
+     "date": "2024-10-11",
+     "time": "15:00",
+     "venue": "Rafael 3"
+    }
+   ],
+   "logline": "When a Japanese American teenage girl is faced with the reality of being sent to conversion therapy, she has to choose herself or the community she was born into.",
+   "url": "https://www.mvff.com/program/sixteen/",
+   "slug": "sixteen",
+   "child_ids": [],
+   "id": 34535
+  },
+  {
+   "title": "We Would Be Freer",
+   "original_title": null,
+   "directors": [
+    "Rana Nazzal Hamadeh"
+   ],
+   "countries": [
+    "Canada",
+    "Palestine"
+   ],
+   "film_year": 2023,
+   "runtime_min": 9,
+   "language": "Arabic, English",
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-08",
+     "time": "20:30",
+     "venue": "Rafael 3"
+    }
+   ],
+   "logline": "A reflection on the connection between colonization and nature through the use of sumac by a Palestinian refugee and a woman from the Mohawk community of Kahnawá:ke.",
+   "url": "https://www.mvff.com/program/we-would-be-freer/",
+   "slug": "we-would-be-freer",
+   "child_ids": [],
+   "id": 34534
+  },
+  {
+   "title": "Not My Name",
+   "original_title": null,
+   "directors": [
+    "Juan Paulo Laserna"
+   ],
+   "countries": [
+    "Colombia"
+   ],
+   "film_year": 2024,
+   "runtime_min": 19,
+   "language": "Spanish",
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": [
+    "!Viva el Cine!"
+   ],
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "JUAN PAULO LASERNA: Director"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-07",
+     "time": "15:00",
+     "venue": "Rafael 3"
+    },
+    {
+     "date": "2024-10-09",
+     "time": "21:00",
+     "venue": "Rafael 3"
+    }
+   ],
+   "logline": "When a well off Colombian family has to travel on a violent country road to visit their ailing grandfather, their reliance on their youngest child to conceal their fake identities will expose him to the reality of war.",
+   "url": "https://www.mvff.com/program/not-my-name/",
+   "slug": "not-my-name",
+   "child_ids": [],
+   "id": 34533
+  },
+  {
+   "title": "Adventures with the Caretaker",
+   "original_title": null,
+   "directors": [
+    "Peter Gardner"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2022,
+   "runtime_min": 25,
+   "language": null,
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "PETER GARDNER: Director"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-05",
+     "time": "11:00",
+     "venue": "Sequoia 2"
+    },
+    {
+     "date": "2024-10-12",
+     "time": "11:00",
+     "venue": "The Lark Theater"
+    }
+   ],
+   "logline": "Adventures with the Caretaker features Bigfoot, the Loch Ness Monster, and the Abominable Snowman.",
+   "url": "https://www.mvff.com/program/adventures-with-the-caretaker/",
+   "slug": "adventures-with-the-caretaker",
+   "child_ids": [],
+   "id": 34532
+  },
+  {
+   "title": "Think Too Much",
+   "original_title": null,
+   "directors": [
+    "Paperface"
+   ],
+   "countries": [
+    "UK"
+   ],
+   "film_year": 2023,
+   "runtime_min": 4,
+   "language": "English",
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-05",
+     "time": "11:00",
+     "venue": "Sequoia 2"
+    },
+    {
+     "date": "2024-10-12",
+     "time": "11:00",
+     "venue": "The Lark Theater"
+    }
+   ],
+   "logline": "A musical journey through a landscape of broccoli.",
+   "url": "https://www.mvff.com/program/think-too-much/",
+   "slug": "think-too-much",
+   "child_ids": [],
+   "id": 34530
+  },
+  {
+   "title": "Exuvia",
+   "original_title": null,
+   "directors": [
+    "Scott Burkhardt"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 11,
+   "language": "English",
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "SCOTT BURKHARDT: Director",
+    "VADIM EGOUL: Producer",
+    "ANDIE TURSI: Writer"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-10",
+     "time": "20:30",
+     "venue": "Rafael 3"
+    },
+    {
+     "date": "2024-10-11",
+     "time": "15:00",
+     "venue": "Rafael 3"
+    }
+   ],
+   "logline": "Being the object of attention yields some surprising responses for a young girl.",
+   "url": "https://www.mvff.com/program/exuvia/",
+   "slug": "exuvia",
+   "child_ids": [],
+   "id": 34529
+  },
+  {
+   "title": "Alok",
+   "original_title": null,
+   "directors": [
+    "Alex Hedison"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 18,
+   "language": "English",
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "ALEX HEDISON: Director",
+    "MEGGAN LENNON: Producer"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-05",
+     "time": "15:00",
+     "venue": "Rafael 3"
+    },
+    {
+     "date": "2024-10-09",
+     "time": "15:30",
+     "venue": "Rafael 3"
+    }
+   ],
+   "logline": "This thought-provoking short documentary explores the limitless expression of self, challenges societal norms, and inspires viewers to embrace personal freedom beyond the binaries that divide us.",
+   "url": "https://www.mvff.com/program/alok/",
+   "slug": "alok",
+   "child_ids": [],
+   "id": 34526
+  },
+  {
+   "title": "Paramita",
+   "original_title": null,
+   "directors": [
+    "Kirthi Nath"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 24,
+   "language": "English",
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "KIRTHI NATH: Director",
+    "PRAJNA PARAMITA CHOUDHURY",
+    "JENNIFER CRYSTAL CHIEN"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-05",
+     "time": "15:00",
+     "venue": "Rafael 3"
+    },
+    {
+     "date": "2024-10-09",
+     "time": "15:30",
+     "venue": "Rafael 3"
+    }
+   ],
+   "logline": "Part poetry, part memoir-style reflection, and part meditation, Paramita bears witness to Prajna Paramita Choudhury’s coming out process with her traditional Bangladeshi mother.",
+   "url": "https://www.mvff.com/program/paramita/",
+   "slug": "paramita",
+   "child_ids": [],
+   "id": 34525
+  },
+  {
+   "title": "Your Monster",
+   "original_title": null,
+   "directors": [
+    "Caroline Lindy"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2023,
+   "runtime_min": 103,
+   "language": "English",
+   "section": "US Cinema",
+   "sections": [
+    "US Cinema"
+   ],
+   "strand": [
+    "Laugh"
+   ],
+   "initiative": [
+    "Mind the Gap"
+   ],
+   "slot": null,
+   "premiere": [
+    "West Coast"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "KAYLA FOSTER: Producer/Actor"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-05",
+     "time": "20:00",
+     "venue": "The Lark Theater"
+    },
+    {
+     "date": "2024-10-06",
+     "time": "15:00",
+     "venue": "Sequoia 2"
+    }
+   ],
+   "logline": "Caroline Lindy’s delightful directorial feature debut spins a dark, whimsical beauty-and-the-beast tale of comedy, romance, and musical theater as a down-on-her-luck actress meets a real-life monster lurking in her childhood closet.",
+   "url": "https://www.mvff.com/program/your-monster/",
+   "slug": "your-monster",
+   "child_ids": [],
+   "id": 34338
+  },
+  {
+   "title": "The Order",
+   "original_title": null,
+   "directors": [
+    "Justin Kurzel"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "film_year": 2024,
+   "runtime_min": 116,
+   "language": "English",
+   "section": "US Cinema",
+   "sections": [
+    "US Cinema"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": [
+    "West Coast"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-08",
+     "time": "20:00",
+     "venue": "Rafael 1"
+    }
+   ],
+   "logline": "MVFF47 honoree Jude Law delivers a resonant performance as an FBI agent battling Neo-Nazis in the Pacific Northwest in this fact-based, 1980s-set thriller where the suspense builds inexorably from its first frames to its stunning climax.",
+   "url": "https://www.mvff.com/program/the-order/",
+   "slug": "the-order",
+   "child_ids": [],
+   "id": 34337
+  },
+  {
+   "title": "Hard Truths",
+   "original_title": null,
+   "directors": [
+    "Mike Leigh"
+   ],
+   "countries": [
+    "UK",
+    "Spain"
+   ],
+   "film_year": 2024,
+   "runtime_min": 97,
+   "language": null,
+   "section": "World Cinema",
+   "sections": [
+    "World Cinema"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": [],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-07",
+     "time": "19:30",
+     "venue": "Rafael 1"
+    }
+   ],
+   "logline": "Nearly 30 years after Secrets & Lies , British auteur Mike Leigh reunites with Marianne Jean-Baptiste for this compelling drama. The actress delivers an indelible tour de force performance as an angry woman who takes out her frustrations on her family.",
+   "url": "https://www.mvff.com/program/hard-truths/",
+   "slug": "hard-truths",
+   "child_ids": [],
+   "id": 34336
+  },
+  {
+   "title": "Emilia Pérez",
+   "original_title": null,
+   "directors": [
+    "Jacques Audiard"
+   ],
+   "countries": [
+    "France"
+   ],
+   "film_year": 2024,
+   "runtime_min": 130,
+   "language": null,
+   "section": "World Cinema, Big Nights",
+   "sections": [
+    "World Cinema",
+    "Big Nights"
+   ],
+   "strand": null,
+   "initiative": [
+    "!Viva el Cine!"
+   ],
+   "slot": null,
+   "premiere": [
+    "West Coast"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "ZOE SALDAÑA",
+    "KARLA SOFIA GASCÓN",
+    "ADRIANA PAZ"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-07",
+     "time": "15:45",
+     "venue": "Sequoia 1"
+    },
+    {
+     "date": "2024-10-05",
+     "time": "19:00",
+     "venue": "Rafael 1"
+    }
+   ],
+   "logline": "In Jacques Audiard’s vibrant crime thriller-meets-musical, a ruthless cartel boss transforms into Emilia Pérez, sparking a journey of identity and power. With an electrifying ensemble cast, this bold narrative redefines the gangster genre.",
+   "url": "https://www.mvff.com/program/emilia-perez/",
+   "slug": "emilia-perez",
+   "child_ids": [],
+   "id": 34335
+  },
+  {
+   "title": "ACTIVE CINEMA HIKE",
+   "original_title": null,
+   "directors": [],
+   "countries": [],
+   "film_year": 0,
+   "runtime_min": 0,
+   "language": null,
+   "section": "Behind the Screens",
+   "sections": [
+    "Behind the Screens"
+   ],
+   "strand": null,
+   "initiative": [
+    "Active Cinema"
+   ],
+   "slot": null,
+   "premiere": null,
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [],
+   "logline": "Come and enjoy some fresh air and fresh ideas with filmmakers, friends, festival staff, and cinephiles during this hour-long hike to the ocean through beautiful terrain.",
+   "url": "https://www.mvff.com/program/active-cinema-hike/",
+   "slug": "active-cinema-hike",
+   "child_ids": [],
+   "id": 34334
+  },
+  {
+   "title": "The Book of Jobs",
+   "original_title": null,
+   "directors": [
+    "Kayci Lacob"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 90,
+   "language": "English",
+   "section": "US Cinema",
+   "sections": [
+    "US Cinema"
+   ],
+   "strand": null,
+   "initiative": [
+    "Mind the Gap"
+   ],
+   "slot": null,
+   "premiere": [
+    "World"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "KAYCI LACOB: Director"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-12",
+     "time": "15:00",
+     "venue": "The Lark Theater"
+    }
+   ],
+   "logline": "Kayci Lacob’s autobiographically inspired debut feature chronicles a Steve Jobs-worshiping Silicon Valley teen who discovers that a tech giant’s example doesn’t always provide a reliable roadmap to the problems of everyday suburban life.",
+   "url": "https://www.mvff.com/program/the-book-of-jobs/",
+   "slug": "the-book-of-jobs",
+   "child_ids": [],
+   "id": 34333
+  },
+  {
+   "title": "Unstoppable",
+   "original_title": null,
+   "directors": [
+    "William Goldenberg"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 116,
+   "language": null,
+   "section": "US Cinema, Special Screening, Big Nights",
+   "sections": [
+    "US Cinema",
+    "Special Screening",
+    "Big Nights"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": [
+    "West Coast"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "JHARREL JEROME"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-11",
+     "time": "16:00",
+     "venue": "Rafael 1"
+    },
+    {
+     "date": "2024-10-09",
+     "time": "18:30",
+     "venue": "Rafael 1"
+    }
+   ],
+   "logline": "Jharrel Jerome stars as Anthony Robles, a real-life college wrestler born with one leg whose fight against misperception is as fierce as those he wages on the mat in this electrifying underdog sports drama.",
+   "url": "https://www.mvff.com/program/unstoppable/",
+   "slug": "unstoppable",
+   "child_ids": [],
+   "id": 34332
+  },
+  {
+   "title": "The Hi De Ho Show",
+   "original_title": null,
+   "directors": [
+    "John Goddard"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 150,
+   "language": "English",
+   "section": "US Cinema",
+   "sections": [
+    "US Cinema"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": [],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-12",
+     "time": "20:30",
+     "venue": "Sequoia 1"
+    }
+   ],
+   "logline": "Expect the unexpected, as host John Goddard veejays from his personal collection oddities from space, invaders from the UK, songs that are dirty, sweet, and Rock-centric. Be prepared to have your memory tweaked and your heart opened.",
+   "url": "https://www.mvff.com/program/the-hi-de-ho-show/",
+   "slug": "the-hi-de-ho-show",
+   "child_ids": [],
+   "id": 34331
+  },
+  {
+   "title": "Borderland: The Line Within",
+   "original_title": null,
+   "directors": [
+    "Pamela Yates"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 110,
+   "language": "English, Spanish",
+   "section": "Documentary",
+   "sections": [
+    "Documentary"
+   ],
+   "strand": [
+    "Trailblazers"
+   ],
+   "initiative": [
+    "Active Cinema",
+    "Mind the Gap",
+    "!Viva el Cine!"
+   ],
+   "slot": null,
+   "premiere": [
+    "West Coast"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "PAMELA YATES: Director",
+    "PACO DE ONIS: Producer"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-09",
+     "time": "19:00",
+     "venue": "Sequoia 2"
+    },
+    {
+     "date": "2024-10-13",
+     "time": "11:00",
+     "venue": "Rafael 1"
+    }
+   ],
+   "logline": "The war on immigrants is happening. Deportation, jail, and even death are only a few of the obstacles that activists face while battling the US border/industrial complex.",
+   "url": "https://www.mvff.com/program/borderland-the-line-within/",
+   "slug": "borderland-the-line-within",
+   "child_ids": [],
+   "id": 34330
+  },
+  {
+   "title": "Chaperone",
+   "original_title": null,
+   "directors": [
+    "Zoe Eisenberg"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 102,
+   "language": "English",
+   "section": "US Cinema",
+   "sections": [
+    "US Cinema"
+   ],
+   "strand": [
+    "Spirit"
+   ],
+   "initiative": [
+    "Mind the Gap"
+   ],
+   "slot": null,
+   "premiere": [
+    "Bay Area"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "ZOE EISENBERG: Director",
+    "ALISON WEEK: Producer"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-06",
+     "time": "15:30",
+     "venue": "Rafael 2"
+    },
+    {
+     "date": "2024-10-07",
+     "time": "16:30",
+     "venue": "Rafael 2"
+    }
+   ],
+   "logline": "A high school jock mistakes a 29-year-old slacker for a fellow teen in this Slamdance Breakouts grand jury prizewinner that stars an Asian American and Pacific Islander cast.",
+   "url": "https://www.mvff.com/program/chaperone/",
+   "slug": "chaperone",
+   "child_ids": [],
+   "id": 34329
+  },
+  {
+   "title": "Familiar Touch",
+   "original_title": null,
+   "directors": [
+    "Sarah Friedland"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 85,
+   "language": "English",
+   "section": "US Cinema",
+   "sections": [
+    "US Cinema"
+   ],
+   "strand": [
+    "Spirit"
+   ],
+   "initiative": [
+    "Mind the Gap"
+   ],
+   "slot": null,
+   "premiere": [
+    "North American"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-06",
+     "time": "18:30",
+     "venue": "Rafael 2"
+    },
+    {
+     "date": "2024-10-07",
+     "time": "18:00",
+     "venue": "Rafael 3"
+    }
+   ],
+   "logline": "In Sarah Friedland’s poetic debut feature, Kathleen Chalfant stars an octogenarian struggling to hold on to her memories and identity in a refreshing depiction of aging that celebrates the persistence of self.",
+   "url": "https://www.mvff.com/program/familiar-touch/",
+   "slug": "familiar-touch",
+   "child_ids": [],
+   "id": 34328
+  },
+  {
+   "title": "Holy Cow",
+   "original_title": "Vingt Dieux",
+   "directors": [
+    "Louise Courvoisier"
+   ],
+   "countries": [
+    "France"
+   ],
+   "film_year": 2024,
+   "runtime_min": 90,
+   "language": "French",
+   "section": "World Cinema",
+   "sections": [
+    "World Cinema"
+   ],
+   "strand": [
+    "Grow",
+    "Heart"
+   ],
+   "initiative": [
+    "Mind the Gap"
+   ],
+   "slot": null,
+   "premiere": [
+    "US"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-06",
+     "time": "19:30",
+     "venue": "Sequoia 1"
+    },
+    {
+     "date": "2024-10-10",
+     "time": "15:00",
+     "venue": "Rafael 1"
+    }
+   ],
+   "logline": "A carefree teen must care for his sister and win a cheese-making competition to secure their future in this heartwarming, funny, and uplifting coming-of-age tale that captures the essence of family and friendship.",
+   "url": "https://www.mvff.com/program/holy-cow/",
+   "slug": "holy-cow",
+   "child_ids": [],
+   "id": 34327
+  },
+  {
+   "title": "Inedia",
+   "original_title": null,
+   "directors": [
+    "Elizabeth Cairns"
+   ],
+   "countries": [
+    "Canada"
+   ],
+   "film_year": 2024,
+   "runtime_min": 108,
+   "language": "English",
+   "section": "World Cinema",
+   "sections": [
+    "World Cinema"
+   ],
+   "strand": [
+    "Spirit"
+   ],
+   "initiative": [
+    "Mind the Gap"
+   ],
+   "slot": null,
+   "premiere": [
+    "US"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "ELIZABETH CAIRNS: Director",
+    "JENNIFER CHIU: Producer"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-05",
+     "time": "14:00",
+     "venue": "Sequoia 2"
+    },
+    {
+     "date": "2024-10-06",
+     "time": "16:00",
+     "venue": "Rafael 3"
+    }
+   ],
+   "logline": "Disruptive food allergies and terrible rashes debilitate a young woman. When she finds a secluded, nature-bound commune that believes sunlight’s energy can replace food, she believes she’s found her true home ... if she can survive it.",
+   "url": "https://www.mvff.com/program/inedia/",
+   "slug": "inedia",
+   "child_ids": [],
+   "id": 34326
+  },
+  {
+   "title": "Secret Mall Apartment",
+   "original_title": null,
+   "directors": [
+    "Jeremy Workman"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 92,
+   "language": "English",
+   "section": "Documentary",
+   "sections": [
+    "Documentary"
+   ],
+   "strand": [
+    "Create"
+   ],
+   "initiative": null,
+   "slot": null,
+   "premiere": [
+    "California"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [
+    "JEREMY WORKMAN: Director",
+    "MICHAEL TOWNSEND: Film Subject"
+   ],
+   "screenings": [
+    {
+     "date": "2024-10-08",
+     "time": "15:30",
+     "venue": "Rafael 2"
+    },
+    {
+     "date": "2024-10-07",
+     "time": "18:00",
+     "venue": "Sequoia 2"
+    }
+   ],
+   "logline": "Home is where the mall is. For a span of four years, eight artists shared a clandestine apartment hidden within a Providence, RI, mall. In this incredibly true, utterly fascinating documentary, the participants tell their story.",
+   "url": "https://www.mvff.com/program/secret-mall-apartment/",
+   "slug": "secret-mall-apartment",
+   "child_ids": [],
+   "id": 34325
+  },
+  {
+   "title": "Sacramento",
+   "original_title": null,
+   "directors": [
+    "Michael Angarano"
+   ],
+   "countries": [
+    "US"
+   ],
+   "film_year": 2024,
+   "runtime_min": 84,
+   "language": "English",
+   "section": "US Cinema",
+   "sections": [
+    "US Cinema"
+   ],
+   "strand": [
+    "Laugh"
+   ],
+   "initiative": null,
+   "slot": null,
+   "premiere": [
+    "West Coast"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-10",
+     "time": "17:00",
+     "venue": "Sequoia 1"
+    },
+    {
+     "date": "2024-10-12",
+     "time": "17:30",
+     "venue": "Rafael 3"
+    }
+   ],
+   "logline": "Two longtime friends, unpredictable and laidback Rickey and organized and anxious Glenn, embark on a road trip to scatter the ashes of Rickey’s father.",
+   "url": "https://www.mvff.com/program/sacramento/",
+   "slug": "sacramento",
+   "child_ids": [],
+   "id": 34324
+  },
+  {
+   "title": "Shorts: I Was Here",
+   "original_title": null,
+   "directors": [],
+   "countries": [],
+   "film_year": 0,
+   "runtime_min": 0,
+   "language": null,
+   "section": "Shorts",
+   "sections": [
+    "Shorts"
+   ],
+   "strand": null,
+   "initiative": [
+    "Mind the Gap"
+   ],
+   "slot": null,
+   "premiere": [],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-08",
+     "time": "20:30",
+     "venue": "Rafael 3"
+    }
+   ],
+   "logline": "“You exist in the context of all in which you live and what came before you.” In this program, indigenous filmmakers explore how where and who we came from informs the person we are today.",
+   "url": "https://www.mvff.com/program/shorts-i-was-here/",
+   "slug": "shorts-i-was-here",
+   "child_ids": [
+    "recFYO09Gouo0QXI5",
+    "rectxyfBoFVQoNcW9",
+    "recLWve4RfqNOJDqP",
+    "recJtIKMgBx6rlFcD",
+    "rec94PFN14PXv7hbu",
+    "rec90NEDsi2EHeFV6"
+   ],
+   "id": 34323
+  },
+  {
+   "title": "A Traveler's Needs",
+   "original_title": null,
+   "directors": [
+    "Hong Sangsoo"
+   ],
+   "countries": [
+    "Republic of Korea (South Korea)"
+   ],
+   "film_year": 2024,
+   "runtime_min": 90,
+   "language": "English, French, Korean",
+   "section": "World Cinema",
+   "sections": [
+    "World Cinema"
+   ],
+   "strand": null,
+   "initiative": null,
+   "slot": null,
+   "premiere": [
+    "West Coast"
+   ],
+   "is_short": false,
+   "type": null,
+   "shorts_program": null,
+   "guests": [],
+   "screenings": [
+    {
+     "date": "2024-10-06",
+     "time": "18:00",
+     "venue": "BAMPFA"
+    },
+    {
+     "date": "2024-10-12",
+     "time": "11:00",
+     "venue": "Rafael 2"
+    }
+   ],
+   "logline": "Iris (Isabelle Huppert) is a woman abroad in Seoul, teaching French and English in an idiosyncratic fashion. Linguistic collisions are Hong’s stock in trade and the revelations that unfold over conversations in artificially constructed circumstances are a delight to behold.",
+   "url": "https://www.mvff.com/program/a-travelers-needs/",
+   "slug": "a-travelers-needs",
+   "child_ids": [],
+   "id": 34322
+  }
+ ]
+}

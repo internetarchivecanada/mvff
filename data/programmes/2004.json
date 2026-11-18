@@ -1,0 +1,6941 @@
+{
+  "year": 2004,
+  "edition": 27,
+  "dates": "October 7-17, 2004",
+  "source_pdf": "2004_schedule.pdf",
+  "venues": [
+    {
+      "name": "Christopher B. Smith Rafael Film Center (Raf)",
+      "address": "1118 4th Street, San Rafael"
+    },
+    {
+      "name": "Century Regency (Reg)",
+      "address": "280 Smith Ranch Road, San Rafael"
+    },
+    {
+      "name": "Century Cinema (Cin)",
+      "address": "41 Tamal Vista, Corte Madera"
+    },
+    {
+      "name": "Castro Theatre (Cas)",
+      "address": "429 Castro Street, San Francisco"
+    },
+    {
+      "name": "142 Throckmorton Theatre (Thr)",
+      "address": "142 Throckmorton Ave., Mill Valley"
+    },
+    {
+      "name": "Outdoor Art Club (OAC)",
+      "address": "1 W. Blithedale, Mill Valley"
+    },
+    {
+      "name": "Intel Computer Clubhouse",
+      "address": "1115 3rd Street, Ste. 2, San Rafael"
+    },
+    {
+      "name": "ArtWorks Downtown",
+      "address": "1337 4th Street, San Rafael"
+    },
+    {
+      "name": "Mill Valley Community Center",
+      "address": "180 Camino Alto, Mill Valley"
+    },
+    {
+      "name": "Osher/Marin Jewish Community Center",
+      "address": "200 N. San Pedro Rd., San Rafael"
+    },
+    {
+      "name": "Frantoio Ristorante",
+      "address": "152 Shoreline Hwy., Mill Valley"
+    },
+    {
+      "name": "The Depot",
+      "address": "87 Throckmorton Ave., Mill Valley"
+    },
+    {
+      "name": "Sweetwater",
+      "address": "153 Throckmorton Ave., Mill Valley"
+    },
+    {
+      "name": "Events Ondine",
+      "address": "558 Bridgeway, Sausalito"
+    }
+  ],
+  "sections": [
+    "Opening Night",
+    "Closing Night",
+    "Spotlight on Laura Linney",
+    "Tribute to Albert Maysles",
+    "Tribute to Mike Leigh",
+    "Tribute to Gena Rowlands",
+    "Official Premiere Selection",
+    "World Cinema",
+    "US Cinema",
+    "Valley of the Docs",
+    "VFest",
+    "Children's FilmFest",
+    "5@5",
+    "Youth Focus",
+    "New Movies Lab"
+  ],
+  "films": [
+    {
+      "title": "Grey Gardens",
+      "original_title": null,
+      "directors": [
+        "Albert Maysles",
+        "David Maysles",
+        "Ellen Hovde",
+        "Muffie Meyer"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 1975,
+      "runtime_min": 94,
+      "language": null,
+      "section": "Tribute to Albert Maysles",
+      "slot": "Tribute",
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Albert Maysles"
+      ],
+      "screenings": [
+        {
+          "date": "2004-10-11",
+          "time": "6:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Documentary portrait of Edith Bouvier Beale and her adult daughter living reclusively in their decaying Hamptons mansion.",
+      "cast": [],
+      "page": 17
+    },
+    {
+      "title": "Vera Drake",
+      "original_title": null,
+      "directors": [
+        "Mike Leigh"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "film_year": 2004,
+      "runtime_min": 125,
+      "language": null,
+      "section": "Tribute to Mike Leigh",
+      "slot": "Tribute",
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Mike Leigh",
+        "Imelda Staunton"
+      ],
+      "screenings": [
+        {
+          "date": "2004-10-12",
+          "time": "6:30 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2004-10-14",
+          "time": "8:45 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "In 1950s working-class London, a devoted wife and mother secretly helps women end unwanted pregnancies until she is exposed.",
+      "cast": [
+        "Imelda Staunton",
+        "Jim Broadbent",
+        "Heather Craney",
+        "Phillip Davis"
+      ],
+      "page": 20
+    },
+    {
+      "title": "Gloria",
+      "original_title": null,
+      "directors": [
+        "John Cassavetes"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 1980,
+      "runtime_min": 123,
+      "language": null,
+      "section": "Tribute to Gena Rowlands",
+      "slot": "Tribute",
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Gena Rowlands"
+      ],
+      "screenings": [
+        {
+          "date": "2004-10-14",
+          "time": "6:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A tough former gangster's girlfriend reluctantly goes on the run across New York with a young boy whose family was killed by the mob.",
+      "cast": [
+        "Gena Rowlands"
+      ],
+      "page": 23
+    },
+    {
+      "title": "Finding Neverland",
+      "original_title": null,
+      "directors": [
+        "Marc Forster"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "film_year": 2004,
+      "runtime_min": 101,
+      "language": null,
+      "section": "Opening Night",
+      "slot": "Opening Night",
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-07",
+          "time": "7:30 PM",
+          "venue": "Century Cinema"
+        }
+      ],
+      "summary": "Playwright J.M. Barrie's friendship with a widow and her sons inspires him to create Peter Pan.",
+      "cast": [
+        "Johnny Depp",
+        "Kate Winslet",
+        "Julie Christie",
+        "Radha Mitchell",
+        "Dustin Hoffman"
+      ],
+      "page": 31
+    },
+    {
+      "title": "I Heart Huckabees",
+      "original_title": null,
+      "directors": [
+        "David O. Russell"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2004,
+      "runtime_min": 106,
+      "language": null,
+      "section": "Opening Night",
+      "slot": "Opening Night",
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-07",
+          "time": "7:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "An environmental activist hires a pair of existential detectives while battling a smooth executive from a superstore chain.",
+      "cast": [
+        "Dustin Hoffman",
+        "Isabelle Huppert",
+        "Jude Law",
+        "Jason Schwartzman",
+        "Lily Tomlin",
+        "Mark Wahlberg"
+      ],
+      "page": 31
+    },
+    {
+      "title": "Lightning in a Bottle",
+      "original_title": null,
+      "directors": [
+        "Antoine Fuqua"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2004,
+      "runtime_min": 108,
+      "language": null,
+      "section": "Closing Night",
+      "slot": "Closing Night",
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-17",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Concert film of a 2003 all-star blues show at Radio City Music Hall, mixed with rehearsal footage and archival clips.",
+      "cast": [
+        "B.B. King",
+        "Buddy Guy",
+        "Ruth Brown",
+        "Mavis Staples",
+        "Aerosmith"
+      ],
+      "page": 33
+    },
+    {
+      "title": "Imaginary Heroes",
+      "original_title": null,
+      "directors": [
+        "Dan Harris"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2004,
+      "runtime_min": 117,
+      "language": null,
+      "section": "Closing Night",
+      "slot": "Closing Night",
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-17",
+          "time": "5:00 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "A suburban family's hidden tensions and secrets surface after a sudden tragedy.",
+      "cast": [
+        "Sigourney Weaver",
+        "Jeff Daniels",
+        "Emile Hirsch",
+        "Michelle Williams"
+      ],
+      "page": 33
+    },
+    {
+      "title": "Money",
+      "original_title": null,
+      "directors": [
+        "Saevar Sigurdsson"
+      ],
+      "countries": [
+        "Iceland"
+      ],
+      "film_year": null,
+      "runtime_min": 6,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Busted",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-12",
+          "time": "5:00 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "A comedy about a man caught in a moral dilemma.",
+      "cast": [],
+      "page": 34
+    },
+    {
+      "title": "Time and Space",
+      "original_title": null,
+      "directors": [
+        "Michael Barnes"
+      ],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": 4,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Busted",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-12",
+          "time": "5:00 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "A boy invents an imaginary world to escape his parents' arguments.",
+      "cast": [],
+      "page": 34
+    },
+    {
+      "title": "Rainbow Klansmen",
+      "original_title": null,
+      "directors": [
+        "Wynn Padula"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 8,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Busted",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-12",
+          "time": "5:00 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "A son discovers his father's hidden violent life.",
+      "cast": [],
+      "page": 34
+    },
+    {
+      "title": "The Lazy Assassin",
+      "original_title": null,
+      "directors": [
+        "Jennifer Goyette"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 10,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Busted",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-12",
+          "time": "5:00 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "A hired killer's shortcomings turn out to save him.",
+      "cast": [],
+      "page": 34
+    },
+    {
+      "title": "Conversations",
+      "original_title": null,
+      "directors": [
+        "Ben Rock"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 17,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Busted",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-12",
+          "time": "5:00 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "A funeral director finds solace by talking to the dead.",
+      "cast": [],
+      "page": 34
+    },
+    {
+      "title": "Time Lost",
+      "original_title": null,
+      "directors": [
+        "Carla Gutierrez"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 18,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Busted",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-12",
+          "time": "5:00 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "A short drama in which innocence itself is a kept secret.",
+      "cast": [],
+      "page": 34
+    },
+    {
+      "title": "The Greener Grass",
+      "original_title": null,
+      "directors": [
+        "Nicole Barnette"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 25,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Busted",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-12",
+          "time": "5:00 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "A seemingly content new father reveals hidden regrets.",
+      "cast": [],
+      "page": 34
+    },
+    {
+      "title": "Tea Time",
+      "original_title": null,
+      "directors": [
+        "Jay Bogdanowitsch"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 6,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: I Can't Stop Lovin' You",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-15",
+          "time": "5:00 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "A short in which love of mankind becomes a matter of strategy.",
+      "cast": [],
+      "page": 34
+    },
+    {
+      "title": "The Perpetual Twilight of Gregor Black",
+      "original_title": null,
+      "directors": [
+        "Nigel Atkinson",
+        "Huw Davies"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "film_year": null,
+      "runtime_min": 11,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: I Can't Stop Lovin' You",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-15",
+          "time": "5:00 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "A man pursues an illicit love.",
+      "cast": [],
+      "page": 34
+    },
+    {
+      "title": "Blue Poles",
+      "original_title": null,
+      "directors": [
+        "Darcy Yuille"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "film_year": null,
+      "runtime_min": 16,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: I Can't Stop Lovin' You",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-15",
+          "time": "5:00 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "A couple learns what love really involves.",
+      "cast": [],
+      "page": 34
+    },
+    {
+      "title": "A Woman Reported",
+      "original_title": null,
+      "directors": [
+        "Christine J. Russo"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 5,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: I Can't Stop Lovin' You",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-15",
+          "time": "5:00 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "A woman pays a price for an unacceptable love.",
+      "cast": [],
+      "page": 34
+    },
+    {
+      "title": "Trick",
+      "original_title": null,
+      "directors": [
+        "Ackel Stephane"
+      ],
+      "countries": [
+        "France"
+      ],
+      "film_year": null,
+      "runtime_min": 5,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: I Can't Stop Lovin' You",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-15",
+          "time": "5:00 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "Actors blur the line between reality and pretence.",
+      "cast": [],
+      "page": 34
+    },
+    {
+      "title": "Out on the Tiles",
+      "original_title": null,
+      "directors": [
+        "Alex Holmes"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "film_year": null,
+      "runtime_min": 14,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: I Can't Stop Lovin' You",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-15",
+          "time": "5:00 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "An elderly man finds romance through the internet.",
+      "cast": [],
+      "page": 34
+    },
+    {
+      "title": "The Bridesmaid",
+      "original_title": null,
+      "directors": [
+        "Tahnee McGuire"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "film_year": null,
+      "runtime_min": 8,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: I Can't Stop Lovin' You",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-15",
+          "time": "5:00 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "Maternal and romantic love come into conflict.",
+      "cast": [],
+      "page": 34
+    },
+    {
+      "title": "Ugly",
+      "original_title": null,
+      "directors": [
+        "Moon Zappa"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 20,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: I Can't Stop Lovin' You",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-15",
+          "time": "5:00 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "A woman will go to any length for love.",
+      "cast": [],
+      "page": 34
+    },
+    {
+      "title": "Save Virgil",
+      "original_title": null,
+      "directors": [
+        "Brad Ableson"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 14,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: I'm Movin' On",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-11",
+          "time": "5:00 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "A man falls disastrously in love.",
+      "cast": [],
+      "page": 34
+    },
+    {
+      "title": "Passing Hearts",
+      "original_title": null,
+      "directors": [
+        "Johan Brisinger"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "film_year": null,
+      "runtime_min": 15,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: I'm Movin' On",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-11",
+          "time": "5:00 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "A boy who has sat on life's sidelines bravely re-engages.",
+      "cast": [],
+      "page": 34
+    },
+    {
+      "title": "Each One Teach One",
+      "original_title": null,
+      "directors": [
+        "Lila Place"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 7,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: I'm Movin' On",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-11",
+          "time": "5:00 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "A former gang member leaves prison and sets an example for others.",
+      "cast": [],
+      "page": 34
+    },
+    {
+      "title": "Catalina View",
+      "original_title": null,
+      "directors": [
+        "Paul Gay"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 9,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: I'm Movin' On",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-11",
+          "time": "5:00 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "A toll taker's life changes in an instant.",
+      "cast": [],
+      "page": 34
+    },
+    {
+      "title": "The Critical Path",
+      "original_title": null,
+      "directors": [
+        "Benita Raphan"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 14,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: I'm Movin' On",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-09",
+          "time": "10:15 AM",
+          "venue": "142 Throckmorton"
+        },
+        {
+          "date": "2004-10-11",
+          "time": "5:00 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "An experimental short offering a new way of looking at nature.",
+      "cast": [],
+      "page": 34
+    },
+    {
+      "title": "I'm Your Man",
+      "original_title": null,
+      "directors": [
+        "Sarah Gyllenstierna"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "film_year": null,
+      "runtime_min": 27,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: I'm Movin' On",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-11",
+          "time": "5:00 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "A con artist permanently alters a couple's relationship.",
+      "cast": [],
+      "page": 34
+    },
+    {
+      "title": "Gone",
+      "original_title": null,
+      "directors": [
+        "Karen Price"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 12,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Sweet Sixteen Blues",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-14",
+          "time": "5:00 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "A little girl finds that her mother has disappeared.",
+      "cast": [],
+      "page": 34
+    },
+    {
+      "title": "Tides",
+      "original_title": null,
+      "directors": [
+        "James Pellerito"
+      ],
+      "countries": [
+        "Italy",
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 15,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Sweet Sixteen Blues",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-14",
+          "time": "5:00 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "A neorealist-style story of abandonment.",
+      "cast": [],
+      "page": 34
+    },
+    {
+      "title": "Tackle",
+      "original_title": null,
+      "directors": [
+        "Beth Armstrong"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "film_year": null,
+      "runtime_min": 9,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Sweet Sixteen Blues",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-14",
+          "time": "5:00 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "A preteen boy invents an identity to please his parents.",
+      "cast": [],
+      "page": 34
+    },
+    {
+      "title": "Silent Years",
+      "original_title": null,
+      "directors": [
+        "James Sereno"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 12,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Sweet Sixteen Blues",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-14",
+          "time": "5:00 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "A young woman resists unwanted attention from men.",
+      "cast": [],
+      "page": 34
+    },
+    {
+      "title": "This Woman's Work",
+      "original_title": null,
+      "directors": [
+        "Dominic Koletes"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 38,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Sweet Sixteen Blues",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-14",
+          "time": "5:00 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "A pregnant young woman takes control of her own fate.",
+      "cast": [],
+      "page": 34
+    },
+    {
+      "title": "Our Time Is Up",
+      "original_title": null,
+      "directors": [
+        "Rob Pearlstein"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 15,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Take These Chains from My Heart",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-08",
+          "time": "5:00 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "A psychiatrist radically changes his approach to therapy.",
+      "cast": [],
+      "page": 35
+    },
+    {
+      "title": "Burning Ambition",
+      "original_title": null,
+      "directors": [
+        "Alister Grierson"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "film_year": null,
+      "runtime_min": 15,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Take These Chains from My Heart",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-08",
+          "time": "5:00 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "Everything that can go wrong for the protagonist does.",
+      "cast": [],
+      "page": 35
+    },
+    {
+      "title": "Crawlspace",
+      "original_title": null,
+      "directors": [
+        "Peter Sved"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "film_year": null,
+      "runtime_min": 8,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Take These Chains from My Heart",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-08",
+          "time": "5:00 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "An animated short about a man who dreams of water.",
+      "cast": [],
+      "page": 35
+    },
+    {
+      "title": "Birthday Boy",
+      "original_title": null,
+      "directors": [
+        "Sejong Park"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "film_year": null,
+      "runtime_min": 10,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Take These Chains from My Heart",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-08",
+          "time": "5:00 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "An animated antiwar story.",
+      "cast": [],
+      "page": 35
+    },
+    {
+      "title": "A Life of Death",
+      "original_title": null,
+      "directors": [
+        "Dawn Westlake"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 8,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Take These Chains from My Heart",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-08",
+          "time": "5:00 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "A visual meditation on war.",
+      "cast": [],
+      "page": 35
+    },
+    {
+      "title": "Vern",
+      "original_title": null,
+      "directors": [
+        "Suzi Yoonessi"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 30,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Take These Chains from My Heart",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-08",
+          "time": "5:00 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "An unknown artist is transformed into something larger than himself.",
+      "cast": [],
+      "page": 35
+    },
+    {
+      "title": "Our New Toy",
+      "original_title": null,
+      "directors": [
+        "Lawren Bancroft-Wilson"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "film_year": null,
+      "runtime_min": 13,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: You Are My Sunshine",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-13",
+          "time": "5:00 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "A horror-tinged take on toys coming to life.",
+      "cast": [],
+      "page": 35
+    },
+    {
+      "title": "Consent",
+      "original_title": null,
+      "directors": [
+        "Jason Reitman"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 6,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: You Are My Sunshine",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-13",
+          "time": "5:00 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "A comedy about the formalities of modern romance.",
+      "cast": [],
+      "page": 35
+    },
+    {
+      "title": "For F**k's Sake",
+      "original_title": null,
+      "directors": [
+        "Glenn Cowan"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 9,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: You Are My Sunshine",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-13",
+          "time": "5:00 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "A man's fantasies crowd his mind until his girlfriend intervenes.",
+      "cast": [],
+      "page": 35
+    },
+    {
+      "title": "Wet Dreams and False Images",
+      "original_title": null,
+      "directors": [
+        "Jesse Epstein"
+      ],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": 11,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: You Are My Sunshine",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-13",
+          "time": "5:00 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "Male fantasies about women are tested against reality.",
+      "cast": [],
+      "page": 35
+    },
+    {
+      "title": "The Brother",
+      "original_title": null,
+      "directors": [
+        "Harrison Chad"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "film_year": null,
+      "runtime_min": 15,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: You Are My Sunshine",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-13",
+          "time": "5:00 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "A drama about a vicious rivalry between siblings.",
+      "cast": [],
+      "page": 35
+    },
+    {
+      "title": "The Wedding Toast",
+      "original_title": null,
+      "directors": [
+        "John Nein"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 30,
+      "language": null,
+      "section": "5@5",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: You Are My Sunshine",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-13",
+          "time": "5:00 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "A best man struggles to write his wedding speech.",
+      "cast": [],
+      "page": 35
+    },
+    {
+      "title": "10 on Ten",
+      "original_title": null,
+      "directors": [
+        "Abbas Kiarostami"
+      ],
+      "countries": [
+        "Iran"
+      ],
+      "film_year": 2004,
+      "runtime_min": 87,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-10",
+          "time": "11:00 AM",
+          "venue": "142 Throckmorton"
+        },
+        {
+          "date": "2004-10-12",
+          "time": "8:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Abbas Kiarostami drives through his films' landscapes and explains his filmmaking method in ten lessons.",
+      "cast": [],
+      "page": 35
+    },
+    {
+      "title": "Admissions",
+      "original_title": null,
+      "directors": [
+        "Melissa Painter"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2004,
+      "runtime_min": 92,
+      "language": null,
+      "section": "Official Premiere Selection",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-09",
+          "time": "9:00 PM",
+          "venue": "Regency"
+        },
+        {
+          "date": "2004-10-11",
+          "time": "6:30 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "A high-achieving teenager with a disabled sister and a dark secret rebels against her family's fantasies.",
+      "cast": [
+        "Lauren Ambrose",
+        "Amy Madigan",
+        "Christopher Lloyd",
+        "Fran Kranz",
+        "Taylor Roberts",
+        "John Savage"
+      ],
+      "page": 35
+    },
+    {
+      "title": "Antares",
+      "original_title": null,
+      "directors": [
+        "Götz Spielmann"
+      ],
+      "countries": [
+        "Austria"
+      ],
+      "film_year": 2004,
+      "runtime_min": 115,
+      "language": null,
+      "section": "Official Premiere Selection",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-09",
+          "time": "9:15 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2004-10-11",
+          "time": "9:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Three interlocking stories of desire, jealousy and broken relationships in a Vienna housing complex.",
+      "cast": [
+        "Petra Morze",
+        "Andreas Patton",
+        "Harry Prinz"
+      ],
+      "page": 36
+    },
+    {
+      "title": "Arna's Children",
+      "original_title": "Awlad Arna",
+      "directors": [
+        "Juliano Mer Khamis",
+        "Danniel Danniel"
+      ],
+      "countries": [
+        "Israel"
+      ],
+      "film_year": 2003,
+      "runtime_min": 85,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-09",
+          "time": "11:00 AM",
+          "venue": "Regency"
+        },
+        {
+          "date": "2004-10-11",
+          "time": "8:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Documentary following children from a Jenin youth theater over thirteen years and what became of them under occupation.",
+      "cast": [],
+      "page": 36
+    },
+    {
+      "title": "Michael Patten's Life",
+      "original_title": null,
+      "directors": [
+        "Michael Patten"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth Focus",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Barbie, Frankenstein and Friends (2004 Youth Reel)",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-16",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A short made by a young filmmaker, chosen by the festival's youth jury.",
+      "cast": [],
+      "page": 36
+    },
+    {
+      "title": "California Education Budget Crisis",
+      "original_title": null,
+      "directors": [
+        "Patrick Nissim"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth Focus",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Barbie, Frankenstein and Friends (2004 Youth Reel)",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-16",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A short made by a young filmmaker, chosen by the festival's youth jury.",
+      "cast": [],
+      "page": 36
+    },
+    {
+      "title": "The Fair Share",
+      "original_title": null,
+      "directors": [
+        "Chad Janusch"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth Focus",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Barbie, Frankenstein and Friends (2004 Youth Reel)",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-16",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A short made by a young filmmaker, chosen by the festival's youth jury.",
+      "cast": [],
+      "page": 36
+    },
+    {
+      "title": "It Takes a Village",
+      "original_title": null,
+      "directors": [
+        "Joe Shapiro"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth Focus",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Barbie, Frankenstein and Friends (2004 Youth Reel)",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-16",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A short made by a young filmmaker, chosen by the festival's youth jury.",
+      "cast": [],
+      "page": 36
+    },
+    {
+      "title": "The Telemarketer",
+      "original_title": null,
+      "directors": [
+        "Ben Kleiman",
+        "Sam Alcabes"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth Focus",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Barbie, Frankenstein and Friends (2004 Youth Reel)",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-16",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A short made by a young filmmaker, chosen by the festival's youth jury.",
+      "cast": [],
+      "page": 36
+    },
+    {
+      "title": "Aisle 7",
+      "original_title": null,
+      "directors": [
+        "Sam Fuller"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth Focus",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Barbie, Frankenstein and Friends (2004 Youth Reel)",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-16",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A short made by a young filmmaker, chosen by the festival's youth jury.",
+      "cast": [],
+      "page": 36
+    },
+    {
+      "title": "Ghosty Ghosty",
+      "original_title": null,
+      "directors": [
+        "Ali Geering-Kline",
+        "Nikki Sonfield"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth Focus",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Barbie, Frankenstein and Friends (2004 Youth Reel)",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-16",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A short made by a young filmmaker, chosen by the festival's youth jury.",
+      "cast": [],
+      "page": 36
+    },
+    {
+      "title": "PSA",
+      "original_title": null,
+      "directors": [
+        "Warren Yu"
+      ],
+      "countries": [
+        "China"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth Focus",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Barbie, Frankenstein and Friends (2004 Youth Reel)",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-16",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A short made by a young filmmaker, chosen by the festival's youth jury.",
+      "cast": [],
+      "page": 36
+    },
+    {
+      "title": "I'm an Asian American",
+      "original_title": null,
+      "directors": [
+        "Natalie Chim"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth Focus",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Barbie, Frankenstein and Friends (2004 Youth Reel)",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-16",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A short made by a young filmmaker, chosen by the festival's youth jury.",
+      "cast": [],
+      "page": 36
+    },
+    {
+      "title": "A Song for Our Lady",
+      "original_title": null,
+      "directors": [
+        "Andrew Wesman"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth Focus",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Barbie, Frankenstein and Friends (2004 Youth Reel)",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-16",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A short made by a young filmmaker, chosen by the festival's youth jury.",
+      "cast": [],
+      "page": 36
+    },
+    {
+      "title": "Untitled",
+      "original_title": null,
+      "directors": [
+        "Santiago Cortes"
+      ],
+      "countries": [
+        "Colombia",
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth Focus",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Barbie, Frankenstein and Friends (2004 Youth Reel)",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-16",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A short made by a young filmmaker, chosen by the festival's youth jury.",
+      "cast": [],
+      "page": 36
+    },
+    {
+      "title": "Urban Frankenstein",
+      "original_title": null,
+      "directors": [
+        "G. S. Rosenthal"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth Focus",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Barbie, Frankenstein and Friends (2004 Youth Reel)",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-16",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A short made by a young filmmaker, chosen by the festival's youth jury.",
+      "cast": [],
+      "page": 36
+    },
+    {
+      "title": "Bloodlust",
+      "original_title": null,
+      "directors": [
+        "G. S. Rosenthal"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth Focus",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Barbie, Frankenstein and Friends (2004 Youth Reel)",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-16",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A short made by a young filmmaker, chosen by the festival's youth jury.",
+      "cast": [],
+      "page": 36
+    },
+    {
+      "title": "Barbie",
+      "original_title": null,
+      "directors": [
+        "Lillian Ripley"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth Focus",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Barbie, Frankenstein and Friends (2004 Youth Reel)",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-16",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A short made by a young filmmaker, chosen by the festival's youth jury.",
+      "cast": [],
+      "page": 36
+    },
+    {
+      "title": "Battleground: 21 Days on the Empire's Edge",
+      "original_title": null,
+      "directors": [
+        "Stephen Marshall"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2004,
+      "runtime_min": 82,
+      "language": null,
+      "section": "Official Premiere Selection",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-09",
+          "time": "3:00 PM",
+          "venue": "142 Throckmorton"
+        },
+        {
+          "date": "2004-10-16",
+          "time": "3:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Documentary shot in Iraq in late 2003 showing how the war has affected Iraqis and American soldiers.",
+      "cast": [],
+      "page": 36
+    },
+    {
+      "title": "The Beautiful Washing Machine",
+      "original_title": "Mei Li De Xi Yi Ji",
+      "directors": [
+        "James Lee"
+      ],
+      "countries": [
+        "Malaysia"
+      ],
+      "film_year": 2004,
+      "runtime_min": 113,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-08",
+          "time": "8:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2004-10-10",
+          "time": "6:00 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "A mute woman mysteriously appears in two dysfunctional households that own the same washing machine.",
+      "cast": [
+        "Loh Bok Lai",
+        "Patrick Teoh",
+        "Amy Len"
+      ],
+      "page": 37
+    },
+    {
+      "title": "The Beauty Academy of Kabul",
+      "original_title": null,
+      "directors": [
+        "Liz Mermin"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2004,
+      "runtime_min": 74,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-11",
+          "time": "7:00 PM",
+          "venue": "Regency"
+        },
+        {
+          "date": "2004-10-16",
+          "time": "4:00 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "American and Afghan-exile beauticians open a beauty school for women in post-Taliban Kabul.",
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "Buoyant",
+      "original_title": null,
+      "directors": [
+        "Julie Wyman"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 28,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "The Best of Sports Shorts",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-08",
+          "time": "5:00 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "A playful portrait of an Oakland synchronized swimming troupe of large women.",
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "The Last Mountain",
+      "original_title": null,
+      "directors": [
+        "Sally Rubin"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 23,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "The Best of Sports Shorts",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-08",
+          "time": "5:00 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "The filmmaker investigates her father's death in a hiking accident.",
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "Jumpers",
+      "original_title": null,
+      "directors": [
+        "Mark Rinehart"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 26,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "The Best of Sports Shorts",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-08",
+          "time": "5:00 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "Two BASE jumpers explain their drive to leap from cliffs, bridges and buildings.",
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "The Big Red One: The Reconstruction",
+      "original_title": null,
+      "directors": [
+        "Samuel Fuller"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 159,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-09",
+          "time": "5:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Restored cut of Samuel Fuller's war film following a sergeant and his young squad from North Africa to the liberation of the camps.",
+      "cast": [
+        "Lee Marvin",
+        "Mark Hamill",
+        "Robert Carradine",
+        "Bobby Di Cicco",
+        "Kelly Ward"
+      ],
+      "page": 37
+    },
+    {
+      "title": "Black Mór's Island",
+      "original_title": "L'Ile de Black Mór",
+      "directors": [
+        "Jean-François Laguionie"
+      ],
+      "countries": [
+        "France"
+      ],
+      "film_year": 2004,
+      "runtime_min": 85,
+      "language": "French",
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-10",
+          "time": "2:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2004-10-16",
+          "time": "10:45 AM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "Animated adventure in which an orphan boy escapes and leads a crew in search of a legendary pirate's treasure.",
+      "cast": [
+        "Frédéric Cerdal",
+        "Jean-François Dérec",
+        "Jean-Paul Roussillon",
+        "Agathe Schumacher"
+      ],
+      "page": 38
+    },
+    {
+      "title": "Bloodlines",
+      "original_title": null,
+      "directors": [
+        "Oleg Harencar"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2004,
+      "runtime_min": 105,
+      "language": null,
+      "section": "Official Premiere Selection",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-09",
+          "time": "11:15 AM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2004-10-13",
+          "time": "6:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A Bay Area techie travels to Slovakia to find his birth mother and becomes entangled in local life.",
+      "cast": [
+        "Rudolf Martin",
+        "Monika Hilmerova",
+        "Sally Kirkland"
+      ],
+      "page": 38
+    },
+    {
+      "title": "The Blue Butterfly",
+      "original_title": null,
+      "directors": [
+        "Léa Pool"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "film_year": 2004,
+      "runtime_min": 96,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-16",
+          "time": "6:30 PM",
+          "venue": "Regency"
+        },
+        {
+          "date": "2004-10-17",
+          "time": "2:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A terminally ill boy persuades an entomologist to take him into the rain forest to find a rare blue butterfly.",
+      "cast": [
+        "William Hurt",
+        "Pascale Bussieres",
+        "Marc Donato"
+      ],
+      "page": 38
+    },
+    {
+      "title": "Blues Divas: Bettye Lavette",
+      "original_title": null,
+      "directors": [
+        "Robert Mugge"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2004,
+      "runtime_min": 73,
+      "language": null,
+      "section": "Official Premiere Selection",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-13",
+          "time": "7:00 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "Concert documentary of soul singer Bettye Lavette, introduced and interviewed by Morgan Freeman.",
+      "cast": [
+        "Bettye Lavette",
+        "Morgan Freeman"
+      ],
+      "page": 38
+    },
+    {
+      "title": "Blues Divas: Odetta",
+      "original_title": null,
+      "directors": [
+        "Robert Mugge"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2004,
+      "runtime_min": 90,
+      "language": null,
+      "section": "Official Premiere Selection",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-14",
+          "time": "9:00 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "Concert and interview film of folk and blues singer Odetta performing at a Clarksdale, Mississippi club.",
+      "cast": [
+        "Odetta Gordon",
+        "Morgan Freeman",
+        "Seth Farber"
+      ],
+      "page": 39
+    },
+    {
+      "title": "Born into Brothels: Calcutta's Red Light Kids",
+      "original_title": null,
+      "directors": [
+        "Ross Kauffman",
+        "Zana Briski"
+      ],
+      "countries": [
+        "India",
+        "USA"
+      ],
+      "film_year": 2004,
+      "runtime_min": 84,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-15",
+          "time": "7:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2004-10-16",
+          "time": "11:00 AM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "A photographer teaches photography to children of sex workers in Calcutta's red-light district.",
+      "cast": [],
+      "page": 39
+    },
+    {
+      "title": "Canary",
+      "original_title": null,
+      "directors": [
+        "Javad Ardakani"
+      ],
+      "countries": [
+        "Iran"
+      ],
+      "film_year": 2003,
+      "runtime_min": 85,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-13",
+          "time": "7:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2004-10-15",
+          "time": "7:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "In wartime Palestine, a stammering boy finds comfort caring for a priest's canary.",
+      "cast": [
+        "Ebrahim Khether",
+        "Rafi Attamian",
+        "Majedeh Alrose",
+        "Abed Asghoul",
+        "Obeideh Sarhan",
+        "Samiheh Abou Havash"
+      ],
+      "page": 39
+    },
+    {
+      "title": "Cape of Good Hope",
+      "original_title": null,
+      "directors": [
+        "Mark Bamford"
+      ],
+      "countries": [
+        "South Africa"
+      ],
+      "film_year": 2004,
+      "runtime_min": 107,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-08",
+          "time": "9:15 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2004-10-10",
+          "time": "11:00 AM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "Intertwined stories of people connected to a Cape Town animal rescue shelter.",
+      "cast": [
+        "Debbie Brown",
+        "Eriq Ebouaney",
+        "Nthati Moshesh",
+        "Morne Visser",
+        "Quanita Adams",
+        "David Isaacs"
+      ],
+      "page": 39
+    },
+    {
+      "title": "Caterina in the Big City",
+      "original_title": "Caterina va in città",
+      "directors": [
+        "Paolo Virzi"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "film_year": 2003,
+      "runtime_min": 106,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-10",
+          "time": "8:30 PM",
+          "venue": "Regency"
+        },
+        {
+          "date": "2004-10-12",
+          "time": "7:00 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "A 13-year-old girl newly moved to Rome is pulled between left-wing and right-wing school cliques.",
+      "cast": [
+        "Alice Teghil",
+        "Sergio Castelitto",
+        "Margherita Buy",
+        "Carolina Iaquaniello",
+        "Federica Sbrenna"
+      ],
+      "page": 40
+    },
+    {
+      "title": "The Chorus",
+      "original_title": "Les Choristes",
+      "directors": [
+        "Christophe Barratier"
+      ],
+      "countries": [
+        "France",
+        "Switzerland"
+      ],
+      "film_year": 2004,
+      "runtime_min": 95,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-10",
+          "time": "5:30 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2004-10-16",
+          "time": "4:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "In the 1940s a music teacher at a harsh boys' reform school transforms the pupils by forming a choir.",
+      "cast": [
+        "Gerard Jugnot",
+        "Jacques Perrin",
+        "Jean-Baptiste Maunier",
+        "Marie Bunel",
+        "Francois Berleand"
+      ],
+      "page": 40
+    },
+    {
+      "title": "Citizen Stan",
+      "original_title": null,
+      "directors": [
+        "Patty Sharaf"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2004,
+      "runtime_min": 62,
+      "language": null,
+      "section": "Official Premiere Selection",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-10",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2004-10-11",
+          "time": "6:30 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "Portrait of Stanley Sheinbaum, a private citizen who brokered behind-the-scenes peace and democracy efforts.",
+      "cast": [],
+      "page": 40
+    },
+    {
+      "title": "Professional Revolutionary: The Life of Saul Wellman",
+      "original_title": null,
+      "directors": [
+        "Judith Montell"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2004,
+      "runtime_min": 65,
+      "language": null,
+      "section": "Official Premiere Selection",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-10",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2004-10-11",
+          "time": "6:30 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "Documentary portrait of lifelong activist Saul Wellman.",
+      "cast": [],
+      "page": 40
+    },
+    {
+      "title": "Cold Light",
+      "original_title": "Kaldaljos",
+      "directors": [
+        "Hilmar Oddsson"
+      ],
+      "countries": [
+        "Iceland"
+      ],
+      "film_year": 2004,
+      "runtime_min": 93,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-16",
+          "time": "1:15 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2004-10-17",
+          "time": "6:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A Reykjavik loner haunted by childhood tragedy and visions of the future slowly opens up after falling in love.",
+      "cast": [
+        "Ingvar E. Sigurdsson",
+        "Ruth Ólafsdottir",
+        "Áslakur Ingvarsson"
+      ],
+      "page": 40
+    },
+    {
+      "title": "Cosmic Africa",
+      "original_title": null,
+      "directors": [
+        "Craig Foster",
+        "Damon Foster"
+      ],
+      "countries": [
+        "South Africa"
+      ],
+      "film_year": 2002,
+      "runtime_min": 72,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-10",
+          "time": "3:45 PM",
+          "venue": "Regency"
+        },
+        {
+          "date": "2004-10-12",
+          "time": "6:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A young South African astrophysicist travels Africa exploring traditional and scientific astronomy.",
+      "cast": [],
+      "page": 41
+    },
+    {
+      "title": "Cross Bronx",
+      "original_title": null,
+      "directors": [
+        "Larry Golin"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2004,
+      "runtime_min": 96,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-14",
+          "time": "7:15 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2004-10-15",
+          "time": "9:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Four suburban teenagers move to the Bronx and come of age.",
+      "cast": [
+        "Max Greenfield",
+        "James Badge Daly",
+        "Jerry Ferrara",
+        "Nashawn Kearse",
+        "Dania Ramirez",
+        "Barry Primus"
+      ],
+      "page": 41
+    },
+    {
+      "title": "The Cutting Edge: The Magic of Movie Editing",
+      "original_title": null,
+      "directors": [
+        "Wendy Apple"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2004,
+      "runtime_min": 98,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-15",
+          "time": "7:00 PM",
+          "venue": "Regency"
+        },
+        {
+          "date": "2004-10-16",
+          "time": "9:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Documentary on the history and craft of film editing, with editors and directors discussing their work.",
+      "cast": [],
+      "page": 41
+    },
+    {
+      "title": "Day Off the Dead",
+      "original_title": null,
+      "directors": [
+        "Lee Lanier",
+        "Jeffrey Davis"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 7,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "The Dark Side of the 'Toon",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-14",
+          "time": "8:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2004-10-16",
+          "time": "9:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "An animated vaudeville-style comedy about death.",
+      "cast": [],
+      "page": 41
+    },
+    {
+      "title": "Guard Dog",
+      "original_title": null,
+      "directors": [
+        "Bill Plympton"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 5,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "The Dark Side of the 'Toon",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-14",
+          "time": "8:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2004-10-16",
+          "time": "9:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "An animated comic short about a guard dog.",
+      "cast": [],
+      "page": 41
+    },
+    {
+      "title": "Oedipus",
+      "original_title": null,
+      "directors": [
+        "Jason Wishnow"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 9,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "The Dark Side of the 'Toon",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-14",
+          "time": "8:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2004-10-16",
+          "time": "9:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "An Oedipus tragedy acted out by vegetables.",
+      "cast": [],
+      "page": 41
+    },
+    {
+      "title": "Eternal Gaze",
+      "original_title": null,
+      "directors": [
+        "Sam Chen"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 16,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "The Dark Side of the 'Toon",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-14",
+          "time": "8:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2004-10-16",
+          "time": "9:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "An animated film about confronting death.",
+      "cast": [],
+      "page": 41
+    },
+    {
+      "title": "For a Tango",
+      "original_title": null,
+      "directors": [
+        "Gabriele Zucchelli"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "film_year": null,
+      "runtime_min": 5,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "The Dark Side of the 'Toon",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-14",
+          "time": "8:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2004-10-16",
+          "time": "9:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A stylish animated elegy with an Old World mood.",
+      "cast": [],
+      "page": 41
+    },
+    {
+      "title": "Woman in the Attic",
+      "original_title": null,
+      "directors": [
+        "Chansoo Kim"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 5,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "The Dark Side of the 'Toon",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-14",
+          "time": "8:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2004-10-16",
+          "time": "9:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A quiet animated short about facing death.",
+      "cast": [],
+      "page": 41
+    },
+    {
+      "title": "Winter",
+      "original_title": null,
+      "directors": [
+        "Andy Collen"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 6,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "The Dark Side of the 'Toon",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-14",
+          "time": "8:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2004-10-16",
+          "time": "9:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A Gorey-like animated piece about mortality.",
+      "cast": [],
+      "page": 41
+    },
+    {
+      "title": "Rockfish",
+      "original_title": null,
+      "directors": [
+        "Tim Miller"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 9,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "The Dark Side of the 'Toon",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-14",
+          "time": "8:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2004-10-16",
+          "time": "9:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "An animated science-fiction monster story.",
+      "cast": [],
+      "page": 41
+    },
+    {
+      "title": "Joe Blow",
+      "original_title": null,
+      "directors": [
+        "Mark Gustafson"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 5,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "The Dark Side of the 'Toon",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-14",
+          "time": "8:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2004-10-16",
+          "time": "9:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "An animated short about an inflatable grim reaper.",
+      "cast": [],
+      "page": 41
+    },
+    {
+      "title": "Ryan",
+      "original_title": null,
+      "directors": [
+        "Chris Landreth"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "film_year": null,
+      "runtime_min": 14,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "The Dark Side of the 'Toon",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-09",
+          "time": "10:15 AM",
+          "venue": "142 Throckmorton"
+        },
+        {
+          "date": "2004-10-14",
+          "time": "8:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2004-10-16",
+          "time": "9:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Animation and documentary combine to portray a gifted animator who has fallen on hard times.",
+      "cast": [],
+      "page": 41
+    },
+    {
+      "title": "Death & Texas",
+      "original_title": null,
+      "directors": [
+        "Kevin DiNovis"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2003,
+      "runtime_min": 77,
+      "language": null,
+      "section": "VFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-09",
+          "time": "1:00 PM",
+          "venue": "142 Throckmorton"
+        },
+        {
+          "date": "2004-10-16",
+          "time": "1:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Mockumentary in which a convicted Texas football legend gets a furlough to play in a big game the day before his execution.",
+      "cast": [
+        "Charles Durning",
+        "Steve Harris",
+        "Corbin Bernsen",
+        "Jello Biafra",
+        "Mary Kay Place",
+        "Susan Egan"
+      ],
+      "page": 42
+    },
+    {
+      "title": "Ebba & Torgny and Love's Wondrous Ways",
+      "original_title": null,
+      "directors": [
+        "Johan Palmgren",
+        "Åsa Blanck"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2003,
+      "runtime_min": 58,
+      "language": null,
+      "section": "Official Premiere Selection",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-09",
+          "time": "1:15 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "Two Swedes whose romance was thwarted in the 1930s reunite as widowed octogenarians, to their children's bafflement.",
+      "cast": [],
+      "page": 42
+    },
+    {
+      "title": "Confessions of an Old Teddy",
+      "original_title": "En Gammel Bamses Fortælling",
+      "directors": [
+        "John Bang Carlsen"
+      ],
+      "countries": [
+        "Denmark"
+      ],
+      "film_year": 2004,
+      "runtime_min": 27,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-09",
+          "time": "1:15 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "A stuffed bear watches anxiously as his young owner loses interest in him.",
+      "cast": [],
+      "page": 42
+    },
+    {
+      "title": "Emma and Daniel: The Meeting",
+      "original_title": "Emma och Daniel: Mötet",
+      "directors": [
+        "Ingela Magner"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "film_year": 2003,
+      "runtime_min": 81,
+      "language": "Swedish",
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-10",
+          "time": "11:15 AM",
+          "venue": "Regency"
+        },
+        {
+          "date": "2004-10-13",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A motherless girl in rural northern Sweden resents, then befriends, the son of her father's new partner.",
+      "cast": [
+        "Maria Gidlöf",
+        "Stasse Soulis",
+        "Örjan Landström",
+        "Marie Richardson"
+      ],
+      "page": 42
+    },
+    {
+      "title": "Five",
+      "original_title": null,
+      "directors": [
+        "Abbas Kiarostami"
+      ],
+      "countries": [
+        "Iran"
+      ],
+      "film_year": 2004,
+      "runtime_min": 74,
+      "language": null,
+      "section": "VFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-13",
+          "time": "9:00 PM",
+          "venue": "142 Throckmorton"
+        },
+        {
+          "date": "2004-10-16",
+          "time": "11:45 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Five long single takes filmed on the Caspian shore, dedicated to Yasujiro Ozu.",
+      "cast": [],
+      "page": 43
+    },
+    {
+      "title": "Four Shades of Brown",
+      "original_title": "Fyra Nyanser av Brunt",
+      "directors": [
+        "Tomas Alfredson"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "film_year": 2004,
+      "runtime_min": 190,
+      "language": null,
+      "section": "Official Premiere Selection",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-09",
+          "time": "10:45 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Four parallel tragicomic stories about family ties from the Swedish comedy troupe Killinggänget.",
+      "cast": [
+        "Jonas Inde",
+        "Robert Gustafsson",
+        "Henrik Schyffert",
+        "Johan Rheborg",
+        "Ulf Brunnberg",
+        "Maria Kulle"
+      ],
+      "page": 43
+    },
+    {
+      "title": "The Future of Food",
+      "original_title": null,
+      "directors": [
+        "Deborah Koons Garcia"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2004,
+      "runtime_min": 89,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-09",
+          "time": "3:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2004-10-17",
+          "time": "2:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Investigation of genetically engineered crops, gene patents and corporate control of the food supply.",
+      "cast": [],
+      "page": 43
+    },
+    {
+      "title": "Ganges: River to Heaven",
+      "original_title": null,
+      "directors": [
+        "Gayle Ferraro"
+      ],
+      "countries": [
+        "USA",
+        "India"
+      ],
+      "film_year": 2003,
+      "runtime_min": 79,
+      "language": null,
+      "section": "Official Premiere Selection",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-12",
+          "time": "7:00 PM",
+          "venue": "142 Throckmorton"
+        },
+        {
+          "date": "2004-10-15",
+          "time": "4:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Families bring dying relatives to a hospice on the Ganges for final rites, raising cultural and environmental questions about the river.",
+      "cast": [],
+      "page": 43
+    },
+    {
+      "title": "The Grateful Dead Movie",
+      "original_title": null,
+      "directors": [
+        "Jerry Garcia",
+        "Leon Gast"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 1977,
+      "runtime_min": 132,
+      "language": null,
+      "section": "Official Premiere Selection",
+      "slot": null,
+      "premiere": "World Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-15",
+          "time": "9:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Restored concert film of the Grateful Dead's 1974 Winterland shows, presented as a re-release premiere.",
+      "cast": [],
+      "page": 44
+    },
+    {
+      "title": "Gums and Noses",
+      "original_title": null,
+      "directors": [
+        "Craig Freimond"
+      ],
+      "countries": [
+        "South Africa"
+      ],
+      "film_year": 2004,
+      "runtime_min": 89,
+      "language": null,
+      "section": "Official Premiere Selection",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-13",
+          "time": "9:45 PM",
+          "venue": "Regency"
+        },
+        {
+          "date": "2004-10-16",
+          "time": "11:30 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "An ordinary copywriter promoted at a Johannesburg ad agency turns to cocaine for ideas and spirals out of control.",
+      "cast": [
+        "Antony Coleman",
+        "Lionel Newton",
+        "Faye Peters",
+        "Mothusi Magano",
+        "Sean Taylor"
+      ],
+      "page": 44
+    },
+    {
+      "title": "Hair High",
+      "original_title": null,
+      "directors": [
+        "Bill Plympton"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2004,
+      "runtime_min": 80,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-14",
+          "time": "9:30 PM",
+          "venue": "Regency"
+        },
+        {
+          "date": "2004-10-16",
+          "time": "4:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Bill Plympton's animated high-school tale of romance between a cheerleader captain and a nerd.",
+      "cast": [
+        "Dermot Mulroney",
+        "Sarah Silverman",
+        "Eric Gilliland",
+        "Beverly D'Angelo",
+        "Keith Carradine",
+        "David Carradine"
+      ],
+      "page": 44
+    },
+    {
+      "title": "Hardwood Dreams: Ten Years Later",
+      "original_title": null,
+      "directors": [
+        "Fredric Golding"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2004,
+      "runtime_min": 67,
+      "language": null,
+      "section": "Official Premiere Selection",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-10",
+          "time": "5:30 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "Revisits members of a Los Angeles high-school basketball team a decade after an earlier documentary about them.",
+      "cast": [],
+      "page": 44
+    },
+    {
+      "title": "Head-On",
+      "original_title": "Gegen die Wand",
+      "directors": [
+        "Fatih Akin"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "film_year": 2003,
+      "runtime_min": 122,
+      "language": null,
+      "section": "Official Premiere Selection",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-08",
+          "time": "9:30 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "Two self-destructive Turkish-Germans in Hamburg enter a marriage of convenience that turns into a volatile love story.",
+      "cast": [
+        "Birol Unel",
+        "Sibel Kekilli",
+        "Catrin Striebeck",
+        "Guven Kirac",
+        "Meltem Cumbul"
+      ],
+      "page": 45
+    },
+    {
+      "title": "Here",
+      "original_title": "Tu",
+      "directors": [
+        "Zrinko Ogresta"
+      ],
+      "countries": [
+        "Croatia"
+      ],
+      "film_year": 2004,
+      "runtime_min": 90,
+      "language": null,
+      "section": "Official Premiere Selection",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-12",
+          "time": "9:00 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "Vignettes of people struggling with disappointment and hardship in postwar Croatia.",
+      "cast": [
+        "Marija Tadic",
+        "Zlatko Crnkovic",
+        "Ivo Gregurevic",
+        "Jasmin Telalovic",
+        "Ivan Herceg",
+        "Nikola Ivosevic"
+      ],
+      "page": 45
+    },
+    {
+      "title": "Hi De Ho Show",
+      "original_title": null,
+      "directors": [],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "VFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "John Goddard"
+      ],
+      "screenings": [
+        {
+          "date": "2004-10-16",
+          "time": "9:00 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "Record-store owner John Goddard presents rare video clips from his archive celebrating musical divas.",
+      "cast": [],
+      "page": 45
+    },
+    {
+      "title": "The Hotel Venus",
+      "original_title": null,
+      "directors": [
+        "Hideta Takahata"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "film_year": 2004,
+      "runtime_min": 125,
+      "language": null,
+      "section": "Official Premiere Selection",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-09",
+          "time": "8:30 PM",
+          "venue": "Regency"
+        },
+        {
+          "date": "2004-10-10",
+          "time": "1:30 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "Exiled residents of a hotel in Vladivostok confront their pasts after a man and a small girl arrive.",
+      "cast": [
+        "Tsuyoshi Kusanagi",
+        "Miki Nakatani",
+        "Park Jung Woo",
+        "Ko Do Hee",
+        "Teruyuki Kagawa"
+      ],
+      "page": 45
+    },
+    {
+      "title": "Human Error",
+      "original_title": null,
+      "directors": [
+        "Robert M. Young"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2004,
+      "runtime_min": 95,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-09",
+          "time": "9:30 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2004-10-10",
+          "time": "6:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Three corporate employees sent to a polluted remote worksite turn on each other amid paranoia and mutant beasts.",
+      "cast": [
+        "Xander Berkeley",
+        "Tom Bower",
+        "Robert Knutt",
+        "Caroline Ashley",
+        "Sarah Clarke"
+      ],
+      "page": 46
+    },
+    {
+      "title": "The Human Touch",
+      "original_title": null,
+      "directors": [
+        "Paul Cox"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "film_year": 2004,
+      "runtime_min": 102,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-16",
+          "time": "6:30 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2004-10-17",
+          "time": "4:30 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "A music teacher who agrees to pose for an older painter rediscovers feeling missing from her relationship.",
+      "cast": [
+        "Jacqueline McKenzie",
+        "Aaron Blabey",
+        "Chris Haywood",
+        "Rebecca Firth",
+        "Aden Young",
+        "Simon McBourney"
+      ],
+      "page": 46
+    },
+    {
+      "title": "In Your Hands",
+      "original_title": null,
+      "directors": [
+        "Annette K. Olesen"
+      ],
+      "countries": [
+        "Denmark"
+      ],
+      "film_year": 2004,
+      "runtime_min": 101,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-14",
+          "time": "6:30 PM",
+          "venue": "Regency"
+        },
+        {
+          "date": "2004-10-15",
+          "time": "9:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A newly ordained prison chaplain seeks help from an inmate believed to have supernatural powers.",
+      "cast": [
+        "Ann Eleonora Jorgensen",
+        "Trine Dyrholm",
+        "Nicolaj Kopernikus",
+        "Sonja Richter",
+        "Lars Ranthe",
+        "Henrik Prip"
+      ],
+      "page": 47
+    },
+    {
+      "title": "Jarmark Europa",
+      "original_title": null,
+      "directors": [
+        "Minze Tummescheit"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "film_year": 2004,
+      "runtime_min": 120,
+      "language": null,
+      "section": "Official Premiere Selection",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-09",
+          "time": "5:30 PM",
+          "venue": "142 Throckmorton"
+        },
+        {
+          "date": "2004-10-12",
+          "time": "5:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Documentary about impoverished Russians who trade and smuggle goods at a huge Warsaw bazaar.",
+      "cast": [],
+      "page": 47
+    },
+    {
+      "title": "JujuLuv",
+      "original_title": null,
+      "directors": [
+        "Lisbon O. Okafor"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2004,
+      "runtime_min": 102,
+      "language": null,
+      "section": "Official Premiere Selection",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-08",
+          "time": "6:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2004-10-09",
+          "time": "2:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Two African-American sisters-in-law circle each other warily after the drowning of one's brother and the other's husband.",
+      "cast": [
+        "Nkechi",
+        "Trian Long-Smith",
+        "Andre Jones",
+        "David Westley Skillman"
+      ],
+      "page": 47
+    },
+    {
+      "title": "King of the Corner",
+      "original_title": null,
+      "directors": [
+        "Peter Riegert"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2004,
+      "runtime_min": 90,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-09",
+          "time": "6:30 PM",
+          "venue": "Regency"
+        },
+        {
+          "date": "2004-10-10",
+          "time": "4:00 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "A man in midlife crisis copes with a dying father, a rebellious daughter and a threat to his job.",
+      "cast": [
+        "Peter Riegert",
+        "Isabella Rossellini",
+        "Eli Wallach",
+        "Eric Bogosian",
+        "Beverly D'Angelo",
+        "Rita Moreno"
+      ],
+      "page": 47
+    },
+    {
+      "title": "Kinsey",
+      "original_title": null,
+      "directors": [
+        "Bill Condon"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2004,
+      "runtime_min": 118,
+      "language": null,
+      "section": "Spotlight on Laura Linney",
+      "slot": "Spotlight",
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Laura Linney",
+        "Bill Condon"
+      ],
+      "screenings": [
+        {
+          "date": "2004-10-08",
+          "time": "7:00 PM",
+          "venue": "Regency"
+        },
+        {
+          "date": "2004-10-12",
+          "time": "9:15 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "Biopic of sex researcher Alfred Kinsey and his marriage.",
+      "cast": [
+        "Liam Neeson",
+        "Laura Linney",
+        "Chris O'Donnell",
+        "Peter Sarsgaard",
+        "Timothy Hutton",
+        "John Lithgow"
+      ],
+      "page": 48
+    },
+    {
+      "title": "Kontroll",
+      "original_title": null,
+      "directors": [
+        "Nimród Antal"
+      ],
+      "countries": [
+        "Hungary"
+      ],
+      "film_year": 2003,
+      "runtime_min": 106,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-08",
+          "time": "6:30 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2004-10-09",
+          "time": "3:30 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "Genre-mixing story of a crew of ticket inspectors working the Budapest metro.",
+      "cast": [
+        "Sandor Csanyi",
+        "Zoltan Mucsi",
+        "Sandor Badar",
+        "Csaba Pindroch",
+        "Zsolt Nagy",
+        "Lajos Kovacs"
+      ],
+      "page": 48
+    },
+    {
+      "title": "Let's Play in Kosovo",
+      "original_title": null,
+      "directors": [
+        "Cassandra Hornez",
+        "Francois Lecauchois"
+      ],
+      "countries": [
+        "France",
+        "Kosovo"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Let's Play",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-17",
+          "time": "11:30 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "An episode of a French series looking at games children play in Kosovo.",
+      "cast": [],
+      "page": 48
+    },
+    {
+      "title": "Open a Door in India",
+      "original_title": null,
+      "directors": [],
+      "countries": [
+        "India",
+        "UK"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Let's Play",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-17",
+          "time": "11:30 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "An episode of a UK series showing a day of play for children in India.",
+      "cast": [],
+      "page": 48
+    },
+    {
+      "title": "Open a Door in Mexico",
+      "original_title": null,
+      "directors": [],
+      "countries": [
+        "Mexico",
+        "UK"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Let's Play",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-17",
+          "time": "11:30 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "An episode of a UK series showing a day of play for children in Mexico.",
+      "cast": [],
+      "page": 48
+    },
+    {
+      "title": "Open a Door in South Africa",
+      "original_title": null,
+      "directors": [],
+      "countries": [
+        "South Africa",
+        "UK"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Let's Play",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-17",
+          "time": "11:30 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "An episode of a UK series showing a day of play for children in South Africa.",
+      "cast": [],
+      "page": 48
+    },
+    {
+      "title": "The Day I Decided to Become Nina",
+      "original_title": null,
+      "directors": [
+        "Ingeborg Jansen"
+      ],
+      "countries": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Let's Play",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-17",
+          "time": "11:30 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A boy who wants to be a girl learns that play can be serious.",
+      "cast": [],
+      "page": 48
+    },
+    {
+      "title": "Disa Moves to Japan",
+      "original_title": null,
+      "directors": [
+        "Benedicte M. Orvung"
+      ],
+      "countries": [
+        "Japan",
+        "Norway"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Let's Play",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-17",
+          "time": "11:30 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A five-year-old Norwegian girl struggles with language at a Japanese preschool.",
+      "cast": [],
+      "page": 48
+    },
+    {
+      "title": "Louise & Papaya",
+      "original_title": null,
+      "directors": [
+        "Jannik Splidsboel"
+      ],
+      "countries": [
+        "Denmark",
+        "Sweden"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Let's Play",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-17",
+          "time": "11:30 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A girl shares private moments with her imaginary friend.",
+      "cast": [],
+      "page": 48
+    },
+    {
+      "title": "M. C. Richards: The Fire Within",
+      "original_title": null,
+      "directors": [
+        "Richard Kane"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2004,
+      "runtime_min": 60,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-14",
+          "time": "7:00 PM",
+          "venue": "142 Throckmorton"
+        },
+        {
+          "date": "2004-10-17",
+          "time": "4:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Portrait of poet, potter and educator M. C. Richards and her approach to creativity as spiritual practice.",
+      "cast": [],
+      "page": 49
+    },
+    {
+      "title": "My Brother, Nathaniel",
+      "original_title": null,
+      "directors": [
+        "Simeon Hutner"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2004,
+      "runtime_min": 18,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-14",
+          "time": "7:00 PM",
+          "venue": "142 Throckmorton"
+        },
+        {
+          "date": "2004-10-17",
+          "time": "4:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A gifted but troubled man seeks release through poetry and theater.",
+      "cast": [],
+      "page": 49
+    },
+    {
+      "title": "The Machinist",
+      "original_title": null,
+      "directors": [
+        "Brad Anderson"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2004,
+      "runtime_min": 101,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-16",
+          "time": "8:30 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "A factory worker who has not slept for a year slides into paranoia after causing an accident.",
+      "cast": [
+        "Christian Bale",
+        "Jennifer Jason Leigh",
+        "Aitana Sanchez-Gijon",
+        "John Sharian",
+        "Michael Ironside",
+        "Larry Gilliard"
+      ],
+      "page": 49
+    },
+    {
+      "title": "Mama's Guest",
+      "original_title": null,
+      "directors": [
+        "Dariush Mehrjui"
+      ],
+      "countries": [
+        "Iran"
+      ],
+      "film_year": 2003,
+      "runtime_min": 104,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-09",
+          "time": "4:15 PM",
+          "venue": "Regency"
+        },
+        {
+          "date": "2004-10-10",
+          "time": "8:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A proud, poor woman enlists her quarrelsome neighbors to feed her visiting nephew and his bride.",
+      "cast": [
+        "Golab Adineh",
+        "Amin Hayayee",
+        "Pars Pirouzfar",
+        "Hassan Pourshirazi"
+      ],
+      "page": 49
+    },
+    {
+      "title": "Mission Movie",
+      "original_title": "Una Pelicula de la Mission",
+      "directors": [
+        "Lise Swenson"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2004,
+      "runtime_min": 93,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-13",
+          "time": "9:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Ensemble drama of artists, immigrants and newcomers in San Francisco's Mission District.",
+      "cast": [
+        "Jakob Bokulich",
+        "Benjamin Rojas",
+        "Juana Samoya",
+        "Claudya Martinez",
+        "Mike Holley"
+      ],
+      "page": 49
+    },
+    {
+      "title": "Mojados: Through the Night",
+      "original_title": null,
+      "directors": [
+        "Tommy Davis"
+      ],
+      "countries": [
+        "Mexico",
+        "USA"
+      ],
+      "film_year": 2004,
+      "runtime_min": 62,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-10",
+          "time": "1:15 PM",
+          "venue": "Regency"
+        },
+        {
+          "date": "2004-10-11",
+          "time": "9:15 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "The filmmaker joins Mexican men on a dangerous illegal trek across the Texas desert.",
+      "cast": [],
+      "page": 50
+    },
+    {
+      "title": "Punjabi Cab",
+      "original_title": null,
+      "directors": [
+        "Liam Dalzell"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2004,
+      "runtime_min": 20,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-10",
+          "time": "1:15 PM",
+          "venue": "Regency"
+        },
+        {
+          "date": "2004-10-11",
+          "time": "9:15 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "Sikh taxi drivers in the Bay Area face danger on the job.",
+      "cast": [],
+      "page": 50
+    },
+    {
+      "title": "Mondovino",
+      "original_title": null,
+      "directors": [
+        "Jonathan Nossiter"
+      ],
+      "countries": [
+        "France",
+        "USA"
+      ],
+      "film_year": 2004,
+      "runtime_min": 135,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-10",
+          "time": "1:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2004-10-17",
+          "time": "1:15 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "Documentary on the global wine trade and the clash between small winemakers and multinational firms.",
+      "cast": [],
+      "page": 50
+    },
+    {
+      "title": "Moolaadè",
+      "original_title": null,
+      "directors": [
+        "Ousmane Sembene"
+      ],
+      "countries": [
+        "Senegal",
+        "France"
+      ],
+      "film_year": 2004,
+      "runtime_min": 120,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-15",
+          "time": "6:45 PM",
+          "venue": "Regency"
+        },
+        {
+          "date": "2004-10-16",
+          "time": "1:15 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "A village woman shelters girls fleeing female genital cutting, defying the elders.",
+      "cast": [
+        "Fatoumata Coulibaly",
+        "Marmauna Héléne Diarra",
+        "Salimata Traoré"
+      ],
+      "page": 50
+    },
+    {
+      "title": "My Step Brother Frankenstein",
+      "original_title": null,
+      "directors": [
+        "Valery Todorovsky"
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "film_year": 2004,
+      "runtime_min": 111,
+      "language": null,
+      "section": "Official Premiere Selection",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-09",
+          "time": "6:00 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "A Moscow physicist's life is upended when a disturbed soldier arrives claiming to be his son.",
+      "cast": [
+        "Leonid Yarmolnik",
+        "Elen Yakovleva",
+        "Daniil Spivakovsky",
+        "Artem Shalimov",
+        "Marianna Iljina",
+        "Sergey Fazarov"
+      ],
+      "page": 50
+    },
+    {
+      "title": "Nobody Knows",
+      "original_title": null,
+      "directors": [
+        "Hirokazu Kore-Eda"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "film_year": 2004,
+      "runtime_min": 141,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-13",
+          "time": "6:30 PM",
+          "venue": "Regency"
+        },
+        {
+          "date": "2004-10-16",
+          "time": "6:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Four young siblings abandoned by their mother in Tokyo try to survive on their own.",
+      "cast": [
+        "Yagira Yuuya",
+        "Kitaura Ayu",
+        "Kimura Hei",
+        "Shimizu Momoko",
+        "Kan Janae",
+        "You"
+      ],
+      "page": 51
+    },
+    {
+      "title": "The Nomi Song",
+      "original_title": null,
+      "directors": [
+        "Andrew Horn"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "film_year": 2004,
+      "runtime_min": 96,
+      "language": null,
+      "section": "Official Premiere Selection",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-14",
+          "time": "7:00 PM",
+          "venue": "Castro"
+        }
+      ],
+      "summary": "Documentary on Klaus Nomi, the avant-garde New York performer who died of AIDS in 1983.",
+      "cast": [],
+      "page": 51
+    },
+    {
+      "title": "Our Music",
+      "original_title": "Notre Musique",
+      "directors": [
+        "Jean-Luc Godard"
+      ],
+      "countries": [
+        "France"
+      ],
+      "film_year": 2004,
+      "runtime_min": 79,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-15",
+          "time": "9:45 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "Godard's three-part essay on war and cinema, centered on a literary gathering in Sarajevo.",
+      "cast": [
+        "Sarah Adler",
+        "Nade Dieu",
+        "Jean-Luc Godard",
+        "Mahmoud Darwich",
+        "Juan Goytisolo"
+      ],
+      "page": 51
+    },
+    {
+      "title": "P.S.",
+      "original_title": null,
+      "directors": [
+        "Dylan Kidd"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2004,
+      "runtime_min": 90,
+      "language": null,
+      "section": "Spotlight on Laura Linney",
+      "slot": "Spotlight",
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Laura Linney"
+      ],
+      "screenings": [
+        {
+          "date": "2004-10-08",
+          "time": "6:45 PM",
+          "venue": "Regency"
+        },
+        {
+          "date": "2004-10-10",
+          "time": "3:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A divorced admissions officer meets a young applicant who seems a reincarnation of her late high-school love.",
+      "cast": [
+        "Laura Linney",
+        "Topher Grace",
+        "Paul Rudd",
+        "Lois Smith",
+        "Gabriel Byrne",
+        "Marcia Gay Harden"
+      ],
+      "page": 51
+    },
+    {
+      "title": "Primer",
+      "original_title": null,
+      "directors": [
+        "Shane Carruth"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2004,
+      "runtime_min": 78,
+      "language": null,
+      "section": "VFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-10",
+          "time": "8:45 PM",
+          "venue": "Regency"
+        },
+        {
+          "date": "2004-10-11",
+          "time": "6:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Suburban engineers accidentally invent a form of time travel, with tangled consequences.",
+      "cast": [
+        "Shane Carruth",
+        "David Sullivan",
+        "Casey Gooden",
+        "Anand Upadhyaya",
+        "Carrie Crawford",
+        "Jay Butler"
+      ],
+      "page": 52
+    },
+    {
+      "title": "Public Domain",
+      "original_title": null,
+      "directors": [
+        "Kris Lefcoe"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "film_year": 2003,
+      "runtime_min": 78,
+      "language": null,
+      "section": "VFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-08",
+          "time": "7:30 PM",
+          "venue": "142 Throckmorton"
+        },
+        {
+          "date": "2004-10-10",
+          "time": "1:00 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "Mock-documentary satire about a reality show that rewards the most pathetic person caught on hidden cameras.",
+      "cast": [
+        "Nicole DeBoer",
+        "Don McKellar",
+        "Nadia Litz"
+      ],
+      "page": 52
+    },
+    {
+      "title": "Purgatory House",
+      "original_title": null,
+      "directors": [
+        "Cindy Baer"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2003,
+      "runtime_min": 96,
+      "language": null,
+      "section": "VFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-09",
+          "time": "7:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2004-10-10",
+          "time": "11:30 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Teen suicides in an afterlife halfway house watch their families grieve on television.",
+      "cast": [
+        "Celeste Marie Davis",
+        "Jim Hanks",
+        "Johnny Pacar",
+        "Devin Witt",
+        "Rhiannon Main"
+      ],
+      "page": 52
+    },
+    {
+      "title": "The Python",
+      "original_title": null,
+      "directors": [
+        "Laila Pakalnina"
+      ],
+      "countries": [
+        "Latvia"
+      ],
+      "film_year": 2003,
+      "runtime_min": 88,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-14",
+          "time": "6:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Deadpan satire of a chaotic school picture day in a small Latvian town after a python escapes.",
+      "cast": [
+        "Mara Kimele",
+        "Juris Grave",
+        "Januss Johansons",
+        "Ilze Pukinska",
+        "Intars Janbergs"
+      ],
+      "page": 52
+    },
+    {
+      "title": "Red Diaper Baby",
+      "original_title": null,
+      "directors": [
+        "Doug Pray"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2004,
+      "runtime_min": 91,
+      "language": null,
+      "section": "Official Premiere Selection",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-15",
+          "time": "6:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Filmed one-man show in which Josh Kornbluth recounts growing up with Communist parents.",
+      "cast": [
+        "Josh Kornbluth"
+      ],
+      "page": 53
+    },
+    {
+      "title": "Robbing Peter",
+      "original_title": null,
+      "directors": [
+        "Mario de la Vega"
+      ],
+      "countries": [
+        "Mexico"
+      ],
+      "film_year": 2004,
+      "runtime_min": 95,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-09",
+          "time": "4:30 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2004-10-14",
+          "time": "9:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "An unemployed engineer smuggling a shipment from Mexico into the US gets caught up with double-crossers and gangsters.",
+      "cast": [
+        "Louie Olivos Jr.",
+        "Joe Keyes",
+        "Pete Pano",
+        "Alejandro Patiño",
+        "Robin Simmons",
+        "Victor Martinez"
+      ],
+      "page": 53
+    },
+    {
+      "title": "Salvador Allende",
+      "original_title": null,
+      "directors": [
+        "Patricio Guzman"
+      ],
+      "countries": [
+        "Belgium",
+        "France",
+        "Germany",
+        "Spain"
+      ],
+      "film_year": 2003,
+      "runtime_min": 100,
+      "language": null,
+      "section": "Official Premiere Selection",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-08",
+          "time": "7:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Documentary on the rise and overthrow of Chilean president Salvador Allende.",
+      "cast": [],
+      "page": 53
+    },
+    {
+      "title": "SAMT",
+      "original_title": null,
+      "directors": [
+        "Rob Nilsson"
+      ],
+      "countries": [
+        "Jordan",
+        "USA"
+      ],
+      "film_year": 2004,
+      "runtime_min": 72,
+      "language": null,
+      "section": "Official Premiere Selection",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-10",
+          "time": "9:15 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2004-10-17",
+          "time": "7:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A young Jordanian woman drawn to progressive politics clashes with her tradition-bound brother.",
+      "cast": [
+        "Suha Najjar",
+        "Jihad",
+        "Mohammed Hoshky",
+        "Dima al Sharif",
+        "Alia Khleifat"
+      ],
+      "page": 53
+    },
+    {
+      "title": "Season in the Sun",
+      "original_title": "Boriului Yeoreum",
+      "directors": [
+        "Lee Min-Yong"
+      ],
+      "countries": [
+        "South Korea"
+      ],
+      "film_year": 2003,
+      "runtime_min": 102,
+      "language": "Korean",
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-11",
+          "time": "4:00 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "A priest and a twelve-year-old boy share a transforming summer in rural Korea.",
+      "cast": [
+        "Jang Mi-heui",
+        "Park Yeong-gyu",
+        "Cha In-pyo",
+        "Shin Ae",
+        "Choi Ju-bong",
+        "Yun Min-shik"
+      ],
+      "page": 54
+    },
+    {
+      "title": "The Snow Walker",
+      "original_title": null,
+      "directors": [
+        "Charles Martin Smith"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2004,
+      "runtime_min": 110,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-13",
+          "time": "6:45 PM",
+          "venue": "Century Cinema"
+        }
+      ],
+      "summary": "A bush pilot crashed in the Arctic depends on a young Inuit woman to survive.",
+      "cast": [
+        "Barry Pepper",
+        "Annabella Piugattuk",
+        "James Cromwell",
+        "Kiersten Warren",
+        "Jon Gries"
+      ],
+      "page": 54
+    },
+    {
+      "title": "Stage Beauty",
+      "original_title": null,
+      "directors": [
+        "Richard Eyre"
+      ],
+      "countries": [
+        "USA",
+        "UK"
+      ],
+      "film_year": 2004,
+      "runtime_min": 110,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-13",
+          "time": "9:15 PM",
+          "venue": "Century Cinema"
+        },
+        {
+          "date": "2004-10-14",
+          "time": "7:00 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "In Restoration London a celebrated male actor of female roles is upended when women are allowed on stage.",
+      "cast": [
+        "Billy Crudup",
+        "Claire Danes",
+        "Rupert Everett",
+        "Ben Chaplin",
+        "Tom Wilkinson",
+        "Richard Griffiths"
+      ],
+      "page": 54
+    },
+    {
+      "title": "Stella Street",
+      "original_title": null,
+      "directors": [
+        "Peter Richardson"
+      ],
+      "countries": [
+        "USA",
+        "UK"
+      ],
+      "film_year": 2004,
+      "runtime_min": 89,
+      "language": null,
+      "section": "Official Premiere Selection",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-16",
+          "time": "1:00 PM",
+          "venue": "Regency"
+        },
+        {
+          "date": "2004-10-17",
+          "time": "1:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Big-screen version of a BBC comedy in which impersonated celebrities move to a London suburban street.",
+      "cast": [
+        "Phil Cornwell",
+        "John Sessions",
+        "Ronni Ancona"
+      ],
+      "page": 54
+    },
+    {
+      "title": "Story Undone",
+      "original_title": null,
+      "directors": [
+        "Hassan Yektapanah"
+      ],
+      "countries": [
+        "Iran",
+        "Ireland"
+      ],
+      "film_year": 2004,
+      "runtime_min": 83,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-12",
+          "time": "6:45 PM",
+          "venue": "Regency"
+        },
+        {
+          "date": "2004-10-13",
+          "time": "9:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A TV producer and cameraman follow a group of people being smuggled out of Iran.",
+      "cast": [
+        "Mazdak Taebi"
+      ],
+      "page": 55
+    },
+    {
+      "title": "Sword in the Moon",
+      "original_title": "Cheongpung Myeonigwol",
+      "directors": [
+        "Kim Eui-seok"
+      ],
+      "countries": [
+        "South Korea"
+      ],
+      "film_year": 2003,
+      "runtime_min": 100,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-09",
+          "time": "1:30 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2004-10-13",
+          "time": "9:15 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "Korean period martial-arts saga of revenge between two former friends.",
+      "cast": [
+        "Cho Jae-hyun",
+        "Choi Min-soo",
+        "Kim Bo-kyung",
+        "Lee Jong-soo"
+      ],
+      "page": 55
+    },
+    {
+      "title": "The Syrian Bride",
+      "original_title": null,
+      "directors": [
+        "Eran Riklis"
+      ],
+      "countries": [
+        "Israel"
+      ],
+      "film_year": 2004,
+      "runtime_min": 97,
+      "language": null,
+      "section": "Official Premiere Selection",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-15",
+          "time": "9:30 PM",
+          "venue": "Regency"
+        },
+        {
+          "date": "2004-10-16",
+          "time": "6:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A Druze bride in the Golan Heights must cross into Syria to marry a man she has never met.",
+      "cast": [
+        "Hiam Abbass",
+        "Makram J. Khoury",
+        "Clara Khoury"
+      ],
+      "page": 55
+    },
+    {
+      "title": "Tainá 2: A New Amazon Adventure",
+      "original_title": "Tainá 2: A Aventura na Amazonia Continua",
+      "directors": [
+        "Mauro Lima"
+      ],
+      "countries": [
+        "Brazil"
+      ],
+      "film_year": 2004,
+      "runtime_min": 79,
+      "language": "Portuguese",
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": "North American Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-09",
+          "time": "2:00 PM",
+          "venue": "Regency"
+        },
+        {
+          "date": "2004-10-15",
+          "time": "4:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A young Amazon girl and her protégé protect jungle animals from poachers.",
+      "cast": [
+        "Eunice Baíe",
+        "Arilene Rodrigues",
+        "Vitor Morossini",
+        "Chris Couto",
+        "Kadu Moliterno"
+      ],
+      "page": 55
+    },
+    {
+      "title": "A Tale of Two Sisters",
+      "original_title": null,
+      "directors": [
+        "Kim Jee-woon"
+      ],
+      "countries": [
+        "South Korea"
+      ],
+      "film_year": 2003,
+      "runtime_min": 114,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-14",
+          "time": "9:30 PM",
+          "venue": "Castro"
+        }
+      ],
+      "summary": "Two sisters returning to their father's country house face a cruel stepmother and ghostly happenings.",
+      "cast": [
+        "Yeom Jeong-a",
+        "Im Soo-jung",
+        "Moon Geun-young",
+        "Kim Kab-su"
+      ],
+      "page": 56
+    },
+    {
+      "title": "Tarnation",
+      "original_title": null,
+      "directors": [
+        "Jonathan Caouette"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2004,
+      "runtime_min": 88,
+      "language": null,
+      "section": "VFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-10",
+          "time": "6:30 PM",
+          "venue": "Regency"
+        },
+        {
+          "date": "2004-10-12",
+          "time": "8:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Autobiographical collage film about the director's childhood and his mentally ill mother, made from home footage.",
+      "cast": [],
+      "page": 56
+    },
+    {
+      "title": "Timbuktoubab",
+      "original_title": null,
+      "directors": [
+        "Markus James"
+      ],
+      "countries": [
+        "Mali",
+        "USA"
+      ],
+      "film_year": 2004,
+      "runtime_min": 54,
+      "language": null,
+      "section": "Official Premiere Selection",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Markus James"
+      ],
+      "screenings": [
+        {
+          "date": "2004-10-09",
+          "time": "8:30 PM",
+          "venue": "142 Throckmorton"
+        },
+        {
+          "date": "2004-10-12",
+          "time": "9:00 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "A Northern California guitarist travels to Mali to play with his idol Ali Farka Toure.",
+      "cast": [],
+      "page": 56
+    },
+    {
+      "title": "Open a Door in Taiwan",
+      "original_title": null,
+      "directors": [],
+      "countries": [
+        "Taiwan",
+        "UK"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Top Hat and Tales",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-10",
+          "time": "10:30 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A Taiwanese puppeteer gets help from his son in an episode of a UK children's series.",
+      "cast": [],
+      "page": 56
+    },
+    {
+      "title": "The Pingu Family at the Wedding Party",
+      "original_title": null,
+      "directors": [
+        "Andrea Schuch",
+        "Emilia Séchy"
+      ],
+      "countries": [
+        "Canada",
+        "Germany",
+        "Switzerland"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Top Hat and Tales",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-10",
+          "time": "10:30 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "The Pingu penguin family attends a wedding, with trouble involving a vacuum cleaner.",
+      "cast": [],
+      "page": 56
+    },
+    {
+      "title": "Our Story",
+      "original_title": null,
+      "directors": [
+        "Blanca X. Aguerre"
+      ],
+      "countries": [
+        "Mexico",
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Top Hat and Tales",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-10",
+          "time": "10:30 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Children of Mexican strawberry workers tell their own story in claymation.",
+      "cast": [],
+      "page": 56
+    },
+    {
+      "title": "Bart, The Doctor",
+      "original_title": null,
+      "directors": [
+        "Andrzej Kukula"
+      ],
+      "countries": [
+        "Poland"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Top Hat and Tales",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-10",
+          "time": "10:30 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "An animated or puppet tale for children from Poland.",
+      "cast": [],
+      "page": 56
+    },
+    {
+      "title": "The Dog Who Was a Cat Inside",
+      "original_title": null,
+      "directors": [
+        "Siri Melchior"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Top Hat and Tales",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-10",
+          "time": "10:30 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "An animated tale for children.",
+      "cast": [],
+      "page": 56
+    },
+    {
+      "title": "The Glass Mountain",
+      "original_title": null,
+      "directors": [
+        "Jacek Adamczak"
+      ],
+      "countries": [
+        "Poland"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Top Hat and Tales",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-10",
+          "time": "10:30 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "An animated or puppet tale for children from Poland.",
+      "cast": [],
+      "page": 56
+    },
+    {
+      "title": "Twine, the Little Shoemaker",
+      "original_title": null,
+      "directors": [
+        "Artur Wrotniewski"
+      ],
+      "countries": [
+        "Poland"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Top Hat and Tales",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-10",
+          "time": "10:30 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "An animated or puppet tale for children from Poland.",
+      "cast": [],
+      "page": 56
+    },
+    {
+      "title": "Undertow",
+      "original_title": null,
+      "directors": [
+        "David Gordon Green"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2004,
+      "runtime_min": 107,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-13",
+          "time": "7:00 PM",
+          "venue": "Regency"
+        },
+        {
+          "date": "2004-10-16",
+          "time": "3:30 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "Two brothers in the rural South flee their murderous uncle while guarding a family treasure.",
+      "cast": [
+        "Dermot Mulroney",
+        "Josh Lucas",
+        "Jamie Bell",
+        "Devon Alan"
+      ],
+      "page": 57
+    },
+    {
+      "title": "Unknown Soldier",
+      "original_title": null,
+      "directors": [
+        "Ferenc Toth"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2004,
+      "runtime_min": 78,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-09",
+          "time": "4:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2004-10-10",
+          "time": "4:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A Harlem teenager faces money and social pressures after his father has an accident.",
+      "cast": [
+        "Carl Louis",
+        "Layla Edwards",
+        "Randy Clark",
+        "Postell Pringle"
+      ],
+      "page": 57
+    },
+    {
+      "title": "Nature's Blueprints",
+      "original_title": null,
+      "directors": [
+        "Mike Seely"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 10,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Vidiot's Delight",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-09",
+          "time": "10:15 AM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "Looks at architect Eugene Tsui's merging of built and natural environments.",
+      "cast": [],
+      "page": 57
+    },
+    {
+      "title": "Birdlings Two",
+      "original_title": null,
+      "directors": [
+        "Davina Pardo"
+      ],
+      "countries": [
+        "Canada",
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 6,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Vidiot's Delight",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-09",
+          "time": "10:15 AM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "The filmmaker explores her father's maverick business career.",
+      "cast": [],
+      "page": 57
+    },
+    {
+      "title": "25 to Life",
+      "original_title": null,
+      "directors": [
+        "Deloss Pickett"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 13,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Vidiot's Delight",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-09",
+          "time": "10:15 AM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "A film urging reconsideration of California's Three Strikes law.",
+      "cast": [],
+      "page": 57
+    },
+    {
+      "title": "I Like It a Lot",
+      "original_title": null,
+      "directors": [
+        "Jay Rosenblatt"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 4,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Vidiot's Delight",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-09",
+          "time": "10:15 AM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "A short, tender film by Jay Rosenblatt.",
+      "cast": [],
+      "page": 57
+    },
+    {
+      "title": "Danceland",
+      "original_title": null,
+      "directors": [
+        "Jeffrey Moneo"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "film_year": null,
+      "runtime_min": 23,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Vidiot's Delight",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-09",
+          "time": "10:15 AM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "A poetic tribute to the Great Western prairies.",
+      "cast": [],
+      "page": 57
+    },
+    {
+      "title": "Wallah Be",
+      "original_title": "Kald Mig Bare Aksel",
+      "directors": [
+        "Pia Bovin"
+      ],
+      "countries": [
+        "Denmark"
+      ],
+      "film_year": 2002,
+      "runtime_min": 85,
+      "language": "Danish",
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-09",
+          "time": "11:30 AM",
+          "venue": "Regency"
+        },
+        {
+          "date": "2004-10-14",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A Danish boy rehearsing for a singing contest becomes fascinated with the older Muslim boys in his town.",
+      "cast": [],
+      "page": 58
+    },
+    {
+      "title": "White Rainbow",
+      "original_title": null,
+      "directors": [
+        "Dharan Mandrayar"
+      ],
+      "countries": [
+        "India"
+      ],
+      "film_year": 2004,
+      "runtime_min": 90,
+      "language": null,
+      "section": "Official Premiere Selection",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-09",
+          "time": "9:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2004-10-10",
+          "time": "6:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Four widows exiled to Vrindavan face abuse and exploitation.",
+      "cast": [
+        "Sonali Kulkarni",
+        "Amardeep Jha",
+        "Amruta Subhash",
+        "Shameez Sheikh",
+        "Virendra Saxena"
+      ],
+      "page": 58
+    },
+    {
+      "title": "Wilderness Survival for Girls",
+      "original_title": null,
+      "directors": [
+        "Eli Despres",
+        "Kim Roberts"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2004,
+      "runtime_min": 80,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-08",
+          "time": "9:15 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2004-10-10",
+          "time": "8:00 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "Three teenage girls at a mountain cabin capture a drifter and face a night of confrontation.",
+      "cast": [
+        "Jeanette Brox",
+        "Megan Henning",
+        "Ali Humiston",
+        "James Morrison"
+      ],
+      "page": 58
+    },
+    {
+      "title": "Winter Solstice",
+      "original_title": null,
+      "directors": [
+        "Josh Sternfeld"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2004,
+      "runtime_min": 90,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-11",
+          "time": "8:45 PM",
+          "venue": "Regency"
+        },
+        {
+          "date": "2004-10-17",
+          "time": "2:15 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "A widowed landscaper and his two sons struggle to recover from loss.",
+      "cast": [
+        "Anthony LaPaglia",
+        "Aaron Stanford",
+        "Mark Webber",
+        "Allison Janney",
+        "Ron Livingston",
+        "Michelle Monaghan"
+      ],
+      "page": 58
+    },
+    {
+      "title": "Witches in Exile",
+      "original_title": null,
+      "directors": [
+        "Allison Berg"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2004,
+      "runtime_min": 79,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-17",
+          "time": "12:00 PM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "Documentary about Ghanaian women accused of witchcraft and banished to remote camps.",
+      "cast": [],
+      "page": 59
+    },
+    {
+      "title": "The Woodsman",
+      "original_title": null,
+      "directors": [
+        "Nicole Kassell"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2004,
+      "runtime_min": 85,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-16",
+          "time": "6:00 PM",
+          "venue": "Regency"
+        },
+        {
+          "date": "2004-10-17",
+          "time": "12:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A convicted child molester released after twelve years in prison struggles to rebuild his life.",
+      "cast": [
+        "Kevin Bacon",
+        "Kyra Sedgwick",
+        "Eve",
+        "Mos Def",
+        "David Alan Grier",
+        "Benjamin Bratt"
+      ],
+      "page": 59
+    },
+    {
+      "title": "Yoshino's Barber Shop",
+      "original_title": "Barber Yoshino",
+      "directors": [
+        "Naoko Ogigami"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "film_year": 2003,
+      "runtime_min": 96,
+      "language": "Japanese",
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-12",
+          "time": "4:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Boys in a small Japanese town rebel against the barber who gives every boy the same bowl cut.",
+      "cast": [
+        "Masako Motai",
+        "Ryo Yoneda",
+        "Kazuyuki Asano",
+        "Senri Sakurai"
+      ],
+      "page": 59
+    },
+    {
+      "title": "Yotama Flies Away",
+      "original_title": "Yotama se va volando",
+      "directors": [
+        "Luis Armando Roche"
+      ],
+      "countries": [
+        "Venezuela"
+      ],
+      "film_year": 2003,
+      "runtime_min": 90,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-08",
+          "time": "9:45 PM",
+          "venue": "Regency"
+        },
+        {
+          "date": "2004-10-09",
+          "time": "6:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A novice robber takes three hostages in Caracas and a strange makeshift family forms.",
+      "cast": [
+        "Beatriz Vázquez",
+        "Asdrúbal Meléndez",
+        "Edgar Ramirez",
+        "Martha Tarrazona",
+        "Oriana Meléndez"
+      ],
+      "page": 59
+    },
+    {
+      "title": "Zafir",
+      "original_title": null,
+      "directors": [
+        "Malene Vilstrup"
+      ],
+      "countries": [
+        "Denmark"
+      ],
+      "film_year": 2003,
+      "runtime_min": 90,
+      "language": "Danish",
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-17",
+          "time": "11:00 AM",
+          "venue": "Regency"
+        }
+      ],
+      "summary": "After her sister dies in a riding accident, a girl and a refugee orphan bond over the family's horse.",
+      "cast": [
+        "Rose Marie Hermannsen",
+        "Katrine Schnoor",
+        "Henrik Lykkegaard",
+        "Claus Bue",
+        "Charlotte Munksgaard"
+      ],
+      "page": 60
+    },
+    {
+      "title": "Zaman, the Man from the Reeds",
+      "original_title": "Zaman, l'Homme des Roseaux",
+      "directors": [
+        "Amer Alwan"
+      ],
+      "countries": [
+        "Iraq"
+      ],
+      "film_year": 2004,
+      "runtime_min": 77,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-11",
+          "time": "9:00 PM",
+          "venue": "Regency"
+        },
+        {
+          "date": "2004-10-13",
+          "time": "9:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A marsh-dwelling Iraqi peasant travels to Baghdad to find medicine for his sick wife before the Iraq War.",
+      "cast": [
+        "Sami Kaftan",
+        "Shadha Salim",
+        "Hussein Imad",
+        "Saadiya Al Zaydi"
+      ],
+      "page": 60
+    },
+    {
+      "title": "Zohre and Manouchehr",
+      "original_title": null,
+      "directors": [
+        "Mitra Farahani"
+      ],
+      "countries": [
+        "Iran",
+        "France"
+      ],
+      "film_year": 2004,
+      "runtime_min": 70,
+      "language": null,
+      "section": "Official Premiere Selection",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-10",
+          "time": "8:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2004-10-11",
+          "time": "6:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Documentary on Iranian attitudes to women's sexuality, set against a classical Persian love poem.",
+      "cast": [],
+      "page": 60
+    },
+    {
+      "title": "The Ladies' Room",
+      "original_title": null,
+      "directors": [
+        "Mahnaz Afzali"
+      ],
+      "countries": [
+        "Iran"
+      ],
+      "film_year": 2003,
+      "runtime_min": 55,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-10",
+          "time": "8:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2004-10-11",
+          "time": "6:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Documentary filmed in a Tehran park's women's restroom where women share advice and troubles.",
+      "cast": [],
+      "page": 60
+    },
+    {
+      "title": "Gumby Dharma",
+      "original_title": null,
+      "directors": [
+        "Robina Marchesi"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": null,
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2004-10-16",
+          "time": "3:00 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": null,
+      "cast": [],
+      "page": 63
+    }
+  ],
+  "events": [
+    {
+      "title": "Opening Night Gala",
+      "kind": "party",
+      "date": "2004-10-07",
+      "time": "9:00 PM",
+      "venue": "Mill Valley Community Center",
+      "people": [],
+      "related_films": [
+        "Finding Neverland",
+        "I Heart Huckabees"
+      ],
+      "summary": "Opening-night party with food, drinks and live bands after the two opening films.",
+      "page": 31
+    },
+    {
+      "title": "Spotlight on Laura Linney",
+      "kind": "spotlight",
+      "date": "2004-10-08",
+      "time": "6:45 PM",
+      "venue": "Regency",
+      "people": [
+        {
+          "name": "Laura Linney",
+          "role": "honoree"
+        },
+        {
+          "name": "Bill Condon",
+          "role": "speaker"
+        }
+      ],
+      "related_films": [
+        "P.S.",
+        "Kinsey"
+      ],
+      "summary": "Laura Linney is interviewed before P.S. and takes questions after Kinsey with Bill Condon, followed by a reception at the Outdoor Art Club.",
+      "page": 32
+    },
+    {
+      "title": "Tribute to Albert Maysles",
+      "kind": "tribute",
+      "date": "2004-10-11",
+      "time": "6:30 PM",
+      "venue": "Rafael",
+      "people": [
+        {
+          "name": "Albert Maysles",
+          "role": "honoree"
+        }
+      ],
+      "related_films": [
+        "Grey Gardens"
+      ],
+      "summary": "On-stage interview and clips honoring documentarian Albert Maysles, a screening of Grey Gardens and a reception at Events Ondine in Sausalito.",
+      "page": 17
+    },
+    {
+      "title": "Tribute to Mike Leigh",
+      "kind": "tribute",
+      "date": "2004-10-12",
+      "time": "6:30 PM",
+      "venue": "Rafael",
+      "people": [
+        {
+          "name": "Mike Leigh",
+          "role": "honoree"
+        },
+        {
+          "name": "David Thomson",
+          "role": "moderator"
+        },
+        {
+          "name": "Imelda Staunton",
+          "role": "speaker"
+        }
+      ],
+      "related_films": [
+        "Vera Drake"
+      ],
+      "summary": "Interview with Mike Leigh by critic David Thomson, clips and a screening of Vera Drake, then a reception at The Depot in Mill Valley.",
+      "page": 20
+    },
+    {
+      "title": "Tribute to Gena Rowlands",
+      "kind": "tribute",
+      "date": "2004-10-14",
+      "time": "6:30 PM",
+      "venue": "Rafael",
+      "people": [
+        {
+          "name": "Gena Rowlands",
+          "role": "honoree"
+        },
+        {
+          "name": "Edward Guthmann",
+          "role": "moderator"
+        }
+      ],
+      "related_films": [
+        "Gloria"
+      ],
+      "summary": "Interview with Gena Rowlands by Edward Guthmann, clips and a screening of Gloria, followed by dinner at Frantoio Ristorante.",
+      "page": 23
+    },
+    {
+      "title": "Closing Night Party with the Lightning in a Bottle Blues Band",
+      "kind": "party",
+      "date": "2004-10-17",
+      "time": "7:30 PM",
+      "venue": "Osher/Marin Jewish Community Center, San Rafael",
+      "people": [
+        {
+          "name": "Lightning in a Bottle Blues Band",
+          "role": "performer"
+        }
+      ],
+      "related_films": [
+        "Lightning in a Bottle",
+        "Imaginary Heroes"
+      ],
+      "summary": "Wrap party with food and drink and a one-time all-star blues band of local musicians and guests from the closing film, presented with ActiveMusic.",
+      "page": 33
+    },
+    {
+      "title": "Stella Artois Daily Happy Hour",
+      "kind": "party",
+      "date": "2004-10-08",
+      "time": "5:00 PM",
+      "venue": "Rafael",
+      "people": [],
+      "related_films": [],
+      "summary": "Daily hospitality-suite happy hour from October 8 to 16, except opening and closing nights.",
+      "page": 9
+    },
+    {
+      "title": "Children's FilmFest Opening Celebration",
+      "kind": "party",
+      "date": "2004-10-09",
+      "time": "11:00 AM",
+      "venue": "Outdoor Art Club, Mill Valley",
+      "people": [],
+      "related_films": [
+        "Tainá 2: A New Amazon Adventure"
+      ],
+      "summary": "Family party with refreshments, balloons, face painting and a stage comedy show around the North American premiere of Tainá 2.",
+      "page": 8
+    },
+    {
+      "title": "Children's FilmFest Ice Cream Social",
+      "kind": "party",
+      "date": "2004-10-16",
+      "time": "2:00 PM",
+      "venue": "Court Street Plaza, San Rafael",
+      "people": [],
+      "related_films": [],
+      "summary": "Free ice cream and treats for holders of a Children's FilmFest ticket stub.",
+      "page": 8
+    },
+    {
+      "title": "Live at the Sweetwater: Markus James and the Wassonrai",
+      "kind": "music",
+      "date": "2004-10-12",
+      "time": "9:00 PM",
+      "venue": "Sweetwater, Mill Valley",
+      "people": [
+        {
+          "name": "Markus James",
+          "role": "performer"
+        }
+      ],
+      "related_films": [
+        "Timbuktoubab"
+      ],
+      "summary": "Concert mixing American blues with Malian music by the guitarist featured in Timbuktoubab.",
+      "page": 10
+    },
+    {
+      "title": "Live at the Sweetwater: The Blues Divas Show",
+      "kind": "music",
+      "date": "2004-10-13",
+      "time": "9:00 PM",
+      "venue": "Sweetwater, Mill Valley",
+      "people": [
+        {
+          "name": "Sugar Pie DeSanto",
+          "role": "performer"
+        }
+      ],
+      "related_films": [
+        "Blues Divas: Bettye Lavette",
+        "Blues Divas: Odetta"
+      ],
+      "summary": "A blues concert featuring Sugar Pie DeSanto, tied to the Blues Divas films.",
+      "page": 10
+    },
+    {
+      "title": "Markus James performance after Timbuktoubab",
+      "kind": "music",
+      "date": "2004-10-09",
+      "time": "8:30 PM",
+      "venue": "142 Throckmorton",
+      "people": [
+        {
+          "name": "Markus James",
+          "role": "performer"
+        }
+      ],
+      "related_films": [
+        "Timbuktoubab"
+      ],
+      "summary": "Markus James performs after the October 9 screening of Timbuktoubab.",
+      "page": 56
+    },
+    {
+      "title": "The Relief of Comedy: Will Durst Live!",
+      "kind": "other",
+      "date": "2004-10-15",
+      "time": "8:00 PM",
+      "venue": "142 Throckmorton",
+      "people": [
+        {
+          "name": "Will Durst",
+          "role": "performer"
+        }
+      ],
+      "related_films": [],
+      "summary": "Political comedian Will Durst performs stand-up on October 15 and 16, presented by 142 Throckmorton Theatre with the festival.",
+      "page": 10
+    },
+    {
+      "title": "New Movies Lab: The Future of Independent Film in a Global Corporate Economy",
+      "kind": "panel",
+      "date": "2004-10-09",
+      "time": "11:00 AM",
+      "venue": "Rafael",
+      "people": [
+        {
+          "name": "Finn Taylor",
+          "role": "panelist"
+        },
+        {
+          "name": "Peter Riegert",
+          "role": "panelist"
+        },
+        {
+          "name": "Gary Meyer",
+          "role": "panelist"
+        },
+        {
+          "name": "Richard Guardian",
+          "role": "panelist"
+        },
+        {
+          "name": "Peter Belsito",
+          "role": "moderator"
+        }
+      ],
+      "related_films": [],
+      "summary": "Industry panel on the business of specialty film distribution and exhibition.",
+      "page": 29
+    },
+    {
+      "title": "New Movies Lab: 21st Century Cinema",
+      "kind": "panel",
+      "date": "2004-10-10",
+      "time": "3:00 PM",
+      "venue": "142 Throckmorton",
+      "people": [
+        {
+          "name": "Cindy Baer",
+          "role": "panelist"
+        },
+        {
+          "name": "Celeste Davis",
+          "role": "panelist"
+        },
+        {
+          "name": "Rob Nilsson",
+          "role": "panelist"
+        },
+        {
+          "name": "Robert M. Young",
+          "role": "panelist"
+        },
+        {
+          "name": "Jonathan Caouette",
+          "role": "panelist"
+        },
+        {
+          "name": "Wendy Levy",
+          "role": "moderator"
+        }
+      ],
+      "related_films": [
+        "Purgatory House",
+        "SAMT",
+        "Human Error",
+        "Tarnation"
+      ],
+      "summary": "Filmmakers discuss new directions in the look and storytelling of contemporary cinema.",
+      "page": 29
+    },
+    {
+      "title": "New Movies Lab: Master Class with Albert Maysles",
+      "kind": "seminar",
+      "date": "2004-10-10",
+      "time": "4:00 PM",
+      "venue": "Rafael",
+      "people": [
+        {
+          "name": "Albert Maysles",
+          "role": "speaker"
+        }
+      ],
+      "related_films": [],
+      "summary": "Albert Maysles talks about his past and current documentary projects with time for discussion.",
+      "page": 29
+    },
+    {
+      "title": "New Movies Lab: Artists and Activists",
+      "kind": "panel",
+      "date": "2004-10-16",
+      "time": "11:00 AM",
+      "venue": "142 Throckmorton",
+      "people": [
+        {
+          "name": "Bill Jersey",
+          "role": "panelist"
+        },
+        {
+          "name": "Deborah Koons Garcia",
+          "role": "panelist"
+        },
+        {
+          "name": "Robert Scheer",
+          "role": "panelist"
+        },
+        {
+          "name": "Richard Peterson",
+          "role": "moderator"
+        }
+      ],
+      "related_films": [
+        "The Future of Food"
+      ],
+      "summary": "Panel on artists who use their work for political activism.",
+      "page": 29
+    },
+    {
+      "title": "Script to Screen: Young Filmmakers' Workshop",
+      "kind": "workshop",
+      "date": "2004-10-09",
+      "time": "10:00 AM",
+      "venue": "Art Works Downtown Annex, San Rafael",
+      "people": [],
+      "related_films": [],
+      "summary": "Full-day workshop in which children aged 8 to 13 make their own fiction film.",
+      "page": 28
+    },
+    {
+      "title": "What's Up? Docs!",
+      "kind": "workshop",
+      "date": "2004-10-10",
+      "time": "10:00 AM",
+      "venue": "Art Works Downtown Annex, San Rafael",
+      "people": [],
+      "related_films": [],
+      "summary": "Full-day workshop teaching children aged 8 to 13 how to make a documentary.",
+      "page": 28
+    },
+    {
+      "title": "Propaganda: The Medium Is the Message - Digital Video Workshop for Teens",
+      "kind": "workshop",
+      "date": "2004-10-09",
+      "time": "10:00 AM",
+      "venue": "Intel Computer Clubhouse, San Rafael",
+      "people": [],
+      "related_films": [],
+      "summary": "Four-day workshop (October 9, 10, 16 and 17) in which teens aged 14 to 18 create political ads.",
+      "page": 28
+    },
+    {
+      "title": "Kids Workshop",
+      "kind": "workshop",
+      "date": "2004-10-16",
+      "time": "1:30 PM",
+      "venue": "Rafael",
+      "people": [],
+      "related_films": [],
+      "summary": "Children's workshop listed in the screening grid without further details.",
+      "page": 63
+    }
+  ],
+  "awards": [],
+  "staff": [
+    {
+      "name": "Mark Fishkin",
+      "role": "Founder and Director"
+    },
+    {
+      "name": "Zoë Elton",
+      "role": "Director of Programming"
+    },
+    {
+      "name": "Robina Marchesi",
+      "role": "Director of Operations"
+    },
+    {
+      "name": "Cheryl Moody",
+      "role": "Director of Operations"
+    },
+    {
+      "name": "Mike Davis",
+      "role": "Marketing and Publications"
+    },
+    {
+      "name": "John Morrison",
+      "role": "Outreach and Education"
+    },
+    {
+      "name": "JoAnn Hastings",
+      "role": "Executive Assistant"
+    },
+    {
+      "name": "Connie Chang",
+      "role": "Finance Manager"
+    },
+    {
+      "name": "Dennis Scheyer",
+      "role": "Creative Consultant"
+    },
+    {
+      "name": "Atissa Manshouri",
+      "role": "Development, Corporate"
+    },
+    {
+      "name": "Kim Bender",
+      "role": "Major Gifts"
+    },
+    {
+      "name": "Lori Branson Malm",
+      "role": "Membership"
+    },
+    {
+      "name": "Trinity West",
+      "role": "Sponsorship Assistant"
+    },
+    {
+      "name": "Robina Marchesi",
+      "role": "Festival Manager"
+    },
+    {
+      "name": "Cheryl Moody",
+      "role": "Festival Manager"
+    },
+    {
+      "name": "Juliet Michele Lanfried",
+      "role": "Festival Assistant"
+    },
+    {
+      "name": "Paul Hegarty",
+      "role": "Logistics"
+    },
+    {
+      "name": "Patrick Argast",
+      "role": "Photography Coordinator"
+    },
+    {
+      "name": "Keith Zwolfer",
+      "role": "Volunteer Coordinator"
+    },
+    {
+      "name": "Beth Spotswood",
+      "role": "Volunteer Assistant"
+    },
+    {
+      "name": "Joni Cooper",
+      "role": "Filmmaker Liaison"
+    },
+    {
+      "name": "Kim Stevens",
+      "role": "Hospitality"
+    },
+    {
+      "name": "Molli Amara Simon",
+      "role": "Transportation"
+    },
+    {
+      "name": "Karen Davis",
+      "role": "Senior Programmer"
+    },
+    {
+      "name": "Janis Plotkin",
+      "role": "Programmer"
+    },
+    {
+      "name": "Kelly Clement",
+      "role": "Programmer"
+    },
+    {
+      "name": "John Morrison",
+      "role": "Programmer"
+    },
+    {
+      "name": "Jennifer Schmidt",
+      "role": "Researcher/Programmer"
+    },
+    {
+      "name": "Steven Reder",
+      "role": "Programming Administrator"
+    },
+    {
+      "name": "Jason O'Mahony",
+      "role": "Programming Assistant"
+    },
+    {
+      "name": "Maïa Cybelle Carpenter",
+      "role": "Programming Assistant"
+    },
+    {
+      "name": "Joanne Parsont",
+      "role": "Children's Workshop Coordinator"
+    },
+    {
+      "name": "Amy Corbin",
+      "role": "New Movies Lab Coordinator"
+    },
+    {
+      "name": "Jennifer Bauman",
+      "role": "Print Traffic Coordinator"
+    },
+    {
+      "name": "Elizabeth Nord",
+      "role": "Print Traffic Assistant"
+    },
+    {
+      "name": "Allen White",
+      "role": "Theater Operations"
+    },
+    {
+      "name": "Joanne Parsont",
+      "role": "Managing Editor"
+    },
+    {
+      "name": "Carrie Pickett",
+      "role": "Copy Editor"
+    },
+    {
+      "name": "Kenneth Lockerbie",
+      "role": "Graphic Designer"
+    },
+    {
+      "name": "Pam Hamilton",
+      "role": "Senior Publicist"
+    },
+    {
+      "name": "Karen Larsen",
+      "role": "Senior Publicist"
+    },
+    {
+      "name": "Chris Wiggum",
+      "role": "Publicist"
+    },
+    {
+      "name": "Timothy Buckwalter",
+      "role": "Publicist"
+    },
+    {
+      "name": "Richard Peterson",
+      "role": "Director of Programming, Smith Rafael Film Center"
+    },
+    {
+      "name": "Marcus McWaters",
+      "role": "Technical Director"
+    }
+  ],
+  "notes": "Venue names in screenings: Rafael = Christopher B. Smith Rafael Film Center, Regency = Century Regency, Century Cinema = Century Cinema Corte Madera, Castro = Castro Theatre, 142 Throckmorton = 142 Throckmorton Theatre. The PDF holds only part of the printed programme (printed pages 1-160 with gaps; ads and many sponsor pages absent). Film 'section' uses the section lists on pp.65-68 (Official Premiere Selection preferred when a film is in two lists); films absent from every list have section null. Shorts programmes (5@5, The Dark Side of the 'Toon, The Best of Sports Shorts, Vidiot's Delight, youth reel, Let's Play, Top Hat and Tales) are split into individual short records sharing the programme's screenings; programme-level runtimes not stored. Merged duplicates: The Critical Path (5@5: I'm Movin' On / Vidiot's Delight); Ryan (The Dark Side of the 'Toon / Vidiot's Delight) (shorts_program keeps the first programme). Vera Drake's Oct 14 Regency screening comes from the calendar grid only. Companion shorts screened with features (Confessions of an Old Teddy, My Brother Nathaniel, Punjabi Cab, The Ladies' Room) carry the feature's screenings; The Ladies' Room (55 min) is not a short by runtime and is recorded as a feature. Citizen Stan and Professional Revolutionary screened as a double bill. Gumby Dharma (dir. Robina Marchesi, USA per indexes) appears only in the calendar grid (Oct 16 3pm Throckmorton) with no description; summary null. Hi De Ho Show has no credits or runtime. Four 'TBA Screening' slots on Oct 16-17 are not recorded. Uncertain readings: Story Undone's second date is printed 'Sunday Oct 13' (Oct 13 2004 was a Wednesday; the grid confirms Wednesday Oct 13). Grey Gardens credit prints 'Ellen Horde'; the essay and filmmaker index give Ellen Hovde (used). The Chorus director printed both 'Christopher' and 'Christophe' Barratier (Christophe used). Day Off the Dead co-director printed 'Jeffrey Davis' in the description and 'Jeffrey Dates' in the index. The title index lists 'Let's Play in Morocco' but the description and filmmaker index say Kosovo. Ganges Oct 15 code says 'S' but venue printed Raf. The Big Red One: The Reconstruction is dated 1980/2004 (film_year null); The Grateful Dead Movie is 1977/2004 (1977 used), its premiere is the restored re-release. Shorts' countries come from the Films by Country index where listed. I Heart Huckabees is printed 'I ` Huckabees' (heart glyph lost in extraction). Youth reel titles 'Urban Frankenstein and Bloodlust' treated as two shorts. Only 14 of the 15 youth-reel shorts are named. No festival awards are printed in this programme (only past awards such as Venice and Berlin prizes mentioned in film notes), so awards is empty. Staff list is from the Festival Staff page; board, sponsors, members and acknowledgments were skipped."
+}

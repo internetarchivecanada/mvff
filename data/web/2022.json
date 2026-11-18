@@ -1,0 +1,2551 @@
+{
+ "year": 2022,
+ "edition": 45,
+ "source": "web",
+ "films": [
+  {
+   "title": "Alcarràs",
+   "directors": [
+    "Carla Simón"
+   ],
+   "countries": [
+    "Italy",
+    "Spain"
+   ],
+   "film_year": 2022,
+   "runtime_min": 120,
+   "cast": [
+    "Jordi Pujol Dolcet",
+    "Anna Otín",
+    "Berta Pipó",
+    "Xenia Roset"
+   ],
+   "section": "World Cinema",
+   "language": "Catalan, Spanish",
+   "screenings": [
+    {
+     "date": "2022-10-10",
+     "time": "2:00 PM",
+     "venue": "Rafael 1"
+    },
+    {
+     "date": "2022-10-13",
+     "time": "7:00 PM",
+     "venue": "BAMPFA"
+    }
+   ],
+   "url": "https://www.mvff.com/events/alcarras/",
+   "is_short": false
+  },
+  {
+   "title": "Argentina, 1985",
+   "directors": [
+    "Santiago Mitre"
+   ],
+   "countries": [
+    "Argentina"
+   ],
+   "film_year": 2022,
+   "runtime_min": 140,
+   "cast": [
+    "Ricardo Darín",
+    "Peter Lanzani",
+    "Alejandra Flechner"
+   ],
+   "section": "World Cinema",
+   "language": "Spanish",
+   "screenings": [
+    {
+     "date": "2022-10-10",
+     "time": "6:45 PM",
+     "venue": "Rafael 1"
+    },
+    {
+     "date": "2022-10-11",
+     "time": "11:00 AM",
+     "venue": "Rafael 3"
+    }
+   ],
+   "url": "https://www.mvff.com/events/argentina-1985/",
+   "is_short": false
+  },
+  {
+   "title": "Armageddon Time",
+   "directors": [
+    "James Gray"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "film_year": 2022,
+   "runtime_min": 115,
+   "cast": [
+    "Banks Repata",
+    "Jaylin Webb",
+    "Anne Hathaway",
+    "Jeremy Strong",
+    "Anthony Hopkins"
+   ],
+   "section": "Big Nights, Us Cinema",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-08",
+     "time": "6:30 PM",
+     "venue": "Rafael 1"
+    }
+   ],
+   "url": "https://www.mvff.com/events/armageddon-time/",
+   "is_short": false
+  },
+  {
+   "title": "Bardo, False Chronicle of a Handful of Truths",
+   "directors": [
+    "Alejandro González Iñárritu"
+   ],
+   "countries": [
+    "Mexico"
+   ],
+   "film_year": 2022,
+   "runtime_min": 161,
+   "cast": [
+    "Daniel Giménez Cacho",
+    "Hugo Albores",
+    "Andrés Almeida",
+    "Misha Arias De La Cantolla"
+   ],
+   "section": "Big Nights, World Cinema",
+   "language": "Spanish",
+   "screenings": [
+    {
+     "date": "2022-10-14",
+     "time": "6:00 PM",
+     "venue": "Rafael 1"
+    }
+   ],
+   "url": "https://www.mvff.com/events/bardo/",
+   "is_short": false
+  },
+  {
+   "title": "Body Parts",
+   "directors": [
+    "Kristy Guevara-Flanagan"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "film_year": 2022,
+   "runtime_min": 86,
+   "cast": [
+    "Jane Fonda",
+    "Joey Soloway",
+    "Angela Robinson",
+    "Karyn Kusama",
+    "Rose McGowan",
+    "David Simon"
+   ],
+   "section": "Docs",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-08",
+     "time": "3:00 PM",
+     "venue": "Lark Theater"
+    },
+    {
+     "date": "2022-10-09",
+     "time": "4:00 PM",
+     "venue": "Rafael 3"
+    }
+   ],
+   "url": "https://www.mvff.com/events/body-parts/",
+   "is_short": false
+  },
+  {
+   "title": "Bonnie Blue: James Cotton’s Life in the Blues",
+   "directors": [
+    "Bestor Cram"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "film_year": 2022,
+   "runtime_min": 86,
+   "cast": [
+    "James Cotton",
+    "Buddy Guy",
+    "Billy Branch",
+    "Steve Miller"
+   ],
+   "section": "Docs",
+   "language": "English",
+   "screenings": [
+    {
+     "date": "2022-10-12",
+     "time": "3:00 PM",
+     "venue": "Sequoia 2"
+    },
+    {
+     "date": "2022-10-15",
+     "time": "4:00 PM",
+     "venue": "Rafael 3"
+    }
+   ],
+   "url": "https://www.mvff.com/events/bonnie-blue-james-cottons-life-in-the-blues/",
+   "is_short": false
+  },
+  {
+   "title": "Boy from Heaven",
+   "directors": [
+    "Tarik Saleh"
+   ],
+   "countries": [
+    "Sweden"
+   ],
+   "film_year": 2022,
+   "runtime_min": 125,
+   "cast": [
+    "Tawfeek Barhom",
+    "Fares Fares"
+   ],
+   "section": "World Cinema",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-15",
+     "time": "3:15 PM",
+     "venue": "Sequoia 2"
+    },
+    {
+     "date": "2022-10-16",
+     "time": "12:00 PM",
+     "venue": "Rafael 3"
+    }
+   ],
+   "url": "https://www.mvff.com/events/boy-from-heaven/",
+   "is_short": false
+  },
+  {
+   "title": "Broker",
+   "directors": [
+    "Hirokazu Kore-eda"
+   ],
+   "countries": [
+    "South Korea"
+   ],
+   "film_year": 2022,
+   "runtime_min": 129,
+   "cast": [
+    "Song Kang-ho",
+    "Gang Dong-won",
+    "Lee Ji-eun"
+   ],
+   "section": "World Cinema",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-08",
+     "time": "7:00 PM",
+     "venue": "BAMPFA"
+    },
+    {
+     "date": "2022-10-13",
+     "time": "4:00 PM",
+     "venue": "Rafael 3"
+    }
+   ],
+   "url": "https://www.mvff.com/events/broker/",
+   "is_short": false
+  },
+  {
+   "title": "Call Jane",
+   "directors": [
+    "Phyllis Nagy"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "film_year": 2022,
+   "runtime_min": 121,
+   "cast": [
+    "Elizabeth Banks",
+    "Sigourney Weaver",
+    "Kate Mara",
+    "Chris Messina"
+   ],
+   "section": "Us Cinema",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-08",
+     "time": "2:45 PM",
+     "venue": "Rafael 1"
+    },
+    {
+     "date": "2022-10-09",
+     "time": "12:00 PM",
+     "venue": "Lark Theater"
+    }
+   ],
+   "url": "https://www.mvff.com/events/call-jane/",
+   "is_short": false
+  },
+  {
+   "title": "Causeway",
+   "directors": [
+    "Lila Neugebauer"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "film_year": 2022,
+   "runtime_min": 92,
+   "cast": [
+    "Jennifer Lawrence",
+    "Brian Tyree Henry"
+   ],
+   "section": "Us Cinema",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-14",
+     "time": "7:00 PM",
+     "venue": "Sequoia 1"
+    },
+    {
+     "date": "2022-10-16",
+     "time": "12:00 PM",
+     "venue": "Sequoia 2"
+    }
+   ],
+   "url": "https://www.mvff.com/events/causeway/",
+   "is_short": false
+  },
+  {
+   "title": "Charcoal (carvão)",
+   "directors": [
+    "Carolina Markowicz"
+   ],
+   "countries": [
+    "Argentina",
+    "Brazil"
+   ],
+   "film_year": 2022,
+   "runtime_min": 107,
+   "cast": [
+    "Maeve Jinkings",
+    "Rômulo Braga"
+   ],
+   "section": "World Cinema",
+   "language": "Brazilian Portuguese, Spanish",
+   "screenings": [],
+   "url": "https://www.mvff.com/events/charcoal/",
+   "is_short": false
+  },
+  {
+   "title": "Chile 1976",
+   "directors": [
+    "Manuela Martelli"
+   ],
+   "countries": [
+    "Argentina",
+    "Chile",
+    "Qatar"
+   ],
+   "film_year": null,
+   "runtime_min": 95,
+   "cast": [
+    "Aline Küppenheim",
+    "Nicolás Sepúlveda",
+    "Hugo Medina",
+    "Alejandro Goic"
+   ],
+   "section": "World Cinema",
+   "language": "Spanish",
+   "screenings": [
+    {
+     "date": "2022-10-08",
+     "time": "7:00 PM",
+     "venue": "Rafael 3"
+    },
+    {
+     "date": "2022-10-13",
+     "time": "2:30 PM",
+     "venue": "Rafael 2"
+    }
+   ],
+   "url": "https://www.mvff.com/events/chile-1976/",
+   "is_short": false
+  },
+  {
+   "title": "Close",
+   "directors": [
+    "Lukas Dhont"
+   ],
+   "countries": [
+    "Belgium",
+    "France",
+    "Netherlands"
+   ],
+   "film_year": 2022,
+   "runtime_min": 105,
+   "cast": [
+    "Eden Dambrine",
+    "Gustav De Waele",
+    "Émilie Dequenne",
+    "Léa Drucker"
+   ],
+   "section": "World Cinema",
+   "language": "Dutch, Flemish, French",
+   "screenings": [
+    {
+     "date": "2022-10-14",
+     "time": "6:00 PM",
+     "venue": "Sequoia 2"
+    },
+    {
+     "date": "2022-10-15",
+     "time": "8:00 PM",
+     "venue": "Rafael 3"
+    }
+   ],
+   "url": "https://www.mvff.com/events/close/",
+   "is_short": false
+  },
+  {
+   "title": "Corsage",
+   "directors": [
+    "Marie Kreutzer"
+   ],
+   "countries": [
+    "Austria",
+    "France",
+    "Germany",
+    "Luxembourg"
+   ],
+   "film_year": 2022,
+   "runtime_min": 113,
+   "cast": [
+    "Vicky Krieps",
+    "Colin Morgan",
+    "Florian Teichtmeiste"
+   ],
+   "section": "World Cinema",
+   "language": "German, French, English, Hungarian",
+   "screenings": [
+    {
+     "date": "2022-10-09",
+     "time": "1:30 PM",
+     "venue": "Rafael 1"
+    },
+    {
+     "date": "2022-10-15",
+     "time": "7:00 PM",
+     "venue": "Lark Theater"
+    }
+   ],
+   "url": "https://www.mvff.com/events/corsage/",
+   "is_short": false
+  },
+  {
+   "title": "Decision to Leave",
+   "directors": [
+    "Park Chan-wook"
+   ],
+   "countries": [
+    "South Korea"
+   ],
+   "film_year": 2022,
+   "runtime_min": 138,
+   "cast": [
+    "Park Hae-il",
+    "Tang Wei",
+    "Go Kyung-Pyo"
+   ],
+   "section": "World Cinema",
+   "language": "Korean",
+   "screenings": [
+    {
+     "date": "2022-10-09",
+     "time": "6:00 PM",
+     "venue": "Rafael 2"
+    },
+    {
+     "date": "2022-10-16",
+     "time": "7:00 PM",
+     "venue": "BAMPFA"
+    }
+   ],
+   "url": "https://www.mvff.com/events/decision-to-leave/",
+   "is_short": false
+  },
+  {
+   "title": "Deconstructing Karen",
+   "directors": [
+    "Patty Ivins Spect"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "film_year": 2022,
+   "runtime_min": 73,
+   "cast": [],
+   "section": "Docs",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-09",
+     "time": "1:45 PM",
+     "venue": "Sequoia 2"
+    },
+    {
+     "date": "2022-10-11",
+     "time": "3:00 PM",
+     "venue": "Rafael 2"
+    }
+   ],
+   "url": "https://www.mvff.com/events/deconstructing-karen/",
+   "is_short": false
+  },
+  {
+   "title": "Descendant",
+   "directors": [
+    "Margaret Brown"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "film_year": 2022,
+   "runtime_min": 108,
+   "cast": [],
+   "section": "Docs",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-08",
+     "time": "3:00 PM",
+     "venue": "Rafael 2"
+    },
+    {
+     "date": "2022-10-09",
+     "time": "7:00 PM",
+     "venue": "Rafael 3"
+    }
+   ],
+   "url": "https://www.mvff.com/events/descendant/",
+   "is_short": false
+  },
+  {
+   "title": "Elemental: Reimagining Our Relationship with Wildfire",
+   "directors": [
+    "Trip Jennings"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "film_year": 2022,
+   "runtime_min": 79,
+   "cast": [
+    "David Oyelowo",
+    "Dr. Jack Cohen",
+    "Dr. Beverly Law"
+   ],
+   "section": "Docs",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-14",
+     "time": "7:15 PM",
+     "venue": "Lark Theater"
+    },
+    {
+     "date": "2022-10-15",
+     "time": "2:00 PM",
+     "venue": "Sequoia 1"
+    }
+   ],
+   "url": "https://www.mvff.com/events/elemental-reimagining-our-relationship-with-wildfire/",
+   "is_short": false
+  },
+  {
+   "title": "Empire of Light",
+   "directors": [
+    "Sam Mendes"
+   ],
+   "countries": [],
+   "film_year": 2022,
+   "runtime_min": 119,
+   "cast": [
+    "Olivia Colman",
+    "Colin Firth",
+    "Toby Jones",
+    "Micheal Ward"
+   ],
+   "section": "World Cinema",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-13",
+     "time": "12:00 PM",
+     "venue": "Sequoia 2"
+    }
+   ],
+   "url": "https://www.mvff.com/events/empire-of-light/",
+   "is_short": false
+  },
+  {
+   "title": "Eo",
+   "directors": [
+    "Jerzy Skolimowski"
+   ],
+   "countries": [
+    "Italy",
+    "Poland"
+   ],
+   "film_year": 2022,
+   "runtime_min": 86,
+   "cast": [
+    "Sandra Drzymalska",
+    "Lorenzo Zurzolo",
+    "Mateusz Kościukiewicz",
+    "Isabelle Huppert"
+   ],
+   "section": "World Cinema",
+   "language": "Polish, Italian, English, French",
+   "screenings": [
+    {
+     "date": "2022-10-12",
+     "time": "2:00 PM",
+     "venue": "Rafael 1"
+    },
+    {
+     "date": "2022-10-16",
+     "time": "2:00 PM",
+     "venue": "Sequoia 1"
+    }
+   ],
+   "url": "https://www.mvff.com/events/eo/",
+   "is_short": false
+  },
+  {
+   "title": "Erin’s Guide to Kissing Girls",
+   "directors": [
+    "Julianna Notten"
+   ],
+   "countries": [
+    "Canada"
+   ],
+   "film_year": 2022,
+   "runtime_min": 89,
+   "cast": [
+    "Elliot Stocking",
+    "Rosali Annikie",
+    "Jesyca Gu"
+   ],
+   "section": "Family Films",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-14",
+     "time": "4:00 PM",
+     "venue": "Sequoia 1"
+    },
+    {
+     "date": "2022-10-15",
+     "time": "2:00 PM",
+     "venue": "Lark Theater"
+    }
+   ],
+   "url": "https://www.mvff.com/events/erins-guide-to-kissing-girls/",
+   "is_short": false
+  },
+  {
+   "title": "Fantastic Negrito: Have You Lost Your Mind Yet?",
+   "directors": [
+    "Yvan Iturriaga",
+    "Francisco Núñez Capriles"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "film_year": 2022,
+   "runtime_min": 93,
+   "cast": [
+    "Xavier Dephrepaulezz"
+   ],
+   "section": "Docs",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-15",
+     "time": "7:00 PM",
+     "venue": "BAMPFA"
+    },
+    {
+     "date": "2022-10-16",
+     "time": "3:00 PM",
+     "venue": "Lark Theater"
+    }
+   ],
+   "url": "https://www.mvff.com/events/fantastic-negrito-have-you-lost-your-mind-yet/",
+   "is_short": false
+  },
+  {
+   "title": "Finding Her Beat",
+   "directors": [
+    "Dawn Mikkelson",
+    "Keri Pickett"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "film_year": 2022,
+   "runtime_min": 88,
+   "cast": [
+    "Jennifer Weir",
+    "Tiffany Tamaribuchi",
+    "Chieko Kojima",
+    "Kaoly Asano",
+    "Megan Chao Smith"
+   ],
+   "section": "Docs",
+   "language": "English, Japanese",
+   "screenings": [
+    {
+     "date": "2022-10-09",
+     "time": "12:00 PM",
+     "venue": "Sequoia 1"
+    },
+    {
+     "date": "2022-10-11",
+     "time": "11:00 AM",
+     "venue": "Sequoia 1"
+    }
+   ],
+   "url": "https://www.mvff.com/events/finding-her-beat/",
+   "is_short": false
+  },
+  {
+   "title": "Four Samosas",
+   "directors": [
+    "Ravi Kapoor"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "film_year": 2022,
+   "runtime_min": 80,
+   "cast": [
+    "Venk Potula",
+    "Summer Bishil",
+    "Nirvana Patnaik",
+    "Sharmita Bhattacharya",
+    "Sonal Shah"
+   ],
+   "section": "Us Cinema",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-15",
+     "time": "12:00 PM",
+     "venue": "Rafael 2"
+    },
+    {
+     "date": "2022-10-16",
+     "time": "11:00 AM",
+     "venue": "Rafael 2"
+    }
+   ],
+   "url": "https://www.mvff.com/events/four-samosas/",
+   "is_short": false
+  },
+  {
+   "title": "Glass Onion: a Knives Out Mystery",
+   "directors": [
+    "Rian Johnson"
+   ],
+   "countries": [],
+   "film_year": 2022,
+   "runtime_min": 139,
+   "cast": [
+    "Daniel Craig",
+    "Kate Hudson",
+    "Leslie Odom Jr.",
+    "Edward Norton",
+    "Kathryn Hahn",
+    "Janelle Monaé"
+   ],
+   "section": "Big Nights",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-06",
+     "time": "6:00 PM",
+     "venue": "Sequoia 2"
+    }
+   ],
+   "url": "https://www.mvff.com/events/glass-onion/",
+   "is_short": false
+  },
+  {
+   "title": "Holy Spider (عنكبوت مقدس)",
+   "directors": [
+    "Ali Abbasi"
+   ],
+   "countries": [
+    "Denmark"
+   ],
+   "film_year": 2022,
+   "runtime_min": 106,
+   "cast": [
+    "Zar Amir Ebrahimi"
+   ],
+   "section": "World Cinema",
+   "language": "Iranian languages",
+   "screenings": [
+    {
+     "date": "2022-10-11",
+     "time": "4:00 PM",
+     "venue": "Rafael 1"
+    }
+   ],
+   "url": "https://www.mvff.com/events/holy-spider/",
+   "is_short": false
+  },
+  {
+   "title": "Home Is Somewhere Else",
+   "directors": [
+    "Carlos Hagerman",
+    "Jorge Villalobos"
+   ],
+   "countries": [
+    "Mexico",
+    "United States"
+   ],
+   "film_year": 2022,
+   "runtime_min": 87,
+   "cast": [],
+   "section": "Docs",
+   "language": "English, Spanish",
+   "screenings": [
+    {
+     "date": "2022-10-09",
+     "time": "7:00 PM",
+     "venue": "Lark Theater"
+    },
+    {
+     "date": "2022-10-14",
+     "time": "12:00 PM",
+     "venue": "Sequoia 1"
+    }
+   ],
+   "url": "https://www.mvff.com/events/home-is-somewhere-else/",
+   "is_short": false
+  },
+  {
+   "title": "Lady Chatterley’s Lover",
+   "directors": [
+    "Laure de Clermont-Tonnerre"
+   ],
+   "countries": [
+    "UK",
+    "United States"
+   ],
+   "film_year": 2022,
+   "runtime_min": 105,
+   "cast": [
+    "Joely Richardson",
+    "Faye Marsay",
+    "Jack O'Connell",
+    "Emma Corrin"
+   ],
+   "section": "World Cinema",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-08",
+     "time": "7:00 PM",
+     "venue": "Sequoia 1"
+    }
+   ],
+   "url": "https://www.mvff.com/events/lady-chatterleys-lover/",
+   "is_short": false
+  },
+  {
+   "title": "Living",
+   "directors": [
+    "Oliver Harmanus"
+   ],
+   "countries": [
+    "UK"
+   ],
+   "film_year": 2022,
+   "runtime_min": 102,
+   "cast": [
+    "Bill Nighy",
+    "Aimee Lou Wood",
+    "Alex Sharp"
+   ],
+   "section": "World Cinema",
+   "language": null,
+   "screenings": [],
+   "url": "https://www.mvff.com/events/living/",
+   "is_short": false
+  },
+  {
+   "title": "Mind the Gap: the Unknown Country: an Exploratory Filmmaking Process",
+   "directors": [],
+   "countries": [],
+   "film_year": 2022,
+   "runtime_min": 90,
+   "cast": [],
+   "section": "Behind The Screens",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-09",
+     "time": "12:00 PM",
+     "venue": "Outdoor Art Club"
+    }
+   ],
+   "url": "https://www.mvff.com/events/mind-the-gap-the-unknown-country-an-exploratory-filmmaking-process/",
+   "is_short": false
+  },
+  {
+   "title": "Mother and Son (un Petit Frère)",
+   "directors": [
+    "Léonor Serraille"
+   ],
+   "countries": [
+    "France"
+   ],
+   "film_year": 2008,
+   "runtime_min": 116,
+   "cast": [
+    "Annabelle Lengronne",
+    "Thibaut Evrard",
+    "Stéphane Bak",
+    "Kenzo Sambin",
+    "Ahmed Sylla"
+   ],
+   "section": "World Cinema",
+   "language": "French",
+   "screenings": [
+    {
+     "date": "2022-10-07",
+     "time": "4:00 PM",
+     "venue": "Rafael 2"
+    },
+    {
+     "date": "2022-10-12",
+     "time": "3:00 PM",
+     "venue": "Rafael 2"
+    }
+   ],
+   "url": "https://www.mvff.com/events/mother-and-son/",
+   "is_short": false
+  },
+  {
+   "title": "My Policeman",
+   "directors": [
+    "Michael Grandage"
+   ],
+   "countries": [
+    "UK",
+    "United States"
+   ],
+   "film_year": 2022,
+   "runtime_min": 113,
+   "cast": [
+    "Harry Styles",
+    "Emma Corrin",
+    "Gina McKee",
+    "Linus Roache",
+    "Rupert Everett"
+   ],
+   "section": "World Cinema",
+   "language": null,
+   "screenings": [],
+   "url": "https://www.mvff.com/events/my-policeman/",
+   "is_short": false
+  },
+  {
+   "title": "Nanny",
+   "directors": [
+    "Nikyatu Jusu"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "film_year": 2022,
+   "runtime_min": 97,
+   "cast": [
+    "Anna Diop",
+    "Michelle Monaghan",
+    "Sinqua Walls",
+    "Morgan Spector"
+   ],
+   "section": "Big Nights, Us Cinema",
+   "language": "English, Wolof",
+   "screenings": [
+    {
+     "date": "2022-10-15",
+     "time": "6:00 PM",
+     "venue": "Sequoia 1"
+    },
+    {
+     "date": "2022-10-16",
+     "time": "7:00 PM",
+     "venue": "Roxie Theater"
+    }
+   ],
+   "url": "https://www.mvff.com/events/nanny/",
+   "is_short": false
+  },
+  {
+   "title": "Oink (knor)",
+   "directors": [
+    "Mascha Halberstad"
+   ],
+   "countries": [
+    "Belgium",
+    "Netherlands"
+   ],
+   "film_year": 2022,
+   "runtime_min": 72,
+   "cast": [
+    "Kees Prins"
+   ],
+   "section": "Family Films",
+   "language": "Dutch",
+   "screenings": [
+    {
+     "date": "2022-10-08",
+     "time": "11:00 AM",
+     "venue": "Sequoia 1"
+    },
+    {
+     "date": "2022-10-16",
+     "time": "2:00 PM",
+     "venue": "Rafael 2"
+    }
+   ],
+   "url": "https://www.mvff.com/events/oink/",
+   "is_short": false
+  },
+  {
+   "title": "One Fine Morning (un Beau Matin)",
+   "directors": [
+    "Mia Hansen-Løve"
+   ],
+   "countries": [
+    "France"
+   ],
+   "film_year": 2022,
+   "runtime_min": 112,
+   "cast": [
+    "Léa Seydoux",
+    "Melvil Poupaud",
+    "Pascal Greggory"
+   ],
+   "section": "World Cinema",
+   "language": "French",
+   "screenings": [
+    {
+     "date": "2022-10-08",
+     "time": "4:00 PM",
+     "venue": "Rafael 3"
+    },
+    {
+     "date": "2022-10-09",
+     "time": "7:00 PM",
+     "venue": "BAMPFA"
+    }
+   ],
+   "url": "https://www.mvff.com/events/one-fine-morning/",
+   "is_short": false
+  },
+  {
+   "title": "Our Brothers (nos Frangins)",
+   "directors": [
+    "Rachid Bouchareb"
+   ],
+   "countries": [
+    "France"
+   ],
+   "film_year": 1995,
+   "runtime_min": 92,
+   "cast": [
+    "Reda Kateb",
+    "Lyna Khoudri",
+    "Raphael Personnaz",
+    "Samir Guesmi"
+   ],
+   "section": "World Cinema",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-12",
+     "time": "7:00 PM",
+     "venue": "Sequoia 2"
+    },
+    {
+     "date": "2022-10-13",
+     "time": "3:00 PM",
+     "venue": "Rafael 1"
+    }
+   ],
+   "url": "https://www.mvff.com/events/our-brothers/",
+   "is_short": false
+  },
+  {
+   "title": "Our Father, the Devil (mon Père, le Diable)",
+   "directors": [
+    "Ellie Foumbi"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "film_year": 2022,
+   "runtime_min": 108,
+   "cast": [
+    "Babetida Sadjo",
+    "Souléymane Sy Savané",
+    "Jennifer Tchiakpe"
+   ],
+   "section": "Us Cinema",
+   "language": "French, English",
+   "screenings": [
+    {
+     "date": "2022-10-13",
+     "time": "6:00 PM",
+     "venue": "Rafael 2"
+    },
+    {
+     "date": "2022-10-14",
+     "time": "11:00 AM",
+     "venue": "Sequoia 2"
+    }
+   ],
+   "url": "https://www.mvff.com/events/our-father-the-devil/",
+   "is_short": false
+  },
+  {
+   "title": "Path of the Panther",
+   "directors": [
+    "Eric Bendick"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "film_year": 2022,
+   "runtime_min": 88,
+   "cast": [],
+   "section": "Docs",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-13",
+     "time": "7:00 PM",
+     "venue": "Rafael 1"
+    },
+    {
+     "date": "2022-10-15",
+     "time": "11:00 AM",
+     "venue": "Rafael 1"
+    }
+   ],
+   "url": "https://www.mvff.com/events/path-of-the-panther/",
+   "is_short": false
+  },
+  {
+   "title": "Plan 75",
+   "directors": [
+    "Chie Hayakawa"
+   ],
+   "countries": [
+    "Japan"
+   ],
+   "film_year": 2022,
+   "runtime_min": 112,
+   "cast": [
+    "Chieko Baisho",
+    "Hayato Isomura",
+    "Taka Takao",
+    "Yumi Kawai",
+    "Stefanie Arianne"
+   ],
+   "section": "World Cinema",
+   "language": "Japanese",
+   "screenings": [
+    {
+     "date": "2022-10-14",
+     "time": "4:00 PM",
+     "venue": "Rafael 2"
+    },
+    {
+     "date": "2022-10-15",
+     "time": "4:00 PM",
+     "venue": "BAMPFA"
+    }
+   ],
+   "url": "https://www.mvff.com/events/plan-75/",
+   "is_short": false
+  },
+  {
+   "title": "Provo",
+   "directors": [
+    "Emma Thatcher"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "film_year": 2022,
+   "runtime_min": 87,
+   "cast": [
+    "Emma Thatcher",
+    "Hunter Bryant",
+    "Owais Ahmed"
+   ],
+   "section": "Us Cinema",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-07",
+     "time": "7:30 PM",
+     "venue": "Rafael 2"
+    },
+    {
+     "date": "2022-10-09",
+     "time": "1:00 PM",
+     "venue": "Rafael 3"
+    }
+   ],
+   "url": "https://www.mvff.com/events/provo/",
+   "is_short": false
+  },
+  {
+   "title": "Reel Life: History on Film",
+   "directors": [],
+   "countries": [],
+   "film_year": 2022,
+   "runtime_min": 90,
+   "cast": [],
+   "section": "Behind The Screens",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-15",
+     "time": "11:30 AM",
+     "venue": "Outdoor Art Club"
+    }
+   ],
+   "url": "https://www.mvff.com/events/reel-life-history-on-film/",
+   "is_short": false
+  },
+  {
+   "title": "Return to Dust",
+   "directors": [
+    "Ruijun Li"
+   ],
+   "countries": [
+    "China"
+   ],
+   "film_year": 2022,
+   "runtime_min": 131,
+   "cast": [
+    "Renlin Wu",
+    "Hai-Qing",
+    "Shengfu Li"
+   ],
+   "section": "World Cinema",
+   "language": "Mandarin",
+   "screenings": [
+    {
+     "date": "2022-10-07",
+     "time": "3:30 PM",
+     "venue": "Sequoia 1"
+    },
+    {
+     "date": "2022-10-13",
+     "time": "11:30 AM",
+     "venue": "Rafael 3"
+    }
+   ],
+   "url": "https://www.mvff.com/events/return-to-dust/",
+   "is_short": false
+  },
+  {
+   "title": "Rodeo",
+   "directors": [
+    "Lola Quivoron"
+   ],
+   "countries": [
+    "France"
+   ],
+   "film_year": 2022,
+   "runtime_min": 105,
+   "cast": [
+    "Julie Ledru",
+    "Sébastien Schroeder",
+    "Yannis Lafki",
+    "Antonia Buresi"
+   ],
+   "section": "World Cinema",
+   "language": "French",
+   "screenings": [
+    {
+     "date": "2022-10-09",
+     "time": "6:00 PM",
+     "venue": "Sequoia 1"
+    },
+    {
+     "date": "2022-10-10",
+     "time": "4:00 PM",
+     "venue": "Rafael 2"
+    }
+   ],
+   "url": "https://www.mvff.com/events/rodeo/",
+   "is_short": false
+  },
+  {
+   "title": "Santos—skin to Skin",
+   "directors": [
+    "Kathryn Golden"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "film_year": 2022,
+   "runtime_min": 75,
+   "cast": [
+    "John Santos",
+    "Raul Rekow",
+    "Eddie Palmieri",
+    "Aida Salazar",
+    "Orestes Vilato",
+    "Omar Sosa"
+   ],
+   "section": "Docs",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-08",
+     "time": "5:15 PM",
+     "venue": "Sequoia 2"
+    },
+    {
+     "date": "2022-10-14",
+     "time": "7:30 PM",
+     "venue": "BAMPFA"
+    },
+    {
+     "date": "2022-10-16",
+     "time": "4:00 PM",
+     "venue": "Roxie Theater"
+    }
+   ],
+   "url": "https://www.mvff.com/events/santos-skin-to-skin/",
+   "is_short": false
+  },
+  {
+   "title": "Searching for Sugar Man",
+   "directors": [
+    "Malik Bendjelloul"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "film_year": 2012,
+   "runtime_min": 86,
+   "cast": [],
+   "section": "Docs",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-07",
+     "time": "2:30 PM",
+     "venue": "Sequoia 2"
+    }
+   ],
+   "url": "https://www.mvff.com/events/searching-for-sugar-man/",
+   "is_short": false
+  },
+  {
+   "title": "She Said",
+   "directors": [
+    "Maria Schrader"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "film_year": 2022,
+   "runtime_min": 135,
+   "cast": [
+    "Zoe Kazan",
+    "Carey Mulligan",
+    "Samantha Morton",
+    "Patricia Clarkson"
+   ],
+   "section": "Us Cinema",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-16",
+     "time": "1:00 PM",
+     "venue": "Rafael 1"
+    }
+   ],
+   "url": "https://www.mvff.com/events/she-said/",
+   "is_short": false
+  },
+  {
+   "title": "Shorts: Animation for All",
+   "directors": [],
+   "countries": [
+    "Czech Republic",
+    "France",
+    "Germany",
+    "United States"
+   ],
+   "film_year": null,
+   "runtime_min": 70,
+   "cast": [],
+   "section": "Family Films, Shorts",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-15",
+     "time": "11:00 AM",
+     "venue": "Sequoia 1"
+    }
+   ],
+   "url": "https://www.mvff.com/events/shorts-animation-for-all/",
+   "is_short": false
+  },
+  {
+   "title": "Shorts: Free to Be Me",
+   "directors": [],
+   "countries": [
+    "Brazil",
+    "France",
+    "Ireland",
+    "Italy",
+    "Mongolia",
+    "United States"
+   ],
+   "film_year": null,
+   "runtime_min": 72,
+   "cast": [],
+   "section": "Family Films, Shorts",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-09",
+     "time": "11:00 AM",
+     "venue": "Sequoia 2"
+    }
+   ],
+   "url": "https://www.mvff.com/events/shorts-free-to-be-me/",
+   "is_short": false
+  },
+  {
+   "title": "Shorts: Lunafest",
+   "directors": [],
+   "countries": [
+    "United States"
+   ],
+   "film_year": null,
+   "runtime_min": 80,
+   "cast": [],
+   "section": "Shorts",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-13",
+     "time": "4:00 PM",
+     "venue": "BAMPFA"
+    }
+   ],
+   "url": "https://www.mvff.com/events/shorts-lunafest/",
+   "is_short": false
+  },
+  {
+   "title": "Shorts: One and Only",
+   "directors": [],
+   "countries": [
+    "Iran",
+    "Japan",
+    "United States"
+   ],
+   "film_year": null,
+   "runtime_min": 69,
+   "cast": [],
+   "section": "Shorts",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-07",
+     "time": "8:15 PM",
+     "venue": "Rafael 3"
+    }
+   ],
+   "url": "https://www.mvff.com/events/shorts-one-and-only/",
+   "is_short": false
+  },
+  {
+   "title": "Shorts: Rolling in the Deep",
+   "directors": [],
+   "countries": [
+    "Jordan",
+    "UK"
+   ],
+   "film_year": null,
+   "runtime_min": 60,
+   "cast": [],
+   "section": "Shorts",
+   "language": null,
+   "screenings": [],
+   "url": "https://www.mvff.com/events/shorts-rolling-in-the-deep/",
+   "is_short": false
+  },
+  {
+   "title": "Shorts: Skyfall",
+   "directors": [],
+   "countries": [
+    "Canada",
+    "United States"
+   ],
+   "film_year": null,
+   "runtime_min": 66,
+   "cast": [],
+   "section": "Shorts",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-13",
+     "time": "7:30 PM",
+     "venue": "Rafael 3"
+    }
+   ],
+   "url": "https://www.mvff.com/events/shorts-skyfall/",
+   "is_short": false
+  },
+  {
+   "title": "Shorts: Strangers by Nature",
+   "directors": [],
+   "countries": [
+    "Canada",
+    "Peru",
+    "United States"
+   ],
+   "film_year": null,
+   "runtime_min": 66,
+   "cast": [],
+   "section": "Shorts",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-14",
+     "time": "8:15 PM",
+     "venue": "Rafael 3"
+    }
+   ],
+   "url": "https://www.mvff.com/events/shorts-strangers-by-nature/",
+   "is_short": false
+  },
+  {
+   "title": "Shorts: the New Environmentalists",
+   "directors": [
+    "John Antonelli",
+    "Will Parrinello",
+    "Matt Yamashita",
+    "Evan-Marie Petit",
+    "Ben Derico",
+    "Nancy Kelly",
+    "Josh Izenberg",
+    "Brett Marty"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "film_year": null,
+   "runtime_min": 74,
+   "cast": [],
+   "section": "Shorts",
+   "language": null,
+   "screenings": [],
+   "url": "https://www.mvff.com/events/shorts-the-new-environmentalists/",
+   "is_short": false
+  },
+  {
+   "title": "Shorts: Truths (and Spoofs) from the Youths",
+   "directors": [],
+   "countries": [
+    "Germany",
+    "Indonesia",
+    "South Korea",
+    "United States"
+   ],
+   "film_year": null,
+   "runtime_min": 93,
+   "cast": [],
+   "section": "Family Films, Shorts",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-16",
+     "time": "11:00 AM",
+     "venue": "Sequoia 1"
+    }
+   ],
+   "url": "https://www.mvff.com/events/shorts-truths-and-spoofs-from-the-youths/",
+   "is_short": false
+  },
+  {
+   "title": "Sophia",
+   "directors": [
+    "Crystal Moselle",
+    "Jon Kasbe"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "film_year": 2046,
+   "runtime_min": 89,
+   "cast": [
+    "David Hanson"
+   ],
+   "section": "Docs",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-14",
+     "time": "2:00 PM",
+     "venue": "Rafael 1"
+    },
+    {
+     "date": "2022-10-15",
+     "time": "3:00 PM",
+     "venue": "Rafael 2"
+    }
+   ],
+   "url": "https://www.mvff.com/events/sophia/",
+   "is_short": false
+  },
+  {
+   "title": "Still Working 9 to 5",
+   "directors": [
+    "Camille Hardman",
+    "Gary Lane"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "film_year": 2021,
+   "runtime_min": 95,
+   "cast": [
+    "Jane Fonda",
+    "Dolly Parton",
+    "Lily Tomlin",
+    "Allison Janney",
+    "Rita Moreno"
+   ],
+   "section": "Docs",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-14",
+     "time": "7:30 PM",
+     "venue": "Rafael 2"
+    },
+    {
+     "date": "2022-10-16",
+     "time": "11:30 AM",
+     "venue": "Lark Theater"
+    }
+   ],
+   "url": "https://www.mvff.com/events/still-working-9-to-5/",
+   "is_short": false
+  },
+  {
+   "title": "Sunnyland",
+   "directors": [
+    "Xavi Medina"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "film_year": 2022,
+   "runtime_min": 77,
+   "cast": [
+    "Isabella Wilkie",
+    "Nathalia Lares",
+    "Jessy Suarez",
+    "Annette Sellas",
+    "Filio Galvez",
+    "Jadanalis Trujillo"
+   ],
+   "section": "Us Cinema",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-10",
+     "time": "7:00 PM",
+     "venue": "Sequoia 2"
+    }
+   ],
+   "url": "https://www.mvff.com/events/sunnyland/",
+   "is_short": false
+  },
+  {
+   "title": "Tár",
+   "directors": [
+    "Todd Field"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "film_year": 2022,
+   "runtime_min": 158,
+   "cast": [
+    "Cate Blanchett",
+    "Nina Hoss",
+    "Noémie Merlant",
+    "Mark Strong"
+   ],
+   "section": "World Cinema",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-07",
+     "time": "3:00 PM",
+     "venue": "Rafael 1"
+    },
+    {
+     "date": "2022-10-08",
+     "time": "11:00 AM",
+     "venue": "Rafael 1"
+    }
+   ],
+   "url": "https://www.mvff.com/events/tar/",
+   "is_short": false
+  },
+  {
+   "title": "The Art of Eating: the Life of M.f.k. Fisher",
+   "directors": [
+    "Gregory Bezat"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "film_year": 2022,
+   "runtime_min": 85,
+   "cast": [
+    "Mary Diltz"
+   ],
+   "section": "Docs",
+   "language": null,
+   "screenings": [],
+   "url": "https://www.mvff.com/events/the-art-of-eating-the-life-of-mfk-fisher/",
+   "is_short": false
+  },
+  {
+   "title": "The Banshees of Inisherin",
+   "directors": [
+    "Martin McDonagh"
+   ],
+   "countries": [
+    "Ireland",
+    "UK",
+    "United States"
+   ],
+   "film_year": 2022,
+   "runtime_min": 114,
+   "cast": [
+    "Colin Farrell",
+    "Brendan Gleeson",
+    "Kerry Condon",
+    "Barry Keoghan"
+   ],
+   "section": "World Cinema",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-07",
+     "time": "7:00 PM",
+     "venue": "Rafael 1"
+    },
+    {
+     "date": "2022-10-09",
+     "time": "3:30 PM",
+     "venue": "Lark Theater"
+    }
+   ],
+   "url": "https://www.mvff.com/events/the-banshees-of-inisherin/",
+   "is_short": false
+  },
+  {
+   "title": "The Blue Caftan",
+   "directors": [
+    "Maryam Touzani"
+   ],
+   "countries": [
+    "Morocco"
+   ],
+   "film_year": null,
+   "runtime_min": 124,
+   "cast": [
+    "Lubna Azabal",
+    "Saleh Bakri",
+    "Ayoub Missioui"
+   ],
+   "section": "World Cinema",
+   "language": "Arabic",
+   "screenings": [
+    {
+     "date": "2022-10-12",
+     "time": "2:00 PM",
+     "venue": "Sequoia 1"
+    },
+    {
+     "date": "2022-10-14",
+     "time": "4:00 PM",
+     "venue": "Lark Theater"
+    }
+   ],
+   "url": "https://www.mvff.com/events/the-blue-caftan/",
+   "is_short": false
+  },
+  {
+   "title": "The Good Nurse",
+   "directors": [
+    "Tobias Lindholm"
+   ],
+   "countries": [],
+   "film_year": 2022,
+   "runtime_min": 121,
+   "cast": [
+    "Jessica Chastain",
+    "Eddie Redmayne",
+    "Nnamdi Asomugha",
+    "Kim Dickens",
+    "Malik Yoba",
+    "Noah Emmerich"
+   ],
+   "section": "Us Cinema",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-16",
+     "time": "5:00 PM",
+     "venue": "Sequoia 2"
+    }
+   ],
+   "url": "https://www.mvff.com/events/the-good-nurse/",
+   "is_short": false
+  },
+  {
+   "title": "The Grab",
+   "directors": [
+    "Gabriela Cowperthwaite"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "film_year": 2022,
+   "runtime_min": 104,
+   "cast": [],
+   "section": "Docs",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-07",
+     "time": "6:00 PM",
+     "venue": "Sequoia 2"
+    },
+    {
+     "date": "2022-10-10",
+     "time": "1:00 PM",
+     "venue": "Sequoia 1"
+    }
+   ],
+   "url": "https://www.mvff.com/events/the-grab/",
+   "is_short": false
+  },
+  {
+   "title": "Hi de Ho Show",
+   "directors": [
+    "John Goddard"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "film_year": 2022,
+   "runtime_min": 90,
+   "cast": [],
+   "section": "Us Cinema",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-15",
+     "time": "7:00 PM",
+     "venue": "Sequoia 2"
+    }
+   ],
+   "url": "https://www.mvff.com/events/the-hi-de-ho-show/",
+   "is_short": false
+  },
+  {
+   "title": "The Lost King",
+   "directors": [
+    "Stephen Frears"
+   ],
+   "countries": [
+    "UK"
+   ],
+   "film_year": 2022,
+   "runtime_min": 108,
+   "cast": [
+    "Sally Hawkins",
+    "Steve Coogan",
+    "Harry Lloyd"
+   ],
+   "section": "World Cinema",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-12",
+     "time": "6:00 PM",
+     "venue": "Sequoia 1"
+    },
+    {
+     "date": "2022-10-15",
+     "time": "12:00 PM",
+     "venue": "Sequoia 2"
+    }
+   ],
+   "url": "https://www.mvff.com/events/the-lost-king/",
+   "is_short": false
+  },
+  {
+   "title": "The Passengers of the Night",
+   "directors": [
+    "Mikhaël Hers"
+   ],
+   "countries": [
+    "France"
+   ],
+   "film_year": 2022,
+   "runtime_min": 111,
+   "cast": [
+    "Charlotte Gainsbourg",
+    "Quito Rayon-Richter",
+    "Noée Abita",
+    "Megan Northam",
+    "Thibault Vinçon",
+    "Emmanuelle Béart"
+   ],
+   "section": "World Cinema",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-08",
+     "time": "6:00 PM",
+     "venue": "Rafael 2"
+    },
+    {
+     "date": "2022-10-09",
+     "time": "3:00 PM",
+     "venue": "Sequoia 1"
+    }
+   ],
+   "url": "https://www.mvff.com/events/the-passengers-of-the-night/",
+   "is_short": false
+  },
+  {
+   "title": "The Power of Personal Documentary Films: the Distributors",
+   "directors": [],
+   "countries": [],
+   "film_year": 2022,
+   "runtime_min": 90,
+   "cast": [],
+   "section": "Behind The Screens",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-13",
+     "time": "3:30 PM",
+     "venue": "Outdoor Art Club"
+    }
+   ],
+   "url": "https://www.mvff.com/events/the-power-of-personal-documentary-films-the-distributors/",
+   "is_short": false
+  },
+  {
+   "title": "The Pupils (le Pupille)",
+   "directors": [
+    "Alice Rohrwacher"
+   ],
+   "countries": [
+    "Italy"
+   ],
+   "film_year": 2022,
+   "runtime_min": 37,
+   "cast": [
+    "Alba Rohrwacher",
+    "Valeria Bruni Tedeschi"
+   ],
+   "section": "Shorts",
+   "language": "Italian",
+   "screenings": [
+    {
+     "date": "2022-10-08",
+     "time": "1:00 PM",
+     "venue": "Rafael 3"
+    },
+    {
+     "date": "2022-10-09",
+     "time": "5:45 PM",
+     "venue": "BAMPFA"
+    },
+    {
+     "date": "2022-10-12",
+     "time": "11:00 AM",
+     "venue": "Sequoia 1"
+    },
+    {
+     "date": "2022-10-15",
+     "time": "12:00 PM",
+     "venue": "Lark Theater"
+    }
+   ],
+   "url": "https://www.mvff.com/events/the-pupils/",
+   "is_short": true
+  },
+  {
+   "title": "The Son",
+   "directors": [
+    "Florian Zeller"
+   ],
+   "countries": [
+    "UK",
+    "United States"
+   ],
+   "film_year": 2022,
+   "runtime_min": 123,
+   "cast": [
+    "Hugh Jackman",
+    "Laura Dern",
+    "Vanessa Kirby",
+    "Zen McGrath",
+    "Hugh Quarshie",
+    "Anthony Hopkins"
+   ],
+   "section": "World Cinema",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-08",
+     "time": "7:00 PM",
+     "venue": "Lark Theater"
+    },
+    {
+     "date": "2022-10-13",
+     "time": "3:30 PM",
+     "venue": "Sequoia 2"
+    }
+   ],
+   "url": "https://www.mvff.com/events/the-son/",
+   "is_short": false
+  },
+  {
+   "title": "The Swimmers",
+   "directors": [
+    "Sally El Hosaini"
+   ],
+   "countries": [
+    "UK",
+    "United States"
+   ],
+   "film_year": 2022,
+   "runtime_min": 134,
+   "cast": [
+    "Nathalie Issa",
+    "Manal Issa"
+   ],
+   "section": "World Cinema",
+   "language": "English, Arabic",
+   "screenings": [
+    {
+     "date": "2022-10-15",
+     "time": "2:00 PM",
+     "venue": "Rafael 1"
+    }
+   ],
+   "url": "https://www.mvff.com/events/the-swimmers/",
+   "is_short": false
+  },
+  {
+   "title": "The Whale",
+   "directors": [
+    "Darren Aronofsky"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "film_year": 2022,
+   "runtime_min": 117,
+   "cast": [
+    "Brendan Fraser",
+    "Sadie Sink",
+    "Hong Chau",
+    "Ty Simpkins",
+    "Samantha Morton"
+   ],
+   "section": "Big Nights, Us Cinema",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-13",
+     "time": "7:00 PM",
+     "venue": "Sequoia 2"
+    }
+   ],
+   "url": "https://www.mvff.com/events/the-whale/",
+   "is_short": false
+  },
+  {
+   "title": "The Young Vote",
+   "directors": [
+    "Diane Robinson"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "film_year": 2022,
+   "runtime_min": 67,
+   "cast": [
+    "Elena Ashburn",
+    "Sophia DeLoretto-Chudy",
+    "Jeremy Gruber"
+   ],
+   "section": "Docs",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-08",
+     "time": "12:00 PM",
+     "venue": "Sequoia 2"
+    },
+    {
+     "date": "2022-10-09",
+     "time": "3:30 PM",
+     "venue": "BAMPFA"
+    },
+    {
+     "date": "2022-10-10",
+     "time": "3:00 PM",
+     "venue": "Sequoia 2"
+    }
+   ],
+   "url": "https://www.mvff.com/events/the-young-vote/",
+   "is_short": false
+  },
+  {
+   "title": "The Unknown Country",
+   "directors": [
+    "Morrisa Maltz"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "film_year": 2022,
+   "runtime_min": 85,
+   "cast": [
+    "Lily Gladstone",
+    "Richard Ray Whitman",
+    "Raymond Lee",
+    "Lainey Bearkiller Shangreaux",
+    "Devin Shangreaux"
+   ],
+   "section": "Us Cinema",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-10",
+     "time": "5:15 PM",
+     "venue": "Sequoia 1"
+    },
+    {
+     "date": "2022-10-11",
+     "time": "2:30 PM",
+     "venue": "Rafael 3"
+    }
+   ],
+   "url": "https://www.mvff.com/events/theunknowncountry/",
+   "is_short": false
+  },
+  {
+   "title": "The Wonder",
+   "directors": [
+    "Sebastián Lelio"
+   ],
+   "countries": [
+    "Ireland",
+    "UK",
+    "United States"
+   ],
+   "film_year": 2022,
+   "runtime_min": 102,
+   "cast": [
+    "Florence Pugh",
+    "Tom Burke",
+    "Ciarán Hinds",
+    "Niamh Algar",
+    "Toby Jones",
+    "Elaine Cassidy"
+   ],
+   "section": "World Cinema",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-12",
+     "time": "7:00 PM",
+     "venue": "Rafael 1"
+    }
+   ],
+   "url": "https://www.mvff.com/events/thewonder/",
+   "is_short": false
+  },
+  {
+   "title": "Till",
+   "directors": [
+    "Chinonye Chukwu"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "film_year": 2022,
+   "runtime_min": 130,
+   "cast": [
+    "Danielle Deadwyler",
+    "Jalyn Hall",
+    "Whoopi Goldberg",
+    "Frankie Faison"
+   ],
+   "section": "Big Nights, Us Cinema",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-11",
+     "time": "7:00 PM",
+     "venue": "Sequoia 1"
+    }
+   ],
+   "url": "https://www.mvff.com/events/till/",
+   "is_short": false
+  },
+  {
+   "title": "Town Destroyer",
+   "directors": [
+    "Alan Snitow",
+    "Deborah Kaufman"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "film_year": 2022,
+   "runtime_min": 55,
+   "cast": [
+    "Dewey Crumpler",
+    "Judith Lowry",
+    "Barbara Mumby",
+    "Robin Kelley",
+    "Jessica Young",
+    "Paul Chaat Smith"
+   ],
+   "section": "Docs",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-08",
+     "time": "8:00 PM",
+     "venue": "Sequoia 2"
+    },
+    {
+     "date": "2022-10-14",
+     "time": "1:15 PM",
+     "venue": "Rafael 3"
+    },
+    {
+     "date": "2022-10-15",
+     "time": "1:45 PM",
+     "venue": "Roxie Theater"
+    }
+   ],
+   "url": "https://www.mvff.com/events/town-destroyer/",
+   "is_short": false
+  },
+  {
+   "title": "Triple Trouble",
+   "directors": [
+    "Homer Flynn and The Residents"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "film_year": 2022,
+   "runtime_min": 84,
+   "cast": [
+    "Dustin York",
+    "Gerri Lawlor",
+    "Isabelle Ellingson",
+    "Mark Petrakis",
+    "Isabelle Barbier",
+    "Matt Heckman"
+   ],
+   "section": "Us Cinema",
+   "language": null,
+   "screenings": [],
+   "url": "https://www.mvff.com/events/triple-trouble/",
+   "is_short": false
+  },
+  {
+   "title": "Tukdam",
+   "directors": [
+    "Donagh Coleman"
+   ],
+   "countries": [
+    "Estonia",
+    "Finland",
+    "Ireland"
+   ],
+   "film_year": 2022,
+   "runtime_min": 91,
+   "cast": [],
+   "section": "Docs",
+   "language": "English, Tibetan",
+   "screenings": [
+    {
+     "date": "2022-10-12",
+     "time": "6:30 PM",
+     "venue": "Rafael 3"
+    },
+    {
+     "date": "2022-10-14",
+     "time": "5:00 PM",
+     "venue": "Rafael 3"
+    }
+   ],
+   "url": "https://www.mvff.com/events/tukdam-between-worlds/",
+   "is_short": false
+  },
+  {
+   "title": "Turn Every Page",
+   "directors": [
+    "Lizzie Gottlieb"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "film_year": 2022,
+   "runtime_min": 112,
+   "cast": [
+    "Robert A. Caro",
+    "Robert Gottlieb",
+    "Conan O'Brien"
+   ],
+   "section": "Docs",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-07",
+     "time": "5:00 PM",
+     "venue": "Rafael 3"
+    },
+    {
+     "date": "2022-10-16",
+     "time": "4:00 PM",
+     "venue": "BAMPFA"
+    }
+   ],
+   "url": "https://www.mvff.com/events/turn-every-page/",
+   "is_short": false
+  },
+  {
+   "title": "Variety’s Ten Screenwriters to Watch",
+   "directors": [],
+   "countries": [],
+   "film_year": 2022,
+   "runtime_min": 90,
+   "cast": [],
+   "section": "Behind The Screens",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-16",
+     "time": "11:00 AM",
+     "venue": "Outdoor Art Club"
+    }
+   ],
+   "url": "https://www.mvff.com/events/varietys-ten-screenwriters-to-watch/",
+   "is_short": false
+  },
+  {
+   "title": "We Dream of Robots (soñar Robots)",
+   "directors": [
+    "Pablo Casacuberta"
+   ],
+   "countries": [
+    "Uruguay"
+   ],
+   "film_year": 2021,
+   "runtime_min": 84,
+   "cast": [],
+   "section": "Family Films",
+   "language": "Spanish",
+   "screenings": [
+    {
+     "date": "2022-10-09",
+     "time": "12:00 PM",
+     "venue": "Rafael 2"
+    },
+    {
+     "date": "2022-10-10",
+     "time": "5:00 PM",
+     "venue": "Rafael 3"
+    }
+   ],
+   "url": "https://www.mvff.com/events/we-dream-of-robots/",
+   "is_short": false
+  },
+  {
+   "title": "Whina",
+   "directors": [
+    "James Napier Robertson",
+    "Paula Whetu Jones"
+   ],
+   "countries": [
+    "New Zealand"
+   ],
+   "film_year": 2021,
+   "runtime_min": 112,
+   "cast": [
+    "Rena Owen",
+    "Miriama McDowell",
+    "Vinnie Bennett",
+    "James Rolleston"
+   ],
+   "section": "World Cinema",
+   "language": "English, Māori",
+   "screenings": [
+    {
+     "date": "2022-10-08",
+     "time": "12:00 PM",
+     "venue": "Rafael 2"
+    },
+    {
+     "date": "2022-10-14",
+     "time": "1:00 PM",
+     "venue": "Lark Theater"
+    }
+   ],
+   "url": "https://www.mvff.com/events/whina/",
+   "is_short": false
+  },
+  {
+   "title": "White Noise",
+   "directors": [
+    "Noah Baumbach"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "film_year": 2022,
+   "runtime_min": 136,
+   "cast": [
+    "Adam Driver",
+    "Greta Gerwig",
+    "Don Cheadle"
+   ],
+   "section": "Big Nights, Us Cinema",
+   "language": null,
+   "screenings": [
+    {
+     "date": "2022-10-15",
+     "time": "7:00 PM",
+     "venue": "Rafael 2"
+    }
+   ],
+   "url": "https://www.mvff.com/events/whitenoise/",
+   "is_short": false
+  },
+  {
+   "title": "Women Talking",
+   "directors": [
+    "Sarah Polley"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "film_year": 2022,
+   "runtime_min": 104,
+   "cast": [],
+   "section": "Us Cinema",
+   "language": null,
+   "screenings": [],
+   "url": "https://www.mvff.com/events/women-talking/",
+   "is_short": false
+  },
+  {
+   "title": "Xalé",
+   "directors": [
+    "Moussa Sene Absa"
+   ],
+   "countries": [
+    "Senegal"
+   ],
+   "film_year": 2022,
+   "runtime_min": 101,
+   "cast": [
+    "Nguissaly Barry",
+    "Rokhaya Niang",
+    "Mabeye Diol"
+   ],
+   "section": "World Cinema",
+   "language": "Wolof",
+   "screenings": [
+    {
+     "date": "2022-10-10",
+     "time": "7:15 PM",
+     "venue": "Rafael 2"
+    },
+    {
+     "date": "2022-10-11",
+     "time": "6:30 PM",
+     "venue": "Rafael 3"
+    }
+   ],
+   "url": "https://www.mvff.com/events/xale/",
+   "is_short": false
+  }
+ ],
+ "unparsed": [
+  "accessibility-scorecard-in-exhibition",
+  "active-cinema-hike",
+  "bay-area-film-community-mixer",
+  "black-girls-film-camp",
+  "cafilm-member-reception",
+  "closing-night-party",
+  "masterclasswithintimacycoordinator",
+  "mind-the-gap-directors-forum",
+  "mind-the-gap-evolution-of-asian-american-womens-roles-on-screen",
+  "opening-night-gala",
+  "santos-friends",
+  "shorts-painting-pictures",
+  "state-of-the-industry",
+  "the-residents",
+  "workshop-in-our-own-words-poetry-on-film"
+ ]
+}

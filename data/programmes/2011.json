@@ -1,0 +1,5730 @@
+{
+  "year": 2011,
+  "edition": 34,
+  "dates": "October 6-16, 2011",
+  "source_pdf": "2011_schedule.pdf",
+  "venues": [
+    {
+      "name": "142 Throckmorton Theatre",
+      "address": "142 Throckmorton Avenue, Mill Valley"
+    },
+    {
+      "name": "Century Cinema",
+      "address": "41 Tamal Vista Boulevard, Corte Madera"
+    },
+    {
+      "name": "Christopher B. Smith Rafael Film Center",
+      "address": "1118 Fourth Street, San Rafael"
+    },
+    {
+      "name": "CinéArts@Sequoia",
+      "address": "25 Throckmorton Avenue, Mill Valley"
+    },
+    {
+      "name": "Cinemark Larkspur Landing",
+      "address": "500 Larkspur Landing Circle, Larkspur"
+    },
+    {
+      "name": "Acqua Hotel",
+      "address": "555 Redwood Highway, Mill Valley"
+    },
+    {
+      "name": "Albert Park / San Rafael Community Center",
+      "address": "618 B Street, San Rafael"
+    },
+    {
+      "name": "Donna Seager Gallery",
+      "address": "851 Fourth Street, San Rafael"
+    },
+    {
+      "name": "Frantoio Ristorante",
+      "address": "152 Shoreline Highway, Mill Valley"
+    },
+    {
+      "name": "Mill Valley Community Center",
+      "address": "180 Camino Alto, Mill Valley"
+    },
+    {
+      "name": "Piatti Ristorante & Bar",
+      "address": "625 Redwood Highway, Mill Valley"
+    },
+    {
+      "name": "Roots of Peace",
+      "address": "990 A Street, Suite 402, San Rafael"
+    },
+    {
+      "name": "San Rafael Hospitality Lounge",
+      "address": "1118 Fourth Street, San Rafael"
+    }
+  ],
+  "sections": [
+    "Valley of the Docs",
+    "5@5 and MVFF Shorts",
+    "US Cinema",
+    "World Cinema",
+    "Children's FilmFest",
+    "Focus: Cinema Africa",
+    "Focus: Great Brits",
+    "Focus: Healing",
+    "Youth-Produced",
+    "Active Cinema",
+    "New Movies Lab"
+  ],
+  "films": [
+    {
+      "title": "Albert Nobbs",
+      "original_title": null,
+      "directors": [
+        "Rodrigo Garcia"
+      ],
+      "countries": [
+        "Ireland"
+      ],
+      "film_year": 2011,
+      "runtime_min": 113,
+      "language": null,
+      "section": "World Cinema",
+      "slot": "Opening Night",
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-06",
+          "time": "7:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A woman in 19th-century Dublin who has long lived as a male hotel butler to escape poverty dreams of love and independence.",
+      "cast": [
+        "Glenn Close",
+        "Mia Wasikowska",
+        "Aaron Johnson",
+        "Janet McTeer",
+        "Jonathan Rhys Meyers"
+      ],
+      "page": 19
+    },
+    {
+      "title": "Penultimate",
+      "original_title": null,
+      "directors": [
+        "Paul Meyer"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 4,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Circle of Life",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-11",
+          "time": "5:00 PM",
+          "venue": "CinéArts@Sequoia"
+        },
+        {
+          "date": "2011-10-14",
+          "time": "5:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "Discarded pens gathered from around the world are given a new life.",
+      "cast": [],
+      "page": 18
+    },
+    {
+      "title": "Life Model",
+      "original_title": null,
+      "directors": [
+        "Lori Petcher"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 6,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Circle of Life",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-11",
+          "time": "5:00 PM",
+          "venue": "CinéArts@Sequoia"
+        },
+        {
+          "date": "2011-10-14",
+          "time": "5:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A 75-year-old nude figure model has come to love her body through the art she inspires.",
+      "cast": [],
+      "page": 18
+    },
+    {
+      "title": "Swimming in a Dream",
+      "original_title": null,
+      "directors": [
+        "Jim Sugar"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 7,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Circle of Life",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-11",
+          "time": "5:00 PM",
+          "venue": "CinéArts@Sequoia"
+        },
+        {
+          "date": "2011-10-14",
+          "time": "5:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "Marin County swimmers reflect on the meaning of the swimmer's high.",
+      "cast": [],
+      "page": 18
+    },
+    {
+      "title": "Sunshine",
+      "original_title": null,
+      "directors": [
+        "Doug Nichol"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 14,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Circle of Life",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-11",
+          "time": "5:00 PM",
+          "venue": "CinéArts@Sequoia"
+        },
+        {
+          "date": "2011-10-14",
+          "time": "5:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "An American advertising producer travels to China to shoot a TV commercial.",
+      "cast": [],
+      "page": 18
+    },
+    {
+      "title": "Pot Country",
+      "original_title": null,
+      "directors": [
+        "Kate McLean",
+        "Mario Furloni"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 27,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Circle of Life",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-11",
+          "time": "5:00 PM",
+          "venue": "CinéArts@Sequoia"
+        },
+        {
+          "date": "2011-10-14",
+          "time": "5:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A rural northern California community grapples with its economic dependence on marijuana.",
+      "cast": [],
+      "page": 18
+    },
+    {
+      "title": "The Telegram Man",
+      "original_title": null,
+      "directors": [
+        "James Khehtie"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "film_year": null,
+      "runtime_min": 14,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Don't Let the Sun Go Down on Me",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-11",
+          "time": "5:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        },
+        {
+          "date": "2011-10-13",
+          "time": "5:00 PM",
+          "venue": "CinéArts@Sequoia"
+        }
+      ],
+      "summary": "In a rural wartime town, a kindly widower must deliver bad news by telegram.",
+      "cast": [
+        "Jack Thompson"
+      ],
+      "page": 18
+    },
+    {
+      "title": "To Say Goodbye",
+      "original_title": null,
+      "directors": [
+        "Jason Headley"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 19,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Don't Let the Sun Go Down on Me",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-11",
+          "time": "5:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        },
+        {
+          "date": "2011-10-13",
+          "time": "5:00 PM",
+          "venue": "CinéArts@Sequoia"
+        }
+      ],
+      "summary": "A writer at an agency that composes breakup letters is hired to write a suicide note.",
+      "cast": [],
+      "page": 18
+    },
+    {
+      "title": "A Doctor's Job",
+      "original_title": null,
+      "directors": [
+        "Julio O. Ramos"
+      ],
+      "countries": [
+        "Peru"
+      ],
+      "film_year": null,
+      "runtime_min": 11,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Don't Let the Sun Go Down on Me",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-11",
+          "time": "5:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        },
+        {
+          "date": "2011-10-13",
+          "time": "5:00 PM",
+          "venue": "CinéArts@Sequoia"
+        }
+      ],
+      "summary": "A doctor moonlighting as a taxi driver finds his medical skills suddenly needed.",
+      "cast": [],
+      "page": 18
+    },
+    {
+      "title": "Confidante",
+      "original_title": null,
+      "directors": [
+        "Lisa Melodia"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 18,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Don't Let the Sun Go Down on Me",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-11",
+          "time": "5:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        },
+        {
+          "date": "2011-10-13",
+          "time": "5:00 PM",
+          "venue": "CinéArts@Sequoia"
+        }
+      ],
+      "summary": "A disillusioned cleaning lady helps her elderly employer reconnect with his estranged brother.",
+      "cast": [],
+      "page": 18
+    },
+    {
+      "title": "Pop",
+      "original_title": null,
+      "directors": [
+        "Rachel Moore"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 3,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Hard Times",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-10",
+          "time": "5:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        },
+        {
+          "date": "2011-10-14",
+          "time": "5:00 PM",
+          "venue": "CinéArts@Sequoia"
+        }
+      ],
+      "summary": "An abstract animated journey through history.",
+      "cast": [],
+      "page": 18
+    },
+    {
+      "title": "Floyd the Android",
+      "original_title": null,
+      "directors": [
+        "Jonathan Lyons"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 4,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Hard Times",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-10",
+          "time": "5:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        },
+        {
+          "date": "2011-10-14",
+          "time": "5:00 PM",
+          "venue": "CinéArts@Sequoia"
+        }
+      ],
+      "summary": "The misadventures of a not-very-bright robot.",
+      "cast": [],
+      "page": 18
+    },
+    {
+      "title": "Zapped!",
+      "original_title": null,
+      "directors": [
+        "Zeke Norton"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "film_year": null,
+      "runtime_min": 2,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Hard Times",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-10",
+          "time": "5:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        },
+        {
+          "date": "2011-10-14",
+          "time": "5:00 PM",
+          "venue": "CinéArts@Sequoia"
+        }
+      ],
+      "summary": "A short animated look at bugs.",
+      "cast": [],
+      "page": 18
+    },
+    {
+      "title": "The Death of an Insect",
+      "original_title": null,
+      "directors": [
+        "Hannes Vartiainen",
+        "Pekka Veikkolainen"
+      ],
+      "countries": [
+        "Finland"
+      ],
+      "film_year": null,
+      "runtime_min": 7,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Hard Times",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-10",
+          "time": "5:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        },
+        {
+          "date": "2011-10-14",
+          "time": "5:00 PM",
+          "venue": "CinéArts@Sequoia"
+        }
+      ],
+      "summary": "Striking imagery celebrates the life and death of an insect.",
+      "cast": [],
+      "page": 18
+    },
+    {
+      "title": "Christmas Piggy",
+      "original_title": null,
+      "directors": [
+        "R.S. Söderström"
+      ],
+      "countries": [
+        "Denmark"
+      ],
+      "film_year": null,
+      "runtime_min": 8,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Hard Times",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-10",
+          "time": "5:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        },
+        {
+          "date": "2011-10-14",
+          "time": "5:00 PM",
+          "venue": "CinéArts@Sequoia"
+        }
+      ],
+      "summary": "An animated tale about a pig trying to evade its fate.",
+      "cast": [],
+      "page": 18
+    },
+    {
+      "title": "A Morning Stroll",
+      "original_title": null,
+      "directors": [
+        "Grant Orchard"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "film_year": null,
+      "runtime_min": 7,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Hard Times",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-10",
+          "time": "5:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        },
+        {
+          "date": "2011-10-14",
+          "time": "5:00 PM",
+          "venue": "CinéArts@Sequoia"
+        }
+      ],
+      "summary": "A chicken's walk is followed across different eras in animated form.",
+      "cast": [],
+      "page": 18
+    },
+    {
+      "title": "I Am Round",
+      "original_title": null,
+      "directors": [
+        "Mario Adamson"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "film_year": null,
+      "runtime_min": 14,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Hard Times",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-10",
+          "time": "5:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        },
+        {
+          "date": "2011-10-14",
+          "time": "5:00 PM",
+          "venue": "CinéArts@Sequoia"
+        }
+      ],
+      "summary": "A round character struggles to fit into a straight-edged world.",
+      "cast": [],
+      "page": 18
+    },
+    {
+      "title": "Seven Days in the Woods",
+      "original_title": null,
+      "directors": [
+        "Peter Larsson"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "film_year": null,
+      "runtime_min": 6,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Hard Times",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-10",
+          "time": "5:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        },
+        {
+          "date": "2011-10-14",
+          "time": "5:00 PM",
+          "venue": "CinéArts@Sequoia"
+        }
+      ],
+      "summary": "A hypnotic study of odd scenes in a forest.",
+      "cast": [],
+      "page": 18
+    },
+    {
+      "title": "Luminaris",
+      "original_title": null,
+      "directors": [
+        "Juan Pablo Zaramella"
+      ],
+      "countries": [
+        "Argentina"
+      ],
+      "film_year": null,
+      "runtime_min": 6,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Hard Times",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-10",
+          "time": "5:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        },
+        {
+          "date": "2011-10-14",
+          "time": "5:00 PM",
+          "venue": "CinéArts@Sequoia"
+        }
+      ],
+      "summary": "A stop-motion story of a man with a bright idea in a world run by light bulbs.",
+      "cast": [],
+      "page": 18
+    },
+    {
+      "title": "The Wind Is Blowing on My Street",
+      "original_title": null,
+      "directors": [
+        "Saba Riazi"
+      ],
+      "countries": [
+        "Iran"
+      ],
+      "film_year": null,
+      "runtime_min": 16,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Just Like Strange Rain",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-10",
+          "time": "5:00 PM",
+          "venue": "CinéArts@Sequoia"
+        },
+        {
+          "date": "2011-10-12",
+          "time": "5:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A young Iranian woman locked out without her headscarf is kept company by a neighbor.",
+      "cast": [],
+      "page": 19
+    },
+    {
+      "title": "Moonless Night",
+      "original_title": null,
+      "directors": [
+        "Bethynia Cardenas Iñiguez"
+      ],
+      "countries": [
+        "US",
+        "Mexico"
+      ],
+      "film_year": null,
+      "runtime_min": 13,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Just Like Strange Rain",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-10",
+          "time": "5:00 PM",
+          "venue": "CinéArts@Sequoia"
+        },
+        {
+          "date": "2011-10-12",
+          "time": "5:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A man confesses to a crime he did not commit to protect a secret.",
+      "cast": [],
+      "page": 19
+    },
+    {
+      "title": "Invisible",
+      "original_title": null,
+      "directors": [
+        "Harold Chapman"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "film_year": null,
+      "runtime_min": 15,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Just Like Strange Rain",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-10",
+          "time": "5:00 PM",
+          "venue": "CinéArts@Sequoia"
+        },
+        {
+          "date": "2011-10-12",
+          "time": "5:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "An African immigrant working as a London street sweeper tries to escape memories of war.",
+      "cast": [],
+      "page": 19
+    },
+    {
+      "title": "Out of Erasers",
+      "original_title": null,
+      "directors": [
+        "Erik Rosenlund"
+      ],
+      "countries": [
+        "Sweden",
+        "Denmark"
+      ],
+      "film_year": null,
+      "runtime_min": 15,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Just Like Strange Rain",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-10",
+          "time": "5:00 PM",
+          "venue": "CinéArts@Sequoia"
+        },
+        {
+          "date": "2011-10-12",
+          "time": "5:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "After an eraser factory burns down, pencil drawings become a threat to real people.",
+      "cast": [],
+      "page": 19
+    },
+    {
+      "title": "Sexting",
+      "original_title": null,
+      "directors": [
+        "Neil LaBute"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 8,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: The Last Song",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-12",
+          "time": "5:00 PM",
+          "venue": "CinéArts@Sequoia"
+        },
+        {
+          "date": "2011-10-13",
+          "time": "5:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A young woman receives a misdirected text message with awkward consequences.",
+      "cast": [
+        "Julia Stiles"
+      ],
+      "page": 19
+    },
+    {
+      "title": "Saturn Rising",
+      "original_title": null,
+      "directors": [
+        "Garry Bowden"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 11,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: The Last Song",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-12",
+          "time": "5:00 PM",
+          "venue": "CinéArts@Sequoia"
+        },
+        {
+          "date": "2011-10-13",
+          "time": "5:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A woman misreads a text from her boyfriend and braces for her life to change.",
+      "cast": [],
+      "page": 19
+    },
+    {
+      "title": "Good Luck, Mr. Gorski",
+      "original_title": null,
+      "directors": [
+        "Arron Shiver"
+      ],
+      "countries": [
+        "Ireland",
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 16,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: The Last Song",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-12",
+          "time": "5:00 PM",
+          "venue": "CinéArts@Sequoia"
+        },
+        {
+          "date": "2011-10-13",
+          "time": "5:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "As the neighbor boy Neil Armstrong walks on the moon, Mrs. Gorski recalls an old promise.",
+      "cast": [],
+      "page": 19
+    },
+    {
+      "title": "My Big Red Purse",
+      "original_title": null,
+      "directors": [
+        "Giancarlo Iannotta"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 3,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: The Last Song",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-12",
+          "time": "5:00 PM",
+          "venue": "CinéArts@Sequoia"
+        },
+        {
+          "date": "2011-10-13",
+          "time": "5:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A filmmaker gets his mother to reminisce about a treasured childhood purse.",
+      "cast": [],
+      "page": 19
+    },
+    {
+      "title": "Boy",
+      "original_title": null,
+      "directors": [
+        "Topaz Adizes"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 9,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: The Last Song",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-12",
+          "time": "5:00 PM",
+          "venue": "CinéArts@Sequoia"
+        },
+        {
+          "date": "2011-10-13",
+          "time": "5:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A boy goes through a startling rite of passage.",
+      "cast": [],
+      "page": 19
+    },
+    {
+      "title": "Pioneer",
+      "original_title": null,
+      "directors": [
+        "David Lowery"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 15,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: The Last Song",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-12",
+          "time": "5:00 PM",
+          "venue": "CinéArts@Sequoia"
+        },
+        {
+          "date": "2011-10-13",
+          "time": "5:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A father tells his young son a bedtime story full of ancestral wisdom.",
+      "cast": [
+        "Will Oldham"
+      ],
+      "page": 19
+    },
+    {
+      "title": "Another Happy Day",
+      "original_title": null,
+      "directors": [
+        "Sam Levinson"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2011,
+      "runtime_min": 119,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-12",
+          "time": "8:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        },
+        {
+          "date": "2011-10-13",
+          "time": "9:30 PM",
+          "venue": "CinéArts@Sequoia"
+        }
+      ],
+      "summary": "A mother tries to hold her troubled family together during a fraught weekend at her son's wedding.",
+      "cast": [
+        "Ellen Barkin",
+        "Demi Moore",
+        "Thomas Haden Church",
+        "Ezra Miller",
+        "Kate Bosworth",
+        "Ellen Burstyn"
+      ],
+      "page": 20
+    },
+    {
+      "title": "The Artist",
+      "original_title": null,
+      "directors": [
+        "Michel Hazanavicius"
+      ],
+      "countries": [
+        "France"
+      ],
+      "film_year": 2011,
+      "runtime_min": 100,
+      "language": null,
+      "section": "World Cinema",
+      "slot": "Closing Night",
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Michel Hazanavicius"
+      ],
+      "screenings": [
+        {
+          "date": "2011-10-16",
+          "time": "5:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        },
+        {
+          "date": "2011-10-16",
+          "time": "5:00 PM",
+          "venue": "CinéArts@Sequoia"
+        }
+      ],
+      "summary": "In 1927 Hollywood, a silent-film star resists the coming of sound as a young extra's career takes off.",
+      "cast": [
+        "Jean Dujardin",
+        "Bérénice Bejo",
+        "John Goodman",
+        "James Cromwell",
+        "Penelope Ann Miller",
+        "Missi Pyle"
+      ],
+      "page": 20
+    },
+    {
+      "title": "The Barber of Birmingham: Foot Soldier of the Civil Rights Movement",
+      "original_title": null,
+      "directors": [
+        "Robin Fryday",
+        "Gail Dolgin"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 26,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "The Barber, the Brush and the Baton",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-15",
+          "time": "4:45 PM",
+          "venue": "CinéArts@Sequoia"
+        },
+        {
+          "date": "2011-10-16",
+          "time": "1:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "An 85-year-old civil rights activist and barber witnesses the election of the first black US president.",
+      "cast": [],
+      "page": 20
+    },
+    {
+      "title": "A Brush with the Tenderloin",
+      "original_title": null,
+      "directors": [
+        "Paige Bierma"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 22,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "The Barber, the Brush and the Baton",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-15",
+          "time": "4:45 PM",
+          "venue": "CinéArts@Sequoia"
+        },
+        {
+          "date": "2011-10-16",
+          "time": "1:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "Muralist Mona Caron transforms a rough corner of San Francisco's Tenderloin with a mural of its residents.",
+      "cast": [],
+      "page": 20
+    },
+    {
+      "title": "Hip Hop Maestro",
+      "original_title": null,
+      "directors": [
+        "Christine Lee"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 41,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "The Barber, the Brush and the Baton",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-15",
+          "time": "4:45 PM",
+          "venue": "CinéArts@Sequoia"
+        },
+        {
+          "date": "2011-10-16",
+          "time": "1:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "Composer Geoff Gallegos goes from Los Angeles clubs to Walt Disney Concert Hall with his daKAH Orchestra.",
+      "cast": [],
+      "page": 20
+    },
+    {
+      "title": "Being Elmo: A Puppeteer's Journey",
+      "original_title": null,
+      "directors": [
+        "Constance Marks"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2011,
+      "runtime_min": 85,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-08",
+          "time": "11:30 AM",
+          "venue": "CinéArts@Sequoia"
+        },
+        {
+          "date": "2011-10-15",
+          "time": "12:00 PM",
+          "venue": "CinéArts@Sequoia"
+        }
+      ],
+      "summary": "Puppeteer Kevin Clash's path from a Baltimore childhood to giving life to Sesame Street's Elmo.",
+      "cast": [],
+      "page": 21
+    },
+    {
+      "title": "Between 2 Fires",
+      "original_title": null,
+      "directors": [
+        "Agnieszka Lukasiak"
+      ],
+      "countries": [
+        "Sweden",
+        "Poland"
+      ],
+      "film_year": 2010,
+      "runtime_min": 131,
+      "language": "Polish and Swedish",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": "North American Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-09",
+          "time": "9:15 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        },
+        {
+          "date": "2011-10-11",
+          "time": "4:45 PM",
+          "venue": "CinéArts@Sequoia"
+        }
+      ],
+      "summary": "A Belarusian single mother flees an abusive husband with her daughter and struggles in a Swedish refugee camp.",
+      "cast": [
+        "Magdalena Poplawska",
+        "Kamila Nowysz",
+        "Simon Kassianides",
+        "Leila Haji",
+        "Fredrik Ohlsson"
+      ],
+      "page": 21
+    },
+    {
+      "title": "Beyond the Road",
+      "original_title": "Por El Camino",
+      "directors": [
+        "Charly Braun"
+      ],
+      "countries": [
+        "Brazil",
+        "Uruguay"
+      ],
+      "film_year": 2010,
+      "runtime_min": 85,
+      "language": "Spanish, French and English",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-08",
+          "time": "4:15 PM",
+          "venue": "CinéArts@Sequoia"
+        },
+        {
+          "date": "2011-10-11",
+          "time": "9:30 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "An Argentine banker and a Belgian tourist fall for each other on a road trip along the Uruguayan coast.",
+      "cast": [
+        "Jill Mulleady",
+        "Esteban Feune de Colombi",
+        "Guilhermina Guinle"
+      ],
+      "page": 21
+    },
+    {
+      "title": "Bon Voyage",
+      "original_title": null,
+      "directors": [
+        "Margien Rogaar"
+      ],
+      "countries": [
+        "Netherlands"
+      ],
+      "film_year": 2010,
+      "runtime_min": 83,
+      "language": "Dutch",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": "North American Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-12",
+          "time": "9:30 PM",
+          "venue": "CinéArts@Sequoia"
+        },
+        {
+          "date": "2011-10-13",
+          "time": "4:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A Dutch family's French holiday is replaced by a stay at home when their grandfather becomes gravely ill.",
+      "cast": [
+        "Anneke Blok",
+        "Reinout Bussemaker",
+        "Mirre Balke",
+        "Casper van Rijnberk",
+        "Scyler Eijgermans",
+        "Hans Croiset"
+      ],
+      "page": 22
+    },
+    {
+      "title": "Busong (Palawan Fate)",
+      "original_title": "Palawan Destin",
+      "directors": [
+        "Auraeus Solito"
+      ],
+      "countries": [
+        "Philippines"
+      ],
+      "film_year": 2011,
+      "runtime_min": 93,
+      "language": "Filipino, Palawanon and Cuyunon",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": "North American Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-08",
+          "time": "11:00 AM",
+          "venue": "CinéArts@Sequoia"
+        },
+        {
+          "date": "2011-10-10",
+          "time": "7:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A woman with a mysterious illness journeys among Palawan's indigenous people seeking a cure, in a tale of karma and nature.",
+      "cast": [
+        "Alessandra de Rossi",
+        "Rodrigo Santikan",
+        "Clifford Banagale",
+        "Dax Alejandro",
+        "Bonivie Budao",
+        "Walter Arenio"
+      ],
+      "page": 22
+    },
+    {
+      "title": "The Butcher's Wife",
+      "original_title": "Wangliang's Ideal",
+      "directors": [
+        "Gao Xiongjie"
+      ],
+      "countries": [
+        "China"
+      ],
+      "film_year": 2010,
+      "runtime_min": 119,
+      "language": "Mandarin",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": "North American Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-07",
+          "time": "8:30 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        },
+        {
+          "date": "2011-10-09",
+          "time": "3:45 PM",
+          "venue": "CinéArts@Sequoia"
+        }
+      ],
+      "summary": "A village butcher's wife delays consummating their marriage while hoping to pass the college exam and leave for the city.",
+      "cast": [
+        "Fang Ye",
+        "Tang Huihua"
+      ],
+      "page": 22
+    },
+    {
+      "title": "Buud Yam",
+      "original_title": null,
+      "directors": [
+        "Gaston Kaboré"
+      ],
+      "countries": [
+        "Burkina Faso"
+      ],
+      "film_year": 1997,
+      "runtime_min": 97,
+      "language": "Moré",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-11",
+          "time": "7:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "In the early 19th century, Wend Kuuni journeys across West Africa in search of a healer for his ailing foster sister.",
+      "cast": [
+        "Serge Yanogo",
+        "Amssatou Maiga",
+        "Sévérine Ouéddouda"
+      ],
+      "page": 23
+    },
+    {
+      "title": "California State of Mind: The Legacy of Pat Brown",
+      "original_title": null,
+      "directors": [
+        "Sascha Rice"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2011,
+      "runtime_min": 88,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-11",
+          "time": "8:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "Governor Pat Brown's granddaughter profiles his transformative terms building California's universities, freeways and water system.",
+      "cast": [],
+      "page": 23
+    },
+    {
+      "title": "Chill on the Hill",
+      "original_title": "Frisson des Collines",
+      "directors": [
+        "Richard Roy"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "film_year": 2011,
+      "runtime_min": 141,
+      "language": "French",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": "US Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-08",
+          "time": "8:30 PM",
+          "venue": "CinéArts@Sequoia"
+        },
+        {
+          "date": "2011-10-10",
+          "time": "6:45 PM",
+          "venue": "CinéArts@Sequoia"
+        }
+      ],
+      "summary": "In 1969 rural Quebec, a 12-year-old Jimi Hendrix fan schemes to get to Woodstock despite family tragedy.",
+      "cast": [
+        "Guillaume Lemay-Thivierge",
+        "Antoine Bertrand",
+        "Evelyne Brochu",
+        "Anick Lemay",
+        "Patrice Robitaille"
+      ],
+      "page": 23
+    },
+    {
+      "title": "Circus Columbia",
+      "original_title": "Cirkus Columbia",
+      "directors": [
+        "Danis Tanovic"
+      ],
+      "countries": [
+        "Bosnia and Herzegovina"
+      ],
+      "film_year": 2010,
+      "runtime_min": 113,
+      "language": "Bosnian",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-14",
+          "time": "7:00 PM",
+          "venue": "CinéArts@Sequoia"
+        },
+        {
+          "date": "2011-10-16",
+          "time": "3:15 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "In 1991, on the eve of the Yugoslav wars, a wealthy man returns to his Bosnian village from Germany to settle old scores.",
+      "cast": [
+        "Miki Manojlovic",
+        "Mira Furlan",
+        "Boris Ler",
+        "Jelena Stupljanin",
+        "Milan Strljic",
+        "Mario Knezovic"
+      ],
+      "page": 24
+    },
+    {
+      "title": "Circus Dreams",
+      "original_title": null,
+      "directors": [
+        "Signe Taylor"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2011,
+      "runtime_min": 82,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-09",
+          "time": "12:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        },
+        {
+          "date": "2011-10-16",
+          "time": "2:30 PM",
+          "venue": "CinéArts@Sequoia"
+        }
+      ],
+      "summary": "Young performers at the traveling youth circus Circus Smirkus tour through a season that could decide its survival.",
+      "cast": [],
+      "page": 24
+    },
+    {
+      "title": "Collaborator",
+      "original_title": null,
+      "directors": [
+        "Martin Donovan"
+      ],
+      "countries": [
+        "US",
+        "Canada"
+      ],
+      "film_year": 2011,
+      "runtime_min": 87,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": "US Co-Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-09",
+          "time": "8:45 PM",
+          "venue": "CinéArts@Sequoia"
+        },
+        {
+          "date": "2011-10-11",
+          "time": "6:45 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A fading Broadway playwright returns to his childhood home and is held hostage by his ex-con neighbor.",
+      "cast": [
+        "Martin Donovan",
+        "David Morse",
+        "Olivia Williams",
+        "Melissa Auf der Maur"
+      ],
+      "page": 24
+    },
+    {
+      "title": "The Conquest",
+      "original_title": "La Conquête",
+      "directors": [
+        "Xavier Durringer"
+      ],
+      "countries": [
+        "France"
+      ],
+      "film_year": 2011,
+      "runtime_min": 110,
+      "language": "French",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-12",
+          "time": "6:30 PM",
+          "venue": "CinéArts@Sequoia"
+        }
+      ],
+      "summary": "A satirical account of Nicolas Sarkozy's rise to the French presidency as his marriage unravels.",
+      "cast": [
+        "Denis Podalydès",
+        "Florence Pernel",
+        "Bernard Le Coq",
+        "Hippolyte Girardot",
+        "Samuel Labarthe",
+        "Mathias Mlekuz"
+      ],
+      "page": 25
+    },
+    {
+      "title": "Coriolanus",
+      "original_title": null,
+      "directors": [
+        "Ralph Fiennes"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "film_year": 2011,
+      "runtime_min": 122,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": "US Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-07",
+          "time": "9:00 PM",
+          "venue": "CinéArts@Sequoia"
+        },
+        {
+          "date": "2011-10-08",
+          "time": "7:30 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "Shakespeare's tale of a Roman general turned against his city is reset in a modern war-torn Balkan setting.",
+      "cast": [
+        "Ralph Fiennes",
+        "Gerard Butler",
+        "Vanessa Redgrave",
+        "Brian Cox",
+        "James Nesbitt",
+        "Jessica Chastain"
+      ],
+      "page": 25
+    },
+    {
+      "title": "Country Music",
+      "original_title": "Música Campesina",
+      "directors": [
+        "Alberto Fuguet"
+      ],
+      "countries": [
+        "Chile",
+        "US"
+      ],
+      "film_year": 2011,
+      "runtime_min": 105,
+      "language": "English and Spanish",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-15",
+          "time": "2:30 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        },
+        {
+          "date": "2011-10-16",
+          "time": "2:45 PM",
+          "venue": "CinéArts@Sequoia"
+        }
+      ],
+      "summary": "A Chilean slacker adrift in Nashville tries to make sense of his new surroundings.",
+      "cast": [
+        "Pablo Cerda",
+        "James Cathcart",
+        "Karin Whitehouse",
+        "Ezra Fitz",
+        "Todd Hughes",
+        "Cole Kinnear"
+      ],
+      "page": 25
+    },
+    {
+      "title": "Da Monzon, The Conquest of Samanyana",
+      "original_title": "Da Monzon, la conquête de Samanyana",
+      "directors": [
+        "Sidy Fassara Diabaté"
+      ],
+      "countries": [
+        "Mali"
+      ],
+      "film_year": 2010,
+      "runtime_min": 110,
+      "language": "Bambara",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-08",
+          "time": "1:45 PM",
+          "venue": "CinéArts@Sequoia"
+        },
+        {
+          "date": "2011-10-10",
+          "time": "6:30 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A young king of the Bambara Kingdom of Ségou seeks a secret weapon to conquer a gold-rich rival kingdom ruled by a mystic.",
+      "cast": [
+        "Namory Diabaté",
+        "Abdoulaye Diabaté",
+        "Kadidia Coulibaly"
+      ],
+      "page": 26
+    },
+    {
+      "title": "Day of the Flowers",
+      "original_title": null,
+      "directors": [
+        "John Roberts"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "film_year": 2011,
+      "runtime_min": 100,
+      "language": "English and Spanish",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": "World Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-11",
+          "time": "6:15 PM",
+          "venue": "Century Cinema"
+        }
+      ],
+      "summary": "Two mismatched Scottish sisters travel to Cuba with their father's ashes, which are soon confiscated by the police.",
+      "cast": [
+        "Eva Birthistle",
+        "Carlos Acosta",
+        "Charity Wakefield",
+        "Christopher Simpson",
+        "Bryan Dick",
+        "Manuel de Blas"
+      ],
+      "page": 26
+    },
+    {
+      "title": "Deaf Jam",
+      "original_title": null,
+      "directors": [
+        "Judy Lieff"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2011,
+      "runtime_min": 70,
+      "language": "American Sign Language and English",
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-13",
+          "time": "6:45 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        },
+        {
+          "date": "2011-10-15",
+          "time": "2:15 PM",
+          "venue": "CinéArts@Sequoia"
+        }
+      ],
+      "summary": "A deaf teenager in Queens discovers American Sign Language poetry and performs a duet with a Palestinian slam poet.",
+      "cast": [],
+      "page": 26
+    },
+    {
+      "title": "Mr. Happy Man",
+      "original_title": null,
+      "directors": [
+        "Matt Morris"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2011,
+      "runtime_min": 11,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-13",
+          "time": "6:45 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        },
+        {
+          "date": "2011-10-15",
+          "time": "2:15 PM",
+          "venue": "CinéArts@Sequoia"
+        }
+      ],
+      "summary": "A portrait of Bermuda's Johnny Barnes, who devotes himself to cheering up passers-by.",
+      "cast": [],
+      "page": 26
+    },
+    {
+      "title": "The Destiny of Lesser Animals",
+      "original_title": "Sibo ne kra, Dabo ne kra",
+      "directors": [
+        "Deron Albright"
+      ],
+      "countries": [
+        "Ghana",
+        "US"
+      ],
+      "film_year": 2011,
+      "runtime_min": 89,
+      "language": "Fante, English, Twi, Pidgin and Ga",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-14",
+          "time": "4:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        },
+        {
+          "date": "2011-10-16",
+          "time": "3:30 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A deported Ghanaian police inspector hunting for his stolen gun becomes caught up in a series of shootings.",
+      "cast": [
+        "Yao B. Nunoo",
+        "Fred Amugi",
+        "Abena Takyi",
+        "Sandy Arkhurst",
+        "Xolasie Mawuenyega"
+      ],
+      "page": 27
+    },
+    {
+      "title": "Dolphin Boy",
+      "original_title": "Ha'Dolphin",
+      "directors": [
+        "Dani Menkin",
+        "Yonatan Nir"
+      ],
+      "countries": [
+        "Israel"
+      ],
+      "film_year": 2011,
+      "runtime_min": 72,
+      "language": "Hebrew and Arabic",
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": "US Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-09",
+          "time": "1:00 PM",
+          "venue": "CinéArts@Sequoia"
+        },
+        {
+          "date": "2011-10-10",
+          "time": "9:30 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A traumatized Arab-Israeli teenager is sent to Eilat to recover through contact with wild dolphins.",
+      "cast": [],
+      "page": 27
+    },
+    {
+      "title": "While You Were Gone",
+      "original_title": "Medan du var borta",
+      "directors": [
+        "Frida Kempff"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "film_year": 2011,
+      "runtime_min": 12,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-09",
+          "time": "1:00 PM",
+          "venue": "CinéArts@Sequoia"
+        },
+        {
+          "date": "2011-10-10",
+          "time": "9:30 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "At a turning point in his life, a man reflects on his difficult relationship with his father.",
+      "cast": [],
+      "page": 27
+    },
+    {
+      "title": "Eames: The Architect and the Painter",
+      "original_title": null,
+      "directors": [
+        "Jason Cohn",
+        "Bill Jersey"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2011,
+      "runtime_min": 82,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-08",
+          "time": "3:30 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        },
+        {
+          "date": "2011-10-14",
+          "time": "9:30 PM",
+          "venue": "CinéArts@Sequoia"
+        }
+      ],
+      "summary": "A portrait of designers Charles and Ray Eames and their partnership in life and work.",
+      "cast": [],
+      "page": 27
+    },
+    {
+      "title": "American Homes",
+      "original_title": null,
+      "directors": [
+        "Bernard Friedman"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2011,
+      "runtime_min": 12,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-08",
+          "time": "3:30 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        },
+        {
+          "date": "2011-10-14",
+          "time": "9:30 PM",
+          "venue": "CinéArts@Sequoia"
+        }
+      ],
+      "summary": "A rapid animated survey of 1,800 years of residential architecture.",
+      "cast": [],
+      "page": 27
+    },
+    {
+      "title": "Eco-Pirate: The Story of Paul Watson",
+      "original_title": null,
+      "directors": [
+        "Trish Dolman"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "film_year": 2010,
+      "runtime_min": 110,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-07",
+          "time": "6:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        },
+        {
+          "date": "2011-10-09",
+          "time": "12:30 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A profile of Sea Shepherd founder Paul Watson and his aggressive campaigns against illegal whaling.",
+      "cast": [],
+      "page": 28
+    },
+    {
+      "title": "Eliminate: Archie Cookson",
+      "original_title": null,
+      "directors": [
+        "Rob Holder"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "film_year": 2011,
+      "runtime_min": 87,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": "US Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-08",
+          "time": "1:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        },
+        {
+          "date": "2011-10-11",
+          "time": "9:30 PM",
+          "venue": "CinéArts@Sequoia"
+        }
+      ],
+      "summary": "A washed-up MI6 translator discovers his bosses have hired his best friend to kill him.",
+      "cast": [
+        "Paul Rhys",
+        "Claire Skinner",
+        "Paul Ritter",
+        "Georgia King",
+        "Philip Manikum",
+        "Nicholas Day"
+      ],
+      "page": 28
+    },
+    {
+      "title": "A Few Best Men",
+      "original_title": null,
+      "directors": [
+        "Stephan Elliott"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "film_year": 2011,
+      "runtime_min": 91,
+      "language": null,
+      "section": "World Cinema",
+      "slot": "Gala",
+      "premiere": "North American Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Stephan Elliott"
+      ],
+      "screenings": [
+        {
+          "date": "2011-10-14",
+          "time": "8:30 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A young Briton's wedding in the Australian outback is thrown into chaos by his groomsmen and a beloved sheep.",
+      "cast": [
+        "Xavier Samuel",
+        "Kris Marshall",
+        "Kevin Bishop",
+        "Laura Brent",
+        "Rebel Wilson",
+        "Olivia Newton-John"
+      ],
+      "page": 28
+    },
+    {
+      "title": "The Forgiveness of Blood",
+      "original_title": null,
+      "directors": [
+        "Joshua Marston"
+      ],
+      "countries": [
+        "US",
+        "Albania",
+        "Denmark",
+        "Italy"
+      ],
+      "film_year": 2011,
+      "runtime_min": 109,
+      "language": "Albanian",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-13",
+          "time": "4:00 PM",
+          "venue": "CinéArts@Sequoia"
+        },
+        {
+          "date": "2011-10-15",
+          "time": "12:15 PM",
+          "venue": "CinéArts@Sequoia"
+        }
+      ],
+      "summary": "An Albanian teenager is confined to his home when his father becomes embroiled in a blood feud governed by the ancient Kanun.",
+      "cast": [
+        "Tristan Halilaj",
+        "Sindi Lacej",
+        "Refet Abazi",
+        "Zana Hasaj"
+      ],
+      "page": 29
+    },
+    {
+      "title": "Girlfriend",
+      "original_title": null,
+      "directors": [
+        "Justin Lerner"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2011,
+      "runtime_min": 94,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-09",
+          "time": "6:30 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        },
+        {
+          "date": "2011-10-10",
+          "time": "5:30 PM",
+          "venue": "142 Throckmorton Theatre"
+        }
+      ],
+      "summary": "A young man with Down syndrome uses an inheritance to woo a struggling single mother he has loved since high school.",
+      "cast": [
+        "Shannon Woodward",
+        "Jackson Rathbone",
+        "Amanda Plummer",
+        "Evan Sneider"
+      ],
+      "page": 29
+    },
+    {
+      "title": "The Good Doctor",
+      "original_title": null,
+      "directors": [
+        "Lance Daly"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2011,
+      "runtime_min": 90,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-08",
+          "time": "6:00 PM",
+          "venue": "CinéArts@Sequoia"
+        },
+        {
+          "date": "2011-10-10",
+          "time": "9:30 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A first-year doctor's obsession with a young patient leads him into morally dangerous territory.",
+      "cast": [
+        "Orlando Bloom",
+        "Riley Keough",
+        "Rob Morrow",
+        "Troy Garity",
+        "Taraji P. Henson",
+        "Michael Pena"
+      ],
+      "page": 29
+    },
+    {
+      "title": "Granito: How to Nail a Dictator",
+      "original_title": null,
+      "directors": [
+        "Pamela Yates"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2011,
+      "runtime_min": 104,
+      "language": "Spanish and English",
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-07",
+          "time": "6:30 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        },
+        {
+          "date": "2011-10-09",
+          "time": "5:45 PM",
+          "venue": "CinéArts@Sequoia"
+        }
+      ],
+      "summary": "Filmmaker Pamela Yates's 1982 footage becomes evidence in a genocide case against Guatemala's former leaders.",
+      "cast": [],
+      "page": 30
+    },
+    {
+      "title": "Guitar Man",
+      "original_title": null,
+      "directors": [
+        "Eric Paul Fournier"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2011,
+      "runtime_min": 90,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": "World Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-09",
+          "time": "8:00 PM",
+          "venue": "142 Throckmorton Theatre"
+        },
+        {
+          "date": "2011-10-10",
+          "time": "8:30 PM",
+          "venue": "142 Throckmorton Theatre"
+        }
+      ],
+      "summary": "Collectible-guitar dealer Michael Indelicato, former landlord of Sausalito's Record Plant, races to finish his own album.",
+      "cast": [],
+      "page": 30
+    },
+    {
+      "title": "Guru: Bhagwan, His Secretary & His Bodyguard",
+      "original_title": null,
+      "directors": [
+        "Sabine Gisiger",
+        "Beat Häner"
+      ],
+      "countries": [
+        "Switzerland"
+      ],
+      "film_year": 2010,
+      "runtime_min": 95,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": "North American Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-15",
+          "time": "2:15 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        },
+        {
+          "date": "2011-10-16",
+          "time": "12:00 PM",
+          "venue": "CinéArts@Sequoia"
+        }
+      ],
+      "summary": "Bhagwan Rajneesh's former secretary and bodyguard recount the rise and collapse of his Oregon commune.",
+      "cast": [],
+      "page": 30
+    },
+    {
+      "title": "Heist: Who Stole the American Dream?",
+      "original_title": null,
+      "directors": [
+        "Frances Causey",
+        "Donald Goldmacher"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2011,
+      "runtime_min": 85,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": "World Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-13",
+          "time": "7:00 PM",
+          "venue": "CinéArts@Sequoia"
+        },
+        {
+          "date": "2011-10-15",
+          "time": "2:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "An investigation of decades of corporate and government dealings that concentrated wealth and led to the economic crisis.",
+      "cast": [],
+      "page": 31
+    },
+    {
+      "title": "Hello! How Are You?",
+      "original_title": "Buna! Ce Faci?",
+      "directors": [
+        "Alexandru Maftei"
+      ],
+      "countries": [
+        "Romania"
+      ],
+      "film_year": 2010,
+      "runtime_min": 105,
+      "language": "Romanian",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-09",
+          "time": "9:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        },
+        {
+          "date": "2011-10-12",
+          "time": "4:00 PM",
+          "venue": "CinéArts@Sequoia"
+        }
+      ],
+      "summary": "A bored Romanian couple each begin an online romance without realizing they are chatting with each other.",
+      "cast": [
+        "Dana Voicu",
+        "Ionel Mihailescu",
+        "Paul Diaconescu"
+      ],
+      "page": 31
+    },
+    {
+      "title": "Heritage",
+      "original_title": "Ksiestwo",
+      "directors": [
+        "Andrzej Baranski"
+      ],
+      "countries": [
+        "Poland"
+      ],
+      "film_year": 2011,
+      "runtime_min": 124,
+      "language": "Polish",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-13",
+          "time": "8:45 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        },
+        {
+          "date": "2011-10-14",
+          "time": "8:45 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A young Pole who has failed to make it in the city drifts back to his home village in a changing post-Communist country.",
+      "cast": [
+        "Rafal Zawierucha",
+        "Aldona Jankowska",
+        "Jan Wojtynski",
+        "Grzegorz Gromek",
+        "Edward Kusztal",
+        "Michal Aniol"
+      ],
+      "page": 31
+    },
+    {
+      "title": "Holidays by the Sea",
+      "original_title": "Ni à vendre ni à louer",
+      "directors": [
+        "Pascal Rabaté"
+      ],
+      "countries": [
+        "France"
+      ],
+      "film_year": 2011,
+      "runtime_min": 77,
+      "language": "French",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-09",
+          "time": "6:45 PM",
+          "venue": "CinéArts@Sequoia"
+        },
+        {
+          "date": "2011-10-12",
+          "time": "4:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A nearly wordless seaside comedy in the spirit of Jacques Tati follows assorted vacationers' mishaps.",
+      "cast": [
+        "Jacques Gamblin",
+        "Maria de Medeiros",
+        "François Damiens",
+        "François Morel",
+        "Dominique Pinon",
+        "Arsène Mosca"
+      ],
+      "page": 32
+    },
+    {
+      "title": "Jeff, Who Lives at Home",
+      "original_title": null,
+      "directors": [
+        "Jay Duplass",
+        "Mark Duplass"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2011,
+      "runtime_min": 84,
+      "language": null,
+      "section": "US Cinema",
+      "slot": "Opening Night",
+      "premiere": "US Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-06",
+          "time": "7:00 PM",
+          "venue": "CinéArts@Sequoia"
+        },
+        {
+          "date": "2011-10-06",
+          "time": "7:15 PM",
+          "venue": "CinéArts@Sequoia"
+        }
+      ],
+      "summary": "An unemployed 30-year-old living with his mother sets out to discover his destiny over the course of one day.",
+      "cast": [
+        "Jason Segel",
+        "Susan Sarandon",
+        "Judy Greer",
+        "Ed Helms"
+      ],
+      "page": 32
+    },
+    {
+      "title": "The Kite",
+      "original_title": "Patang",
+      "directors": [
+        "Prashant Bhargava"
+      ],
+      "countries": [
+        "US",
+        "India"
+      ],
+      "film_year": 2010,
+      "runtime_min": 104,
+      "language": "Hindi",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-08",
+          "time": "4:15 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        },
+        {
+          "date": "2011-10-09",
+          "time": "3:00 PM",
+          "venue": "CinéArts@Sequoia"
+        }
+      ],
+      "summary": "A Delhi businessman returns to his childhood home in Ahmedabad for the kite festival and faces family resistance.",
+      "cast": [
+        "Seema Biswas",
+        "Nawazuddin Siddiqui",
+        "Sugandha Garg",
+        "Mukund Shukla",
+        "Aakash Maherya",
+        "Hamid Shaikh"
+      ],
+      "page": 33
+    },
+    {
+      "title": "The Lady",
+      "original_title": null,
+      "directors": [
+        "Luc Besson"
+      ],
+      "countries": [
+        "France",
+        "UK"
+      ],
+      "film_year": 2011,
+      "runtime_min": 145,
+      "language": null,
+      "section": "World Cinema",
+      "slot": "Spotlight",
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Michelle Yeoh",
+        "Luc Besson"
+      ],
+      "screenings": [
+        {
+          "date": "2011-10-08",
+          "time": "7:30 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "The story of Burmese democracy leader Aung San Suu Kyi and her long separation from her British husband.",
+      "cast": [
+        "Michelle Yeoh",
+        "David Thewlis",
+        "William Hope"
+      ],
+      "page": 33
+    },
+    {
+      "title": "Light of the River",
+      "original_title": "Kawa no Hikari",
+      "directors": [
+        "Tetsuo Hirakawa"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "film_year": 2009,
+      "runtime_min": 75,
+      "language": "Japanese",
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-09",
+          "time": "2:30 PM",
+          "venue": "142 Throckmorton Theatre"
+        },
+        {
+          "date": "2011-10-16",
+          "time": "2:15 PM",
+          "venue": "142 Throckmorton Theatre"
+        }
+      ],
+      "summary": "An animated family of river rats driven from their home by construction must find a new place to live in the city.",
+      "cast": [],
+      "page": 33
+    },
+    {
+      "title": "Like Crazy",
+      "original_title": null,
+      "directors": [
+        "Drake Doremus"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2010,
+      "runtime_min": 88,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-07",
+          "time": "7:00 PM",
+          "venue": "CinéArts@Sequoia"
+        },
+        {
+          "date": "2011-10-12",
+          "time": "6:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A British exchange student and an American designer try to sustain their romance after visa problems separate them.",
+      "cast": [
+        "Anton Yelchin",
+        "Felicity Jones",
+        "Jennifer Lawrence"
+      ],
+      "page": 34
+    },
+    {
+      "title": "Lost Kisses",
+      "original_title": "I Baci Mai Dati",
+      "directors": [
+        "Roberta Torre"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "film_year": 2010,
+      "runtime_min": 80,
+      "language": "Italian",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-15",
+          "time": "9:30 PM",
+          "venue": "CinéArts@Sequoia"
+        },
+        {
+          "date": "2011-10-16",
+          "time": "1:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A Sicilian teenager claims the Virgin Mary spoke to her, and her mother exploits the town's belief in her powers.",
+      "cast": [
+        "Donatella Finocchiaro",
+        "Carla Marchese",
+        "Pino Micol",
+        "Beppe Fiorello",
+        "Piera Degli Esposti"
+      ],
+      "page": 34
+    },
+    {
+      "title": "Lotus Eaters",
+      "original_title": null,
+      "directors": [
+        "Alexandra McGuinness"
+      ],
+      "countries": [
+        "UK",
+        "Ireland"
+      ],
+      "film_year": 2011,
+      "runtime_min": 78,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-08",
+          "time": "6:15 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        },
+        {
+          "date": "2011-10-10",
+          "time": "9:15 PM",
+          "venue": "CinéArts@Sequoia"
+        }
+      ],
+      "summary": "A young model drifts among aimless, wealthy London partygoers whose games turn dangerous.",
+      "cast": [
+        "Antonia Campbell-Hughes",
+        "Johnny Flynn",
+        "Cynthia Fortune Ryan",
+        "Benn Northover",
+        "Daisy Lewis",
+        "Amber Anderson"
+      ],
+      "page": 34
+    },
+    {
+      "title": "Magic Silver",
+      "original_title": "Julenatt i Blåfjell",
+      "directors": [
+        "Katarina Launing",
+        "Roar Uthaug"
+      ],
+      "countries": [
+        "Norway"
+      ],
+      "film_year": 2009,
+      "runtime_min": 83,
+      "language": "Norwegian",
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-08",
+          "time": "4:15 PM",
+          "venue": "142 Throckmorton Theatre"
+        },
+        {
+          "date": "2011-10-15",
+          "time": "12:30 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A timid gnome princess leaves her mountain home to protect her people's magical silver from humans and rival gnomes.",
+      "cast": [
+        "Ane Viola Semb",
+        "Johan Tinus Lindgren",
+        "Simen Bakken",
+        "Jan Gunnar Røise",
+        "Sigve Bøe",
+        "Finn Schau"
+      ],
+      "page": 35
+    },
+    {
+      "title": "Margin Call",
+      "original_title": null,
+      "directors": [
+        "J.C. Chandor"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2010,
+      "runtime_min": 106,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-11",
+          "time": "8:15 PM",
+          "venue": "CinéArts@Sequoia"
+        },
+        {
+          "date": "2011-10-13",
+          "time": "4:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "Over one night at a Wall Street firm, employees discover the financial meltdown about to engulf them.",
+      "cast": [
+        "Kevin Spacey",
+        "Paul Bettany",
+        "Jeremy Irons",
+        "Zachary Quinto",
+        "Penn Badgley",
+        "Simon Baker"
+      ],
+      "page": 35
+    },
+    {
+      "title": "Martha Marcy May Marlene",
+      "original_title": null,
+      "directors": [
+        "Sean Durkin"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2011,
+      "runtime_min": 101,
+      "language": null,
+      "section": "US Cinema",
+      "slot": "Spotlight",
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Elizabeth Olsen"
+      ],
+      "screenings": [
+        {
+          "date": "2011-10-15",
+          "time": "8:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A young woman who escapes a cult struggles to readjust while staying with her sister and brother-in-law.",
+      "cast": [
+        "Elizabeth Olsen",
+        "Christopher Abbott",
+        "Brady Corbet",
+        "Hugh Dancy",
+        "Maria Dizzia",
+        "Julia Garner"
+      ],
+      "page": 35
+    },
+    {
+      "title": "Miss Bala",
+      "original_title": null,
+      "directors": [
+        "Gerardo Naranjo"
+      ],
+      "countries": [
+        "Mexico"
+      ],
+      "film_year": 2011,
+      "runtime_min": 113,
+      "language": "Spanish",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-08",
+          "time": "9:00 PM",
+          "venue": "CinéArts@Sequoia"
+        },
+        {
+          "date": "2011-10-13",
+          "time": "9:15 PM",
+          "venue": "CinéArts@Sequoia"
+        }
+      ],
+      "summary": "A Tijuana woman hoping to enter a beauty pageant is forced into the service of a drug cartel after witnessing a crime.",
+      "cast": [
+        "Stephanie Sigman",
+        "Noe Hernandez"
+      ],
+      "page": 36
+    },
+    {
+      "title": "The Mosque",
+      "original_title": "A Jamaa",
+      "directors": [
+        "Daoud Aoulad-Syad"
+      ],
+      "countries": [
+        "Morocco"
+      ],
+      "film_year": 2010,
+      "runtime_min": 80,
+      "language": "Arabic",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": "US Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-07",
+          "time": "9:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        },
+        {
+          "date": "2011-10-09",
+          "time": "6:45 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A Moroccan villager fights to remove a fake mosque left on his land by a film crew that locals have turned into a real one.",
+      "cast": [
+        "Abdelhadi Tohrache",
+        "Bouchra Ahriche",
+        "Mestafa Tahtahe",
+        "Sellam Daballa",
+        "Lhaj Nacer",
+        "Abdellatif Ettouhfi"
+      ],
+      "page": 36
+    },
+    {
+      "title": "My Week with Marilyn",
+      "original_title": null,
+      "directors": [
+        "Simon Curtis"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "film_year": 2011,
+      "runtime_min": 100,
+      "language": null,
+      "section": "World Cinema",
+      "slot": "Centerpiece",
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Simon Curtis"
+      ],
+      "screenings": [
+        {
+          "date": "2011-10-11",
+          "time": "6:45 PM",
+          "venue": "CinéArts@Sequoia"
+        },
+        {
+          "date": "2011-10-14",
+          "time": "6:30 PM",
+          "venue": "CinéArts@Sequoia"
+        }
+      ],
+      "summary": "A young production assistant spends a week with Marilyn Monroe during the troubled filming of The Prince and the Showgirl.",
+      "cast": [
+        "Michelle Williams",
+        "Eddie Redmayne",
+        "Kenneth Branagh",
+        "Judi Dench",
+        "Julia Ormond",
+        "Dougray Scott"
+      ],
+      "page": 36
+    },
+    {
+      "title": "One Through Love",
+      "original_title": null,
+      "directors": [
+        "Stephen Olsson"
+      ],
+      "countries": [
+        "US",
+        "Turkey",
+        "Iran",
+        "UK",
+        "France"
+      ],
+      "film_year": 2011,
+      "runtime_min": 59,
+      "language": "English, Turkish, Farsi and Arabic",
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": "World Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Stephen Olsson",
+        "Parisa Soultani"
+      ],
+      "screenings": [
+        {
+          "date": "2011-10-15",
+          "time": "11:30 AM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A multilingual exploration of the poetry and teachings of the Persian mystic Rumi, followed by a live global web dialogue.",
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "Portrait of a Winemaker: John Williams of Frog's Leap",
+      "original_title": null,
+      "directors": [
+        "Deborah Koons Garcia"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 15,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Our New Frontier: Sustainability",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-08",
+          "time": "7:30 PM",
+          "venue": "142 Throckmorton Theatre"
+        },
+        {
+          "date": "2011-10-15",
+          "time": "4:15 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A pioneering winemaker explains his dry-farming method.",
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "Transition Town Totnes",
+      "original_title": null,
+      "directors": [
+        "Deborah Koons Garcia"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 14,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Our New Frontier: Sustainability",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-08",
+          "time": "7:30 PM",
+          "venue": "142 Throckmorton Theatre"
+        },
+        {
+          "date": "2011-10-15",
+          "time": "4:15 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "Founder Rob Hopkins traces the origins of the Transition Movement.",
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "The New Frontier: Sustainable Ranching in the American West",
+      "original_title": null,
+      "directors": [
+        "Melinda Levin",
+        "Irene J. Klaver"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 28,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Our New Frontier: Sustainability",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-08",
+          "time": "7:30 PM",
+          "venue": "142 Throckmorton Theatre"
+        },
+        {
+          "date": "2011-10-15",
+          "time": "4:15 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "Three modern ranchers challenge stereotypes amid controversies over rangeland management.",
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "The New Environmentalists",
+      "original_title": null,
+      "directors": [
+        "John Antonelli",
+        "Will Parrinello",
+        "Tom Dusenbery"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": null,
+      "runtime_min": 24,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Our New Frontier: Sustainability",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-08",
+          "time": "7:30 PM",
+          "venue": "142 Throckmorton Theatre"
+        },
+        {
+          "date": "2011-10-15",
+          "time": "4:15 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "Portraits of Goldman Environmental Prize-winning activists from around the world.",
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "Pariah",
+      "original_title": null,
+      "directors": [
+        "Dee Rees"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2011,
+      "runtime_min": 86,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-10",
+          "time": "7:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A Brooklyn teenager hides her lesbian identity from her parents while searching for her place in the world.",
+      "cast": [],
+      "page": 37
+    },
+    {
+      "title": "Pegasus",
+      "original_title": "Pégase",
+      "directors": [
+        "Mohamed Mouftakir"
+      ],
+      "countries": [
+        "Morocco"
+      ],
+      "film_year": 2010,
+      "runtime_min": 104,
+      "language": "Arabic",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": "North American Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-07",
+          "time": "6:30 PM",
+          "venue": "CinéArts@Sequoia"
+        },
+        {
+          "date": "2011-10-09",
+          "time": "4:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A psychiatrist treats a young woman without memory who believes she is pregnant by the 'Lord of the Horse'.",
+      "cast": [
+        "Sadia Ladib",
+        "Majdouline Drissi",
+        "Driss Roukh",
+        "Anas El Baz"
+      ],
+      "page": 38
+    },
+    {
+      "title": "Pina",
+      "original_title": null,
+      "directors": [
+        "Wim Wenders"
+      ],
+      "countries": [
+        "Germany",
+        "France"
+      ],
+      "film_year": 2010,
+      "runtime_min": 100,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-12",
+          "time": "7:30 PM",
+          "venue": "Cinemark Larkspur Landing"
+        }
+      ],
+      "summary": "A 3-D tribute to choreographer Pina Bausch through performances by her Tanztheater Wuppertal dancers.",
+      "cast": [],
+      "page": 38
+    },
+    {
+      "title": "The Planets",
+      "original_title": null,
+      "directors": [
+        "John Sanborn"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2011,
+      "runtime_min": 77,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": "World Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-12",
+          "time": "6:45 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        },
+        {
+          "date": "2011-10-14",
+          "time": "8:15 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A digital audiovisual journey through the heavens set to Kyle Gann's long-form composition.",
+      "cast": [
+        "Margaret Cromwell",
+        "Joseph Copley"
+      ],
+      "page": 38
+    },
+    {
+      "title": "Play Like a Lion: The Legacy of Maestro Ali Akbar Khan",
+      "original_title": null,
+      "directors": [
+        "Joshua Dylan Mellars"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2011,
+      "runtime_min": 72,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": "US Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-09",
+          "time": "8:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        },
+        {
+          "date": "2011-10-12",
+          "time": "9:15 PM",
+          "venue": "CinéArts@Sequoia"
+        }
+      ],
+      "summary": "Alam Khan guides a journey through the musical legacy of his father, the North Indian master Ali Akbar Khan.",
+      "cast": [
+        "Ali Akbar Khan",
+        "Alam Khan",
+        "Carlos Santana",
+        "Mickey Hart",
+        "Zakir Hussain",
+        "Swapan Chaudhuri"
+      ],
+      "page": 39
+    },
+    {
+      "title": "Gold Violin: Bow of Death",
+      "original_title": null,
+      "directors": [
+        "Mark Pope"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2011,
+      "runtime_min": 9,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-09",
+          "time": "8:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        },
+        {
+          "date": "2011-10-12",
+          "time": "9:15 PM",
+          "venue": "CinéArts@Sequoia"
+        }
+      ],
+      "summary": "Violinist Joseph Gold tells the story of the famous bow he owns that once belonged to Eduard Reményi.",
+      "cast": [],
+      "page": 39
+    },
+    {
+      "title": "Principles",
+      "original_title": "Yeki az ma do nafar",
+      "directors": [
+        "Tahmineh Milani"
+      ],
+      "countries": [
+        "Iran"
+      ],
+      "film_year": 2011,
+      "runtime_min": 87,
+      "language": "Farsi",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-11",
+          "time": "4:45 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        },
+        {
+          "date": "2011-10-13",
+          "time": "9:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A young Iranian architect resists the manipulative advances of her arrogant boss.",
+      "cast": [
+        "Bahram Radan",
+        "Danial Ebadi",
+        "Anahita Ne'mati",
+        "Samaneh Pakdel",
+        "Elsa Firuz Azar",
+        "Homayoun Ershadi"
+      ],
+      "page": 39
+    },
+    {
+      "title": "The Prize",
+      "original_title": "El Premio",
+      "directors": [
+        "Paula Markovitch"
+      ],
+      "countries": [
+        "Mexico",
+        "Germany",
+        "France",
+        "Poland"
+      ],
+      "film_year": 2011,
+      "runtime_min": 103,
+      "language": "Spanish",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-12",
+          "time": "9:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        },
+        {
+          "date": "2011-10-16",
+          "time": "5:45 PM",
+          "venue": "CinéArts@Sequoia"
+        }
+      ],
+      "summary": "A seven-year-old girl hiding with her mother in a beach town during Argentina's dictatorship is asked to write an essay praising the army.",
+      "cast": [
+        "Paula Galinelli Hertzog",
+        "Sharon Herrera",
+        "Laura Agorreca",
+        "Viviana Suraniti",
+        "Uriel Lasillo"
+      ],
+      "page": 39
+    },
+    {
+      "title": "Raiders of the Lost Ark",
+      "original_title": null,
+      "directors": [
+        "Steven Spielberg"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 1981,
+      "runtime_min": 115,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-10",
+          "time": "7:00 PM",
+          "venue": "Century Cinema"
+        }
+      ],
+      "summary": "Archaeologist Indiana Jones races to find the Ark of the Covenant, shown in a 30th-anniversary screening.",
+      "cast": [
+        "Harrison Ford",
+        "Karen Allen",
+        "Paul Freeman",
+        "Ronald Lacey",
+        "John Rhys-Davies",
+        "Denholm Elliott"
+      ],
+      "page": 40
+    },
+    {
+      "title": "The Real Rocky",
+      "original_title": null,
+      "directors": [
+        "Jeff Feuerzeig"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2011,
+      "runtime_min": 54,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": "World Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-09",
+          "time": "2:15 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A portrait of boxer Chuck Wepner, whose 1975 title fight with Muhammad Ali inspired Sylvester Stallone's Rocky.",
+      "cast": [],
+      "page": 40
+    },
+    {
+      "title": "Right to Play",
+      "original_title": null,
+      "directors": [
+        "Frank Marshall"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2011,
+      "runtime_min": 39,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-09",
+          "time": "2:15 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "Olympic speed skater Johann Olav Koss works to bring sport to disadvantaged children worldwide.",
+      "cast": [],
+      "page": 40
+    },
+    {
+      "title": "Restoration",
+      "original_title": "Boker Tov Adon Fidelman",
+      "directors": [
+        "Joseph Madmony"
+      ],
+      "countries": [
+        "Israel"
+      ],
+      "film_year": 2011,
+      "runtime_min": 105,
+      "language": "Hebrew",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-14",
+          "time": "9:00 PM",
+          "venue": "CinéArts@Sequoia"
+        }
+      ],
+      "summary": "After his business partner dies, an elderly antiques restorer and his son clash over saving the failing shop.",
+      "cast": [
+        "Sasson Gabai",
+        "Henry David",
+        "Sarah Adler",
+        "Nevo Kimchi"
+      ],
+      "page": 40
+    },
+    {
+      "title": "The Sacred Science",
+      "original_title": null,
+      "directors": [
+        "Nick Polizzi"
+      ],
+      "countries": [
+        "US",
+        "Peru"
+      ],
+      "film_year": 2011,
+      "runtime_min": 76,
+      "language": "English, Spanish and Quechua",
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-12",
+          "time": "6:30 PM",
+          "venue": "142 Throckmorton Theatre"
+        },
+        {
+          "date": "2011-10-15",
+          "time": "6:30 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "Eight seriously ill patients spend a month being treated by shamans in the Peruvian Amazon.",
+      "cast": [],
+      "page": 41
+    },
+    {
+      "title": "A Woman's Descent to the Sacred",
+      "original_title": null,
+      "directors": [
+        "Sherry Ruth Anderson"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2011,
+      "runtime_min": 22,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-12",
+          "time": "6:30 PM",
+          "venue": "142 Throckmorton Theatre"
+        },
+        {
+          "date": "2011-10-15",
+          "time": "6:30 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "Images of female power and music trace a woman's spiritual journey.",
+      "cast": [],
+      "page": 41
+    },
+    {
+      "title": "Sacrifice",
+      "original_title": "Zhao shi gu er",
+      "directors": [
+        "Chen Kaige"
+      ],
+      "countries": [
+        "China"
+      ],
+      "film_year": 2010,
+      "runtime_min": 132,
+      "language": "Chinese",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-14",
+          "time": "5:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        },
+        {
+          "date": "2011-10-15",
+          "time": "3:15 PM",
+          "venue": "CinéArts@Sequoia"
+        }
+      ],
+      "summary": "A period epic in which a country doctor sacrifices his own son to save the last heir of a murdered noble clan.",
+      "cast": [
+        "Ge You",
+        "Wang Xueqi",
+        "Huang Xiaoming",
+        "Fan Bingbing",
+        "Hai Qing"
+      ],
+      "page": 41
+    },
+    {
+      "title": "The Salt of Life",
+      "original_title": "Gianna e le Donne",
+      "directors": [
+        "Gianni Di Gregorio"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "film_year": 2011,
+      "runtime_min": 90,
+      "language": "Italian",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-15",
+          "time": "7:15 PM",
+          "venue": "CinéArts@Sequoia"
+        },
+        {
+          "date": "2011-10-16",
+          "time": "6:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A retired Roman man in his sixties, fearing his appeal has faded, tries in vain to find romance.",
+      "cast": [
+        "Gianni Di Gregorio",
+        "Valeria De Franciscis",
+        "Alfonso Santagata",
+        "Elisabetta Piccolomini",
+        "Teresa Di Gregorio",
+        "Michelangelo Ciminale"
+      ],
+      "page": 41
+    },
+    {
+      "title": "Sarabah",
+      "original_title": null,
+      "directors": [
+        "Maria Luisa Gambale",
+        "Gloria Bremer"
+      ],
+      "countries": [
+        "US",
+        "Senegal"
+      ],
+      "film_year": 2011,
+      "runtime_min": 60,
+      "language": "English, French, German, Wolof and Diola",
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": "North American Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-07",
+          "time": "7:00 PM",
+          "venue": "142 Throckmorton Theatre"
+        },
+        {
+          "date": "2011-10-08",
+          "time": "1:30 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "Senegalese hip-hop artist Sister Fa campaigns against female genital cutting in her home country.",
+      "cast": [],
+      "page": 42
+    },
+    {
+      "title": "Miss South Pacific: Beauty and the Sea",
+      "original_title": null,
+      "directors": [
+        "Mary Lambert"
+      ],
+      "countries": [
+        "Fiji",
+        "Papua New Guinea",
+        "US"
+      ],
+      "film_year": 2011,
+      "runtime_min": 39,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-07",
+          "time": "7:00 PM",
+          "venue": "142 Throckmorton Theatre"
+        },
+        {
+          "date": "2011-10-08",
+          "time": "1:30 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "Miss South Pacific pageant contestants raise awareness of the climate change threatening their island nations.",
+      "cast": [],
+      "page": 42
+    },
+    {
+      "title": "Shame",
+      "original_title": null,
+      "directors": [
+        "Steve McQueen"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "film_year": 2011,
+      "runtime_min": 99,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-13",
+          "time": "6:30 PM",
+          "venue": "CinéArts@Sequoia"
+        },
+        {
+          "date": "2011-10-15",
+          "time": "7:30 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A New York man's compulsive sex life is thrown into turmoil when his troubled sister moves in.",
+      "cast": [
+        "Michael Fassbender",
+        "Carey Mulligan",
+        "James Badge Dale",
+        "Nicole Beharie"
+      ],
+      "page": 42
+    },
+    {
+      "title": "Silence of Love",
+      "original_title": "Tous Les Soleils",
+      "directors": [
+        "Philippe Claudel"
+      ],
+      "countries": [
+        "France"
+      ],
+      "film_year": 2011,
+      "runtime_min": 105,
+      "language": "French and Italian",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-08",
+          "time": "4:15 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        },
+        {
+          "date": "2011-10-15",
+          "time": "6:30 PM",
+          "venue": "CinéArts@Sequoia"
+        }
+      ],
+      "summary": "A widowed Italian musicologist in Strasbourg struggles to connect with his teenage daughter and his anarchist brother.",
+      "cast": [
+        "Stefano Accorsi",
+        "Neri Marcore",
+        "Clotilde Courau",
+        "Anouk Aimée",
+        "Lisa Cipriani"
+      ],
+      "page": 42
+    },
+    {
+      "title": "Small, Beautifully Moving Parts",
+      "original_title": null,
+      "directors": [
+        "Annie J. Howell",
+        "Lisa Robinson"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2011,
+      "runtime_min": 73,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-08",
+          "time": "4:00 PM",
+          "venue": "CinéArts@Sequoia"
+        },
+        {
+          "date": "2011-10-10",
+          "time": "9:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A technology-obsessed pregnant woman sets off on a road trip to find her long-estranged mother living off the grid.",
+      "cast": [
+        "Anna Margaret Hollyman",
+        "Richard Hoag",
+        "André Holland",
+        "Mary Beth Peil",
+        "Sarah Rafferty",
+        "Susan Kelechi Watson"
+      ],
+      "page": 43
+    },
+    {
+      "title": "Smokin' Fish",
+      "original_title": null,
+      "directors": [
+        "Luke Griswold-Tergis",
+        "Cory Mann"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2011,
+      "runtime_min": 80,
+      "language": "English and Tlingit",
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": "World Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-08",
+          "time": "1:30 PM",
+          "venue": "CinéArts@Sequoia"
+        },
+        {
+          "date": "2011-10-11",
+          "time": "9:15 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "Tlingit businessman Cory Mann returns to his family's traditional fish camp in Alaska each summer.",
+      "cast": [],
+      "page": 43
+    },
+    {
+      "title": "The Walk",
+      "original_title": null,
+      "directors": [
+        "William Farley",
+        "Hyeyon Moon"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2011,
+      "runtime_min": 10,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-08",
+          "time": "1:30 PM",
+          "venue": "CinéArts@Sequoia"
+        },
+        {
+          "date": "2011-10-11",
+          "time": "9:15 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "One man's unchanging daily walk through a city park becomes a celebration of place.",
+      "cast": [],
+      "page": 43
+    },
+    {
+      "title": "The Soul of Flies",
+      "original_title": "El alma de las moscas",
+      "directors": [
+        "Jonathan Cenzual Burley"
+      ],
+      "countries": [
+        "Spain"
+      ],
+      "film_year": 2011,
+      "runtime_min": 80,
+      "language": "Spanish",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": "North American Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-14",
+          "time": "6:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        },
+        {
+          "date": "2011-10-16",
+          "time": "5:30 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "Two half-brothers who have never met travel across the Spanish countryside to their unknown father's funeral.",
+      "cast": [
+        "Andrea Calabrese",
+        "Javier Sáez",
+        "Norberto Gutiérrez"
+      ],
+      "page": 43
+    },
+    {
+      "title": "Stage Left: A Story of Theater in San Francisco",
+      "original_title": null,
+      "directors": [
+        "Austin Forbord"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2010,
+      "runtime_min": 82,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-10",
+          "time": "7:00 PM",
+          "venue": "CinéArts@Sequoia"
+        },
+        {
+          "date": "2011-10-12",
+          "time": "9:15 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A history of San Francisco's radical and innovative theater scene, from the Mime Troupe to American Conservatory Theater.",
+      "cast": [],
+      "page": 44
+    },
+    {
+      "title": "The Story of Film: An Odyssey",
+      "original_title": null,
+      "directors": [
+        "Mark Cousins"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "film_year": 2011,
+      "runtime_min": 90,
+      "language": "English, Farsi, Hindi, Russian and Chinese",
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": "US Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-12",
+          "time": "6:30 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        },
+        {
+          "date": "2011-10-14",
+          "time": "7:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A chapter from Mark Cousins's film history series offering an alternative, global view of 1970s cinema.",
+      "cast": [],
+      "page": 44
+    },
+    {
+      "title": "Summerland",
+      "original_title": "Sumarlandið",
+      "directors": [
+        "Grímur Hákonarson"
+      ],
+      "countries": [
+        "Iceland"
+      ],
+      "film_year": 2010,
+      "runtime_min": 85,
+      "language": "Icelandic",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-09",
+          "time": "12:15 PM",
+          "venue": "CinéArts@Sequoia"
+        },
+        {
+          "date": "2011-10-10",
+          "time": "4:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "An Icelandic family's finances, beliefs and romances are upended when the skeptical father sells their sacred elf stone.",
+      "cast": [
+        "Kjartan Gudjónsson",
+        "Ólafía Hronn Jónsdóttir",
+        "Snorri Engilbertsson",
+        "Hallfridur Tryggvadóttir",
+        "Nokkvi Helgason",
+        "Arnbjörg Hlíf Valsdóttir"
+      ],
+      "page": 44
+    },
+    {
+      "title": "Thumbs",
+      "original_title": null,
+      "directors": [
+        "Bill Couturié"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2011,
+      "runtime_min": 75,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-09",
+          "time": "4:45 PM",
+          "venue": "142 Throckmorton Theatre"
+        }
+      ],
+      "summary": "Six teenagers compete for the US National Texting Championship in New York.",
+      "cast": [],
+      "page": 45
+    },
+    {
+      "title": "Trust Me",
+      "original_title": "Puss",
+      "directors": [
+        "Johan Kling"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "film_year": 2010,
+      "runtime_min": 113,
+      "language": "Swedish",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": "World Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-09",
+          "time": "3:30 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        },
+        {
+          "date": "2011-10-10",
+          "time": "4:00 PM",
+          "venue": "CinéArts@Sequoia"
+        }
+      ],
+      "summary": "An ensemble comedy about a theater director, her actors and assorted hangers-on at a small Stockholm theater.",
+      "cast": [
+        "Susanne Thorson",
+        "Gustaf Skarsgård",
+        "Alexander Skarsgård",
+        "Philomène Grandin",
+        "Michael Segerström"
+      ],
+      "page": 45
+    },
+    {
+      "title": "Turn Me On, Dammit!",
+      "original_title": "Få meg på, for faen",
+      "directors": [
+        "Jannicke Systad Jacobsen"
+      ],
+      "countries": [
+        "Norway"
+      ],
+      "film_year": 2011,
+      "runtime_min": 75,
+      "language": "Norwegian",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-08",
+          "time": "7:00 PM",
+          "venue": "CinéArts@Sequoia"
+        },
+        {
+          "date": "2011-10-10",
+          "time": "4:30 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A sexually curious 15-year-old in rural Norway becomes a social outcast after an awkward encounter with a boy.",
+      "cast": [
+        "Helene Bergsholm",
+        "Matias Myren",
+        "Malin Bjorhovde",
+        "Beate Stofring",
+        "Henriette Steenstrup"
+      ],
+      "page": 45
+    },
+    {
+      "title": "Voices from the Shadows",
+      "original_title": null,
+      "directors": [
+        "Natalie Boulton",
+        "Josh Biggs"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "film_year": 2011,
+      "runtime_min": 63,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": "World Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Natalie Boulton"
+      ],
+      "screenings": [
+        {
+          "date": "2011-10-08",
+          "time": "2:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "British families describe how medical ignorance and prejudice worsened the suffering of loved ones with ME/chronic fatigue syndrome.",
+      "cast": [],
+      "page": 46
+    },
+    {
+      "title": "We Need to Talk About Kevin",
+      "original_title": null,
+      "directors": [
+        "Lynne Ramsay"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "film_year": 2011,
+      "runtime_min": 111,
+      "language": null,
+      "section": "World Cinema",
+      "slot": "Spotlight",
+      "premiere": "US Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Ezra Miller"
+      ],
+      "screenings": [
+        {
+          "date": "2011-10-13",
+          "time": "7:30 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A mother reckons with her relationship with her apparently psychopathic son in the wake of a catastrophe.",
+      "cast": [
+        "Tilda Swinton",
+        "John C. Reilly",
+        "Ezra Miller",
+        "Ashley Gerasimovich"
+      ],
+      "page": 46
+    },
+    {
+      "title": "The Welcome",
+      "original_title": null,
+      "directors": [
+        "Kim Shelton"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2011,
+      "runtime_min": 93,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-13",
+          "time": "6:15 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        },
+        {
+          "date": "2011-10-16",
+          "time": "4:00 PM",
+          "venue": "142 Throckmorton Theatre"
+        }
+      ],
+      "summary": "War veterans and their families gather at an Oregon retreat to work through PTSD with poetry, song and ritual.",
+      "cast": [],
+      "page": 46
+    },
+    {
+      "title": "Wend Kuuni (God's Gift)",
+      "original_title": null,
+      "directors": [
+        "Gaston Kaboré"
+      ],
+      "countries": [
+        "Burkina Faso"
+      ],
+      "film_year": 1982,
+      "runtime_min": 70,
+      "language": "Moré",
+      "section": "World Cinema",
+      "slot": "Tribute",
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Gaston Kaboré"
+      ],
+      "screenings": [
+        {
+          "date": "2011-10-09",
+          "time": "4:30 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A mute boy found in the bush in precolonial West Africa is adopted by Mossi villagers and slowly regains his voice.",
+      "cast": [
+        "Serge Yanogo",
+        "Rosine Yanogo"
+      ],
+      "page": 47
+    },
+    {
+      "title": "What Happened Here?",
+      "original_title": null,
+      "directors": [
+        "Rob Nilsson"
+      ],
+      "countries": [
+        "US",
+        "Ukraine"
+      ],
+      "film_year": 2011,
+      "runtime_min": 95,
+      "language": "English, Ukrainian and Russian",
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": "World Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-08",
+          "time": "9:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "Filmmaker Rob Nilsson travels to Ukraine seeking traces of Leon Trotsky's Jewish roots in a lyrical cinematic essay.",
+      "cast": [],
+      "page": 47
+    },
+    {
+      "title": "William Kurelek's The Maze",
+      "original_title": null,
+      "directors": [
+        "Robert M. Young",
+        "David Grubin"
+      ],
+      "countries": [
+        "US",
+        "Canada"
+      ],
+      "film_year": 2011,
+      "runtime_min": 60,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": "World Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-12",
+          "time": "7:15 PM",
+          "venue": "CinéArts@Sequoia"
+        },
+        {
+          "date": "2011-10-15",
+          "time": "5:15 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A portrait of troubled Canadian painter William Kurelek, completed from footage begun in 1969.",
+      "cast": [],
+      "page": 47
+    },
+    {
+      "title": "Library of Dust",
+      "original_title": null,
+      "directors": [
+        "Ondi Timoner",
+        "Robert James"
+      ],
+      "countries": [
+        "US"
+      ],
+      "film_year": 2011,
+      "runtime_min": 16,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-12",
+          "time": "7:15 PM",
+          "venue": "CinéArts@Sequoia"
+        },
+        {
+          "date": "2011-10-15",
+          "time": "5:15 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "Photographs of corroded urns holding psychiatric patients' remains at the Oregon State Hospital reveal forgotten stories.",
+      "cast": [],
+      "page": 47
+    },
+    {
+      "title": "Young Goethe in Love",
+      "original_title": "Goethe!",
+      "directors": [
+        "Philipp Stölzl"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "film_year": 2010,
+      "runtime_min": 102,
+      "language": "German",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-15",
+          "time": "5:00 PM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A young Goethe, exiled to work as a country law clerk, falls for a woman also courted by his boss.",
+      "cast": [
+        "Alexander Fehling",
+        "Miriam Stein",
+        "Moritz Bleibtreu",
+        "Volker Bruch",
+        "Burghart Klaussner",
+        "Henry Hubchen"
+      ],
+      "page": 48
+    },
+    {
+      "title": "Ndapewa: I Am Given",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth-Produced",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Young Critics' Picks: The 2011 Youth Reel",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-08",
+          "time": "11:00 AM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A film made by a youth project in Namibia, chosen for the teen-juried Youth Reel.",
+      "cast": [],
+      "page": 48
+    },
+    {
+      "title": "Alone",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth-Produced",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Young Critics' Picks: The 2011 Youth Reel",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-08",
+          "time": "11:00 AM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A youth-made short the teen jury called one of the scariest films it had seen.",
+      "cast": [],
+      "page": 48
+    },
+    {
+      "title": "The 36",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth-Produced",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Young Critics' Picks: The 2011 Youth Reel",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-08",
+          "time": "11:00 AM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A youth-produced short selected by the Young Critics Jury for the 2011 Youth Reel.",
+      "cast": [],
+      "page": 48
+    },
+    {
+      "title": "2648 Hours",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth-Produced",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Young Critics' Picks: The 2011 Youth Reel",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-08",
+          "time": "11:00 AM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A youth-produced short selected by the Young Critics Jury for the 2011 Youth Reel.",
+      "cast": [],
+      "page": 48
+    },
+    {
+      "title": "Breaking Point",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth-Produced",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Young Critics' Picks: The 2011 Youth Reel",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-08",
+          "time": "11:00 AM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A youth-produced short selected by the Young Critics Jury for the 2011 Youth Reel.",
+      "cast": [],
+      "page": 48
+    },
+    {
+      "title": "Exposure",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth-Produced",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Young Critics' Picks: The 2011 Youth Reel",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-08",
+          "time": "11:00 AM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A youth-produced short selected by the Young Critics Jury for the 2011 Youth Reel.",
+      "cast": [],
+      "page": 48
+    },
+    {
+      "title": "Independence in Sight",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth-Produced",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Young Critics' Picks: The 2011 Youth Reel",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-08",
+          "time": "11:00 AM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A youth-produced short selected by the Young Critics Jury for the 2011 Youth Reel.",
+      "cast": [],
+      "page": 48
+    },
+    {
+      "title": "The King",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth-Produced",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Young Critics' Picks: The 2011 Youth Reel",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-08",
+          "time": "11:00 AM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A youth-produced short selected by the Young Critics Jury for the 2011 Youth Reel.",
+      "cast": [],
+      "page": 48
+    },
+    {
+      "title": "The Lemon Tree",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth-Produced",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Young Critics' Picks: The 2011 Youth Reel",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-08",
+          "time": "11:00 AM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A youth-produced short selected by the Young Critics Jury for the 2011 Youth Reel.",
+      "cast": [],
+      "page": 48
+    },
+    {
+      "title": "Los Des Morros!",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth-Produced",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Young Critics' Picks: The 2011 Youth Reel",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-08",
+          "time": "11:00 AM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A youth-produced short selected by the Young Critics Jury for the 2011 Youth Reel.",
+      "cast": [],
+      "page": 48
+    },
+    {
+      "title": "Mallrats",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth-Produced",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Young Critics' Picks: The 2011 Youth Reel",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-08",
+          "time": "11:00 AM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A youth-produced short selected by the Young Critics Jury for the 2011 Youth Reel.",
+      "cast": [],
+      "page": 48
+    },
+    {
+      "title": "Momo",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth-Produced",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Young Critics' Picks: The 2011 Youth Reel",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-08",
+          "time": "11:00 AM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A youth-produced short selected by the Young Critics Jury for the 2011 Youth Reel.",
+      "cast": [],
+      "page": 48
+    },
+    {
+      "title": "Sebastian's Adventure",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth-Produced",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Young Critics' Picks: The 2011 Youth Reel",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-08",
+          "time": "11:00 AM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A youth-produced short selected by the Young Critics Jury for the 2011 Youth Reel.",
+      "cast": [],
+      "page": 48
+    },
+    {
+      "title": "See",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth-Produced",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Young Critics' Picks: The 2011 Youth Reel",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-08",
+          "time": "11:00 AM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A youth-produced short selected by the Young Critics Jury for the 2011 Youth Reel.",
+      "cast": [],
+      "page": 48
+    },
+    {
+      "title": "Suffocation",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth-Produced",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Young Critics' Picks: The 2011 Youth Reel",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-08",
+          "time": "11:00 AM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A youth-produced short selected by the Young Critics Jury for the 2011 Youth Reel.",
+      "cast": [],
+      "page": 48
+    },
+    {
+      "title": "What Would You Do?",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth-Produced",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Young Critics' Picks: The 2011 Youth Reel",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2011-10-08",
+          "time": "11:00 AM",
+          "venue": "Christopher B. Smith Rafael Film Center"
+        }
+      ],
+      "summary": "A youth-produced short selected by the Young Critics Jury for the 2011 Youth Reel.",
+      "cast": [],
+      "page": 48
+    }
+  ],
+  "events": [
+    {
+      "title": "Opening Night Gala",
+      "kind": "party",
+      "date": "2011-10-06",
+      "time": "9:00 PM",
+      "venue": "Mill Valley Community Center",
+      "people": [],
+      "related_films": [
+        "Albert Nobbs",
+        "Jeff, Who Lives at Home"
+      ],
+      "summary": "Post-screening party with food, drinks and live music following the two Opening Night films.",
+      "page": 7
+    },
+    {
+      "title": "Tribute to Glenn Close",
+      "kind": "tribute",
+      "date": "2011-10-07",
+      "time": "8:00 PM",
+      "venue": "Christopher B. Smith Rafael Film Center",
+      "people": [
+        {
+          "name": "Glenn Close",
+          "role": "honoree"
+        }
+      ],
+      "related_films": [
+        "Albert Nobbs"
+      ],
+      "summary": "An onstage interview and clip review of Glenn Close's career, followed by a reception at Piatti.",
+      "page": 9
+    },
+    {
+      "title": "Spotlight on Michelle Yeoh",
+      "kind": "spotlight",
+      "date": "2011-10-08",
+      "time": "7:30 PM",
+      "venue": "Christopher B. Smith Rafael Film Center",
+      "people": [
+        {
+          "name": "Michelle Yeoh",
+          "role": "honoree"
+        },
+        {
+          "name": "Luc Besson",
+          "role": "speaker"
+        }
+      ],
+      "related_films": [
+        "The Lady"
+      ],
+      "summary": "A screening of The Lady followed by a conversation with Michelle Yeoh and director Luc Besson, then dinner.",
+      "page": 10
+    },
+    {
+      "title": "Tribute to Gaston Kaboré",
+      "kind": "tribute",
+      "date": "2011-10-09",
+      "time": "4:30 PM",
+      "venue": "Christopher B. Smith Rafael Film Center",
+      "people": [
+        {
+          "name": "Gaston Kaboré",
+          "role": "honoree"
+        }
+      ],
+      "related_films": [
+        "Wend Kuuni (God's Gift)"
+      ],
+      "summary": "A career tribute with an onstage conversation with the Burkinabè filmmaker and a showing of Wend Kuuni.",
+      "page": 11
+    },
+    {
+      "title": "Centerpiece: My Week with Marilyn",
+      "kind": "other",
+      "date": "2011-10-11",
+      "time": "6:45 PM",
+      "venue": "CinéArts@Sequoia",
+      "people": [
+        {
+          "name": "Simon Curtis",
+          "role": "speaker"
+        }
+      ],
+      "related_films": [
+        "My Week with Marilyn"
+      ],
+      "summary": "The festival's midpoint screening of My Week with Marilyn with a conversation with director Simon Curtis.",
+      "page": 12
+    },
+    {
+      "title": "Spotlight on Ezra Miller",
+      "kind": "spotlight",
+      "date": "2011-10-13",
+      "time": "7:30 PM",
+      "venue": "Christopher B. Smith Rafael Film Center",
+      "people": [
+        {
+          "name": "Ezra Miller",
+          "role": "honoree"
+        }
+      ],
+      "related_films": [
+        "We Need to Talk About Kevin"
+      ],
+      "summary": "An onstage interview with the young actor and a screening of We Need to Talk About Kevin, followed by a reception.",
+      "page": 13
+    },
+    {
+      "title": "Special Premiere: A Few Best Men",
+      "kind": "other",
+      "date": "2011-10-14",
+      "time": "8:30 PM",
+      "venue": "Christopher B. Smith Rafael Film Center",
+      "people": [
+        {
+          "name": "Stephan Elliott",
+          "role": "speaker"
+        }
+      ],
+      "related_films": [
+        "A Few Best Men"
+      ],
+      "summary": "A premiere screening with director Stephan Elliott and guests, followed by a reception at the Donna Seager Gallery.",
+      "page": 14
+    },
+    {
+      "title": "Spotlight on Elizabeth Olsen",
+      "kind": "spotlight",
+      "date": "2011-10-15",
+      "time": "8:00 PM",
+      "venue": "Christopher B. Smith Rafael Film Center",
+      "people": [
+        {
+          "name": "Elizabeth Olsen",
+          "role": "honoree"
+        }
+      ],
+      "related_films": [
+        "Martha Marcy May Marlene"
+      ],
+      "summary": "A conversation with Elizabeth Olsen followed by a screening of Martha Marcy May Marlene.",
+      "page": 15
+    },
+    {
+      "title": "Closing Night Party",
+      "kind": "party",
+      "date": "2011-10-16",
+      "time": "7:00 PM",
+      "venue": "Albert Park/San Rafael Community Center",
+      "people": [
+        {
+          "name": "Michel Hazanavicius",
+          "role": "speaker"
+        }
+      ],
+      "related_films": [
+        "The Artist"
+      ],
+      "summary": "The festival's closing celebration with food and live music after the screening of The Artist.",
+      "page": 16
+    },
+    {
+      "title": "Hi De Ho Show",
+      "kind": "music",
+      "date": "2011-10-07",
+      "time": "9:45 PM",
+      "venue": "CinéArts@Sequoia",
+      "people": [
+        {
+          "name": "John Goddard",
+          "role": "host"
+        }
+      ],
+      "related_films": [],
+      "summary": "Curator John Goddard veejays a program of early jazz film clips from his personal collection, from Dixieland to bebop.",
+      "page": 32
+    },
+    {
+      "title": "Meet the Experts: The Business of Film",
+      "kind": "panel",
+      "date": "2011-10-08",
+      "time": "11:00 AM",
+      "venue": "Christopher B. Smith Rafael Film Center",
+      "people": [
+        {
+          "name": "Peter Belsito",
+          "role": "panelist"
+        },
+        {
+          "name": "Sydney Levine",
+          "role": "panelist"
+        }
+      ],
+      "related_films": [],
+      "summary": "Consultants Peter Belsito and Sydney Levine lead an informal forum on financing, sales, distribution and festival strategy.",
+      "page": 49
+    },
+    {
+      "title": "Can a Film Make the Difference? The Active Cinema Panel",
+      "kind": "panel",
+      "date": "2011-10-09",
+      "time": "2:00 PM",
+      "venue": "Christopher B. Smith Rafael Film Center",
+      "people": [
+        {
+          "name": "Luc Besson",
+          "role": "panelist"
+        },
+        {
+          "name": "Michelle Yeoh",
+          "role": "panelist"
+        },
+        {
+          "name": "Pamela Yates",
+          "role": "panelist"
+        }
+      ],
+      "related_films": [
+        "The Lady",
+        "Granito: How to Nail a Dictator"
+      ],
+      "summary": "Filmmakers discuss how they get socially engaged work made, seen and acted upon.",
+      "page": 49
+    },
+    {
+      "title": "Voices from the Shadows: Mystery, Myth or Madness?",
+      "kind": "panel",
+      "date": "2011-10-08",
+      "time": "2:00 PM",
+      "venue": "Christopher B. Smith Rafael Film Center",
+      "people": [
+        {
+          "name": "David Tuller",
+          "role": "panelist"
+        },
+        {
+          "name": "Natalie Boulton",
+          "role": "panelist"
+        },
+        {
+          "name": "Jose Montoya",
+          "role": "panelist"
+        }
+      ],
+      "related_films": [
+        "Voices from the Shadows"
+      ],
+      "summary": "A post-screening discussion of the controversies and myths surrounding ME/CFS.",
+      "page": 49
+    },
+    {
+      "title": "All in the Thumbs: Smartphones and Education",
+      "kind": "panel",
+      "date": "2011-10-09",
+      "time": "4:45 PM",
+      "venue": "142 Throckmorton Theatre",
+      "people": [
+        {
+          "name": "Bill Couturié",
+          "role": "panelist"
+        },
+        {
+          "name": "Michael Tollin",
+          "role": "panelist"
+        },
+        {
+          "name": "Caroline Knorr",
+          "role": "panelist"
+        },
+        {
+          "name": "Ingrid Hu-Dahl",
+          "role": "panelist"
+        },
+        {
+          "name": "John Morrison",
+          "role": "moderator"
+        }
+      ],
+      "related_films": [
+        "Thumbs"
+      ],
+      "summary": "A post-screening panel on whether smartphones help or hinder education.",
+      "page": 49
+    },
+    {
+      "title": "The State of the (Independent Film) Industry",
+      "kind": "panel",
+      "date": "2011-10-15",
+      "time": "12:00 PM",
+      "venue": "Christopher B. Smith Rafael Film Center",
+      "people": [
+        {
+          "name": "Ed Arentz",
+          "role": "panelist"
+        },
+        {
+          "name": "Ron Yerxa",
+          "role": "panelist"
+        },
+        {
+          "name": "Annie Roney",
+          "role": "panelist"
+        }
+      ],
+      "related_films": [],
+      "summary": "Distributors and producers discuss the future of specialty theatrical films amid the digital transition, followed by a reception.",
+      "page": 49
+    },
+    {
+      "title": "Play Like a Lion Live: A Concert Honoring Ali Akbar Khan",
+      "kind": "music",
+      "date": "2011-10-15",
+      "time": "7:30 PM",
+      "venue": "142 Throckmorton Theatre",
+      "people": [
+        {
+          "name": "Alam Khan",
+          "role": "performer"
+        }
+      ],
+      "related_films": [
+        "Play Like a Lion: The Legacy of Maestro Ali Akbar Khan"
+      ],
+      "summary": "A live concert celebrating Ali Akbar Khan, with his son Alam Khan and musicians from the Ali Akbar College of Music.",
+      "page": 50
+    },
+    {
+      "title": "Tuesday Night Comedy: Mark Pitta & Friends",
+      "kind": "other",
+      "date": "2011-10-11",
+      "time": null,
+      "venue": "142 Throckmorton Theatre",
+      "people": [
+        {
+          "name": "Mark Pitta",
+          "role": "host"
+        }
+      ],
+      "related_films": [],
+      "summary": "A comedy showcase of up-and-coming comedians and established headliners presented by 142 Throckmorton.",
+      "page": 50
+    },
+    {
+      "title": "Gonzalo Bergara Quartet",
+      "kind": "music",
+      "date": "2011-10-13",
+      "time": null,
+      "venue": "142 Throckmorton Theatre",
+      "people": [
+        {
+          "name": "Gonzalo Bergara",
+          "role": "performer"
+        }
+      ],
+      "related_films": [],
+      "summary": "An acoustic quartet plays Django Reinhardt-inspired Gypsy jazz, presented by 142 Throckmorton.",
+      "page": 50
+    },
+    {
+      "title": "Raiders of the Lost Ark 30th Anniversary Celebration",
+      "kind": "other",
+      "date": "2011-10-10",
+      "time": "7:00 PM",
+      "venue": "Century Cinema",
+      "people": [],
+      "related_films": [
+        "Raiders of the Lost Ark"
+      ],
+      "summary": "A screening of Raiders of the Lost Ark with trivia, a costume contest and a panel of the film's creators.",
+      "page": 52
+    },
+    {
+      "title": "Children's FilmFest Circus Party Extravaganza",
+      "kind": "party",
+      "date": "2011-10-15",
+      "time": "2:00 PM",
+      "venue": "142 Throckmorton Theatre",
+      "people": [],
+      "related_films": [],
+      "summary": "A circus-themed children's party with balloons, performers, prizes, food and circus short films.",
+      "page": 53
+    },
+    {
+      "title": "Clown Workshop",
+      "kind": "workshop",
+      "date": "2011-10-08",
+      "time": "2:00 PM",
+      "venue": "142 Throckmorton Theatre",
+      "people": [],
+      "related_films": [
+        "Circus Dreams"
+      ],
+      "summary": "A clown workshop for young children held as part of the Children's FilmFest.",
+      "page": 56
+    }
+  ],
+  "awards": [
+    {
+      "name": "MVFF Award",
+      "recipient": "Glenn Close",
+      "film": null,
+      "page": 9
+    },
+    {
+      "name": "MVFF Award",
+      "recipient": "Michelle Yeoh",
+      "film": null,
+      "page": 10
+    },
+    {
+      "name": "MVFF Award",
+      "recipient": "Gaston Kaboré",
+      "film": null,
+      "page": 11
+    },
+    {
+      "name": "MVFF Award",
+      "recipient": "Ezra Miller",
+      "film": null,
+      "page": 13
+    },
+    {
+      "name": "MVFF Award",
+      "recipient": "Elizabeth Olsen",
+      "film": null,
+      "page": 15
+    }
+  ],
+  "staff": [
+    {
+      "name": "John Morrison",
+      "role": "CFI Director of Education"
+    },
+    {
+      "name": "John Goddard",
+      "role": "MVFF maestro-in-residence (curator)"
+    },
+    {
+      "name": "Jennie-Marie Adler",
+      "role": "Screening Committee"
+    },
+    {
+      "name": "John Antonelli",
+      "role": "Screening Committee"
+    },
+    {
+      "name": "Krissy Bailey",
+      "role": "Screening Committee"
+    },
+    {
+      "name": "Ralph Berets",
+      "role": "Screening Committee"
+    },
+    {
+      "name": "Veronica Bretzer",
+      "role": "Screening Committee"
+    },
+    {
+      "name": "Chris Brown",
+      "role": "Screening Committee"
+    },
+    {
+      "name": "Bethynia Cardenas",
+      "role": "Screening Committee"
+    },
+    {
+      "name": "Frank Chan",
+      "role": "Screening Committee"
+    },
+    {
+      "name": "Teresa Concepcion",
+      "role": "Screening Committee"
+    },
+    {
+      "name": "Anna Cosentine",
+      "role": "Screening Committee"
+    },
+    {
+      "name": "Laura Costantino",
+      "role": "Screening Committee"
+    },
+    {
+      "name": "Karen Criswell",
+      "role": "Screening Committee"
+    },
+    {
+      "name": "Elizabeth Duran",
+      "role": "Screening Committee"
+    },
+    {
+      "name": "Suzanne Engelberg",
+      "role": "Screening Committee"
+    },
+    {
+      "name": "Shih Yu Fan",
+      "role": "Screening Committee"
+    },
+    {
+      "name": "Abigail Farrell",
+      "role": "Screening Committee"
+    },
+    {
+      "name": "Lauren Freyer",
+      "role": "Screening Committee"
+    },
+    {
+      "name": "Justine Gubar",
+      "role": "Screening Committee"
+    },
+    {
+      "name": "Jennifer Hammett",
+      "role": "Screening Committee"
+    },
+    {
+      "name": "Sandy Handsher",
+      "role": "Screening Committee"
+    },
+    {
+      "name": "John Hess",
+      "role": "Screening Committee"
+    },
+    {
+      "name": "Winn Kalmon",
+      "role": "Screening Committee"
+    },
+    {
+      "name": "Nancy Kelly",
+      "role": "Screening Committee"
+    },
+    {
+      "name": "Kristine Kolton",
+      "role": "Screening Committee"
+    },
+    {
+      "name": "Ellen Lake",
+      "role": "Screening Committee"
+    },
+    {
+      "name": "Donna Lee",
+      "role": "Screening Committee"
+    },
+    {
+      "name": "Michael LoPresti",
+      "role": "Screening Committee"
+    },
+    {
+      "name": "Frako Loden",
+      "role": "Screening Committee"
+    },
+    {
+      "name": "Atissa Manshouri",
+      "role": "Screening Committee"
+    },
+    {
+      "name": "Natalie Martens",
+      "role": "Screening Committee"
+    },
+    {
+      "name": "Christopher Metzler",
+      "role": "Screening Committee"
+    },
+    {
+      "name": "Marilyn Mulford",
+      "role": "Screening Committee"
+    },
+    {
+      "name": "Joanne Parsont",
+      "role": "Screening Committee"
+    },
+    {
+      "name": "Francesca Prada",
+      "role": "Screening Committee"
+    },
+    {
+      "name": "Bill Proctor",
+      "role": "Screening Committee"
+    },
+    {
+      "name": "Barbara Rothman",
+      "role": "Screening Committee"
+    },
+    {
+      "name": "Jenni Rowland",
+      "role": "Screening Committee"
+    },
+    {
+      "name": "Carmen Rozestraten",
+      "role": "Screening Committee"
+    },
+    {
+      "name": "Wendy Slick",
+      "role": "Screening Committee"
+    },
+    {
+      "name": "Dale Sophiea",
+      "role": "Screening Committee"
+    },
+    {
+      "name": "Jesse Spencer",
+      "role": "Screening Committee"
+    },
+    {
+      "name": "Judy Terra",
+      "role": "Screening Committee"
+    },
+    {
+      "name": "Benjamin Thornton",
+      "role": "Screening Committee"
+    },
+    {
+      "name": "Jay Wertzler",
+      "role": "Screening Committee"
+    },
+    {
+      "name": "Doug Wolens",
+      "role": "Screening Committee"
+    },
+    {
+      "name": "Lori Wright",
+      "role": "Screening Committee"
+    },
+    {
+      "name": "Kenji Yamamoto",
+      "role": "Screening Committee"
+    },
+    {
+      "name": "Ben Zweig",
+      "role": "Screening Committee"
+    }
+  ],
+  "notes": "Page numbers are PDF pages (=== PAGE n ===); printed page numbers are about 6 higher. Grid codes: 'Rafael'=Christopher B. Smith Rafael Film Center, 'Sequoia'=CinéArts@Sequoia, 'Throck'/'142 Throckmorton'=142 Throckmorton Theatre, 'Cinema'=Century Cinema (Corte Madera), 'Larkspur'=Cinemark Larkspur Landing. Guitar Man screenings are printed as '742 Throckmorton' in the film note (grid says throck); normalised to 142 Throckmorton Theatre. Printed weekday errors: Principles 'Friday, October 13' and The Welcome 'Friday, October 16' kept as 2011-10-13 and 2011-10-16 (dates match the grid). Shorts that precede a feature (Mr. Happy Man, While You Were Gone, American Homes, Gold Violin: Bow of Death, A Woman's Descent to the Sacred, Miss South Pacific: Beauty and the Sea, The Walk, Library of Dust) and Right to Play (screens with The Real Rocky) are is_short=true with shorts_program=null and the feature's screenings. Shorts programmes recorded via shorts_program: the five 5@5 programmes, The Barber, the Brush and the Baton, Our New Frontier: Sustainability, and the Youth Reel; Hip Hop Maestro (41 min) counted as short because it is in a shorts programme. Youth Reel titles (beyond Ndapewa and Alone, named in the note) come only from the title index; no directors, countries or runtimes printed. A further CFI My Place, My Story film in the Youth Reel is described but not named. Hi De Ho Show (John Goddard's jazz clip evening, listed among film notes under US Cinema) recorded as a music event, not a film. The grid shows Play Like a Lion at 142 Throckmorton on Friday Oct 14, 7:30 PM (AKBR14T) and 'Play Like a Lion (Live)' on Sat Oct 15 with the same code; the concert page gives Sat Oct 15, 7:30 PM (AKBR15T), so the Oct 14 grid cell was treated as a misplacement and not added as a film screening. Grid lists One Through Love at 120 mins (note says 59 mins, programme includes a live web dialogue); runtime kept at 59. Grid slots marked TBA not recorded. Day of the Flowers' Oct 11 screening is the free Friends of the Festival screening for members. Active Cinema panel time was printed as TBA in the grid (2:00 PM on panel page). Staff: no festival staff list is printed; screening committee members (thank-you list) and two named CFI/MVFF roles are given. Program-note writers not recorded."
+}

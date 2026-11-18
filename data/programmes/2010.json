@@ -1,0 +1,5483 @@
+{
+  "year": 2010,
+  "edition": 33,
+  "dates": "October 7–17, 2010",
+  "source_pdf": "2010_schedule.pdf",
+  "venues": [
+    {
+      "name": "142 Throckmorton Theatre",
+      "address": "142 Throckmorton Ave., Mill Valley"
+    },
+    {
+      "name": "Century Cinema",
+      "address": "41 Tamal Vista, Corte Madera"
+    },
+    {
+      "name": "Christopher B. Smith Rafael Film Center",
+      "address": "1118 Fourth St., San Rafael"
+    },
+    {
+      "name": "CinéArts@Sequoia",
+      "address": "25 Throckmorton Ave., Mill Valley"
+    },
+    {
+      "name": "Frantoio Ristorante & Olive Oil Co.",
+      "address": "152 Shoreline Hwy., Mill Valley"
+    },
+    {
+      "name": "Kerner Studios",
+      "address": "90 Windward Way, San Rafael"
+    },
+    {
+      "name": "Mill Valley Community Center",
+      "address": "180 Camino Alto, Mill Valley"
+    },
+    {
+      "name": "Piatti Ristorante & Bar",
+      "address": "625 Redwood Hwy., Mill Valley"
+    },
+    {
+      "name": "Sabor of Spain",
+      "address": "1301 Fourth St., San Rafael"
+    },
+    {
+      "name": "San Rafael Joe's",
+      "address": "931 Fourth St., San Rafael"
+    },
+    {
+      "name": "Tiburon Grill",
+      "address": "1651 Tiburon Blvd., Tiburon"
+    },
+    {
+      "name": "The Woods Music Hall at Masonic",
+      "address": "19 Corte Madera Ave., Mill Valley"
+    }
+  ],
+  "sections": [
+    "US Cinema",
+    "World Cinema",
+    "Valley of the Docs",
+    "5@5 and MVFF Shorts",
+    "Children's FilmFest",
+    "Youth",
+    "Focus: Canada",
+    "Focus: Scandinavia",
+    "Focus: The Body in Balance",
+    "Focus: Mentors & Teachers",
+    "Active Cinema",
+    "Global Lens",
+    "New Movies Lab"
+  ],
+  "films": [
+    {
+      "title": "Seniors Rocking",
+      "original_title": null,
+      "directors": [
+        "Ruedi Gerber"
+      ],
+      "countries": [
+        "Switzerland",
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 28,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Gimme Some Truth",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-08",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-12",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Dance pioneer Anna Halprin creates a performance piece with residents of a Marin County retirement center.",
+      "cast": [],
+      "page": 19
+    },
+    {
+      "title": "17th Street Plaza",
+      "original_title": null,
+      "directors": [
+        "Frank Chan",
+        "Greg W. Rodgers"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 3,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Gimme Some Truth",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-08",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-12",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A San Francisco block is turned into a pedestrian plaza.",
+      "cast": [],
+      "page": 19
+    },
+    {
+      "title": "Para Fuera: A Portrait of Dr. Richard J. Bing",
+      "original_title": null,
+      "directors": [
+        "Nick Jasenovec"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 10,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Gimme Some Truth",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-08",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-12",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "On the eve of turning 100, Dr. Richard Bing reflects on his long life.",
+      "cast": [],
+      "page": 19
+    },
+    {
+      "title": "Missed Connections",
+      "original_title": null,
+      "directors": [
+        "Mary Robertson"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 9,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Gimme Some Truth",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-08",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-12",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A look at online 'missed connections' messages and whether lost love can be found again.",
+      "cast": [],
+      "page": 19
+    },
+    {
+      "title": "Witness to Hiroshima",
+      "original_title": null,
+      "directors": [
+        "Kathy Sloane"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 16,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Gimme Some Truth",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-08",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-12",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "An atomic bomb survivor's watercolors depict war's horror and hope for the future.",
+      "cast": [],
+      "page": 19
+    },
+    {
+      "title": "Standing Still",
+      "original_title": null,
+      "directors": [
+        "Marcia Ong"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 5,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Just Like Starting Over",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-11",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2010-10-13",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A visually evocative short meditation on where journeys begin.",
+      "cast": [],
+      "page": 19
+    },
+    {
+      "title": "Goodbye Chicken, Farewell Goat",
+      "original_title": null,
+      "directors": [
+        "Julius Onah"
+      ],
+      "countries": [
+        "USA",
+        "Nigeria",
+        "Denmark"
+      ],
+      "film_year": null,
+      "runtime_min": 6,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Just Like Starting Over",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-11",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2010-10-13",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A grieving man seeks the secret to happiness after his father's death.",
+      "cast": [],
+      "page": 19
+    },
+    {
+      "title": "Roxy",
+      "original_title": null,
+      "directors": [
+        "Shirley Petchprapa"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 12,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Just Like Starting Over",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-11",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2010-10-13",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A tense short about a man preparing to leave his companion behind.",
+      "cast": [],
+      "page": 19
+    },
+    {
+      "title": "The Pool",
+      "original_title": null,
+      "directors": [
+        "Thomas Hefferon"
+      ],
+      "countries": [
+        "Ireland"
+      ],
+      "film_year": null,
+      "runtime_min": 12,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Just Like Starting Over",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-11",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2010-10-13",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A boy taunted by his swim-team mates seeks escape from a world where he doesn't fit.",
+      "cast": [],
+      "page": 19
+    },
+    {
+      "title": "Rob and Valentyna in Scotland",
+      "original_title": null,
+      "directors": [
+        "Eric Lynne"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 23,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Just Like Starting Over",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-11",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2010-10-13",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "Two long-lost cousins, one American and one Ukrainian, bond on a European trip.",
+      "cast": [],
+      "page": 19
+    },
+    {
+      "title": "The Cage",
+      "original_title": null,
+      "directors": [
+        "Adrian Sitaru"
+      ],
+      "countries": [
+        "Romania"
+      ],
+      "film_year": null,
+      "runtime_min": 17,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Nobody Told Me",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-14",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-15",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A father relents and buys a cage for his son's injured bird, only for the boy to lose interest.",
+      "cast": [],
+      "page": 19
+    },
+    {
+      "title": "Quality Time",
+      "original_title": null,
+      "directors": [
+        "James Redford"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 9,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Nobody Told Me",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-14",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-15",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A father trying to impose order on his chaotic family is foiled by a change of plans.",
+      "cast": [],
+      "page": 19
+    },
+    {
+      "title": "Git Along, Lil Dogies",
+      "original_title": null,
+      "directors": [
+        "Kate Lain"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 9,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Nobody Told Me",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-14",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-15",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "In a Western-frontier setting, a girl reluctantly learns the rules of becoming a woman.",
+      "cast": [],
+      "page": 19
+    },
+    {
+      "title": "Gayby",
+      "original_title": null,
+      "directors": [
+        "Jonathan Lisecki"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 12,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Nobody Told Me",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-14",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-15",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Two college friends decide to have a baby together the old-fashioned way.",
+      "cast": [],
+      "page": 19
+    },
+    {
+      "title": "Capture the Flag",
+      "original_title": null,
+      "directors": [
+        "Lisanne Skyler"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 14,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Nobody Told Me",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-14",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-15",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Amid uncertainty, Annie throws herself into a family capture-the-flag rivalry.",
+      "cast": [],
+      "page": 19
+    },
+    {
+      "title": "A Moment of Silence",
+      "original_title": null,
+      "directors": [
+        "Diana Jo Reichenbach"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 4,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Watching the Wheels",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-11",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-14",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A calm, surreal animated journey.",
+      "cast": [],
+      "page": 20
+    },
+    {
+      "title": "Angry Man",
+      "original_title": null,
+      "directors": [
+        "Anita Killi"
+      ],
+      "countries": [
+        "Norway"
+      ],
+      "film_year": null,
+      "runtime_min": 20,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Watching the Wheels",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-11",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-14",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "An animated story of a boy seeking comfort in an abusive home.",
+      "cast": [],
+      "page": 20
+    },
+    {
+      "title": "Lebensader",
+      "original_title": null,
+      "directors": [
+        "Angela Steffen"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "film_year": null,
+      "runtime_min": 6,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Watching the Wheels",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-11",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-14",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Animated natural shapes transform and merge.",
+      "cast": [],
+      "page": 20
+    },
+    {
+      "title": "Lintscape",
+      "original_title": null,
+      "directors": [
+        "Caitlin Craggs"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 4,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Watching the Wheels",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-11",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-14",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "An animated short in which fuzz turns deadly.",
+      "cast": [],
+      "page": 20
+    },
+    {
+      "title": "A Lost and Found Box of Human Sensation",
+      "original_title": null,
+      "directors": [
+        "Martin Wallner",
+        "Stefan Leuchtenberg"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "film_year": null,
+      "runtime_min": 15,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Watching the Wheels",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-11",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-14",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "An animated young man's journey through grief, voiced by Joseph Fiennes and Ian McKellen.",
+      "cast": [
+        "Joseph Fiennes",
+        "Ian McKellan"
+      ],
+      "page": 20
+    },
+    {
+      "title": "Jean François",
+      "original_title": null,
+      "directors": [
+        "Bruno Mangyoku",
+        "Tom Haugomat"
+      ],
+      "countries": [
+        "France"
+      ],
+      "film_year": null,
+      "runtime_min": 6,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Watching the Wheels",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-11",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-14",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "An animated swim through an ocean of childhood memories.",
+      "cast": [],
+      "page": 20
+    },
+    {
+      "title": "The Quiet Life",
+      "original_title": null,
+      "directors": [
+        "Timothy Hittle"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 10,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Watching the Wheels",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-11",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-14",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2010-10-09",
+          "time": "5:00 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "The final stop-motion Jay Clay film, in which death comes knocking.",
+      "cast": [],
+      "page": 20
+    },
+    {
+      "title": "Delmer Builds a Machine",
+      "original_title": null,
+      "directors": [
+        "Landon Zakheim"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 3,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Working Class Hero",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-12",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-13",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Young Delmer's inventive carpentry raises questions for the rest of the world.",
+      "cast": [],
+      "page": 20
+    },
+    {
+      "title": "Victor Ramirez, Asesino",
+      "original_title": null,
+      "directors": [
+        "Ravi Kapoor"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 14,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Working Class Hero",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-12",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-13",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "An aspiring assassin tests whether he has what it takes.",
+      "cast": [],
+      "page": 20
+    },
+    {
+      "title": "The Cortege",
+      "original_title": null,
+      "directors": [
+        "Marina Seresesky"
+      ],
+      "countries": [
+        "Spain"
+      ],
+      "film_year": null,
+      "runtime_min": 15,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Working Class Hero",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-12",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-13",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A gravedigger and a widow begin an unlikely romance among the tombstones.",
+      "cast": [],
+      "page": 20
+    },
+    {
+      "title": "The Winner",
+      "original_title": null,
+      "directors": [
+        "Davide Labanti"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "film_year": null,
+      "runtime_min": 19,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Working Class Hero",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-12",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-13",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A man wins his dream job in a rigged lottery and realizes what he has lost.",
+      "cast": [],
+      "page": 20
+    },
+    {
+      "title": "Seeds of the Fall",
+      "original_title": null,
+      "directors": [
+        "Patrick Eklund"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "film_year": null,
+      "runtime_min": 19,
+      "language": null,
+      "section": "5@5 and MVFF Shorts",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "5@5: Working Class Hero",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-12",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-13",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A carpenter helps a couple whose home was destroyed and offers more than repairs.",
+      "cast": [],
+      "page": 20
+    },
+    {
+      "title": "127 Hours",
+      "original_title": null,
+      "directors": [
+        "Danny Boyle"
+      ],
+      "countries": [
+        "USA",
+        "UK"
+      ],
+      "film_year": 2010,
+      "runtime_min": 94,
+      "language": null,
+      "section": "US Cinema",
+      "slot": "Spotlight",
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "James Franco"
+      ],
+      "screenings": [
+        {
+          "date": "2010-10-16",
+          "time": "7:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2010-10-17",
+          "time": "5:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Climber Aron Ralston, pinned by a boulder in a remote Utah canyon, fights for five days to free himself.",
+      "cast": [
+        "James Franco",
+        "Amber Tamblyn",
+        "Kate Mara",
+        "Clémence Poésy",
+        "Kate Burton",
+        "Lizzy Caplan"
+      ],
+      "page": 20
+    },
+    {
+      "title": "About Her Brother",
+      "original_title": "Otouto",
+      "directors": [
+        "Yoji Yamada"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "film_year": 2009,
+      "runtime_min": 126,
+      "language": "English and Japanese",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-09",
+          "time": "8:15 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2010-10-10",
+          "time": "5:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A family must decide whether to forgive a black-sheep uncle whose drinking and gambling upended their lives once he falls ill.",
+      "cast": [
+        "Sayuri Yoshinaga",
+        "Tsurube Shofukutei",
+        "Yu Aoi",
+        "Ryo Kase"
+      ],
+      "page": 21
+    },
+    {
+      "title": "Adrift",
+      "original_title": "Choi Voi",
+      "directors": [
+        "Bui Thac Chuyen"
+      ],
+      "countries": [
+        "Vietnam"
+      ],
+      "film_year": 2009,
+      "runtime_min": 110,
+      "language": "Vietnamese",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-09",
+          "time": "4:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A newly married woman in contemporary Hanoi drifts between her childlike husband, her best friend and a seductive stranger.",
+      "cast": [
+        "Nguyen Duy Khoa",
+        "Johnny Tri Nyugen",
+        "Linh-Dan Pham",
+        "Do Hai Yen"
+      ],
+      "page": 21
+    },
+    {
+      "title": "All My Friends Are Funeral Singers",
+      "original_title": null,
+      "directors": [
+        "Tim Rutili"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2010,
+      "runtime_min": 84,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-16",
+          "time": "7:00 PM",
+          "venue": "142 Throckmorton"
+        },
+        {
+          "date": "2010-10-17",
+          "time": "2:00 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "A psychic living in a farmhouse full of ghosts must find a way to let her spectral boarders go.",
+      "cast": [
+        "Angela Bettis",
+        "Emily Candini",
+        "Reid Coker",
+        "Joe Adamik",
+        "Jim Becker",
+        "Ben Massarella"
+      ],
+      "page": 21
+    },
+    {
+      "title": "Atomic Mom",
+      "original_title": null,
+      "directors": [
+        "M.T. Silvia"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2010,
+      "runtime_min": 80,
+      "language": "English and Japanese",
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": "World Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-10",
+          "time": "6:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2010-10-16",
+          "time": "12:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A filmmaker uncovers her mother's secret 1950s atomic bomb research and brings her together with a Hiroshima survivor.",
+      "cast": [],
+      "page": 22
+    },
+    {
+      "title": "Becloud",
+      "original_title": "Vaho",
+      "directors": [
+        "Alejandro Gerber Bicecci"
+      ],
+      "countries": [
+        "Mexico"
+      ],
+      "film_year": 2009,
+      "runtime_min": 117,
+      "language": "Spanish",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-10",
+          "time": "2:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Three boyhood friends in a poor Mexico City district reunite as teens against the backdrop of an Easter Passion reenactment.",
+      "cast": [
+        "Roberto Mares",
+        "Luis Manuel Ontiveros",
+        "Aldo Estuardo"
+      ],
+      "page": 22
+    },
+    {
+      "title": "Biutiful",
+      "original_title": null,
+      "directors": [
+        "Alejandro González Iñárritu"
+      ],
+      "countries": [
+        "Spain",
+        "Mexico"
+      ],
+      "film_year": 2010,
+      "runtime_min": 147,
+      "language": "English and Spanish",
+      "section": "World Cinema",
+      "slot": "Spotlight",
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Alejandro González Iñárritu"
+      ],
+      "screenings": [
+        {
+          "date": "2010-10-08",
+          "time": "7:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A dying man in Barcelona's black market struggles to secure care for his children.",
+      "cast": [
+        "Javier Bardem",
+        "Maricel Álvarez",
+        "Hanaa Bouchaib",
+        "Guillermo Estrella",
+        "Eduard Fernández",
+        "Cheikh Ndiaye"
+      ],
+      "page": 22
+    },
+    {
+      "title": "Black Field",
+      "original_title": "Mavro Livadi",
+      "directors": [
+        "Vardis Marinakis"
+      ],
+      "countries": [
+        "Greece"
+      ],
+      "film_year": 2010,
+      "runtime_min": 104,
+      "language": "Greek",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-12",
+          "time": "9:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2010-10-16",
+          "time": "8:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A young nun in a 17th-century Greek convent flees into the countryside with a wounded Turkish janissary.",
+      "cast": [
+        "Sofia Georgovassili",
+        "Christos Passalis",
+        "Despoina Bebedeli"
+      ],
+      "page": 23
+    },
+    {
+      "title": "Blue Valentine",
+      "original_title": null,
+      "directors": [
+        "Derek Cianfrance"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2009,
+      "runtime_min": 113,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-12",
+          "time": "6:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A struggling married couple's hotel night is intercut with the hopeful early days of their courtship.",
+      "cast": [
+        "Ryan Gosling",
+        "Michelle Williams",
+        "Faith Wladyka",
+        "John Doman",
+        "Mike Vogel"
+      ],
+      "page": 23
+    },
+    {
+      "title": "Cameraman: The Life and Work of Jack Cardiff",
+      "original_title": null,
+      "directors": [
+        "Craig McCall"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "film_year": 2010,
+      "runtime_min": 86,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-14",
+          "time": "6:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A portrait of cinematographer Jack Cardiff, his seven-decade career and his work with Powell and Pressburger.",
+      "cast": [
+        "Jack Cardiff",
+        "Martin Scorsese",
+        "Kirk Douglas",
+        "Lauren Bacall",
+        "Kim Hunter",
+        "John Mills"
+      ],
+      "page": 23
+    },
+    {
+      "title": "Cast Me If You Can",
+      "original_title": "Wakiyaku Monogatari",
+      "directors": [
+        "Atsushi Ogata"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "film_year": 2010,
+      "runtime_min": 97,
+      "language": "Japanese",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-12",
+          "time": "7:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-14",
+          "time": "8:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A perpetual bit-part actor living in his famous father's shadow is shaken up when he meets a buoyant aspiring actress.",
+      "cast": [
+        "Toru Masuoka",
+        "Hiromi Nagasaku",
+        "Masahiko Tsugawa",
+        "Keiko Matsuzaka",
+        "Akira Emoto"
+      ],
+      "page": 24
+    },
+    {
+      "title": "Child of Giants: My Journey with Maynard Dixon & Dorothea Lange",
+      "original_title": null,
+      "directors": [
+        "Tom Ropelewski"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2010,
+      "runtime_min": 97,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": "World Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-09",
+          "time": "3:30 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-11",
+          "time": "8:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "The son of Dorothea Lange and Maynard Dixon recounts his troubled upbringing and eventual reconciliation with his mother.",
+      "cast": [],
+      "page": 24
+    },
+    {
+      "title": "The Child Prodigy",
+      "original_title": "L'Enfant Prodige",
+      "directors": [
+        "Luc Dionne"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "film_year": 2010,
+      "runtime_min": 101,
+      "language": "French",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": "US Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-14",
+          "time": "9:30 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-16",
+          "time": "2:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A drama about Montreal piano prodigy André Mathieu's rise to fame in the 1930s and his later decline into addiction.",
+      "cast": [
+        "Patrick Drolet",
+        "Marc Labrèche",
+        "Macha Grenon",
+        "Karine Vanasse",
+        "Guillaume LeBon",
+        "Lothaire Bluteau"
+      ],
+      "page": 24
+    },
+    {
+      "title": "Conviction",
+      "original_title": null,
+      "directors": [
+        "Tony Goldwyn"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2010,
+      "runtime_min": 103,
+      "language": null,
+      "section": "US Cinema",
+      "slot": "Opening Night",
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-07",
+          "time": "7:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-07",
+          "time": "7:15 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A single mother spends 16 years earning a law degree to overturn her brother's murder conviction.",
+      "cast": [
+        "Hilary Swank",
+        "Sam Rockwell",
+        "Minnie Driver",
+        "Melissa Leo",
+        "Peter Gallagher",
+        "Juliette Lewis"
+      ],
+      "page": 25
+    },
+    {
+      "title": "Cosmonauta",
+      "original_title": null,
+      "directors": [
+        "Susanna Nicchiarelli"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "film_year": 2008,
+      "runtime_min": 85,
+      "language": "Italian",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-10",
+          "time": "12:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2010-10-16",
+          "time": "1:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "In 1963 Rome, a teenage girl obsessed with the Soviet space program fights Church, family and Party to chart her own path.",
+      "cast": [
+        "Claudia Pandolfi",
+        "Sergio Rubini",
+        "Miriana Raschilla",
+        "Pietro Del Giudice",
+        "Michelangelo Ciminale",
+        "Valentino Campitelli"
+      ],
+      "page": 25
+    },
+    {
+      "title": "The Crocodiles",
+      "original_title": "Vorstadtkrokodile",
+      "directors": [
+        "Christian Ditter"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "film_year": 2009,
+      "runtime_min": 98,
+      "language": "German",
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-10",
+          "time": "1:30 PM",
+          "venue": "142 Throckmorton"
+        },
+        {
+          "date": "2010-10-16",
+          "time": "11:30 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A new boy and a wheelchair-using schoolmate join a kids' gang that sets out to solve a string of local robberies.",
+      "cast": [
+        "Nick Romeo Reimann",
+        "Fabian Halbig",
+        "Leonie Tepe",
+        "Manuel Steitz",
+        "Jacob Matchenz",
+        "Axel Stein"
+      ],
+      "page": 25
+    },
+    {
+      "title": "Cruz Reynoso: Sowing the Seeds of Justice",
+      "original_title": null,
+      "directors": [
+        "Abby Ginzberg"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2010,
+      "runtime_min": 58,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-10",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-11",
+          "time": "6:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A profile of Cruz Reynoso, son of farm workers who became an activist, lawyer and California Supreme Court justice.",
+      "cast": [
+        "Luis Valdez"
+      ],
+      "page": 26
+    },
+    {
+      "title": "Southbound",
+      "original_title": null,
+      "directors": [
+        "Tim Disney"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2009,
+      "runtime_min": 12,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Cruz Reynoso: Sowing the Seeds of Justice",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-10",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-11",
+          "time": "6:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A fantasy in which Latino gardeners in Los Angeles put their leaf blowers to unexpected use.",
+      "cast": [],
+      "page": 26
+    },
+    {
+      "title": "Cut Poison Burn",
+      "original_title": null,
+      "directors": [
+        "Wayne Chesler"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2010,
+      "runtime_min": 88,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": "World Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-08",
+          "time": "6:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2010-10-10",
+          "time": "8:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A documentary critical of America's War on Cancer, centred on a family fighting to keep their young son alive.",
+      "cast": [
+        "Peter Coyote"
+      ],
+      "page": 26
+    },
+    {
+      "title": "The Debt",
+      "original_title": null,
+      "directors": [
+        "John Madden"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2010,
+      "runtime_min": 87,
+      "language": null,
+      "section": "US Cinema",
+      "slot": "Closing Night",
+      "premiere": "US Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-17",
+          "time": "5:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-17",
+          "time": "5:15 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A retired Mossad agent is forced back into action by a secret she shares with two former colleagues.",
+      "cast": [
+        "Helen Mirren",
+        "Tom Wilkinson",
+        "Sam Worthington",
+        "Jessica Chastain"
+      ],
+      "page": 26
+    },
+    {
+      "title": "Desert Flower",
+      "original_title": "Wustenblume",
+      "directors": [
+        "Sherry Hormann"
+      ],
+      "countries": [
+        "Germany",
+        "Austria",
+        "France",
+        "UK"
+      ],
+      "film_year": 2009,
+      "runtime_min": 124,
+      "language": "English and Somali",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-08",
+          "time": "9:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-10",
+          "time": "9:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Based on Waris Dirie's memoir, a Somali runaway becomes a supermodel and campaigner against female genital mutilation.",
+      "cast": [
+        "Liya Kebede",
+        "Sally Hawkins",
+        "Timothy Spall",
+        "Juliet Stevenson",
+        "Craig Parkinson",
+        "Anthony Mackie"
+      ],
+      "page": 27
+    },
+    {
+      "title": "Dumas",
+      "original_title": "Autre Dumas",
+      "directors": [
+        "Safy Nebbou"
+      ],
+      "countries": [
+        "France",
+        "Belgium"
+      ],
+      "film_year": 2010,
+      "runtime_min": 105,
+      "language": "French",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": "North American Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-08",
+          "time": "9:30 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-11",
+          "time": "4:45 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "Alexandre Dumas's overlooked ghostwriter Auguste Maquet is mistaken for the great author and plays along.",
+      "cast": [
+        "Gérard Depardieu",
+        "Benoît Poelvoorde",
+        "Mélanie Thierry",
+        "Dominique Blanc"
+      ],
+      "page": 27
+    },
+    {
+      "title": "Ed Hardy 'Tattoo the World'",
+      "original_title": null,
+      "directors": [
+        "Emiko Omori"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2009,
+      "runtime_min": 75,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-09",
+          "time": "7:30 PM",
+          "venue": "142 Throckmorton"
+        },
+        {
+          "date": "2010-10-10",
+          "time": "9:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A portrait of tattoo artist Ed Hardy, who helped raise tattooing to an art form before his designs became a global brand.",
+      "cast": [],
+      "page": 27
+    },
+    {
+      "title": "Eep!",
+      "original_title": "Iep!",
+      "directors": [
+        "Mieke de Jong"
+      ],
+      "countries": [
+        "Holland"
+      ],
+      "film_year": 2010,
+      "runtime_min": 80,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-09",
+          "time": "10:30 AM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2010-10-16",
+          "time": "10:30 AM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A couple adopt a tiny winged girl whose bird nature eventually carries her south with the migrating flocks.",
+      "cast": [
+        "Huub Stapel",
+        "Joke Tjalsma",
+        "Diederik Ebbinge",
+        "Kenadie Jourdin-Bromley",
+        "Madelief Vermeulen",
+        "Ties Dekker"
+      ],
+      "page": 28
+    },
+    {
+      "title": "Good Night, Let the Bugs Bite",
+      "original_title": "Laki Noć",
+      "directors": [
+        "Sarah Klein"
+      ],
+      "countries": [
+        "Croatia"
+      ],
+      "film_year": 2008,
+      "runtime_min": 4,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Eep!",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-09",
+          "time": "10:30 AM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2010-10-16",
+          "time": "10:30 AM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A cut-paper animation made by a Marin animator with a children's studio in Croatia.",
+      "cast": [],
+      "page": 28
+    },
+    {
+      "title": "The Empire Strikes Back",
+      "original_title": null,
+      "directors": [
+        "Irvin Kershner"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": null,
+      "runtime_min": 127,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "J.W. Rinzler"
+      ],
+      "screenings": [
+        {
+          "date": "2010-10-12",
+          "time": "6:30 PM",
+          "venue": "Cinema"
+        }
+      ],
+      "summary": "A 30th-anniversary family screening of the second Star Wars film, with prizes and costumed characters.",
+      "cast": [
+        "Mark Hamill",
+        "Harrison Ford",
+        "Carrie Fisher",
+        "Billy Dee Williams"
+      ],
+      "page": 28
+    },
+    {
+      "title": "Estigmas",
+      "original_title": null,
+      "directors": [
+        "Adán Aliaga"
+      ],
+      "countries": [
+        "Spain"
+      ],
+      "film_year": 2010,
+      "runtime_min": 100,
+      "language": "Spanish",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": "US Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-08",
+          "time": "8:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2010-10-10",
+          "time": "12:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A gentle giant who develops stigmata flees to the countryside and joins a traveling carnival.",
+      "cast": [
+        "Manuel Martinez",
+        "Marieta Orzco",
+        "Lurdes Barba",
+        "Morgan Blasco"
+      ],
+      "page": 28
+    },
+    {
+      "title": "Everyday Sunshine: The Story of Fishbone",
+      "original_title": null,
+      "directors": [
+        "Lev Anderson",
+        "Chris Metzler"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2010,
+      "runtime_min": 107,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-09",
+          "time": "9:30 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2010-10-15",
+          "time": "7:00 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "The history of LA punk-ska band Fishbone, its influence and its struggles with racism and internal turmoil.",
+      "cast": [
+        "Flea",
+        "Gwen Stefani",
+        "Ice-T",
+        "Perry Farrell",
+        "Branford Marsalis",
+        "George Clinton"
+      ],
+      "page": 29
+    },
+    {
+      "title": "Fair Game",
+      "original_title": null,
+      "directors": [
+        "Doug Liman"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2010,
+      "runtime_min": 105,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-15",
+          "time": "6:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2010-10-17",
+          "time": "12:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "CIA officer Valerie Plame is outed after her husband challenges the intelligence used to justify the Iraq war.",
+      "cast": [
+        "Naomi Watts",
+        "Sean Penn",
+        "Sam Shepard",
+        "Noah Emmerich",
+        "Michael Kelly",
+        "Bruce McGill"
+      ],
+      "page": 29
+    },
+    {
+      "title": "Fanny, Annie & Danny",
+      "original_title": null,
+      "directors": [
+        "Chris Brown"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2010,
+      "runtime_min": 82,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-13",
+          "time": "8:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2010-10-15",
+          "time": "9:30 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "Three troubled adult siblings endure a disastrous Christmas with their spiteful mother.",
+      "cast": [
+        "Jill Pixley",
+        "Carlye Pollack",
+        "Jonathan Leveck",
+        "Colette Keen",
+        "George Killingsworth",
+        "Nick Frangione"
+      ],
+      "page": 29
+    },
+    {
+      "title": "Food Stamped",
+      "original_title": null,
+      "directors": [
+        "Shira Hordes Potash",
+        "Yoav Potash"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2010,
+      "runtime_min": 60,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": "World Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-09",
+          "time": "1:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-12",
+          "time": "6:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A nutrition educator and her husband try to eat healthily on a food-stamp budget for a week.",
+      "cast": [],
+      "page": 30
+    },
+    {
+      "title": "Global Focus VII: The New Environmentalists",
+      "original_title": null,
+      "directors": [
+        "John Antonelli",
+        "Will Parrinello",
+        "Tom Dusenbery"
+      ],
+      "countries": [
+        "Swaziland",
+        "Cambodia",
+        "Costa Rica",
+        "Poland",
+        "USA",
+        "Cuba"
+      ],
+      "film_year": 2010,
+      "runtime_min": 24,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Food Stamped",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-09",
+          "time": "1:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-12",
+          "time": "6:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Profiles of six Goldman Environmental Prize winners who changed their communities.",
+      "cast": [],
+      "page": 30
+    },
+    {
+      "title": "From a Whisper",
+      "original_title": null,
+      "directors": [
+        "Wanuri Kahiu"
+      ],
+      "countries": [
+        "Kenya"
+      ],
+      "film_year": 2008,
+      "runtime_min": 72,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": "North American Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-09",
+          "time": "6:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2010-10-10",
+          "time": "4:45 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A Nairobi artist and an intelligence officer search for her mother, missing since the 1998 US Embassy bombing.",
+      "cast": [
+        "Corrine Onyango",
+        "Ken Ambani",
+        "Abubakar Mwenda",
+        "Godfrey Odhiambo"
+      ],
+      "page": 30
+    },
+    {
+      "title": "The Girl Who Kicked the Hornet's Nest",
+      "original_title": "Luftslottet som sprängdes",
+      "directors": [
+        "Daniel Alfredson"
+      ],
+      "countries": [
+        "Sweden",
+        "Denmark"
+      ],
+      "film_year": 2009,
+      "runtime_min": 148,
+      "language": "Swedish",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-13",
+          "time": "6:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "In the final Millennium film, Lisbeth Salander fights murder charges and the corrupt officials who nearly destroyed her.",
+      "cast": [
+        "Michael Nyqvist",
+        "Noomi Rapace"
+      ],
+      "page": 30
+    },
+    {
+      "title": "Golf in the Kingdom",
+      "original_title": null,
+      "directors": [
+        "Susan Streitfeld"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2010,
+      "runtime_min": 86,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": "Sneak Preview",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-16",
+          "time": "7:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-17",
+          "time": "12:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A young American bound for India spends a transformative day at a Scottish golf course with a mystical teacher.",
+      "cast": [
+        "Mason Gamble",
+        "David O'Hara",
+        "Malcolm McDowell",
+        "Frances Farmer",
+        "Julian Sands",
+        "JoAnne Whalley"
+      ],
+      "page": 31
+    },
+    {
+      "title": "Heartbeats",
+      "original_title": "Les Amours Imaginaires",
+      "directors": [
+        "Xavier Dolan"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "film_year": 2010,
+      "runtime_min": 95,
+      "language": "French",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-14",
+          "time": "7:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-17",
+          "time": "8:15 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "Two best friends both fall for the same beautiful young man.",
+      "cast": [
+        "Monia Chokri",
+        "Niels Schneider",
+        "Xavier Dolan",
+        "Anne Dorval",
+        "Anne-Elisabeth Bosse",
+        "Magalie Lepine-Blondeau"
+      ],
+      "page": 31
+    },
+    {
+      "title": "Hi De Ho Show",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": 120,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "John Goddard"
+      ],
+      "screenings": [
+        {
+          "date": "2010-10-09",
+          "time": "10:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "Village Music's John Goddard presents rare clips from his collection in a salute to doo-wop.",
+      "cast": [],
+      "page": 31
+    },
+    {
+      "title": "The Housemaid",
+      "original_title": "Hanyo",
+      "directors": [
+        "Im Sang-soo"
+      ],
+      "countries": [
+        "South Korea"
+      ],
+      "film_year": 2010,
+      "runtime_min": 107,
+      "language": "Korean",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-15",
+          "time": "9:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A naive young housemaid sets off desire, jealousy and revenge in a very rich Korean household.",
+      "cast": [
+        "Jeon Do-yeon",
+        "Lee Jung-Jae",
+        "Seo Woo",
+        "Youn Yuh-jung"
+      ],
+      "page": 32
+    },
+    {
+      "title": "The Indian",
+      "original_title": "Indiaan",
+      "directors": [
+        "Ineke Houtman"
+      ],
+      "countries": [
+        "Netherlands"
+      ],
+      "film_year": 2009,
+      "runtime_min": 75,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": "North American Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-09",
+          "time": "11:00 AM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-17",
+          "time": "12:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A Peruvian boy adopted by a Dutch family seeks his roots when his adoptive mother becomes pregnant.",
+      "cast": [
+        "Matthias Den Besten",
+        "Bastiaan Ragas",
+        "Angelique de Bruijne",
+        "Hans Dagelet",
+        "David Verbaas",
+        "Claire Lapadu"
+      ],
+      "page": 32
+    },
+    {
+      "title": "The Silk Road",
+      "original_title": null,
+      "directors": [
+        "Cynthia Pepper"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2010,
+      "runtime_min": 13,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "The Indian",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-09",
+          "time": "11:00 AM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-17",
+          "time": "12:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A substitute teacher's Silk Road lesson becomes a colorful dance-filled dream.",
+      "cast": [],
+      "page": 32
+    },
+    {
+      "title": "The Potato Hunter",
+      "original_title": null,
+      "directors": [
+        "Timothy Hittle"
+      ],
+      "countries": [],
+      "film_year": 1991,
+      "runtime_min": null,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "The Jay Clay Trilogy",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-09",
+          "time": "5:00 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "The first of Timothy Hittle's wordless stop-motion Jay Clay shorts.",
+      "cast": [],
+      "page": 32
+    },
+    {
+      "title": "Canhead",
+      "original_title": null,
+      "directors": [
+        "Timothy Hittle"
+      ],
+      "countries": [],
+      "film_year": 1996,
+      "runtime_min": null,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "The Jay Clay Trilogy",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-09",
+          "time": "5:00 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "An Oscar-nominated stop-motion Jay Clay short by Timothy Hittle.",
+      "cast": [],
+      "page": 32
+    },
+    {
+      "title": "Journey from Zanskar",
+      "original_title": null,
+      "directors": [
+        "Frederick Marx"
+      ],
+      "countries": [
+        "USA",
+        "India"
+      ],
+      "film_year": 2010,
+      "runtime_min": 90,
+      "language": "English, Zanskari, Tibetan and Hindi",
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-13",
+          "time": "6:45 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-16",
+          "time": "1:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A monk leads 17 children from remote Zanskar over mountain passes to be educated, to help preserve Tibetan culture.",
+      "cast": [],
+      "page": 33
+    },
+    {
+      "title": "Julia's Disappearance",
+      "original_title": "Giulias Verschwinden",
+      "directors": [
+        "Christoph Schaub"
+      ],
+      "countries": [
+        "Switzerland"
+      ],
+      "film_year": 2009,
+      "runtime_min": 87,
+      "language": "German",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": "North American Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-13",
+          "time": "8:45 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-15",
+          "time": "9:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "On her 50th birthday a woman detours from her party to talk with a stranger while her friends debate aging.",
+      "cast": [
+        "Corinna Harfouch",
+        "Bruno Ganz",
+        "Stefan Kurt",
+        "André Jung",
+        "Sunnyi Melles",
+        "Daniel Rohr"
+      ],
+      "page": 33
+    },
+    {
+      "title": "Katalin Varga",
+      "original_title": null,
+      "directors": [
+        "Peter Strickland"
+      ],
+      "countries": [
+        "Romania",
+        "UK",
+        "Hungary"
+      ],
+      "film_year": 2009,
+      "runtime_min": 84,
+      "language": "Hungarian and Romanian",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-08",
+          "time": "6:30 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2010-10-15",
+          "time": "9:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Cast out by her husband, a woman travels through Transylvania with her son seeking revenge on the men who wronged her.",
+      "cast": [
+        "Hilda Péter",
+        "Tibor Palffy",
+        "Norbert Tanko",
+        "Melinda Kantor",
+        "Sebastian Marina"
+      ],
+      "page": 33
+    },
+    {
+      "title": "Kawasaki's Rose",
+      "original_title": "Kawasakiho Ruze",
+      "directors": [
+        "Jan Hrebejk"
+      ],
+      "countries": [
+        "Czech Republic"
+      ],
+      "film_year": 2009,
+      "runtime_min": 100,
+      "language": "Czech",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-09",
+          "time": "5:15 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-11",
+          "time": "9:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A documentary about a respected Czech dissident professor uncovers secrets from the Communist era.",
+      "cast": [
+        "Lenka Vlasáková",
+        "Daniela Kolarova",
+        "Martin Huba",
+        "Milan Mikulcík"
+      ],
+      "page": 34
+    },
+    {
+      "title": "The King's Speech",
+      "original_title": null,
+      "directors": [
+        "Tom Hooper"
+      ],
+      "countries": [
+        "UK",
+        "Australia"
+      ],
+      "film_year": 2009,
+      "runtime_min": 111,
+      "language": null,
+      "section": "World Cinema",
+      "slot": "Opening Night",
+      "premiere": "US Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-07",
+          "time": "7:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "King George VI works with an unorthodox Australian speech therapist to overcome his stammer.",
+      "cast": [
+        "Colin Firth",
+        "Helena Bonham Carter",
+        "Geoffrey Rush",
+        "Guy Pearce",
+        "Timothy Spall"
+      ],
+      "page": 34
+    },
+    {
+      "title": "Kinshasa Symphony",
+      "original_title": null,
+      "directors": [
+        "Claus Wischmann",
+        "Martin Baer"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "film_year": 2010,
+      "runtime_min": 95,
+      "language": "French and Lingala",
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-14",
+          "time": "7:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2010-10-16",
+          "time": "4:45 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "The musicians of a Kinshasa amateur symphony orchestra prepare a concert despite daily hardship.",
+      "cast": [],
+      "page": 34
+    },
+    {
+      "title": "Kung Fu Chefs",
+      "original_title": "Gong Fu Chu Shen",
+      "directors": [
+        "Wing-kin Yip"
+      ],
+      "countries": [
+        "Hong Kong"
+      ],
+      "film_year": 2008,
+      "runtime_min": 92,
+      "language": "Cantonese and Mandarin",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-12",
+          "time": "8:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A disgraced chef and his young protege take on a scheming rival in a martial-arts cooking competition.",
+      "cast": [
+        "Sammo Hung",
+        "Vanness Wu",
+        "Louis Fan",
+        "Bruce Leung",
+        "Tze-chung Lam",
+        "Tin-ming Hung"
+      ],
+      "page": 35
+    },
+    {
+      "title": "Leave Them Laughing",
+      "original_title": null,
+      "directors": [
+        "John Zaritsky"
+      ],
+      "countries": [
+        "Canada",
+        "USA"
+      ],
+      "film_year": 2010,
+      "runtime_min": 89,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": "US Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-10",
+          "time": "7:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-12",
+          "time": "8:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Bay Area singer Carla Zilbersmith faces ALS with humor and the support of her son.",
+      "cast": [
+        "Carla Zilbersmith",
+        "Mac Zilber"
+      ],
+      "page": 35
+    },
+    {
+      "title": "Lesson Plan: The Story of the Third Wave",
+      "original_title": null,
+      "directors": [
+        "Philip Neel",
+        "David H. Jeffery"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2010,
+      "runtime_min": 76,
+      "language": "German and English",
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": "World Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-10",
+          "time": "3:30 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2010-10-13",
+          "time": "7:00 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "Participants recall a 1967 Palo Alto classroom experiment in fascism that spiraled out of its teacher's control.",
+      "cast": [],
+      "page": 35
+    },
+    {
+      "title": "Love Crime",
+      "original_title": "Crime d'Amour",
+      "directors": [
+        "Alain Corneau"
+      ],
+      "countries": [
+        "France"
+      ],
+      "film_year": 2010,
+      "runtime_min": 106,
+      "language": "French",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": "US Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-09",
+          "time": "7:30 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-14",
+          "time": "9:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A corporate executive and her ambitious protegee turn on each other in a thriller about power and betrayal.",
+      "cast": [
+        "Ludivine Sagnier",
+        "Kristin Scott Thomas"
+      ],
+      "page": 36
+    },
+    {
+      "title": "Made in Dagenham",
+      "original_title": null,
+      "directors": [
+        "Nigel Cole"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "film_year": 2010,
+      "runtime_min": 113,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": "US Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-08",
+          "time": "6:30 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-11",
+          "time": "7:15 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "Women machinists at Ford's Dagenham plant strike for equal pay in 1968.",
+      "cast": [
+        "Sally Hawkins",
+        "Bob Hoskins",
+        "Miranda Richardson",
+        "Geraldine James",
+        "Rosamund Pike",
+        "Andrea Riseborough"
+      ],
+      "page": 36
+    },
+    {
+      "title": "Miral",
+      "original_title": null,
+      "directors": [
+        "Julian Schnabel"
+      ],
+      "countries": [
+        "UK",
+        "Israel",
+        "France"
+      ],
+      "film_year": 2009,
+      "runtime_min": 113,
+      "language": null,
+      "section": "World Cinema",
+      "slot": "Centerpiece",
+      "premiere": "US Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Julian Schnabel",
+        "Rula Jebreal"
+      ],
+      "screenings": [
+        {
+          "date": "2010-10-10",
+          "time": "5:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A Palestinian girl raised in a Jerusalem orphanage is drawn into politics on the eve of the first Intifada.",
+      "cast": [
+        "Freida Pinto",
+        "Hiam Abbass",
+        "Willem Dafoe",
+        "Vanessa Redgrave",
+        "Omar Metwally"
+      ],
+      "page": 36
+    },
+    {
+      "title": "Mr. Bjarnfredarson",
+      "original_title": "Bjarnfredarson",
+      "directors": [
+        "Ragnar Bragason"
+      ],
+      "countries": [
+        "Iceland"
+      ],
+      "film_year": 2009,
+      "runtime_min": 109,
+      "language": "Icelandic",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": "North American Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-10",
+          "time": "8:30 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2010-10-16",
+          "time": "3:15 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A rigid, newly paroled misfit moves in with two fellow ex-cons and tries to come to terms with his radical upbringing.",
+      "cast": [
+        "Jón Gnarr",
+        "Jörundur Ragnarsson",
+        "Pétur Jóhann Sigfússon",
+        "Ágústa Eva Erlendsdóttir",
+        "Margrét Helga Jóhannsdóttir",
+        "Sara Margrét Nordahl"
+      ],
+      "page": 37
+    },
+    {
+      "title": "Moloch Tropical",
+      "original_title": null,
+      "directors": [
+        "Raoul Peck"
+      ],
+      "countries": [
+        "Haiti",
+        "France"
+      ],
+      "film_year": 2010,
+      "runtime_min": 107,
+      "language": "French, Creole and English",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-10",
+          "time": "2:15 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-13",
+          "time": "6:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A political satire about a once-idealistic Haitian president clinging to power in his mountaintop citadel as revolution nears.",
+      "cast": [
+        "Zinedine Soualem",
+        "Sonia Rolland",
+        "Mireille Metellus",
+        "Jimmy Jean-Louis",
+        "Oris Erhuero",
+        "Nicole Dogué"
+      ],
+      "page": 37
+    },
+    {
+      "title": "The Most Important Thing in Life Is Not Being Dead",
+      "original_title": null,
+      "directors": [
+        "Olivier Pictet",
+        "Pablo Martín Torrado",
+        "Marc Recuenco"
+      ],
+      "countries": [
+        "Switzerland",
+        "Spain"
+      ],
+      "film_year": 2010,
+      "runtime_min": 82,
+      "language": "Spanish",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": "US Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-14",
+          "time": "8:15 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-16",
+          "time": "9:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A Catalan piano tuner's strange dream-guided gift spans fifty years of life under Franco and beyond.",
+      "cast": [
+        "Emilio Gutiérrez Caba",
+        "Francisco Nortes",
+        "Marián Aguilera",
+        "Mercè Montalà",
+        "Carles Arquimbau",
+        "Albert Ausellé"
+      ],
+      "page": 37
+    },
+    {
+      "title": "Most Valuable Players",
+      "original_title": null,
+      "directors": [
+        "Matthew D. Kallis"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2010,
+      "runtime_min": 95,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": "World Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-10",
+          "time": "1:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2010-10-15",
+          "time": "6:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "Three Pennsylvania high school theater companies compete for local awards for student musicals.",
+      "cast": [],
+      "page": 38
+    },
+    {
+      "title": "My Brothers",
+      "original_title": null,
+      "directors": [
+        "Paul Fraser"
+      ],
+      "countries": [
+        "Ireland"
+      ],
+      "film_year": 2010,
+      "runtime_min": 88,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-11",
+          "time": "6:00 PM",
+          "venue": "Cinema"
+        },
+        {
+          "date": "2010-10-15",
+          "time": "6:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "Three Irish brothers take a road trip to replace their dying father's broken wristwatch.",
+      "cast": [
+        "Timmy Creed",
+        "Paul Courtney",
+        "TJ Griffin"
+      ],
+      "page": 38
+    },
+    {
+      "title": "Niger '66, A Peace Corps Diary",
+      "original_title": null,
+      "directors": [
+        "Judy Irola"
+      ],
+      "countries": [
+        "USA",
+        "Niger"
+      ],
+      "film_year": 2010,
+      "runtime_min": 75,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": "World Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-15",
+          "time": "7:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2010-10-17",
+          "time": "2:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "Members of an early Peace Corps group return to Niger after nearly 40 years to see what has changed.",
+      "cast": [],
+      "page": 38
+    },
+    {
+      "title": "Wahid's Mobile Bookstore",
+      "original_title": null,
+      "directors": [
+        "Anjoo Khosla"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2009,
+      "runtime_min": 11,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Niger '66, A Peace Corps Diary",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-15",
+          "time": "7:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2010-10-17",
+          "time": "2:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A boy who dreams of becoming a doctor sells pirated books to support his family.",
+      "cast": [],
+      "page": 38
+    },
+    {
+      "title": "Nowhere Boy",
+      "original_title": null,
+      "directors": [
+        "Sam Taylor-Wood"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "film_year": 2009,
+      "runtime_min": 97,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-07",
+          "time": "9:45 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "Teenage John Lennon, torn between his aunt and his estranged mother, discovers rock 'n' roll in 1950s Liverpool.",
+      "cast": [
+        "Aaron Johnson",
+        "Kristin Scott Thomas",
+        "David Threlfall",
+        "Josh Bolt",
+        "Ophelia Lovibond"
+      ],
+      "page": 39
+    },
+    {
+      "title": "Nuremberg: Its Lesson for Today [The Schulberg/Waletzky Restoration]",
+      "original_title": null,
+      "directors": [
+        "Stuart Schulberg"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 1948,
+      "runtime_min": 78,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-17",
+          "time": "2:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A restored official film record of the first Nuremberg trial, built around the prosecution's use of film evidence.",
+      "cast": [
+        "Liev Schreiber"
+      ],
+      "page": 39
+    },
+    {
+      "title": "Of Love and Other Demons",
+      "original_title": "Del Amor y Otros Demonios",
+      "directors": [
+        "Hilda Hidalgo"
+      ],
+      "countries": [
+        "Costa Rica",
+        "Colombia"
+      ],
+      "film_year": 2009,
+      "runtime_min": 97,
+      "language": "Spanish",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-11",
+          "time": "8:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2010-10-13",
+          "time": "6:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "In colonial Colombia, a girl thought possessed after a dog bite is confined to a convent, where a young priest falls in love with her.",
+      "cast": [
+        "Pablo Derqui",
+        "Eliza Triana",
+        "Jordi Dauder",
+        "Joaquin Climent",
+        "Margarita Rosa de Francisco",
+        "Damián Alcazar"
+      ],
+      "page": 39
+    },
+    {
+      "title": "Opal",
+      "original_title": null,
+      "directors": [
+        "Dina Ciraulo"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2010,
+      "runtime_min": 79,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": "World Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-09",
+          "time": "3:30 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2010-10-12",
+          "time": "7:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A drama about naturalist Opal Whiteley, whose celebrated childhood diaries were later doubted.",
+      "cast": [
+        "Nayeli Adorador-Knudsen",
+        "George Maguire",
+        "Carrie Paff",
+        "Gabriel Marin",
+        "Ben Beecroft",
+        "Kevin Rolston"
+      ],
+      "page": 40
+    },
+    {
+      "title": "Patagonia",
+      "original_title": null,
+      "directors": [
+        "Marc Evans"
+      ],
+      "countries": [
+        "Wales",
+        "Argentina"
+      ],
+      "film_year": 2010,
+      "runtime_min": 118,
+      "language": "Spanish, Welsh, English and Polish",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-09",
+          "time": "3:15 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2010-10-14",
+          "time": "6:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "An elderly Welsh-Argentine woman travels to Wales while a young Welsh woman journeys to Patagonia.",
+      "cast": [
+        "Matthew Rhys",
+        "Marta Lubos",
+        "Nahuel Pérez Biscayart",
+        "Nia Roberts",
+        "Matthew Gravelle",
+        "Duffy"
+      ],
+      "page": 40
+    },
+    {
+      "title": "Precious Life",
+      "original_title": "Chaim Yakarim",
+      "directors": [
+        "Shlomi Eldar"
+      ],
+      "countries": [
+        "Israel"
+      ],
+      "film_year": 2010,
+      "runtime_min": 86,
+      "language": "English, Arabic and Hebrew",
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-10",
+          "time": "2:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-11",
+          "time": "6:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "An Israeli medical team and a Gaza family fight to save a baby with an immune disorder during the 2008 war.",
+      "cast": [],
+      "page": 40
+    },
+    {
+      "title": "Puzzle",
+      "original_title": "Rompecabezas",
+      "directors": [
+        "Natalia Smirnoff"
+      ],
+      "countries": [
+        "Argentina",
+        "France"
+      ],
+      "film_year": 2010,
+      "runtime_min": 87,
+      "language": "Spanish",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-09",
+          "time": "6:15 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-16",
+          "time": "7:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A Buenos Aires housewife discovers a talent for jigsaw puzzles and secretly trains for a competition.",
+      "cast": [],
+      "page": 41
+    },
+    {
+      "title": "Queen of Hearts",
+      "original_title": "La Reine des Pommes",
+      "directors": [
+        "Valérie Donzelli"
+      ],
+      "countries": [
+        "France"
+      ],
+      "film_year": 2009,
+      "runtime_min": 84,
+      "language": "French",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": "US Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-08",
+          "time": "7:15 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-17",
+          "time": "2:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A dumped woman in Paris tries to get over her ex through encounters with three men played by the same actor.",
+      "cast": [
+        "Valérie Donzelli",
+        "Jérémie Elkaïm",
+        "Béatrice De Stael",
+        "Laure Marsac",
+        "Lucia Sanchez"
+      ],
+      "page": 41
+    },
+    {
+      "title": "Queen of the Sun",
+      "original_title": null,
+      "directors": [
+        "Taggart Siegel"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2010,
+      "runtime_min": 82,
+      "language": "English and Italian",
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-12",
+          "time": "6:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-13",
+          "time": "7:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A documentary on the global disappearance of honeybees and the people trying to save them.",
+      "cast": [],
+      "page": 41
+    },
+    {
+      "title": "Red Hill",
+      "original_title": null,
+      "directors": [
+        "Patrick Hughes"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "film_year": 2010,
+      "runtime_min": 95,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-11",
+          "time": "8:15 PM",
+          "venue": "Cinema"
+        }
+      ],
+      "summary": "A young cop's first day in an outback town coincides with an escaped killer's return for revenge.",
+      "cast": [
+        "Ryan Kwanten",
+        "Steve Bisley",
+        "Tommy Lewis"
+      ],
+      "page": 42
+    },
+    {
+      "title": "The Reverse",
+      "original_title": "Rewers",
+      "directors": [
+        "Borys Lankosz"
+      ],
+      "countries": [
+        "Poland"
+      ],
+      "film_year": 2009,
+      "runtime_min": 101,
+      "language": "Polish",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-09",
+          "time": "2:45 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-13",
+          "time": "9:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A meek Stalinist-era Warsaw clerk is swept up by a mysterious stranger in a black comedy thriller.",
+      "cast": [
+        "Agata Buzek",
+        "Krystyna Janda",
+        "Anna Polony",
+        "Marcin Dorocinski",
+        "Adam Woronowicz"
+      ],
+      "page": 42
+    },
+    {
+      "title": "The River Why",
+      "original_title": null,
+      "directors": [
+        "Matthew Leutwyler"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2010,
+      "runtime_min": 104,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-09",
+          "time": "8:15 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-14",
+          "time": "9:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A young man from a quarrelsome fishing family retreats to a riverside cabin and finds love.",
+      "cast": [
+        "Zach Gilford",
+        "Amber Heard",
+        "Kathleen Quinlan",
+        "Dallas Roberts",
+        "William Devane",
+        "William Hurt"
+      ],
+      "page": 42
+    },
+    {
+      "title": "Sand",
+      "original_title": null,
+      "directors": [
+        "Rob Nilsson"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2009,
+      "runtime_min": 84,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": "World Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-09",
+          "time": "7:15 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2010-10-12",
+          "time": "9:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "An older woman hires a young drifter-philosopher to paint her house and takes him as a lover.",
+      "cast": [
+        "Irit Levi",
+        "William Martin",
+        "Ken Huie",
+        "Michelle Anton Allen",
+        "Jim Salisbury"
+      ],
+      "page": 43
+    },
+    {
+      "title": "Sebbe",
+      "original_title": null,
+      "directors": [
+        "Babak Najafi"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "film_year": 2010,
+      "runtime_min": 80,
+      "language": "Swedish",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": "North American Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-10",
+          "time": "12:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-12",
+          "time": "9:30 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A lonely, bullied boy with a fraught bond with his mother finds solace building things in a junkyard.",
+      "cast": [
+        "Sebastian Hiort af Ornäs",
+        "Eva Melander",
+        "Kenny Wåhlbrink"
+      ],
+      "page": 43
+    },
+    {
+      "title": "A Somewhat Gentle Man",
+      "original_title": "En Ganske Snill Mann",
+      "directors": [
+        "Hans Petter Moland"
+      ],
+      "countries": [
+        "Norway"
+      ],
+      "film_year": 2010,
+      "runtime_min": 105,
+      "language": "Norwegian",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-15",
+          "time": "8:45 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2010-10-17",
+          "time": "8:00 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A man released after 12 years in prison is ordered to kill the witness who put him away.",
+      "cast": [
+        "Stellan Skarsgård",
+        "Bjørn Floberg",
+        "Gard B. Eidsvold",
+        "Jorunn Kjellsby",
+        "Bjørn Sundquist"
+      ],
+      "page": 43
+    },
+    {
+      "title": "Space, Land and Time: Underground Adventures with Ant Farm",
+      "original_title": null,
+      "directors": [
+        "Elizabeth Federici",
+        "Laura Harrison"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2010,
+      "runtime_min": 78,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": "World Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-09",
+          "time": "1:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2010-10-11",
+          "time": "7:00 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "A documentary on Ant Farm, the Bay Area art and architecture collective behind Cadillac Ranch and Media Burn.",
+      "cast": [],
+      "page": 44
+    },
+    {
+      "title": "Tuned In",
+      "original_title": null,
+      "directors": [
+        "Kevin Gordon"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2010,
+      "runtime_min": 6,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Space, Land and Time: Underground Adventures with Ant Farm",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-09",
+          "time": "1:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2010-10-11",
+          "time": "7:00 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "A portrait of Stephen P. McGreevy, a devoted listener to natural radio sounds.",
+      "cast": [],
+      "page": 44
+    },
+    {
+      "title": "Stone",
+      "original_title": null,
+      "directors": [
+        "John Curran"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2010,
+      "runtime_min": 105,
+      "language": null,
+      "section": "US Cinema",
+      "slot": "Tribute",
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [
+        "Edward Norton"
+      ],
+      "screenings": [
+        {
+          "date": "2010-10-09",
+          "time": "7:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A convict up for parole uses his wife to manipulate the corrections officer deciding his case.",
+      "cast": [
+        "Robert De Niro",
+        "Milla Jovovich",
+        "Edward Norton",
+        "Frances Conroy",
+        "Enver Gjokaj",
+        "Liam Ferguson"
+      ],
+      "page": 44
+    },
+    {
+      "title": "Submission",
+      "original_title": "Underkastelsen",
+      "directors": [
+        "Stefan Jarl"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "film_year": 2010,
+      "runtime_min": 87,
+      "language": null,
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": "North American Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-15",
+          "time": "6:30 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2010-10-16",
+          "time": "4:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A filmmaker discovers hundreds of industrial chemicals in his own blood and investigates modern chemical society.",
+      "cast": [],
+      "page": 44
+    },
+    {
+      "title": "Tehran Tehran",
+      "original_title": null,
+      "directors": [
+        "Dariush Mehrjui",
+        "Mehdi Karampour"
+      ],
+      "countries": [
+        "Iran"
+      ],
+      "film_year": 2010,
+      "runtime_min": 109,
+      "language": "Farsi",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": "US Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-08",
+          "time": "8:30 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2010-10-09",
+          "time": "2:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A two-part portrait of Tehran: a homeless family's holiday bus tour and an underground rock band whose concert is banned.",
+      "cast": [
+        "Pantea Bahram",
+        "Ghorban Najaf",
+        "Katayoun Amir-Ebrahimi",
+        "Reza Yazdani",
+        "Rana Azodivar",
+        "Borzou Arjmand"
+      ],
+      "page": 45
+    },
+    {
+      "title": "The Tempest",
+      "original_title": null,
+      "directors": [
+        "Julie Taymor"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2010,
+      "runtime_min": 110,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-10",
+          "time": "3:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2010-10-16",
+          "time": "8:45 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "Julie Taymor's Shakespeare adaptation with Prospero recast as Prospera, an exiled duchess.",
+      "cast": [
+        "Helen Mirren",
+        "Russell Brand",
+        "Alfred Molina",
+        "Alan Cumming",
+        "Ben Whishaw"
+      ],
+      "page": 45
+    },
+    {
+      "title": "Themba - A Boy Called Hope",
+      "original_title": null,
+      "directors": [
+        "Stefanie Sycholt"
+      ],
+      "countries": [
+        "South Africa"
+      ],
+      "film_year": 2010,
+      "runtime_min": 106,
+      "language": "Xhosa",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": "US Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-16",
+          "time": "12:45 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-17",
+          "time": "7:00 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A rural South African boy pursues his dream of playing for the national soccer team despite poverty and hardship.",
+      "cast": [
+        "Nat 'Junior' Singo",
+        "Simphiwe Dana",
+        "Patrick Mofokeng",
+        "Kagiso Motsei",
+        "Emmanuel Soqinase",
+        "Melabantu Maxhama"
+      ],
+      "page": 45
+    },
+    {
+      "title": "Tiny Furniture",
+      "original_title": null,
+      "directors": [
+        "Lena Dunham"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2010,
+      "runtime_min": 98,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-15",
+          "time": "8:45 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-17",
+          "time": "4:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A recent college graduate drifts through awkward friendships and romances back at her mother's Tribeca loft.",
+      "cast": [
+        "Lena Dunham",
+        "Laurie Simmons",
+        "Grace Dunham",
+        "Jemima Kirke",
+        "Alex Karpovsky",
+        "David Call"
+      ],
+      "page": 46
+    },
+    {
+      "title": "Tapeworm",
+      "original_title": null,
+      "directors": [
+        "Margaret Laney"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2010,
+      "runtime_min": 15,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Tiny Furniture",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-15",
+          "time": "8:45 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-17",
+          "time": "4:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Two teenage friends compete over a revolting weight-loss aid before the homecoming dance.",
+      "cast": [],
+      "page": 46
+    },
+    {
+      "title": "To Educate a Girl",
+      "original_title": null,
+      "directors": [
+        "Fred Rendina",
+        "Oren Rudavsky"
+      ],
+      "countries": [
+        "Uganda",
+        "Nepal",
+        "USA"
+      ],
+      "film_year": 2010,
+      "runtime_min": 70,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": "World Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-11",
+          "time": "7:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-16",
+          "time": "3:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "Two girls in Nepal and Uganda illustrate the obstacles to girls' education worldwide.",
+      "cast": [],
+      "page": 46
+    },
+    {
+      "title": "Top Spin",
+      "original_title": null,
+      "directors": [
+        "Sara Newens",
+        "Mina T. Son"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2010,
+      "runtime_min": 12,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "To Educate a Girl",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-11",
+          "time": "7:00 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-16",
+          "time": "3:45 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A portrait of teenage table-tennis champion Ariel Hsing and her training.",
+      "cast": [],
+      "page": 46
+    },
+    {
+      "title": "Trust: Second Acts in Young Lives",
+      "original_title": null,
+      "directors": [
+        "Nancy Kelly"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2010,
+      "runtime_min": 78,
+      "language": null,
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": "World Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-16",
+          "time": "2:30 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-17",
+          "time": "2:15 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A Chicago teen theater company turns a young Honduran immigrant's traumatic story into a stage production.",
+      "cast": [],
+      "page": 46
+    },
+    {
+      "title": "The Stinking Ship",
+      "original_title": null,
+      "directors": [
+        "Bagassi Koura"
+      ],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": 27,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Truth Be Told",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-10",
+          "time": "4:15 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "An investigation of a ship's toxic waste dump in Ivory Coast and the health crisis that followed.",
+      "cast": [],
+      "page": 47
+    },
+    {
+      "title": "Old People Driving",
+      "original_title": null,
+      "directors": [
+        "Shaleece Haas"
+      ],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": 25,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Truth Be Told",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-10",
+          "time": "4:15 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "A look at when elderly drivers become a safety risk, including the filmmaker's 97-year-old grandfather.",
+      "cast": [],
+      "page": 47
+    },
+    {
+      "title": "Guests of Space",
+      "original_title": null,
+      "directors": [
+        "Alba Mora-Roca"
+      ],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Truth Be Told",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-10",
+          "time": "4:15 PM",
+          "venue": "142 Throckmorton"
+        }
+      ],
+      "summary": "A look at the Amazon's Nukak people and their troubled contact with outsiders.",
+      "cast": [],
+      "page": 47
+    },
+    {
+      "title": "Twigson",
+      "original_title": "Knerten",
+      "directors": [
+        "Asleik Engmark"
+      ],
+      "countries": [
+        "Norway"
+      ],
+      "film_year": 2009,
+      "runtime_min": 71,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": "North American Premiere",
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-10",
+          "time": "11:00 AM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-17",
+          "time": "11:00 AM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A lonely boy whose family moves to the countryside befriends a talking twig.",
+      "cast": [
+        "Adrian Groennevik Smith",
+        "Petrus Andreas Christiensen",
+        "Pernille Soerensen",
+        "Jan Gunnar Roeise",
+        "Asleik Engmark"
+      ],
+      "page": 47
+    },
+    {
+      "title": "Syawal Was Very Scared",
+      "original_title": null,
+      "directors": [
+        "Wilma Ligthart"
+      ],
+      "countries": [
+        "Netherlands"
+      ],
+      "film_year": 2010,
+      "runtime_min": 17,
+      "language": null,
+      "section": "Children's FilmFest",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Twigson",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-10",
+          "time": "11:00 AM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-17",
+          "time": "11:00 AM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A 12-year-old boy recalls losing his family in the tsunami that hit Banda Aceh.",
+      "cast": [],
+      "page": 47
+    },
+    {
+      "title": "The Two Horses of Genghis Khan",
+      "original_title": "Das Lied von den zwei Pferden",
+      "directors": [
+        "Byambasuren Davaa"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "film_year": 2009,
+      "runtime_min": 90,
+      "language": "Mongolian",
+      "section": "Valley of the Docs",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-11",
+          "time": "6:00 PM",
+          "venue": "Rafael"
+        },
+        {
+          "date": "2010-10-13",
+          "time": "9:15 PM",
+          "venue": "Sequoia"
+        }
+      ],
+      "summary": "A singer travels across Mongolia to find the lost verses of a folk song and repair her family's horse-head violin.",
+      "cast": [
+        "Urna Chahar-Tugchi",
+        "Hicheengui Sambuu",
+        "Chimed Dolgor"
+      ],
+      "page": 47
+    },
+    {
+      "title": "When We Leave",
+      "original_title": "Die Fremde",
+      "directors": [
+        "Feo Aladag"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "film_year": 2010,
+      "runtime_min": 119,
+      "language": "German and Turkish",
+      "section": "World Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-16",
+          "time": "5:45 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-17",
+          "time": "1:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A Turkish-German woman fleeing an abusive marriage is rejected by her family, who act to restore their honor.",
+      "cast": [
+        "Sibel Kekilli",
+        "Settar Tanriögen",
+        "Derya Alabora",
+        "Florian Lukas"
+      ],
+      "page": 48
+    },
+    {
+      "title": "William Vincent",
+      "original_title": null,
+      "directors": [
+        "Jay Anania"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "film_year": 2010,
+      "runtime_min": 100,
+      "language": null,
+      "section": "US Cinema",
+      "slot": null,
+      "premiere": null,
+      "is_short": false,
+      "shorts_program": null,
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-16",
+          "time": "9:30 PM",
+          "venue": "Sequoia"
+        },
+        {
+          "date": "2010-10-17",
+          "time": "4:30 PM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A Manhattan drifter is drawn into a crime boss's underworld and falls for the boss's girlfriend.",
+      "cast": [
+        "James Franco",
+        "Julianne Nicholson",
+        "Martin Donovan",
+        "Josh Lucas"
+      ],
+      "page": 48
+    },
+    {
+      "title": "Wangypong the Movie",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Wangypong",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-16",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A student superhero film that goes badly wrong.",
+      "cast": [],
+      "page": 48
+    },
+    {
+      "title": "Dem Shoes",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Wangypong",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-16",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "One of two youth shorts about shoes.",
+      "cast": [],
+      "page": 48
+    },
+    {
+      "title": "24 Inches",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Wangypong",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-16",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "One of two youth shorts about shoes.",
+      "cast": [],
+      "page": 48
+    },
+    {
+      "title": "Decision Day: The Musical",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Wangypong",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-16",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A senior-year satire in the style of a high school musical.",
+      "cast": [],
+      "page": 48
+    },
+    {
+      "title": "The Forest",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Wangypong",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-16",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A youth short about love.",
+      "cast": [],
+      "page": 48
+    },
+    {
+      "title": "La La Love You",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Wangypong",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-16",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A youth short about love.",
+      "cast": [],
+      "page": 48
+    },
+    {
+      "title": "Untietled",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Wangypong",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-16",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A youth short about love.",
+      "cast": [],
+      "page": 48
+    },
+    {
+      "title": "Still Life",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Wangypong",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-16",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A youth short about love.",
+      "cast": [],
+      "page": 48
+    },
+    {
+      "title": "The River",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Wangypong",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-16",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A youth short with social commentary.",
+      "cast": [],
+      "page": 48
+    },
+    {
+      "title": "Persiah's Story",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Wangypong",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-16",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A youth short with social commentary.",
+      "cast": [],
+      "page": 48
+    },
+    {
+      "title": "How to Set a House on Fire",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Wangypong",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-16",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A youth short with social commentary.",
+      "cast": [],
+      "page": 48
+    },
+    {
+      "title": "Green Profile Series: Franceyez",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Wangypong",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-16",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A youth short with social commentary.",
+      "cast": [],
+      "page": 48
+    },
+    {
+      "title": "Thinking Dead",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Wangypong",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-16",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "An animated youth short.",
+      "cast": [],
+      "page": 48
+    },
+    {
+      "title": "The Evolution of War",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Wangypong",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-16",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "An animated youth short.",
+      "cast": [],
+      "page": 48
+    },
+    {
+      "title": "The Stand",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Wangypong",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-16",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A youth short about the pleasures of art and life.",
+      "cast": [],
+      "page": 48
+    },
+    {
+      "title": "Finding My Way",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Wangypong",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-16",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A youth short about the pleasures of art and life.",
+      "cast": [],
+      "page": 48
+    },
+    {
+      "title": "Echomotion",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Wangypong",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-16",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A youth short about the pleasures of art and life.",
+      "cast": [],
+      "page": 48
+    },
+    {
+      "title": "Escape from Suburbia",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Wangypong",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-16",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A youth short about the pleasures of art and life.",
+      "cast": [],
+      "page": 48
+    },
+    {
+      "title": "Our Wedding",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Wangypong",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-16",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A youth short about the pleasures of art and life.",
+      "cast": [],
+      "page": 48
+    },
+    {
+      "title": "White Walls",
+      "original_title": null,
+      "directors": [],
+      "countries": [],
+      "film_year": null,
+      "runtime_min": null,
+      "language": null,
+      "section": "Youth",
+      "slot": null,
+      "premiere": null,
+      "is_short": true,
+      "shorts_program": "Wangypong",
+      "guests": [],
+      "screenings": [
+        {
+          "date": "2010-10-16",
+          "time": "11:00 AM",
+          "venue": "Rafael"
+        }
+      ],
+      "summary": "A youth short about the founder of San Francisco's White Walls gallery and his ups and downs.",
+      "cast": [],
+      "page": 48
+    }
+  ],
+  "events": [
+    {
+      "title": "Opening Night Gala",
+      "kind": "party",
+      "date": "2010-10-07",
+      "time": "9:00 PM",
+      "venue": "Mill Valley Community Center",
+      "people": [],
+      "related_films": [
+        "Conviction",
+        "The King's Speech"
+      ],
+      "summary": "A party with food, drinks and live music following both Opening Night screenings.",
+      "page": 6
+    },
+    {
+      "title": "Spotlight on Alejandro González Iñárritu",
+      "kind": "spotlight",
+      "date": "2010-10-08",
+      "time": "7:00 PM",
+      "venue": "Christopher B. Smith Rafael Film Center",
+      "people": [
+        {
+          "name": "Alejandro González Iñárritu",
+          "role": "honoree"
+        }
+      ],
+      "related_films": [
+        "Biutiful"
+      ],
+      "summary": "An onstage interview with the director and a screening of Biutiful, followed by a reception at Sabor of Spain.",
+      "page": 8
+    },
+    {
+      "title": "John Lennon at 70: A Concert Celebrating Nowhere Boy with Rubber Souldiers and Special Surprise Guests",
+      "kind": "music",
+      "date": "2010-10-08",
+      "time": "8:00 PM",
+      "venue": "142 Throckmorton Theatre",
+      "people": [
+        {
+          "name": "John Goddard",
+          "role": "host"
+        },
+        {
+          "name": "Rubber Souldiers",
+          "role": "performer"
+        },
+        {
+          "name": "Lorin Rowan",
+          "role": "performer"
+        },
+        {
+          "name": "Chris Rowan",
+          "role": "performer"
+        },
+        {
+          "name": "David Gans",
+          "role": "performer"
+        }
+      ],
+      "related_films": [
+        "Nowhere Boy"
+      ],
+      "summary": "A Lennon birthday concert of Beatles and Lennon songs with rare clips selected by John Goddard.",
+      "page": 16
+    },
+    {
+      "title": "New Movies Lab: The Future of Distribution",
+      "kind": "panel",
+      "date": "2010-10-09",
+      "time": "12:00 PM",
+      "venue": "Christopher B. Smith Rafael Film Center",
+      "people": [
+        {
+          "name": "Britt Bensen",
+          "role": "panelist"
+        },
+        {
+          "name": "Kattie Evans",
+          "role": "panelist"
+        },
+        {
+          "name": "David Fenkel",
+          "role": "panelist"
+        },
+        {
+          "name": "Marcus Hu",
+          "role": "panelist"
+        },
+        {
+          "name": "Jonathan Taplin",
+          "role": "panelist"
+        }
+      ],
+      "related_films": [],
+      "summary": "Industry experts discuss how digital technology and new media are changing film distribution.",
+      "page": 52
+    },
+    {
+      "title": "Children's FilmFest Opening Party Extravaganza",
+      "kind": "party",
+      "date": "2010-10-09",
+      "time": "12:30 PM",
+      "venue": "142 Throckmorton Theatre",
+      "people": [],
+      "related_films": [],
+      "summary": "A family party with balloons, prizes, food and some short films after the opening weekend children's screenings.",
+      "page": 17
+    },
+    {
+      "title": "Insight: The Art of Timothy Hittle",
+      "kind": "conversation",
+      "date": "2010-10-09",
+      "time": "5:00 PM",
+      "venue": "142 Throckmorton Theatre",
+      "people": [
+        {
+          "name": "Timothy Hittle",
+          "role": "speaker"
+        }
+      ],
+      "related_films": [
+        "The Potato Hunter",
+        "Canhead",
+        "The Quiet Life"
+      ],
+      "summary": "The stop-motion animator screens his complete Jay Clay trilogy and talks about his craft.",
+      "page": 32
+    },
+    {
+      "title": "Tribute to Edward Norton",
+      "kind": "tribute",
+      "date": "2010-10-09",
+      "time": "7:00 PM",
+      "venue": "Christopher B. Smith Rafael Film Center",
+      "people": [
+        {
+          "name": "Edward Norton",
+          "role": "honoree"
+        }
+      ],
+      "related_films": [
+        "Stone"
+      ],
+      "summary": "An onstage interview, career clips and a screening of Stone, followed by a reception at Piatti Ristorante & Bar.",
+      "page": 9
+    },
+    {
+      "title": "Cinemasports: The Musicals—Mill Valley & South Africa",
+      "kind": "workshop",
+      "date": "2010-10-10",
+      "time": "8:00 PM",
+      "venue": "142 Throckmorton Theatre",
+      "people": [],
+      "related_films": [],
+      "summary": "Teams in Mill Valley and South Africa make same-day musicals from set ingredients; the results screen publicly in the evening.",
+      "page": 52
+    },
+    {
+      "title": "Centerpiece: Miral",
+      "kind": "other",
+      "date": "2010-10-10",
+      "time": "5:45 PM",
+      "venue": "Christopher B. Smith Rafael Film Center",
+      "people": [
+        {
+          "name": "Julian Schnabel",
+          "role": "speaker"
+        },
+        {
+          "name": "Rula Jebreal",
+          "role": "speaker"
+        }
+      ],
+      "related_films": [
+        "Miral"
+      ],
+      "summary": "The Centerpiece screening of Miral with its director and screenwriter, followed by a reception at San Rafael Joe's.",
+      "page": 10
+    },
+    {
+      "title": "Tuesday Night Comedy with Mark Pitta & Friends",
+      "kind": "other",
+      "date": "2010-10-12",
+      "time": "8:00 PM",
+      "venue": "142 Throckmorton Theatre",
+      "people": [
+        {
+          "name": "Mark Pitta",
+          "role": "host"
+        }
+      ],
+      "related_films": [],
+      "summary": "A comedy night of established and up-and-coming comics trying out new material.",
+      "page": 16
+    },
+    {
+      "title": "The Empire Strikes Back 30th Anniversary Screening",
+      "kind": "party",
+      "date": "2010-10-12",
+      "time": "6:30 PM",
+      "venue": "Cinema",
+      "people": [
+        {
+          "name": "J.W. Rinzler",
+          "role": "speaker"
+        }
+      ],
+      "related_films": [
+        "The Empire Strikes Back"
+      ],
+      "summary": "A family anniversary screening with prizes, costumed characters, a book launch and a Q&A with the author of a making-of book.",
+      "page": 28
+    },
+    {
+      "title": "Tribute to Annette Bening",
+      "kind": "tribute",
+      "date": "2010-10-14",
+      "time": "7:00 PM",
+      "venue": "Christopher B. Smith Rafael Film Center",
+      "people": [
+        {
+          "name": "Annette Bening",
+          "role": "honoree"
+        }
+      ],
+      "related_films": [],
+      "summary": "Film clips and an onstage conversation with the actress, without a feature screening, then dinner at Frantoio.",
+      "page": 12
+    },
+    {
+      "title": "Fishbone Live in Concert at The Woods Music Hall",
+      "kind": "music",
+      "date": "2010-10-15",
+      "time": "9:30 PM",
+      "venue": "The Woods Music Hall at Masonic",
+      "people": [
+        {
+          "name": "Fishbone",
+          "role": "performer"
+        },
+        {
+          "name": "Angelo Moore",
+          "role": "performer"
+        }
+      ],
+      "related_films": [
+        "Everyday Sunshine: The Story of Fishbone"
+      ],
+      "summary": "The ska-rock band plays a full concert to celebrate the documentary about them.",
+      "page": 54
+    },
+    {
+      "title": "Active Cinema: A Toolkit",
+      "kind": "panel",
+      "date": "2010-10-16",
+      "time": "11:00 AM",
+      "venue": "142 Throckmorton Theatre",
+      "people": [
+        {
+          "name": "Simone Nelson",
+          "role": "moderator"
+        },
+        {
+          "name": "James Redford",
+          "role": "panelist"
+        },
+        {
+          "name": "Annie Roney",
+          "role": "panelist"
+        },
+        {
+          "name": "Bob Silvestri",
+          "role": "panelist"
+        },
+        {
+          "name": "Debbie Brubaker",
+          "role": "panelist"
+        }
+      ],
+      "related_films": [],
+      "summary": "Panelists discuss how to fund, distribute and market films on social, environmental and human rights issues.",
+      "page": 52
+    },
+    {
+      "title": "Hits & Misses: Working Women in Film",
+      "kind": "panel",
+      "date": "2010-10-16",
+      "time": "1:00 PM",
+      "venue": "142 Throckmorton Theatre",
+      "people": [
+        {
+          "name": "Lisanne Skyler",
+          "role": "moderator"
+        },
+        {
+          "name": "Mindy Affrime",
+          "role": "panelist"
+        },
+        {
+          "name": "Feo Aladag",
+          "role": "panelist"
+        },
+        {
+          "name": "Pamela Gray",
+          "role": "panelist"
+        },
+        {
+          "name": "Jennifer Seibel Newsom",
+          "role": "panelist"
+        }
+      ],
+      "related_films": [],
+      "summary": "Women writers, directors and producers discuss building sustainable careers in film.",
+      "page": 52
+    },
+    {
+      "title": "All My Friends Are Funeral Singers with Live Soundtrack by Califone",
+      "kind": "music",
+      "date": "2010-10-16",
+      "time": "7:00 PM",
+      "venue": "142 Throckmorton Theatre",
+      "people": [
+        {
+          "name": "Califone",
+          "role": "performer"
+        },
+        {
+          "name": "Tim Rutili",
+          "role": "performer"
+        }
+      ],
+      "related_films": [
+        "All My Friends Are Funeral Singers"
+      ],
+      "summary": "Califone performs its soundtrack live with the film; repeated Sunday, October 17 at 2:00 pm.",
+      "page": 16
+    },
+    {
+      "title": "Spotlight on James Franco",
+      "kind": "spotlight",
+      "date": "2010-10-17",
+      "time": "5:00 PM",
+      "venue": "Christopher B. Smith Rafael Film Center",
+      "people": [
+        {
+          "name": "James Franco",
+          "role": "honoree"
+        }
+      ],
+      "related_films": [
+        "127 Hours"
+      ],
+      "summary": "A lunchtime reception at Frantoio, then an onstage interview with the actor and a screening of 127 Hours.",
+      "page": 13
+    },
+    {
+      "title": "Closing Night Party",
+      "kind": "party",
+      "date": "2010-10-17",
+      "time": "7:15 PM",
+      "venue": "Kerner Studios",
+      "people": [
+        {
+          "name": "Califone",
+          "role": "performer"
+        }
+      ],
+      "related_films": [
+        "The Debt"
+      ],
+      "summary": "A party with gourmet food and music by Califone at a former Industrial Light and Magic studio after the Closing Night screening.",
+      "page": 15
+    }
+  ],
+  "awards": [
+    {
+      "name": "MVFF Award",
+      "recipient": "Alejandro González Iñárritu",
+      "film": "Biutiful",
+      "page": 8
+    },
+    {
+      "name": "MVFF Award",
+      "recipient": "Edward Norton",
+      "film": "Stone",
+      "page": 9
+    },
+    {
+      "name": "MVFF Award",
+      "recipient": "Annette Bening",
+      "film": null,
+      "page": 12
+    },
+    {
+      "name": "MVFF Award",
+      "recipient": "James Franco",
+      "film": "127 Hours",
+      "page": 13
+    }
+  ],
+  "staff": [],
+  "notes": "Page numbers are PDF pages (=== PAGE n ===); printed page numbers run about 5 higher. Screening venues use the programme's codes: Rafael = Christopher B. Smith Rafael Film Center, Sequoia = CinéArts@Sequoia, 142 Throckmorton = 142 Throckmorton Theatre, Cinema = the 'C' venue code (probably Century Cinema, Corte Madera, but the grid only says CINEMA). Dates printed as 'October 7–17' (festival week) with the year from the cover; edition 33 from '33rd Mill Valley Film Festival'. Shorts programmes (5@5 x5, Wangypong youth programme, Truth Be Told, The Jay Clay Trilogy) are not records themselves; each short carries the programme's screenings and its name in shorts_program. Shorts that 'precede' a feature have shorts_program set to that feature's title. Programme runtimes: Gimme Some Truth 65, Just Like Starting Over 58, Nobody Told Me 61, Watching the Wheels 64, Working Class Hero 70, Wangypong 96, Truth Be Told 77, Jay Clay Trilogy 27 (90 in the calendar grid). Wangypong youth shorts have titles only (no director/country/runtime); titles follow the title index (Wangypong the Movie, Decision Day: The Musical, Green Profile Series: Franceyez, White Walls); the index also spells 'Git Along, Little Dogies' and 'Evolution of War'. The Quiet Life screened both in 5@5: Watching the Wheels and in The Jay Clay Trilogy; merged into one record. Children's FilmFest overview (p17) pairs The Indian with Syawal Was Very Scared and Twigson with The Silk Road, but the film notes pair The Indian with The Silk Road and Twigson with Syawal; the film notes were followed. The Girl Who Kicked the Hornet's Nest entry prints director 'David Alfredson'; the Focus list prints 'Daniel Alfredson', used here. The King's Speech is 'UK 2010' on the Opening Night page but 'UK/Australia 2009' in its film note (note used). My Brothers' second screening is printed Friday Oct 15 6:30 pm with ticket code MYBR16S (calendar shows MYBR15S). Cinemasports intro meeting is Sunday Oct 10 9 am on p51 but Saturday Oct 9 9 am on p52; event records the Oct 10 8 pm public screening. Nuremberg is dated 'US 1948/2009' (film_year 1948). Golf in the Kingdom is billed 'Sneak Preview' (stored in premiere). Hi De Ho Show is a 120-min clip show hosted by John Goddard, kept as a film. Submission is billed North American Premiere in its note but absent from the premieres list. Calendar also lists unnamed TBA slots (Oct 9 12:15 Rafael; Oct 10 7:15 Sequoia; Oct 11 9:30 Sequoia; Oct 16 4:00 and 6:00 Rafael; Oct 17 5:00, 8:30, 7:30 Rafael). The Global Lens titles other than Adrift and Becloud screen after the festival (Oct 18–28) and were not included. No festival staff list is printed (programme-note writers are credited by name only), so staff is empty. Only the four MVFF honorary awards are recorded; other awards mentioned in film notes were won elsewhere."
+}
