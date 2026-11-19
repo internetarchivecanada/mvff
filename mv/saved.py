@@ -27,11 +27,13 @@ def main():
         u, s, ts, msg = (line.split("\t") + [""])[:4]
         # a refusal because "the same snapshot had been made" minutes earlier means the page is in the archive
         ok = s in ("success", "recent") or (s == "refused" and "same snapshot" in msg)
-        st[u] = {"status": "success" if ok else s, "timestamp": ts, "message": msg[:200] if not ok else ""}
+        gone = s == "error" and "cannot find" in msg          # the live site answers 404: nothing to save
+        st[u] = {"status": "success" if ok else ("not-live" if gone else s), "timestamp": ts,
+                 "message": msg[:200] if not ok else ""}
     res = {u: st.get(u, {"status": "queued", "timestamp": ""}) for u in urls}
     c = Counter(v["status"] for v in res.values())
     summary = {"date": DATE, "sent": len(urls), "success": c.get("success", 0),
-               "failed": c.get("error", 0) + c.get("timeout", 0), "queued": c.get("queued", 0) + c.get("pending", 0),
+               "failed": c.get("error", 0) + c.get("timeout", 0), "not_live": c.get("not-live", 0), "queued": c.get("queued", 0) + c.get("pending", 0),
                "checked": time.strftime("%Y-%m-%d %H:%M")}
     (DATA / "saved.json").write_text(json.dumps({**summary, "urls": res}, indent=0))
     print(summary)

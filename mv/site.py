@@ -476,6 +476,8 @@ cards link to the festival's own scan of that year's programme guide; their film
         if saved:
             body.append(f'<p class="callout">On {escape(saved.get("date", ""))} we sent {saved.get("sent", 0):,} never-archived '
                         f'addresses to Save Page Now: {saved.get("success", 0):,} are now in the Wayback Machine'
+                        + (f', {saved.get("not_live", 0):,} turned out not to exist on the live site (the WordPress '
+                           'director records point to pages that answer 404)' if saved.get("not_live") else "")
                         + (f', {saved.get("failed", 0):,} could not be captured' if saved.get("failed") else "")
                         + (f' and {saved.get("queued", 0):,} were still waiting when this page was built ({escape(saved.get("checked", ""))})'
                            if saved.get("queued") else "") + ".</p>")
