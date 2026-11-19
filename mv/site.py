@@ -57,6 +57,13 @@ class Site:
         self.inv = json.load(open(inv)) if inv.exists() else []
         sv = DATA / "saved.json"
         self.saved = json.load(open(sv)) if sv.exists() else {}
+        self.watch = {}
+        wf = DATA / "watch.tsv"
+        if wf.exists():
+            for line in wf.read_text().splitlines():
+                if line.strip() and not line.startswith("#"):
+                    fid, url, label = (line.split("\t") + ["", ""])[:3]
+                    self.watch[fid] = (url, label or "the web")
         po = DATA / "posters.json"
         self.posters = {k: v for k, v in (json.load(open(po)) if po.exists() else {}).items()
                         if v.get("img") and k in self.F and (ROOT / "assets" / v["img"]).exists()}
@@ -324,6 +331,9 @@ cards link to the festival's own scan of that year's programme guide; their film
             summary = f'<h3>{label}</h3><p class="lede">{escape(f["summary"])}</p>'
         if fid in self.posters:
             src.append(self.poster_credit(fid))
+        if fid in self.watch:
+            url, label = self.watch[fid]
+            summary += (f'<p class="callout"><a href="{escape(url)}"><b>Watch the film</b></a> at {escape(label)}.</p>')
         po = self.poster(fid, "../", "poster big")
         body = (f'<p class="crumbs"><a href="../years/{f["year"]}.html">{f["year"]} ({ordinal(e["edition"])} festival)</a></p>'
                 f'<div class="fhead{" withposter" if po else ""}">{po}<div>'
