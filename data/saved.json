@@ -1,11 +1,11 @@
 {
 "date": "18 November 2026",
 "sent": 581,
-"success": 311,
+"success": 326,
 "failed": 13,
 "not_live": 242,
-"queued": 15,
-"checked": "2026-11-18 17:15",
+"queued": 0,
+"checked": "2026-11-18 17:19",
 "urls": {
 "https://app.mvff.com/film/2392-miles": {
 "status": "success",
@@ -2248,78 +2248,78 @@
 "message": ""
 },
 "https://www.mvff.com/wp-content/uploads/2023/11/09.11.23_Closing-Night_MAESTRO-Final.pdf": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261119011700",
 "message": ""
 },
 "https://www.mvff.com/wp-content/uploads/2023/11/09.08.23_Full-Film-Lineup-Final.pdf": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261119011621",
 "message": ""
 },
 "https://www.mvff.com/wp-content/uploads/2023/09/08.25.23__MVFF46-Documentaries.pdf": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261119011658",
 "message": ""
 },
 "https://www.mvff.com/wp-content/uploads/2020/08/Release_ALL-IN_MVFF43-TFF-FINAL_08.25-1.pdf": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261119011641",
 "message": ""
 },
 "https://www.mvff.com/wp-content/uploads/2020/08/Release_ALL-IN_MVFF43-TFF-FINAL_08.25.pdf": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261119011637",
 "message": ""
 },
 "https://www.mvff.com/wp-content/uploads/2019/06/2019_Programming-NewHireAnnouncement_Final-for-Public.pdf": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261119011620",
 "message": ""
 },
 "https://www.mvff.com/wp-content/uploads/2019/06/2019-Mind-the-Gap-Summit_Final-For-Public.pdf": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261119011621",
 "message": ""
 },
 "https://www.mvff.com/wp-content/uploads/2018/09/Wildlife_Press-Release_FINAL_08-09-18.pdf": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261119011626",
 "message": ""
 },
 "https://www.mvff.com/wp-content/uploads/2018/09/Centerpiece_Roma_Final_08-31-18.pdf": {
-"status": "pending",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261119011555",
 "message": ""
 },
 "https://www.mvff.com/wp-content/uploads/2018/09/Press-Conference_TKTscrng_Invite_FINAL.pdf": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261119011614",
 "message": ""
 },
 "https://www.mvff.com/wp-content/uploads/2017/09/MVFF40FilmSchedule-lorez.pdf": {
-"status": "pending",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261119011533",
 "message": ""
 },
 "https://www.mvff.com/wp-content/uploads/2017/08/08-16-17_MVFF40-Music_RoyRogers_ThirdMind_Butterfield.pdf": {
-"status": "pending",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261119011535",
 "message": ""
 },
 "https://www.mvff.com/wp-content/uploads/2017/08/08-15-17_Music_RoyRogers_ThirdMind_Butterfield.pdf": {
-"status": "pending",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261119011537",
 "message": ""
 },
 "https://www.mvff.com/wp-content/uploads/2017/08/08-11-17_PressConference_SaveTheDate_FINAL.pdf": {
-"status": "pending",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261119011521",
 "message": ""
 },
 "https://www.mvff.com/wp-content/uploads/2017/08/08-08-17_Wonderstruck-Announcement-FINAL.pdf": {
-"status": "pending",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261119011514",
 "message": ""
 },
 "https://www.mvff.com/wp-content/uploads/2017/08/02-23-17_Call4Entries_FINAL.pdf": {
