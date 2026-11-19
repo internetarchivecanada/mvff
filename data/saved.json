@@ -1,10 +1,10 @@
 {
 "date": "18 November 2026",
 "sent": 581,
-"success": 117,
-"failed": 0,
-"queued": 464,
-"checked": "2026-11-18 15:45",
+"success": 174,
+"failed": 11,
+"queued": 396,
+"checked": "2026-11-18 16:08",
 "urls": {
 "https://app.mvff.com/film/2392-miles": {
 "status": "success",
@@ -487,293 +487,293 @@
 "message": ""
 },
 "https://app.mvff.com/film/sad-girlz": {
-"status": "pending",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118234542",
 "message": ""
 },
 "https://app.mvff.com/film/scissors": {
-"status": "pending",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118234622",
 "message": ""
 },
 "https://app.mvff.com/film/scouts-honor": {
-"status": "pending",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118234645",
 "message": ""
 },
 "https://app.mvff.com/film/seagull-coffee": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118234558",
 "message": ""
 },
 "https://app.mvff.com/film/secret-screening": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118234608",
 "message": ""
 },
 "https://app.mvff.com/film/self-titled": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118234615",
 "message": ""
 },
 "https://app.mvff.com/film/shorts-all-the-young-punks": {
-"status": "queued",
+"status": "error",
 "timestamp": "",
-"message": ""
+"message": "The target server could not understand the request due to invalid syntax. https://app.mvff.com/film/shorts-all-the-young-punks. (HTTP status=400)"
 },
 "https://app.mvff.com/film/shorts-award-program": {
-"status": "queued",
+"status": "error",
 "timestamp": "",
-"message": ""
+"message": "The target server could not understand the request due to invalid syntax. https://app.mvff.com/film/shorts-award-program. (HTTP status=400)"
 },
 "https://app.mvff.com/film/shorts-city-of-the-dead": {
-"status": "queued",
+"status": "error",
 "timestamp": "",
-"message": ""
+"message": "The target server could not understand the request due to invalid syntax. https://app.mvff.com/film/shorts-city-of-the-dead. (HTTP status=400)"
 },
 "https://app.mvff.com/film/shorts-college-animation-showcase-1": {
-"status": "queued",
+"status": "error",
 "timestamp": "",
-"message": ""
+"message": "The target server could not understand the request due to invalid syntax. https://app.mvff.com/film/shorts-college-animation-showcase-1. (HTTP status=400)"
 },
 "https://app.mvff.com/film/shorts-college-animation-showcase-2": {
-"status": "queued",
+"status": "error",
 "timestamp": "",
-"message": ""
+"message": "The target server could not understand the request due to invalid syntax. https://app.mvff.com/film/shorts-college-animation-showcase-2. (HTTP status=400)"
 },
 "https://app.mvff.com/film/shorts-if-music-could-talk": {
-"status": "queued",
+"status": "error",
 "timestamp": "",
-"message": ""
+"message": "The target server could not understand the request due to invalid syntax. https://app.mvff.com/film/shorts-if-music-could-talk. (HTTP status=400)"
 },
 "https://app.mvff.com/film/shorts-lets-go-crazy": {
-"status": "queued",
+"status": "error",
 "timestamp": "",
-"message": ""
+"message": "The target server could not understand the request due to invalid syntax. https://app.mvff.com/film/shorts-lets-go-crazy. (HTTP status=400)"
 },
 "https://app.mvff.com/film/shorts-remote-control": {
-"status": "queued",
+"status": "error",
 "timestamp": "",
-"message": ""
+"message": "The target server could not understand the request due to invalid syntax. https://app.mvff.com/film/shorts-remote-control. (HTTP status=400)"
 },
 "https://app.mvff.com/film/shorts-stay-free": {
-"status": "queued",
+"status": "error",
 "timestamp": "",
-"message": ""
+"message": "The target server could not understand the request due to invalid syntax. https://app.mvff.com/film/shorts-stay-free. (HTTP status=400)"
 },
 "https://app.mvff.com/film/shorts-whats-my-name": {
-"status": "queued",
+"status": "error",
 "timestamp": "",
-"message": ""
+"message": "The target server could not understand the request due to invalid syntax. https://app.mvff.com/film/shorts-whats-my-name. (HTTP status=400)"
 },
 "https://app.mvff.com/film/silly-little-plastic-cat": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118234953",
 "message": ""
 },
 "https://app.mvff.com/film/splish-splash-forever": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118234959",
 "message": ""
 },
 "https://app.mvff.com/film/stand-alone": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118234925",
 "message": ""
 },
 "https://app.mvff.com/film/sticker": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118234946",
 "message": ""
 },
 "https://app.mvff.com/film/storybook-apocalypse-or-the-ships-cat": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118234951",
 "message": ""
 },
 "https://app.mvff.com/film/street-smart": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118235042",
 "message": ""
 },
 "https://app.mvff.com/film/superspice": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118235008",
 "message": ""
 },
 "https://app.mvff.com/film/swimming-the-colorado-naked": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118235010",
 "message": ""
 },
 "https://app.mvff.com/film/swing-swish-sway": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118235018",
 "message": ""
 },
 "https://app.mvff.com/film/the-a-word-the-future-of-aging": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118235223",
 "message": ""
 },
 "https://app.mvff.com/film/the-doctor-and-the-floating-bridge": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118235502",
 "message": ""
 },
 "https://app.mvff.com/film/the-doll": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118235502",
 "message": ""
 },
 "https://app.mvff.com/film/the-high-kings-daughter": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118235506",
 "message": ""
 },
 "https://app.mvff.com/film/the-last-place-on-earth": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118235615",
 "message": ""
 },
 "https://app.mvff.com/film/the-liberation": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118235510",
 "message": ""
 },
 "https://app.mvff.com/film/the-life-and-deaths-of-wilson-shedd": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118235515",
 "message": ""
 },
 "https://app.mvff.com/film/the-meltdown": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118235727",
 "message": ""
 },
 "https://app.mvff.com/film/the-only-living-pickpocket-in-new-york": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118235733",
 "message": ""
 },
 "https://app.mvff.com/film/the-shoe-thief": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118235739",
 "message": ""
 },
 "https://app.mvff.com/film/the-spanish-lesson": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118235800",
 "message": ""
 },
 "https://app.mvff.com/film/the-white-elephant": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118235749",
 "message": ""
 },
 "https://app.mvff.com/film/these-are-totally-real-animals": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118235759",
 "message": ""
 },
 "https://app.mvff.com/film/this-is-not-an-emergency": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261118235835",
 "message": ""
 },
 "https://app.mvff.com/film/three-billboards-outside-ebbing-missouri": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261119000031",
 "message": ""
 },
 "https://app.mvff.com/film/threeasfour-full-circle": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261119000021",
 "message": ""
 },
 "https://app.mvff.com/film/to-be-loved": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261119000033",
 "message": ""
 },
 "https://app.mvff.com/film/together-apart": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261119000016",
 "message": ""
 },
 "https://app.mvff.com/film/tribute-linda-perry": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261119000023",
 "message": ""
 },
 "https://app.mvff.com/film/tribute-sam-rockwell": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261119000007",
 "message": ""
 },
 "https://app.mvff.com/film/tte-tte": {
-"status": "queued",
+"status": "pending",
 "timestamp": "",
 "message": ""
 },
 "https://app.mvff.com/film/until-we-meet-again": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261119000027",
 "message": ""
 },
 "https://app.mvff.com/film/we-are-all-strangers": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261119000102",
 "message": ""
 },
 "https://app.mvff.com/film/we-are-the-land": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261119000117",
 "message": ""
 },
 "https://app.mvff.com/film/when-you-give-a-cat-a-lemon": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261119000130",
 "message": ""
 },
 "https://app.mvff.com/film/wild-east": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261119000129",
 "message": ""
 },
 "https://app.mvff.com/film/windward": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261119000344",
 "message": ""
 },
 "https://www.cafilm.org/wp-content/uploads/2018/06/2016-CFI-AFS.pdf": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261119000345",
 "message": ""
 },
 "https://www.cafilm.org/wp-content/uploads/2017/05/the_fencer_presskit_03b_web.pdf": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261119000339",
 "message": ""
 },
 "https://www.cafilm.org/wp-content/uploads/2017/05/the_fencer_presskit_digi_web-1.pdf": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261119000351",
 "message": ""
 },
 "https://www.cafilm.org/wp-content/uploads/2017/05/the_fencer_presskit_digi_web.pdf": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261119000343",
 "message": ""
 },
 "https://www.cafilm.org/wp-content/uploads/2017/05/TheFencer_PressNotes_web.pdf": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261119000346",
 "message": ""
 },
 "https://www.cafilm.org/wp-content/uploads/2014/09/MVFF37_FilmSchedule_sm.pdf": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261119000337",
 "message": ""
 },
 "https://www.mvff.com/events/laha-mebow/": {
@@ -842,7 +842,7 @@
 "message": ""
 },
 "https://www.mvff.com/events/34729/": {
-"status": "queued",
+"status": "pending",
 "timestamp": "",
 "message": ""
 },
@@ -917,7 +917,7 @@
 "message": ""
 },
 "https://www.mvff.com/events/abbie-perrault/": {
-"status": "queued",
+"status": "pending",
 "timestamp": "",
 "message": ""
 },
@@ -1092,9 +1092,9 @@
 "message": ""
 },
 "https://www.mvff.com/events/34668/": {
-"status": "queued",
+"status": "error",
 "timestamp": "",
-"message": ""
+"message": "The target server cannot find https://www.mvff.com/events/34668/. (HTTP status=404)"
 },
 "https://www.mvff.com/events/loren-waters/": {
 "status": "queued",
@@ -1172,7 +1172,7 @@
 "message": ""
 },
 "https://www.mvff.com/events/alex-hedison/": {
-"status": "queued",
+"status": "pending",
 "timestamp": "",
 "message": ""
 },
@@ -1512,7 +1512,7 @@
 "message": ""
 },
 "https://www.mvff.com/events/agathe-riedinger/": {
-"status": "queued",
+"status": "pending",
 "timestamp": "",
 "message": ""
 },
@@ -1527,7 +1527,7 @@
 "message": ""
 },
 "https://www.mvff.com/events/adam-elliot/": {
-"status": "queued",
+"status": "pending",
 "timestamp": "",
 "message": ""
 },
@@ -1812,12 +1812,12 @@
 "message": ""
 },
 "https://www.mvff.com/events/adam-hobbs/": {
-"status": "queued",
+"status": "pending",
 "timestamp": "",
 "message": ""
 },
 "https://www.mvff.com/events/alex-massey/": {
-"status": "queued",
+"status": "pending",
 "timestamp": "",
 "message": ""
 },
@@ -2637,23 +2637,23 @@
 "message": ""
 },
 "https://www.mvff.com/0026-splash/": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261119000458",
 "message": ""
 },
 "https://www.mvff.com/0026-eb-splash/": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261119000357",
 "message": ""
 },
 "https://www.mvff.com/0026-eb-test/": {
-"status": "queued",
+"status": "pending",
 "timestamp": "",
 "message": ""
 },
 "https://www.mvff.com/0-mvff49-c4e-splash/": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261119000342",
 "message": ""
 },
 "https://www.mvff.com/volunteer-photo-team-interest-form/": {
@@ -2677,8 +2677,8 @@
 "message": ""
 },
 "https://www.mvff.com/2024-splash/": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261119000457",
 "message": ""
 },
 "https://www.mvff.com/vote-og/": {
@@ -2687,23 +2687,23 @@
 "message": ""
 },
 "https://www.mvff.com/25-home/": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261119000452",
 "message": ""
 },
 "https://www.mvff.com/2024-home/": {
-"status": "queued",
+"status": "pending",
 "timestamp": "",
 "message": ""
 },
 "https://www.mvff.com/2023-home/": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261119000451",
 "message": ""
 },
 "https://www.mvff.com/2023-early-splash/": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261119000502",
 "message": ""
 },
 "https://www.mvff.com/mvff45/": {
@@ -2732,8 +2732,8 @@
 "message": ""
 },
 "https://www.mvff.com/44-test-6/": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261119000457",
 "message": ""
 },
 "https://www.mvff.com/strand-test/": {
@@ -2757,8 +2757,8 @@
 "message": ""
 },
 "https://www.mvff.com/donation-code-test/": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261119000611",
 "message": ""
 },
 "https://www.mvff.com/splash-test/": {
@@ -2792,8 +2792,8 @@
 "message": ""
 },
 "https://www.mvff.com/active-cinema-mvff43/": {
-"status": "queued",
-"timestamp": "",
+"status": "success",
+"timestamp": "20261119000511",
 "message": ""
 },
 "https://www.mvff.com/family-mvff43/": {
