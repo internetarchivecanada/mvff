@@ -1,0 +1,586 @@
+[
+ {
+  "id": "2004-head-on",
+  "title": "Head-On",
+  "image_url": "https://upload.wikimedia.org/wikipedia/en/5/52/Gegen_die_Wand_%282004%29.jpg",
+  "page_url": "https://en.wikipedia.org/wiki/Head-On_(film)",
+  "source": "English Wikipedia",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "German theatrical poster; small (265 px, non-free file)"
+ },
+ {
+  "id": "2021-the-hand-of-god-e-stata-la-mano-di-dio",
+  "title": "THE HAND OF GOD (È stata la mano di Dio)",
+  "image_url": "https://upload.wikimedia.org/wikipedia/en/4/4c/The_Hand_of_God_%282021%29_film_poster.jpg",
+  "page_url": "https://en.wikipedia.org/wiki/The_Hand_of_God_(film)",
+  "source": "English Wikipedia",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Italian poster; small (220 px)"
+ },
+ {
+  "id": "2022-one-fine-morning-un-beau-matin",
+  "title": "One Fine Morning (un Beau Matin)",
+  "image_url": "https://upload.wikimedia.org/wikipedia/en/5/5f/Un_beau_matin_affiche.jpg",
+  "page_url": "https://en.wikipedia.org/wiki/One_Fine_Morning_(film)",
+  "source": "English Wikipedia",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "French poster; small (264 px)"
+ },
+ {
+  "id": "2009-hipsters",
+  "title": "Hipsters",
+  "image_url": "https://upload.wikimedia.org/wikipedia/en/3/37/Stilyagi_%28film%29.jpg",
+  "page_url": "https://en.wikipedia.org/wiki/Hipsters_(film)",
+  "source": "English Wikipedia",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Ukrainian-release poster (Cyrillic title Stilyagi)"
+ },
+ {
+  "id": "2004-black-mor-s-island",
+  "title": "Black Mór's Island",
+  "image_url": "https://upload.wikimedia.org/wikipedia/en/1/12/L%27ile_de_Black_M%C3%B3r%2C_cover.png",
+  "page_url": "https://en.wikipedia.org/wiki/Black_Mor%27s_Island",
+  "source": "English Wikipedia",
+  "kind": "key art",
+  "confidence": "medium",
+  "note": "French DVD cover with 'DVD video' logo, not the theatrical one-sheet"
+ },
+ {
+  "id": "2002-the-lover",
+  "title": "The Lover",
+  "image_url": "https://upload.wikimedia.org/wikipedia/ru/1/1b/%D0%9B%D1%8E%D0%B1%D0%BE%D0%B2%D0%BD%D0%B8%D0%BA_01.jpg",
+  "page_url": "https://ru.wikipedia.org/wiki/Любовник_(фильм,_2002)",
+  "source": "Russian Wikipedia",
+  "kind": "key art",
+  "confidence": "medium",
+  "note": "Russian DVD cover (DVD logo on art)"
+ },
+ {
+  "id": "2024-malu",
+  "title": "Malu",
+  "image_url": "https://upload.wikimedia.org/wikipedia/pt/e/ec/Malu_%28filme%29.jpg",
+  "page_url": "https://pt.wikipedia.org/wiki/Malu_(filme)",
+  "source": "Portuguese Wikipedia",
+  "kind": "poster",
+  "confidence": "high"
+ },
+ {
+  "id": "2026-amarga-navidad",
+  "title": "Amarga Navidad",
+  "image_url": "https://www.ecartelera.com/carteles/19200/19264/001.jpg",
+  "page_url": "https://www.ecartelera.com/peliculas/amarga-navidad/",
+  "source": "eCartelera",
+  "kind": "poster",
+  "confidence": "high"
+ },
+ {
+  "id": "2026-my-undesirable-friends-part-ii-exile",
+  "title": "My Undesirable Friends: Part II – Exile",
+  "image_url": "https://thefilmstage.com/wp-content/uploads/2026/09/My-Undesirable-Friends-Part-II-Exile-Poster-1-768x1138.jpg",
+  "page_url": "https://thefilmstage.com/julia-loktevs-landmark-documentary-continues-in-trailer-for-my-undesirable-friends-part-ii-exile/",
+  "source": "The Film Stage",
+  "kind": "poster",
+  "confidence": "high"
+ },
+ {
+  "id": "2008-slumdog-millionaire",
+  "title": "Slumdog Millionaire",
+  "image_url": "https://d32qys9a6wm9no.cloudfront.net/images/movies/poster/85/a962712a15b1888b86680e0ef8d8663a_original.jpg",
+  "page_url": "https://www.flicks.com.au/movie/slumdog-millionaire/",
+  "source": "Flicks",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Original one-sheet (running figures, lowercase title). en.wikipedia has only a landscape quad"
+ },
+ {
+  "id": "2026-the-disciple",
+  "title": "The Disciple",
+  "image_url": "https://d32qys9a6wm9no.cloudfront.net/images/movies/poster/VRkNXnsgcGf6ckKOQxW1q2R6yQ5JUVKW_original.jpg",
+  "page_url": "https://www.flicks.com.au/movie/the-disciple-a-wu-tang-fable/",
+  "source": "Flicks",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Released as The Disciple: A Wu-Tang Fable (Netflix). en.wikipedia poster: https://upload.wikimedia.org/wikipedia/en/8/8f/The_Disciple_poster.jpg"
+ },
+ {
+  "id": "2026-your-mother-your-mother-your-mother",
+  "title": "Your Mother Your Mother Your Mother",
+  "image_url": "https://d32qys9a6wm9no.cloudfront.net/images/movies/poster/Qq4SCqY9TLJk2cVNrAAjShGZ1CQJx89A_original.jpg",
+  "page_url": "https://www.flicks.com.au/movie/your-mother-your-mother-your-mother/",
+  "source": "Flicks",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Also on en.wikipedia (Your_Mother_Your_Mother_Your_Mother)"
+ },
+ {
+  "id": "2023-skin-of-glass",
+  "title": "Skin of Glass",
+  "image_url": "https://d32qys9a6wm9no.cloudfront.net/images/movies/poster/19/0a2fcf9cd258e8474dd42ddcce368b76_original.jpg",
+  "page_url": "https://www.flicks.com.au/movie/skin-of-glass/",
+  "source": "Flicks",
+  "kind": "poster",
+  "confidence": "high"
+ },
+ {
+  "id": "2026-closure",
+  "title": "Closure",
+  "image_url": "https://d32qys9a6wm9no.cloudfront.net/images/movies/poster/RZRglqjAAIYh66twJM7uVg9SthdsZI3G_original.jpg",
+  "page_url": "https://www.flicks.com.au/movie/closure/",
+  "source": "Flicks",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Same art also at Kinoafisha (smaller)"
+ },
+ {
+  "id": "2010-mr-bjarnfredarson",
+  "title": "Mr. Bjarnfredarson",
+  "image_url": "https://upload.wikimedia.org/wikipedia/en/4/46/Bjarnfre%C3%B0arson.jpg",
+  "page_url": "https://en.wikipedia.org/wiki/Bjarnfre%C3%B0arson",
+  "source": "English Wikipedia",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Icelandic poster; small (260 px)"
+ },
+ {
+  "id": "2005-my-nikifor",
+  "title": "My Nikifor",
+  "image_url": "https://fwcdn.pl/fpo/05/40/110540/6929276_1.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/M%C3%B3j+Nikifor-2004-110540",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Polish theatrical poster (Mój Nikifor)"
+ },
+ {
+  "id": "2010-journey-from-zanskar",
+  "title": "Journey from Zanskar",
+  "image_url": "https://d32qys9a6wm9no.cloudfront.net/images/movies/poster/6WaT4VKhgdhFPo4RMtrUDH8KE6wtDUFa_original.jpg",
+  "page_url": "https://www.flicks.com.au/movie/journey-from-zanskar/",
+  "source": "Flicks",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Subtitle: a monk's vow to children; narrated by Richard Gere"
+ },
+ {
+  "id": "2021-born-in-chicago",
+  "title": "Born in Chicago",
+  "image_url": "https://ravinfilms.com/wp-content/uploads/2020/10/USE-FOR-WEB-BIC-Poster-Art.png",
+  "page_url": "https://ravinfilms.com/projects/",
+  "source": "Ravin' Films (production company)",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Credits: directed by Bob Sarles and John Anderson"
+ },
+ {
+  "id": "2021-like-a-rolling-stone-the-life-and-times-of-ben-fong-torres",
+  "title": "Like a Rolling Stone: the Life and Times of Ben Fong-torres",
+  "image_url": "https://resizing.flixster.com/B4ahj7Z_lgbgONNHgnOUWBpP9-0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzkxMjAyYmY3LTEyNjYtNDU3OC05MjllLTU0NjkzNDkzNzVlNi5qcGc=",
+  "page_url": "https://www.rottentomatoes.com/m/like_a_rolling_stone_the_life_and_times_of_ben_fong_torres",
+  "source": "Rotten Tomatoes",
+  "kind": "poster",
+  "confidence": "high"
+ },
+ {
+  "id": "2022-erins-guide-to-kissing-girls",
+  "title": "Erin’s Guide to Kissing Girls",
+  "image_url": "https://resizing.flixster.com/awv64oJkTv4Sx0P0_fJqdAncCkk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzFhMjA0OGY5LWEzZGItNDA5ZS05NDk4LWY4ZGYxOWY3MmJkMC5qcGc=",
+  "page_url": "https://www.rottentomatoes.com/m/erins_guide_to_kissing_girls",
+  "source": "Rotten Tomatoes",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "large file (2025 px wide)"
+ },
+ {
+  "id": "2024-democracy-noir",
+  "title": "Democracy Noir",
+  "image_url": "https://resizing.flixster.com/g86tnNbF109kvyd-LyiHwcbLAm8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzkyMDMwM2ZkLWFjY2ItNDYxMy04Y2IwLWU1ZWFhOTEzZGM0Yy5wbmc=",
+  "page_url": "https://www.rottentomatoes.com/m/democracy_noir",
+  "source": "Rotten Tomatoes",
+  "kind": "poster",
+  "confidence": "high"
+ },
+ {
+  "id": "2025-forever-young",
+  "title": "Forever Young",
+  "image_url": "https://resizing.flixster.com/ASKtdRX_Y8NYbhHli6VFyZnxvFQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzFmZTk1NjA1LTUxZDEtNDQ3OS1iNTU1LTM3ZjA0ZjExOGMwMy5qcGc=",
+  "page_url": "https://www.rottentomatoes.com/m/forever_young_2025",
+  "source": "Rotten Tomatoes",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "'Written and directed by David Donnelly' on art; large file (2550 px)"
+ },
+ {
+  "id": "2025-steve-schapiro-being-everywhere",
+  "title": "Steve Schapiro: Being Everywhere",
+  "image_url": "https://resizing.flixster.com/mTyU9wEs6meXdgOKrEmKI3ihcbA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzA4ODJjZWVlLTUxZjUtNGJjMi04NGY1LTM2MDY4NWY4OGQ4YS5qcGc=",
+  "page_url": "https://www.rottentomatoes.com/m/steve_schapiro_being_everywhere",
+  "source": "Rotten Tomatoes",
+  "kind": "poster",
+  "confidence": "high"
+ },
+ {
+  "id": "2026-jail-time-records",
+  "title": "Jail Time Records",
+  "image_url": "https://resizing.flixster.com/2lC0V_TAvqUR62WhjUaA4Emualo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzEzYzYzOTIxLWQ5NGItNDA5OC1hNzYwLWQ1OGIxYzk3ZWU4Yy5qcGc=",
+  "page_url": "https://www.rottentomatoes.com/m/jail_time_records",
+  "source": "Rotten Tomatoes",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "large file (3071 px); co-directed with Steve Happi"
+ },
+ {
+  "id": "2001-making-metamorphosis",
+  "title": "Making Metamorphosis",
+  "image_url": "https://fwcdn.pl/fpo/03/86/320386/7099512_3.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Making+Metamorphosis-2001-320386",
+  "source": "Filmweb",
+  "kind": "key art",
+  "confidence": "medium",
+  "note": "tiny (140 px); title visible"
+ },
+ {
+  "id": "2001-ram-dass-fierce-grace",
+  "title": "Ram Dass Fierce Grace",
+  "image_url": "https://fwcdn.pl/fpo/25/98/202598/7349324_1.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Ram+Dass%2C+Fierce+Grace-2001-202598",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high"
+ },
+ {
+  "id": "2001-te-amo-made-in-chile",
+  "title": "Te Amo (Made in Chile)",
+  "image_url": "https://fwcdn.pl/fpo/63/03/306303/7062031_3.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Te+amo+%28made+in+Chile%29-2001-306303",
+  "source": "Filmweb",
+  "kind": "key art",
+  "confidence": "medium",
+  "note": "tiny (140 px); appears to be a home-video cover"
+ },
+ {
+  "id": "2002-afghan-stories",
+  "title": "Afghan Stories",
+  "image_url": "https://fwcdn.pl/fpo/80/36/228036/7005294_3.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Afghan+Stories-2002-228036",
+  "source": "Filmweb",
+  "kind": "key art",
+  "confidence": "medium",
+  "note": "tiny (140 px)"
+ },
+ {
+  "id": "2002-new-suit",
+  "title": "New Suit",
+  "image_url": "https://fwcdn.pl/fpo/92/11/119211/6915356_1.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Nowa+szata-2002-119211",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high"
+ },
+ {
+  "id": "2003-my-first-miracle",
+  "title": "My First Miracle",
+  "image_url": "https://fwcdn.pl/fpo/85/24/188524/7004655_3.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Mein+erstes+Wunder-2002-188524",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "medium",
+  "note": "tiny (140 px) German poster; title text not legible at this size, matched by director Anne Wild and year 2002"
+ },
+ {
+  "id": "2003-the-tenth-summer",
+  "title": "The Tenth Summer",
+  "image_url": "https://fwcdn.pl/fpo/20/58/262058/7088533_3.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Dziesi%C4%85te+lato-2003-262058",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "tiny (140 px)"
+ },
+ {
+  "id": "2004-death-texas",
+  "title": "Death & Texas",
+  "image_url": "https://fwcdn.pl/fpo/31/66/143166/6942914_5.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Death+And+Texas-2004-143166",
+  "source": "Filmweb",
+  "kind": "key art",
+  "confidence": "medium",
+  "note": "tiny (140 px); likely DVD cover"
+ },
+ {
+  "id": "2004-stella-street",
+  "title": "Stella Street",
+  "image_url": "https://fwcdn.pl/fpo/84/28/138428/6979120_3.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Stella+Street-2004-138428",
+  "source": "Filmweb",
+  "kind": "key art",
+  "confidence": "medium",
+  "note": "tiny (140 px); UK DVD cover"
+ },
+ {
+  "id": "2004-unknown-soldier",
+  "title": "Unknown Soldier",
+  "image_url": "https://fwcdn.pl/fpo/03/18/190318/7586169_1.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Nieznany+%C5%BCo%C5%82nierz-2004-190318",
+  "source": "Filmweb",
+  "kind": "key art",
+  "confidence": "medium",
+  "note": "DVD cover"
+ },
+ {
+  "id": "2005-hidden-flaws",
+  "title": "Hidden Flaws",
+  "image_url": "https://fwcdn.pl/fpo/63/19/226319/7021014_2.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Verborgen+gebreken-2004-226319",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Dutch poster (Verborgen gebreken)"
+ },
+ {
+  "id": "2005-the-sleeping-child",
+  "title": "The Sleeping Child",
+  "image_url": "https://fwcdn.pl/fpo/92/42/209242/7613104_2.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/U%C5%9Bpione+dziecko-2004-209242",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Polish release poster (Uśpione dziecko)"
+ },
+ {
+  "id": "2006-lapislazuli-in-the-eye-of-the-bear",
+  "title": "Lapislazuli: In the Eye of the Bear",
+  "image_url": "https://fwcdn.pl/fpo/65/16/306516/7127750_3.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Oko+nied%C5%BAwiedzicy-2006-306516",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high"
+ },
+ {
+  "id": "2006-starfish-hotel",
+  "title": "Starfish Hotel",
+  "image_url": "https://fwcdn.pl/fpo/60/24/306024/7187998_2.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Hotel+Starfish-2006-306024",
+  "source": "Filmweb",
+  "kind": "key art",
+  "confidence": "medium",
+  "note": "Polish DVD cover (Hotel Starfish)"
+ },
+ {
+  "id": "2007-a-guest-of-life",
+  "title": "A Guest of Life",
+  "image_url": "https://fwcdn.pl/fpo/35/12/353512/7198409_2.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Go%C5%9B%C4%87+%C5%BCycia-2006-353512",
+  "source": "Filmweb",
+  "kind": "key art",
+  "confidence": "medium",
+  "note": "Hungarian home-video cover with soundtrack-CD sticker"
+ },
+ {
+  "id": "2007-iron-ladies-of-liberia",
+  "title": "Iron Ladies of Liberia",
+  "image_url": "https://fwcdn.pl/fpo/78/82/477882/7242212_1.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/%C5%BBelazne+damy+Liberii-2007-477882",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high"
+ },
+ {
+  "id": "2007-luna-spirit-of-the-whale",
+  "title": "Luna: Spirit of the Whale",
+  "image_url": "https://fwcdn.pl/fpo/89/64/438964/7265796_2.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Luna%3A+Spirit+of+the+Whale-2007-438964",
+  "source": "Filmweb",
+  "kind": "key art",
+  "confidence": "medium",
+  "note": "TV movie; DVD-style cover"
+ },
+ {
+  "id": "2007-warchild",
+  "title": "Warchild",
+  "image_url": "https://fwcdn.pl/fpo/67/02/286702/7490584_2.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Warchild-2006-286702",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "German poster (Stille Sehnsucht)"
+ },
+ {
+  "id": "2008-hafez",
+  "title": "Hafez",
+  "image_url": "https://fwcdn.pl/fpo/70/29/477029/7284023_1.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Hafez-2007-477029",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Japanese poster"
+ },
+ {
+  "id": "2008-lifelines",
+  "title": "Lifelines",
+  "image_url": "https://fwcdn.pl/fpo/30/65/463065/7247054_1.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Wherever+You+Are-2008-463065",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high"
+ },
+ {
+  "id": "2008-the-bird-can-t-fly",
+  "title": "The Bird Can't Fly",
+  "image_url": "https://fwcdn.pl/fpo/39/94/403994/7339550_2.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Ptak%2C+kt%C3%B3ry+nie+umie+lata%C4%87-2007-403994",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high"
+ },
+ {
+  "id": "2009-aching-hearts",
+  "title": "Aching Hearts",
+  "image_url": "https://fwcdn.pl/fpo/95/57/469557/7230719_2.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Cierpienia+m%C5%82odych+serc-2009-469557",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Danish poster (Kærestesorger)"
+ },
+ {
+  "id": "2009-tenderloin",
+  "title": "Tenderloin",
+  "image_url": "https://fwcdn.pl/fpo/90/91/499091/7354813_1.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Tenderloin-2009-499091",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high"
+ },
+ {
+  "id": "2011-small-beautifully-moving-parts",
+  "title": "Small, Beautifully Moving Parts",
+  "image_url": "https://fwcdn.pl/fpo/47/35/634735/7446046_1.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Small%2C+Beautifully+Moving+Parts-2011-634735",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high"
+ },
+ {
+  "id": "2011-the-real-rocky",
+  "title": "The Real Rocky",
+  "image_url": "https://fwcdn.pl/fpo/74/10/767410/7775765_2.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/The+Real+Rocky-2011-767410",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "ESPN Films"
+ },
+ {
+  "id": "2023-avenue-of-the-giants",
+  "title": "Avenue of the Giants",
+  "image_url": "https://fwcdn.pl/fpo/46/00/10064600/8150726.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Wyzwolenie-2023-10064600",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Festival-title poster; later released in US as The Optimist"
+ },
+ {
+  "id": "2025-akiko-the-flying-monkey",
+  "title": "Akiko the Flying Monkey",
+  "image_url": "https://fwcdn.pl/fpo/90/02/10059002/8161490.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Akiko.+Lataj%C4%85ca+ma%C5%82pka-2024-10059002",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Polish release poster (Akiko, latająca małpka)"
+ },
+ {
+  "id": "2002-farang-ba",
+  "title": "Farang Ba",
+  "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p19388370_p_v8_aa.jpg",
+  "page_url": "https://www.rottentomatoes.com/m/farang_ba",
+  "source": "Rotten Tomatoes",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Mill Valley laurel on art"
+ },
+ {
+  "id": "2008-all-together-now",
+  "title": "All Together Now",
+  "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3517784_p_v13_aa.jpg",
+  "page_url": "https://www.rottentomatoes.com/m/all_together_now",
+  "source": "Rotten Tomatoes",
+  "kind": "key art",
+  "confidence": "high",
+  "note": "Beatles LOVE / Cirque du Soleil documentary; 3:4 streaming art, large (2160 px)"
+ },
+ {
+  "id": "2009-meredith-monk-inner-voice",
+  "title": "Meredith Monk – Inner Voice",
+  "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3622557_v_v8_aa.jpg",
+  "page_url": "https://www.rottentomatoes.com/m/meredith_monk_inner_voice",
+  "source": "Rotten Tomatoes",
+  "kind": "key art",
+  "confidence": "high",
+  "note": "'a film by Babeth M. VanLoo' on art"
+ },
+ {
+  "id": "2010-cut-poison-burn",
+  "title": "Cut Poison Burn",
+  "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9468017_p_v13_aa.jpg",
+  "page_url": "https://www.rottentomatoes.com/m/cut_poison_burn",
+  "source": "Rotten Tomatoes",
+  "kind": "key art",
+  "confidence": "high",
+  "note": "3:4 art, large (2160 px)"
+ },
+ {
+  "id": "2011-california-state-of-mind-the-legacy-of-pat-brown",
+  "title": "California State of Mind: The Legacy of Pat Brown",
+  "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8913125_p_v8_aa.jpg",
+  "page_url": "https://www.rottentomatoes.com/m/california_state_of_mind_the_legacy_of_pat_brown",
+  "source": "Rotten Tomatoes",
+  "kind": "poster",
+  "confidence": "high"
+ },
+ {
+  "id": "2006-cafe-setareh",
+  "title": "Café Setareh",
+  "image_url": "https://upload.wikimedia.org/wikipedia/fa/b/ba/Cafe_Setareh.jpg",
+  "page_url": "https://fa.wikipedia.org/wiki/کافه_ستاره",
+  "source": "Persian Wikipedia",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Iranian poster, small (270 px)"
+ },
+ {
+  "id": "2011-what-happened-here",
+  "title": "What Happened Here?",
+  "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11193371_p_v7_aa.jpg",
+  "page_url": "https://www.rottentomatoes.com/m/what_happened_here",
+  "source": "Rotten Tomatoes",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Rob Nilsson doc on Trotsky's birthplace"
+ },
+ {
+  "id": "2011-granito-how-to-nail-a-dictator",
+  "title": "Granito: How to Nail a Dictator",
+  "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8600574_p_v10_aa.jpg",
+  "page_url": "https://www.rottentomatoes.com/m/granito",
+  "source": "Rotten Tomatoes",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "large (1536 px)"
+ },
+ {
+  "id": "2004-zohre-and-manouchehr",
+  "title": "Zohre and Manouchehr",
+  "image_url": "https://fwcdn.pl/fpo/78/61/167861/6947086_2.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/x-2004-167861",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "French poster under title 'Tabous - Zohre & Manouchehr', 'un film de Mitra Farahani'"
+ }
+]

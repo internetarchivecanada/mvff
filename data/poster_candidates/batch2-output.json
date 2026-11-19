@@ -1,0 +1,312 @@
+[
+ {
+  "id": "2001-almost-elvis",
+  "title": "Almost Elvis",
+  "image_url": "https://www.7thart.com/wp-content/uploads/2023/10/Almost_Elvis_keyArt.jpg",
+  "page_url": "https://www.7thart.com/?p=323",
+  "source": "7th Art Releasing (distributor)",
+  "kind": "key art",
+  "confidence": "high",
+  "note": "290x435"
+ },
+ {
+  "id": "2001-focus",
+  "title": "Focus",
+  "image_url": "https://upload.wikimedia.org/wikipedia/en/3/3a/Focus_poster.jpg",
+  "page_url": "https://en.wikipedia.org/wiki/Focus_(2001_film)",
+  "source": "English Wikipedia (non-free)",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "259x384 only"
+ },
+ {
+  "id": "2001-under-the-skin-of-the-city",
+  "title": "Under the Skin of the City",
+  "image_url": "https://upload.wikimedia.org/wikipedia/fa/0/0a/Under_the_skin_of_the_city.jpeg",
+  "page_url": "https://fa.wikipedia.org/wiki/%D8%B2%DB%8C%D8%B1_%D9%BE%D9%88%D8%B3%D8%AA_%D8%B4%D9%87%D8%B1",
+  "source": "Persian Wikipedia (non-free)",
+  "kind": "key art",
+  "confidence": "medium",
+  "note": "English-language US release art (may be DVD cover); 200x288"
+ },
+ {
+  "id": "2003-si-gueriki-the-queen-mother",
+  "title": "Si-Guériki, the Queen Mother",
+  "image_url": "https://fr.web.img3.acsta.net/medias/nmedia/18/35/05/70/afte.jpg",
+  "page_url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=50430.html",
+  "source": "AlloCiné",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "French poster; only 120x160"
+ },
+ {
+  "id": "2003-the-island",
+  "title": "The Island",
+  "image_url": "https://pad.mymovies.it/filmclub/2003/05/060/locandina.jpg",
+  "page_url": "https://www.mymovies.it/film/2003/lisola/",
+  "source": "MYmovies.it",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Italian poster, Quatriglio, Cannes 2003; 420x589"
+ },
+ {
+  "id": "2003-tom-dowd-the-language-of-music",
+  "title": "Tom Dowd: The Language of Music",
+  "image_url": "https://upload.wikimedia.org/wikipedia/en/2/2e/Tom_Dowd_%26_the_Language_of_Music.jpg",
+  "page_url": "https://en.wikipedia.org/wiki/Tom_Dowd_%26_the_Language_of_Music",
+  "source": "English Wikipedia (non-free)",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "266x375"
+ },
+ {
+  "id": "2004-moolaade",
+  "title": "Moolaadè",
+  "image_url": "https://fr.web.img4.acsta.net/r_1000_1000/medias/nmedia/18/35/27/85/18409587.jpg",
+  "page_url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=56868.html",
+  "source": "AlloCiné",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "French poster 600x800 (same art as English Wikipedia's 225px copy)"
+ },
+ {
+  "id": "2004-vera-drake",
+  "title": "Vera Drake",
+  "image_url": "https://fr.web.img4.acsta.net/r_1000_1000/medias/nmedia/18/35/40/21/18397931.jpg",
+  "page_url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=57418.html",
+  "source": "AlloCiné",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "French poster, portrait 600x800; English UK quad (landscape, 300px) at https://upload.wikimedia.org/wikipedia/en/4/4a/Veradrakeposter.jpg"
+ },
+ {
+  "id": "2005-the-californians",
+  "title": "The Californians",
+  "image_url": "https://parkerfilmcompany.com/wp-content/uploads/2024/10/TheCaliforniansPoster500X740.jpg",
+  "page_url": "https://parkerfilmcompany.com/the-californians/",
+  "source": "Parker Film Company (director's company)",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "500x740"
+ },
+ {
+  "id": "2008-mommy-is-at-the-hairdresser-s",
+  "title": "Mommy Is at the Hairdresser's",
+  "image_url": "https://fr.web.img6.acsta.net/medias/nmedia/18/96/44/97/20467795.jpg",
+  "page_url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=139149.html",
+  "source": "AlloCiné",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "300x400"
+ },
+ {
+  "id": "2008-the-lost-skeleton-returns-again",
+  "title": "The Lost Skeleton Returns Again",
+  "image_url": "http://web.archive.org/web/20110207132020im_/http://lostskeletonreturnsagain.com/lsra_poster_blurb_sm.jpg",
+  "page_url": "http://web.archive.org/web/20110207132020/http://lostskeletonreturnsagain.com/",
+  "source": "Official site (Wayback)",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Official poster with Variety blurb; 648x771, bottom may be cropped"
+ },
+ {
+  "id": "2009-an-education",
+  "title": "An Education",
+  "image_url": "https://fr.web.img4.acsta.net/r_1000_1000/medias/nmedia/18/71/78/95/19214225.jpg",
+  "page_url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=134179.html",
+  "source": "AlloCiné",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "French poster (Une éducation), portrait 600x800; English UK quad at https://upload.wikimedia.org/wikipedia/en/7/74/Education_ver3.jpg"
+ },
+ {
+  "id": "2009-white-wedding",
+  "title": "White Wedding",
+  "image_url": "https://upload.wikimedia.org/wikipedia/en/f/f0/White_Wedding_2009_Movie_Poster.jpg",
+  "page_url": "https://en.wikipedia.org/wiki/White_Wedding_(2009_film)",
+  "source": "English Wikipedia (non-free)",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "259x385"
+ },
+ {
+  "id": "2010-the-child-prodigy",
+  "title": "The Child Prodigy",
+  "image_url": "https://fr.web.img6.acsta.net/medias/nmedia/18/74/09/42/19409570.jpg",
+  "page_url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=170052.html",
+  "source": "AlloCiné",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Quebec poster; only 120x160"
+ },
+ {
+  "id": "2011-chill-on-the-hill",
+  "title": "Chill on the Hill",
+  "image_url": "https://fr.web.img6.acsta.net/medias/nmedia/18/83/22/53/19671938.jpg",
+  "page_url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=189152.html",
+  "source": "AlloCiné",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Quebec poster; 300x400"
+ },
+ {
+  "id": "2021-celts",
+  "title": "Celts",
+  "image_url": "https://m-appeal.com/media/pages/catalogue/celts/53606195ca-1683634992/a1-poster-celts-a-web.jpg",
+  "page_url": "https://m-appeal.com/catalogue/celts",
+  "source": "m-appeal (sales agent)",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Berlinale Panorama poster; 1695x2400"
+ },
+ {
+  "id": "2021-mission-joy",
+  "title": "Mission: Joy",
+  "image_url": "https://www.thefilmcollaborative.org/films/img/slate_images/missionjoy/missionjoy-web/missionjoy-poster.jpg",
+  "page_url": "https://thefilmcollaborative.org/films/missionjoy",
+  "source": "The Film Collaborative (distributor)",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "1200x1800"
+ },
+ {
+  "id": "2021-the-last-bus",
+  "title": "The Last Bus",
+  "image_url": "https://upload.wikimedia.org/wikipedia/en/c/ca/Last_bus_ver3.jpg",
+  "page_url": "https://en.wikipedia.org/wiki/The_Last_Bus_(2021_film)",
+  "source": "English Wikipedia (non-free)",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "UK poster, small"
+ },
+ {
+  "id": "2022-fantastic-negrito-have-you-lost-your-mind-yet",
+  "title": "Fantastic Negrito: Have You Lost Your Mind Yet?",
+  "image_url": "https://facets.org/wp-content/uploads/2023/05/FantasticNegrito_-600x884.jpg",
+  "page_url": "https://facets.org/?p=13252",
+  "source": "Facets",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "600x884"
+ },
+ {
+  "id": "2022-our-brothers-nos-frangins",
+  "title": "Our Brothers (nos Frangins)",
+  "image_url": "https://fr.web.img4.acsta.net/r_1000_1000/pictures/22/09/21/08/21/3585629.jpg",
+  "page_url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=297464.html",
+  "source": "AlloCiné",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "French poster, Bouchareb 2022 (input film_year 1995 looks wrong); 736x1000"
+ },
+ {
+  "id": "2023-carol-doda-topless-at-the-condor",
+  "title": "Carol Doda Topless at the Condor",
+  "image_url": "https://picturehouse.com/wp-content/uploads/2024/05/CDTATC_1SHEET-665x1024.webp",
+  "page_url": "https://www.picturehouse.com/films/carol-doda-topless-at-the-condor",
+  "source": "Picturehouse (distributor)",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "US one-sheet, 665x1024 WebP"
+ },
+ {
+  "id": "2023-summer-solstice",
+  "title": "Summer Solstice",
+  "image_url": "https://kinolorber.com/media_cache/userFiles/uploads/filmpageposter/SummerSolstice_DVD.jpg",
+  "page_url": "https://kinolorberedu.com/film/summer-solstice",
+  "source": "Kino Lorber Edu",
+  "kind": "key art",
+  "confidence": "medium",
+  "note": "Kino Lorber key art (file named DVD, no packaging visible); 281x398"
+ },
+ {
+  "id": "2024-2073",
+  "title": "2073",
+  "image_url": "https://fr.web.img4.acsta.net/r_1000_1000/img/f8/e6/f8e665222c7a6646e0fbf3a7e6b3c604.jpg",
+  "page_url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000000197.html",
+  "source": "AlloCiné",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "French poster, portrait 675x1000; English UK quad at https://upload.wikimedia.org/wikipedia/en/1/1d/2073_film_poster.jpg"
+ },
+ {
+  "id": "2024-eastern-western",
+  "title": "Eastern Western",
+  "image_url": "https://www.bta.bg/upload/11926102/599464483_2572020409840878_5673763032733764801_n.jpg?l=750",
+  "page_url": "https://www.bta.bg/en/bg-world/1101876--eastern-western-by-bulgarian-born-biliana-marina-grozdanova-to-screen-in-la-",
+  "source": "BTA (Bulgarian News Agency)",
+  "kind": "poster",
+  "confidence": "medium",
+  "note": "Real poster but carries faint BTA watermarks; 506x750"
+ },
+ {
+  "id": "2025-arrest-the-midwife",
+  "title": "Arrest the Midwife",
+  "image_url": "https://gooddocs.net/cdn/shop/files/ATM_POSTER_1MB_620x.jpg",
+  "page_url": "https://gooddocs.net/products/arrest-the-midwife",
+  "source": "Good Docs (distributor)",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "620x916"
+ },
+ {
+  "id": "2025-if-i-had-legs-id-kick-you",
+  "title": "If I Had Legs Id Kick You",
+  "image_url": "https://upload.wikimedia.org/wikipedia/en/0/08/If_I_Had_Legs_I%27d_Kick_You_poster.jpg",
+  "page_url": "https://en.wikipedia.org/wiki/If_I_Had_Legs_I%27d_Kick_You",
+  "source": "English Wikipedia (non-free)",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "258x387"
+ },
+ {
+  "id": "2025-summer-beats",
+  "title": "Summer Beats",
+  "image_url": "https://fr.web.img4.acsta.net/r_1000_1000/img/35/23/35233aa3767ab31d242ec1c3ff34497c.jpg",
+  "page_url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000007387.html",
+  "source": "AlloCiné",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "French title Ma frère (Akoka & Gueret 2025); 680x924"
+ },
+ {
+  "id": "2026-naza",
+  "title": "Naza",
+  "image_url": "https://fr.web.img4.acsta.net/r_1000_1000/img/ca/4d/ca4dc44acd2f28c16b0a489e59ce334e.jpg",
+  "page_url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051082.html",
+  "source": "AlloCiné",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "French poster, portrait 750x1000; English landscape version at https://upload.wikimedia.org/wikipedia/en/0/03/NAZA_poster.jpeg; co-directed by Yuval Abraham"
+ },
+ {
+  "id": "2026-rogue-one-a-star-wars-story",
+  "title": "Rogue One a Star Wars Story",
+  "image_url": "https://upload.wikimedia.org/wikipedia/en/d/d4/Rogue_One%2C_A_Star_Wars_Story_poster.png",
+  "page_url": "https://en.wikipedia.org/wiki/Rogue_One",
+  "source": "English Wikipedia (non-free)",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "film is 2016; 259x384"
+ },
+ {
+  "id": "2026-this-bright-light",
+  "title": "This Bright Light",
+  "image_url": "https://images.squarespace-cdn.com/content/v1/69debb8ad2729579982ad562/18eaef69-4255-466f-83ef-fb635f909114/TBL_Poster27x40_2026-06-04a.jpg?format=750w",
+  "page_url": "https://www.thisbrightlightfilm.com/",
+  "source": "Official site",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "750x1111 (served as WebP at this size; drop ?format for full-size JPEG)"
+ },
+ {
+  "id": "2026-threeasfour-full-circle",
+  "title": "threeASFOUR: FULL CIRCLE",
+  "image_url": "https://images.squarespace-cdn.com/content/v1/6a63d3d624c461106f44003f/f116117b-61d2-4442-adf7-7b97bc33b301/threeASFOUR_POSTER_NOTEXT.jpg?format=750w",
+  "page_url": "https://www.threeasfourfilm.com/",
+  "source": "Official site",
+  "kind": "key art",
+  "confidence": "medium",
+  "note": "Official poster art without title text (file named POSTER_NOTEXT); 750x1111 WebP"
+ }
+]

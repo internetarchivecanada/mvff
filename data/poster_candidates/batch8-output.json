@@ -1,0 +1,441 @@
+[
+ {
+  "id": "2009-looking-for-eric",
+  "title": "Looking for Eric",
+  "image_url": "https://cdn.posteritati.com/posters/000/000/037/655/looking-for-eric-md-web.jpg",
+  "page_url": "https://posteritati.com/poster/39095/looking-for-eric-2009-british-one-sheet-poster",
+  "source": "Posteritati",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "US IFC Films one-sheet (Posteritati labels it British)"
+ },
+ {
+  "id": "2006-the-last-king-of-scotland",
+  "title": "The Last King of Scotland",
+  "image_url": "http://www.impawards.com/2006/posters/last_king_of_scotland_xlg.jpg",
+  "page_url": "http://www.impawards.com/2006/last_king_of_scotland.html",
+  "source": "IMP Awards",
+  "kind": "poster",
+  "confidence": "high"
+ },
+ {
+  "id": "2008-the-betrayal",
+  "title": "The Betrayal",
+  "image_url": "http://www.impawards.com/2008/posters/betrayal_nerakhoon_xlg.jpg",
+  "page_url": "http://www.impawards.com/2008/betrayal_nerakhoon.html",
+  "source": "IMP Awards",
+  "kind": "poster",
+  "confidence": "high"
+ },
+ {
+  "id": "2026-the-debut",
+  "title": "The Debut",
+  "image_url": "http://www.impawards.com/2026/posters/debut_xlg.jpg",
+  "page_url": "http://www.impawards.com/2026/debut.html",
+  "source": "IMP Awards",
+  "kind": "poster",
+  "confidence": "high"
+ },
+ {
+  "id": "2026-musk",
+  "title": "Musk",
+  "image_url": "http://www.impawards.com/2026/posters/musk_xlg.jpg",
+  "page_url": "http://www.impawards.com/2026/musk.html",
+  "source": "IMP Awards",
+  "kind": "poster",
+  "confidence": "high"
+ },
+ {
+  "id": "2003-greendale",
+  "title": "Greendale",
+  "image_url": "http://www.impawards.com/2003/posters/greendale.jpg",
+  "page_url": "http://www.impawards.com/2003/greendale.html",
+  "source": "IMP Awards",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Bernard Shakey is Neil Young; small (337x500)"
+ },
+ {
+  "id": "2026-possible-love",
+  "title": "Possible Love",
+  "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYKsXEWmbwLUA2DyZ0OJ-V8qODM8QC88gfVVPcggt2gyv3uDCkD3idoLJCVnEVV76md96_jkQHOnMIsvbHKFvKdUFrAfvzNYryDyF7pXPNNvtViFMagmwj8-jkqQAX4GTxaa2A_Swy4DDlwUHNfNmQpxEakZJQ3mWXgbutdQaNYcbjOXjzazDyw3nY7iw/s1600/possible-love-poster.jpg",
+  "page_url": "https://www.themoviewaffler.com/2026/08/first-trailer-and-poster-for-lee-chang-dongs-possible-love.html",
+  "source": "The Movie Waffler",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "UK/Netflix one-sheet"
+ },
+ {
+  "id": "2026-isabel",
+  "title": "Isabel",
+  "image_url": "https://www.urbandistrib.com/wp-content/uploads/2025/03/Poster_Isabel.png",
+  "page_url": "https://www.urbandistrib.com/?p=2139",
+  "source": "Urban Distrib (sales agent)",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Berlinale Panorama poster; very large PNG (4051x6000), downscale"
+ },
+ {
+  "id": "2021-lady-buds",
+  "title": "Lady Buds",
+  "image_url": "https://www.cinemaclock.com/images/posters/1000x1500/79/lady-buds-2021-i-movie-poster.jpg",
+  "page_url": "https://www.cinemaclock.com/movies/lady-buds-2021",
+  "source": "Cinemaclock",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "same art as Laemmle listing"
+ },
+ {
+  "id": "2006-klunkerz",
+  "title": "Klunkerz",
+  "image_url": "http://www.impawards.com/2007/posters/klunkerz.jpg",
+  "page_url": "http://www.impawards.com/2007/klunkerz.html",
+  "source": "IMP Awards",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "directed by Billy Savage on poster; 501x679"
+ },
+ {
+  "id": "2007-in-search-of-a-midnight-kiss",
+  "title": "In Search of a Midnight Kiss",
+  "image_url": "http://www.impawards.com/2008/posters/in_search_of_a_midnight_kiss_ver2_xlg.jpg",
+  "page_url": "http://www.impawards.com/2008/in_search_of_a_midnight_kiss.html",
+  "source": "IMP Awards",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "IFC one-sheet (ver2); ver1 is landscape"
+ },
+ {
+  "id": "2008-guest-of-cindy-sherman",
+  "title": "Guest of Cindy Sherman",
+  "image_url": "http://www.impawards.com/2009/posters/guest_of_cindy_sherman_xlg.jpg",
+  "page_url": "http://www.impawards.com/2009/guest_of_cindy_sherman.html",
+  "source": "IMP Awards",
+  "kind": "poster",
+  "confidence": "high"
+ },
+ {
+  "id": "2010-golf-in-the-kingdom",
+  "title": "Golf in the Kingdom",
+  "image_url": "http://www.impawards.com/2011/posters/golf_in_the_kingdom_xlg.jpg",
+  "page_url": "http://www.impawards.com/2011/golf_in_the_kingdom.html",
+  "source": "IMP Awards",
+  "kind": "poster",
+  "confidence": "high"
+ },
+ {
+  "id": "2024-zurawski-v-texas",
+  "title": "Zurawski v Texas",
+  "image_url": "http://www.impawards.com/2024/posters/zurawski_v_texas_xlg.jpg",
+  "page_url": "http://www.impawards.com/2024/zurawski_v_texas.html",
+  "source": "IMP Awards",
+  "kind": "poster",
+  "confidence": "high"
+ },
+ {
+  "id": "2022-oink-knor",
+  "title": "Oink (knor)",
+  "image_url": "https://assets.eyefilm.nl/images/posters/poster-Knor-Mascha-Halberstad-NL-BE-2022.jpg",
+  "page_url": "https://www.eyefilm.nl/en/whats-on/knor/724142",
+  "source": "Eye Filmmuseum",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Dutch release poster (Knor)"
+ },
+ {
+  "id": "2003-madame-brouette",
+  "title": "Madame Brouette",
+  "image_url": "https://www.cinemaclock.com/images/posters/1000x1500/92/madame-brouette-2003-affiche.jpg",
+  "page_url": "https://www.cinemaclock.com/movies/madame-brouette-2002",
+  "source": "Cinemaclock",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "French affiche"
+ },
+ {
+  "id": "2003-pullout",
+  "title": "Pullout",
+  "image_url": "https://www.cinemaclock.com/images/posters/1000x1500/53/pull-out-2003-us-poster.jpg",
+  "page_url": "https://www.cinemaclock.com/movies/pullout-2003",
+  "source": "Cinemaclock",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "title styled 'Pull Out'; a film by Jyllian Gunther"
+ },
+ {
+  "id": "2004-cross-bronx",
+  "title": "Cross Bronx",
+  "image_url": "https://www.cinemaclock.com/images/posters/1000x1500/41/cross-bronx-2004-i-movie-poster.jpg",
+  "page_url": "https://www.cinemaclock.com/movies/cross-bronx-2004",
+  "source": "Cinemaclock",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "director confirmed on Cinemaclock page"
+ },
+ {
+  "id": "2004-zaman-the-man-from-the-reeds",
+  "title": "Zaman, the Man from the Reeds",
+  "image_url": "https://www.cinemaclock.com/images/posters/1000x1500/9/zaman-l-homme-des-roseaux-2003-i-movie-poster.jpg",
+  "page_url": "https://www.cinemaclock.com/movies/zaman-the-man-from-the-reeds-2004",
+  "source": "Cinemaclock",
+  "kind": "poster",
+  "confidence": "high"
+ },
+ {
+  "id": "2005-bye-bye-blackbird",
+  "title": "Bye-Bye Blackbird",
+  "image_url": "https://www.cinemaclock.com/images/posters/1000x1500/42/bye-bye-blackbird-2005-poster.jpg",
+  "page_url": "https://www.cinemaclock.com/movies/bye-bye-blackbird-2005",
+  "source": "Cinemaclock",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "French poster, un film de Robinson Savary"
+ },
+ {
+  "id": "2006-forgiveness",
+  "title": "Forgiveness",
+  "image_url": "https://www.cinemaclock.com/images/posters/1000x1500/75/forgiveness-2006-poster.jpg",
+  "page_url": "https://www.cinemaclock.com/movies/forgiveness-2006",
+  "source": "Cinemaclock",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "a film by Udi Aloni"
+ },
+ {
+  "id": "2006-something-like-happiness",
+  "title": "Something Like Happiness",
+  "image_url": "https://www.cinemaclock.com/images/posters/1000x1500/54/something-like-happiness-2005-us-poster.jpg",
+  "page_url": "https://www.cinemaclock.com/movies/something-like-happiness-2005",
+  "source": "Cinemaclock",
+  "kind": "key art",
+  "confidence": "medium",
+  "note": "Film Movement US art, looks like DVD-style sleeve; by Bohdan Slama"
+ },
+ {
+  "id": "2007-daughters-of-wisdom",
+  "title": "Daughters of Wisdom",
+  "image_url": "https://www.cinemaclock.com/images/posters/1000x1500/15/daughters-of-wisdom-2007-i-movie-poster.jpg",
+  "page_url": "https://www.cinemaclock.com/movies/daughters-of-wisdom-2007",
+  "source": "Cinemaclock",
+  "kind": "poster",
+  "confidence": "high"
+ },
+ {
+  "id": "2009-here-and-there",
+  "title": "Here and There",
+  "image_url": "https://www.cinemaclock.com/images/posters/1000x1500/70/here-and-there-2009-i-movie-poster.jpg",
+  "page_url": "https://www.cinemaclock.com/movies/here-and-there-2009",
+  "source": "Cinemaclock",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "a film by Darko Lungulov"
+ },
+ {
+  "id": "2009-saint-misbehavin-the-wavy-gravy-movie",
+  "title": "Saint Misbehavin': The Wavy Gravy Movie",
+  "image_url": "https://www.cinemaclock.com/images/posters/1000x1500/5/saint-misbehavin-the-wavy-gravy-movie-2009-orig-poster.jpg",
+  "page_url": "https://www.cinemaclock.com/movies/saint-misbehavin-the-wavy-gravy-movie-2008",
+  "source": "Cinemaclock",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "a film by Michelle Esrick"
+ },
+ {
+  "id": "2010-most-valuable-players",
+  "title": "Most Valuable Players",
+  "image_url": "https://www.cinemaclock.com/images/posters/1000x1500/46/most-valuable-players-2010-us-poster.jpg",
+  "page_url": "https://www.cinemaclock.com/movies/most-valuable-players-2010",
+  "source": "Cinemaclock",
+  "kind": "poster",
+  "confidence": "high"
+ },
+ {
+  "id": "2011-magic-silver",
+  "title": "Magic Silver",
+  "image_url": "https://www.cinemaclock.com/images/posters/1000x1500/48/magic-silver-2009-poster.jpg",
+  "page_url": "https://www.cinemaclock.com/movies/magic-silver-2009",
+  "source": "Cinemaclock",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "English-language poster for Julenatt i Blafjell"
+ },
+ {
+  "id": "2021-subjects-of-desire",
+  "title": "Subjects of Desire",
+  "image_url": "https://www.cinemaclock.com/images/posters/1000x1500/99/subjects-of-desire-2021-i-movie-poster.jpg",
+  "page_url": "https://www.cinemaclock.com/movies/subjects-of-desire-2020",
+  "source": "Cinemaclock",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "a film by Jennifer Holness"
+ },
+ {
+  "id": "2022-sunnyland",
+  "title": "Sunnyland",
+  "image_url": "https://www.cinemaclock.com/images/posters/1000x1500/83/sunnyland-2022-us-poster.jpg",
+  "page_url": "https://www.cinemaclock.com/movies/sunnyland-2022",
+  "source": "Cinemaclock",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "a film by Xavi Medina"
+ },
+ {
+  "id": "2024-checkpoint-zoo",
+  "title": "Checkpoint Zoo",
+  "image_url": "https://www.cinemaclock.com/images/posters/1000x1500/85/checkpoint-zoo-2024-i-movie-poster.jpg",
+  "page_url": "https://www.cinemaclock.com/movies/checkpoint-zoo-2024",
+  "source": "Cinemaclock",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "a documentary film by Joshua Zeman"
+ },
+ {
+  "id": "2024-the-day-iceland-stood-still",
+  "title": "The Day Iceland Stood Still",
+  "image_url": "https://www.cinemaclock.com/images/posters/1000x1500/84/the-day-iceland-stood-still-2024-us-poster.jpg",
+  "page_url": "https://www.cinemaclock.com/movies/the-day-iceland-stood-still-2024",
+  "source": "Cinemaclock",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "a film by Pamela Hogan and Hrafnhildur Gunnarsdottir"
+ },
+ {
+  "id": "2025-everywhere-man-the-lives-and-times-of-peter-asher",
+  "title": "Everywhere Man: The Lives and Times of Peter Asher",
+  "image_url": "https://www.cinemaclock.com/images/posters/1000x1500/34/peter-asher-everywhere-man-2025-orig-poster.jpg",
+  "page_url": "https://www.cinemaclock.com/movies/everywhere-man-the-lives-and-times-of-peter-asher-2025",
+  "source": "Cinemaclock",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "a film by Dan Geller and Dayna Goldfine"
+ },
+ {
+  "id": "2025-state-of-firsts",
+  "title": "State of Firsts",
+  "image_url": "https://www.cinemaclock.com/images/posters/1000x1500/31/state-of-firsts-2025-i-movie-poster.jpg",
+  "page_url": "https://www.cinemaclock.com/movies/state-of-firsts-2025",
+  "source": "Cinemaclock",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "director confirmed on Cinemaclock page"
+ },
+ {
+  "id": "2026-all-american-girls",
+  "title": "All American Girls",
+  "image_url": "https://www.cinemaclock.com/images/posters/1000x1500/83/all-american-girls-2026-orig-poster.jpg",
+  "page_url": "https://www.cinemaclock.com/movies/all-american-girls-2026",
+  "source": "Cinemaclock",
+  "kind": "poster",
+  "confidence": "high"
+ },
+ {
+  "id": "2026-chicas-tristes",
+  "title": "Chicas Tristes",
+  "image_url": "https://www.cinemaclock.com/images/posters/1000x1500/19/chicas-tristes-2026-orig-poster.jpg",
+  "page_url": "https://www.cinemaclock.com/movies/chicas-tristes-2026",
+  "source": "Cinemaclock",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Berlinale Generation poster, Sad Girlz"
+ },
+ {
+  "id": "2007-london-to-brighton",
+  "title": "London to Brighton",
+  "image_url": "http://www.impawards.com/2006/posters/london_to_brighton_xlg.jpg",
+  "page_url": "http://www.impawards.com/2006/london_to_brighton.html",
+  "source": "IMP Awards",
+  "kind": "poster",
+  "confidence": "medium",
+  "note": "UK quad (landscape); Cinemaclock portrait image is a UK DVD sleeve"
+ },
+ {
+  "id": "2023-heartbeat",
+  "title": "Heartbeat",
+  "image_url": "https://mx.web.img3.acsta.net/pictures/23/09/27/03/11/4609724.jpg",
+  "page_url": "https://www.sensacine.com.mx/peliculas/pelicula-320421/",
+  "source": "SensaCine Mexico",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "escrita y dirigida por Katina Medina Mora"
+ },
+ {
+  "id": "2011-silence-of-love",
+  "title": "Silence of Love",
+  "image_url": "https://fr.web.img5.acsta.net/medias/nmedia/18/82/78/87/19670528.jpg",
+  "page_url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=178852.html",
+  "source": "AlloCine",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "French poster, Tous les soleils, un film de Philippe Claudel"
+ },
+ {
+  "id": "2008-57000-km-between-us",
+  "title": "57000 KM Between Us",
+  "image_url": "https://fr.web.img4.acsta.net/medias/nmedia/18/65/31/00/18867503.jpg",
+  "page_url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=130944.html",
+  "source": "AlloCine",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "French poster, un film de Delphine Kreuter"
+ },
+ {
+  "id": "2005-the-art-of-breaking-up",
+  "title": "The Art of Breaking Up",
+  "image_url": "https://fr.web.img3.acsta.net/medias/nmedia/18/35/58/87/18413050.jpg",
+  "page_url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=58135.html",
+  "source": "AlloCine",
+  "kind": "poster",
+  "confidence": "medium",
+  "note": "French poster for Un fil a la patte (Deville 2005, 80 min); assumed to be the French title of The Art of Breaking Up"
+ },
+ {
+  "id": "2023-sirocco-and-the-kingdom-of-the-winds",
+  "title": "Sirocco and the Kingdom of the Winds",
+  "image_url": "https://fr.web.img6.acsta.net/pictures/23/09/11/17/50/0782808.jpg",
+  "page_url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=281443.html",
+  "source": "AlloCine",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "French poster, un film de Benoit Chieux"
+ },
+ {
+  "id": "2005-guernsey",
+  "title": "Guernsey",
+  "image_url": "https://fr.web.img6.acsta.net/medias/nmedia/18/35/80/40/18473139.jpg",
+  "page_url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=60769.html",
+  "source": "AlloCine",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "French poster (Guernesey), un film de Nanouk Leopold; shows rear nudity"
+ },
+ {
+  "id": "2026-wu-ming-nu-hai",
+  "title": "Wu Ming Nü Hai",
+  "image_url": "https://www.cinemaclock.com/images/posters/1000x1500/84/wu-ming-nu-hai-2025-orig-poster.jpg",
+  "page_url": "https://www.cinemaclock.com/films/a-girl-unknown-2025",
+  "source": "Cinemaclock",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "A Girl Unknown, written and directed by Zou Jing; Cannes Critics' Week"
+ },
+ {
+  "id": "2006-black-gold",
+  "title": "Black Gold",
+  "image_url": "https://www.cinemaclock.com/images/posters/1000x1500/35/black-gold-2006-us-poster.jpg",
+  "page_url": "https://www.cinemaclock.com/films/black-gold-2006",
+  "source": "Cinemaclock",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "a film by Nick and Marc Francis; small (425x637)"
+ },
+ {
+  "id": "2021-boiling-point",
+  "title": "Boiling Point",
+  "image_url": "https://www.cinemaclock.com/images/posters/1000x1500/62/boiling-point-2021-us-poster.jpg",
+  "page_url": "https://www.cinemaclock.com/films/boiling-point-2021",
+  "source": "Cinemaclock",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "portrait one-sheet, a film by Philip Barantini; bottom edge slightly cropped"
+ }
+]

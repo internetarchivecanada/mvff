@@ -1,0 +1,360 @@
+[
+ {
+  "id": "2001-gangster-no-1",
+  "title": "Gangster No. 1",
+  "image_url": "https://upload.wikimedia.org/wikipedia/en/3/33/Gangster_No_1.jpg",
+  "page_url": "https://en.wikipedia.org/wiki/Gangster_No._1",
+  "source": "English Wikipedia",
+  "kind": "poster",
+  "confidence": "medium",
+  "note": "UK quad poster (landscape, 365x273); Wikipedia lookup had missed it"
+ },
+ {
+  "id": "2001-moscow",
+  "title": "Moscow",
+  "image_url": "https://static.kinoafisha.info/k/movie_posters/640/upload/movie_posters/9/9/0/8329099/f7b747df9275c1601acb799bcc359d5c.jpeg",
+  "page_url": "https://www.kinoafisha.info/en/movies/8329099/",
+  "source": "Kinoafisha",
+  "kind": "key art",
+  "confidence": "medium",
+  "note": "Russian DVD cover art (Москва, Zeldovich, Venice badge); 350x493"
+ },
+ {
+  "id": "2001-rudyland",
+  "title": "Rudyland",
+  "image_url": "https://www.7thart.com/wp-content/uploads/2023/10/Rudyland_keyArt.jpg",
+  "page_url": "https://www.7thart.com/product/rudyland/",
+  "source": "7th Art Releasing (distributor)",
+  "kind": "key art",
+  "confidence": "high",
+  "note": "290x435"
+ },
+ {
+  "id": "2003-alex-s-wedding",
+  "title": "Alex's Wedding",
+  "image_url": "https://boutique.laterit.fr/1225-large_default/dvd-le-mariage-d-alex-jean-marie-teno.jpg",
+  "page_url": "https://boutique.laterit.fr/br/dvd/277-dvd-le-mariage-d-alex-jean-marie-teno.html",
+  "source": "Laterit (French DVD publisher)",
+  "kind": "key art",
+  "confidence": "medium",
+  "note": "French DVD cover (Le mariage d'Alex, 'Le cinéma de Jean-Marie Teno'), portrait art on an 800x800 white square; also credits companion film La tête dans les nuages"
+ },
+ {
+  "id": "2004-blues-divas-bettye-lavette",
+  "title": "Blues Divas: Bettye Lavette",
+  "image_url": "https://www.robertmugge.com/blues-divas/DivaFESTIVALposterFINAL.jpg",
+  "page_url": "https://www.robertmugge.com/divas_photos.htm",
+  "source": "Robert Mugge official site",
+  "kind": "poster",
+  "confidence": "medium",
+  "note": "Festival poster for the feature 'Blues Divas' (Mugge, 2005); MVFF listed the Bettye LaVette segment/episode, so this is the parent film's poster; 351x520"
+ },
+ {
+  "id": "2005-al-ghazali-the-alchemist-of-happiness",
+  "title": "Al-Ghazali: The Alchemist of Happiness",
+  "image_url": "https://fonsvitae.com/wp-content/uploads/2016/07/alghazalialchemistofhappiness.jpg",
+  "page_url": "https://fonsvitae.com/product/the-alchemy-of-happiness/",
+  "source": "Fons Vitae (DVD publisher)",
+  "kind": "key art",
+  "confidence": "medium",
+  "note": "DVD cover, 'A film by Ovidio Salazar', Matmedia; 736x1076"
+ },
+ {
+  "id": "2005-delwende",
+  "title": "Delwende",
+  "image_url": "https://fr.web.img6.acsta.net/medias/nmedia/18/35/82/83/18461975.jpg",
+  "page_url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=60659.html",
+  "source": "AlloCiné",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "French poster 'Delwende, lève-toi et marche', un film de S. Pierre Yameogo; 600x800"
+ },
+ {
+  "id": "2005-sophie-scholl-the-last-days",
+  "title": "Sophie Scholl: The Last Days",
+  "image_url": "https://upload.wikimedia.org/wikipedia/en/3/37/SophieScholl.jpg",
+  "page_url": "https://en.wikipedia.org/wiki/Sophie_Scholl_%E2%80%93_The_Final_Days",
+  "source": "English Wikipedia",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "German poster 'Sophie Scholl – Die letzten Tage' (Rothemund; input misspells director as Rothemud)"
+ },
+ {
+  "id": "2005-the-undeserved",
+  "title": "The Undeserved",
+  "image_url": "https://vamp.vtiff.org/media/large/film/618/poster/poster.jpg",
+  "page_url": "https://vamp.vtiff.org/film/618",
+  "source": "VTIFF / VAMP (Vermont film archive)",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "800x1178; Vermont-shot film, Variety quote on poster"
+ },
+ {
+  "id": "2006-longing",
+  "title": "Longing",
+  "image_url": "https://fr.web.img5.acsta.net/medias/nmedia/18/36/39/91/18787660.jpg",
+  "page_url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=109818.html",
+  "source": "AlloCiné",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "French poster 'Désir(s)' (Sehnsucht), Valeska Grisebach, Berlinale 56 Competition; 600x800"
+ },
+ {
+  "id": "2007-gilles",
+  "title": "Gilles",
+  "image_url": "https://static.vaf.be/storage/files/5612/resize-1000-1000-n/Gilles%20Poster.jpg",
+  "page_url": "https://www.flandersimage.com/titles/gilles",
+  "source": "Flanders Image",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Belgian poster 'Buitenspel', een film van Jan Verheyen; 667x1000"
+ },
+ {
+  "id": "2007-kenny",
+  "title": "Kenny",
+  "image_url": "https://upload.wikimedia.org/wikipedia/en/8/81/Kenny_the_Movie_Poster.png",
+  "page_url": "https://en.wikipedia.org/wiki/Kenny_(2006_film)",
+  "source": "English Wikipedia",
+  "kind": "poster",
+  "confidence": "medium",
+  "note": "Australian landscape (quad) poster, 300x232; Wikipedia lookup had missed it"
+ },
+ {
+  "id": "2008-around-june",
+  "title": "Around June",
+  "image_url": "https://fr.web.img4.acsta.net/medias/nmedia/18/84/94/11/19765576.jpg",
+  "page_url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=184357.html",
+  "source": "AlloCiné",
+  "kind": "poster",
+  "confidence": "medium",
+  "note": "poster with title and cast (Samaire Armstrong); AlloCiné lists James Savoca as director; very small, 160x213"
+ },
+ {
+  "id": "2008-everything-is-fine",
+  "title": "Everything Is Fine",
+  "image_url": "https://www.cinemaclock.com/images/posters/1000x1500/52/tout-est-parfait-2008-affiche.jpg",
+  "page_url": "https://www.cinemaclock.com/films/tout-est-parfait-2008",
+  "source": "Cinemaclock",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Quebec poster 'Tout est parfait', un film de Yves Christian Fournier; 450x708"
+ },
+ {
+  "id": "2008-hania",
+  "title": "Hania",
+  "image_url": "https://pad.mymovies.it/filmclub/2008/12/057/locandina.jpg",
+  "page_url": "https://www.mymovies.it/film/2007/hania/",
+  "source": "MYmovies.it",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Polish poster, reżyseria Janusz Kamiński (Kino Świat); 420x606"
+ },
+ {
+  "id": "2008-my-marlon-and-brando",
+  "title": "My Marlon and Brando",
+  "image_url": "https://upload.wikimedia.org/wikipedia/tr/3/38/Gitmek_Benim_Marlon_ve_Brandom.jpg",
+  "page_url": "https://tr.wikipedia.org/wiki/Gitmek:_Benim_Marlon_ve_Brandom",
+  "source": "Turkish Wikipedia",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Turkish poster 'Gitmek: Benim Marlon ve Brandom', bir Hüseyin Karabey filmi; 1000x1429"
+ },
+ {
+  "id": "2008-tricks",
+  "title": "Tricks",
+  "image_url": "https://pad.mymovies.it/filmclub/2008/11/030/locandina.jpg",
+  "page_url": "https://www.mymovies.it/film/2007/sztuczki/",
+  "source": "MYmovies.it",
+  "kind": "poster",
+  "confidence": "medium",
+  "note": "Polish poster/DVD art 'Sztuczki', film Andrzeja Jakimowskiego (has DVD logo); 420x588"
+ },
+ {
+  "id": "2009-icons-among-us-jazz-in-the-present-tense",
+  "title": "Icons Among Us: Jazz in the Present Tense",
+  "image_url": "https://fr.web.img4.acsta.net/pictures/210/443/21044342_20130926135052863.jpg",
+  "page_url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=182970.html",
+  "source": "AlloCiné",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "'A feature film by Michael Rivoira, Lars Larson & Peter J. Vogt'; 1522x2190"
+ },
+ {
+  "id": "2010-about-her-brother",
+  "title": "About Her Brother",
+  "image_url": "https://upload.wikimedia.org/wikipedia/en/a/ae/Ototo.jpg",
+  "page_url": "https://en.wikipedia.org/wiki/Ot%C5%8Dto_(2010_film)",
+  "source": "English Wikipedia",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Japanese poster おとうと (Yamada Yoji)"
+ },
+ {
+  "id": "2010-kinshasa-symphony",
+  "title": "Kinshasa Symphony",
+  "image_url": "https://upload.wikimedia.org/wikipedia/en/2/2b/KinshasaSymphony2010Poster.jpg",
+  "page_url": "https://en.wikipedia.org/wiki/Kinshasa_Symphony",
+  "source": "English Wikipedia",
+  "kind": "poster",
+  "confidence": "high"
+ },
+ {
+  "id": "2010-nowhere-boy",
+  "title": "Nowhere Boy",
+  "image_url": "https://pad.mymovies.it/filmclub/2008/10/194/locandina.jpg",
+  "page_url": "https://www.mymovies.it/film/2009/nowhereboy/",
+  "source": "MYmovies.it",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Italian poster, un film di Sam Taylor-Wood; 420x600 (English Wikipedia has only a landscape UK quad: https://upload.wikimedia.org/wikipedia/en/4/41/Nowhere_boy_uk.jpg)"
+ },
+ {
+  "id": "2010-the-crocodiles",
+  "title": "The Crocodiles",
+  "image_url": "https://fr.web.img2.acsta.net/pictures/14/02/26/17/56/552080.jpg",
+  "page_url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=139496.html",
+  "source": "AlloCiné",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "German poster 'Vorstadtkrokodile' (Christian Ditter); small, 300x400"
+ },
+ {
+  "id": "2021-a-hero-ghahreman",
+  "title": "A HERO (Ghahreman)",
+  "image_url": "https://pad.mymovies.it/filmclub/2021/05/027/locandina.jpg",
+  "page_url": "https://www.mymovies.it/film/2021/a-hero/",
+  "source": "MYmovies.it",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Italian poster 'Un eroe', un film di Asghar Farhadi; 420x600"
+ },
+ {
+  "id": "2021-my-dead-dad",
+  "title": "My Dead Dad",
+  "image_url": "https://fr.web.img5.acsta.net/pictures/22/05/25/15/26/4882977.jpg",
+  "page_url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=296396.html",
+  "source": "AlloCiné",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "poster with Mill Valley Film Festival laurel; 1000x1481"
+ },
+ {
+  "id": "2022-body-parts",
+  "title": "Body Parts",
+  "image_url": "https://images.squarespace-cdn.com/content/v1/624e76152526183a9b707494/b9abf061-8e37-4b5f-85ca-a775a79004c5/Body+Parts+HOME+art-6.jpg?format=1000w",
+  "page_url": "https://www.bodypartsfilm.com/",
+  "source": "Official site",
+  "kind": "key art",
+  "confidence": "medium",
+  "note": "landscape key art with title, laurels and billing block (1000x563); no portrait one-sheet found"
+ },
+ {
+  "id": "2022-our-father-the-devil-mon-pere-le-diable",
+  "title": "Our Father, the Devil (mon Père, le Diable)",
+  "image_url": "https://upload.wikimedia.org/wikipedia/en/d/d3/Our_Father%2C_the_Devil.jpg",
+  "page_url": "https://en.wikipedia.org/wiki/Our_Father,_the_Devil",
+  "source": "English Wikipedia",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "'A film by Ellie Foumbi'"
+ },
+ {
+  "id": "2023-common-ground",
+  "title": "Common Ground",
+  "image_url": "https://commongroundfilm.org/wp-content/uploads/2025/04/CG-prime-poster_2MB.jpg",
+  "page_url": "https://commongroundfilm.org/",
+  "source": "Official site",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Prime Video release poster (2025), 1080x1350; the film's festival-era poster may differ"
+ },
+ {
+  "id": "2023-one-with-the-whale",
+  "title": "One With The Whale",
+  "image_url": "https://fr.web.img2.acsta.net/img/8c/44/8c44f3811cb9a73a8442a87605769f3d.jpg",
+  "page_url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000000258.html",
+  "source": "AlloCiné",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "AlloCiné page credits Peter Chelkowski & Jim Wickens; 1046x1600"
+ },
+ {
+  "id": "2023-the-9-lives-of-barbara-dane",
+  "title": "The 9 Lives of Barbara Dane",
+  "image_url": "https://img1.wsimg.com/isteam/ip/660b2ea2-cbb3-4cf7-9f64-5b16bb5e7a02/blob-72ddf61.png",
+  "page_url": "https://barbaradanefilm.com/",
+  "source": "Official site",
+  "kind": "key art",
+  "confidence": "medium",
+  "note": "landscape key art with title, 'a film by Maureen Gosling' (2560x1620 PNG, 3.5 MB); no portrait one-sheet found"
+ },
+ {
+  "id": "2024-a-traveler-s-needs",
+  "title": "A Traveler's Needs",
+  "image_url": "https://upload.wikimedia.org/wikipedia/en/f/fc/A_Traveler%27s_Needs_%28international_poster%29.jpg",
+  "page_url": "https://en.wikipedia.org/wiki/A_Traveler's_Needs",
+  "source": "English Wikipedia",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "international poster"
+ },
+ {
+  "id": "2024-the-piano-lesson",
+  "title": "The Piano Lesson",
+  "image_url": "https://upload.wikimedia.org/wikipedia/en/a/a4/The_Piano_Lesson_%282024_film%29_poster.jpg",
+  "page_url": "https://en.wikipedia.org/wiki/The_Piano_Lesson_(2024_film)",
+  "source": "English Wikipedia",
+  "kind": "poster",
+  "confidence": "high"
+ },
+ {
+  "id": "2025-mama",
+  "title": "Mama",
+  "image_url": "https://pad.mymovies.it/filmclub/2025/04/253/locandina.jpg",
+  "page_url": "https://www.mymovies.it/film/2025/mama/",
+  "source": "MYmovies.it",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Italian poster, un film di Or Sinai (Evgenia Dodina); 420x594"
+ },
+ {
+  "id": "2026-el-deshielo",
+  "title": "El Deshielo",
+  "image_url": "https://fr.web.img3.acsta.net/img/59/f6/59f64dbaa7f88901fba3c5db67e4995b.jpg",
+  "page_url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039625.html",
+  "source": "AlloCiné",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "French poster 'Dégel', un film de Manuela Martelli, Cannes 2026; 1175x1600"
+ },
+ {
+  "id": "2026-le-corset",
+  "title": "Le Corset",
+  "image_url": "https://upload.wikimedia.org/wikipedia/en/b/b7/Iron_Boy_film_poster.png",
+  "page_url": "https://en.wikipedia.org/wiki/Iron_Boy_(film)",
+  "source": "English Wikipedia",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "French poster titled 'le Corset', un film de Louis Clichy; Wikipedia article is under the English title 'Iron Boy'"
+ },
+ {
+  "id": "2026-rose",
+  "title": "Rose",
+  "image_url": "https://upload.wikimedia.org/wikipedia/en/3/32/Rose_2026_film_poster.jpg",
+  "page_url": "https://en.wikipedia.org/wiki/Rose_(2026_film)",
+  "source": "English Wikipedia",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "German poster, Sandra Hüller"
+ },
+ {
+  "id": "2026-three-billboards-outside-ebbing-missouri",
+  "title": "Three Billboards Outside Ebbing, Missouri",
+  "image_url": "https://upload.wikimedia.org/wikipedia/en/c/c7/Three_Billboards_Outside_Ebbing%2C_Missouri_poster.png",
+  "page_url": "https://en.wikipedia.org/wiki/Three_Billboards_Outside_Ebbing,_Missouri",
+  "source": "English Wikipedia",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "2017 film listed under festival year 2026 in the input - check whether that is a data error"
+ }
+]

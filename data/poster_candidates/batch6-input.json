@@ -1,0 +1,1336 @@
+[
+ {
+  "id": "2001-carrie",
+  "title": "Carrie",
+  "original_title": null,
+  "directors": [
+   "Brian DePalma"
+  ],
+  "countries": [],
+  "film_year": 1976,
+  "festival_year": 2001,
+  "runtime_min": null
+ },
+ {
+  "id": "2001-in-the-wake",
+  "title": "In the Wake",
+  "original_title": null,
+  "directors": [
+   "Erica Jordan"
+  ],
+  "countries": [
+   "USA"
+  ],
+  "film_year": null,
+  "festival_year": 2001,
+  "runtime_min": null
+ },
+ {
+  "id": "2001-ochre-and-water",
+  "title": "Ochre and Water",
+  "original_title": null,
+  "directors": [
+   "Craig Matthew",
+   "Joelle Chesselet"
+  ],
+  "countries": [
+   "South Africa"
+  ],
+  "film_year": null,
+  "festival_year": 2001,
+  "runtime_min": null
+ },
+ {
+  "id": "2001-sia-the-python-s-dream",
+  "title": "Sia, the Python's Dream",
+  "original_title": null,
+  "directors": [
+   "Dani Kouyaté"
+  ],
+  "countries": [
+   "France",
+   "Burkina Faso"
+  ],
+  "film_year": null,
+  "festival_year": 2001,
+  "runtime_min": null
+ },
+ {
+  "id": "2001-the-loneliness-of-the-crocodiles",
+  "title": "The Loneliness of the Crocodiles",
+  "original_title": null,
+  "directors": [
+   "Jobst Oetzmann"
+  ],
+  "countries": [
+   "Germany"
+  ],
+  "film_year": null,
+  "festival_year": 2001,
+  "runtime_min": null
+ },
+ {
+  "id": "2002-a-dream-in-hanoi",
+  "title": "A Dream in Hanoi",
+  "original_title": null,
+  "directors": [
+   "Tom Weidlinger"
+  ],
+  "countries": [
+   "USA",
+   "Vietnam"
+  ],
+  "film_year": 2002,
+  "festival_year": 2002,
+  "runtime_min": 91
+ },
+ {
+  "id": "2002-beauty-queen-olivia",
+  "title": "Beauty Queen Olivia",
+  "original_title": "Biuti Quin Olivia",
+  "directors": [
+   "Federica Martino"
+  ],
+  "countries": [
+   "Italy"
+  ],
+  "film_year": 2001,
+  "festival_year": 2002,
+  "runtime_min": 95
+ },
+ {
+  "id": "2002-help-i-m-a-boy",
+  "title": "Help, I'm a Boy!",
+  "original_title": "Hilfe, ich bin ein Junge",
+  "directors": [
+   "Oliver Dommenget"
+  ],
+  "countries": [
+   "Germany"
+  ],
+  "film_year": 2002,
+  "festival_year": 2002,
+  "runtime_min": 95
+ },
+ {
+  "id": "2002-kabala",
+  "title": "Kabala",
+  "original_title": null,
+  "directors": [
+   "Assane Kouyaté"
+  ],
+  "countries": [
+   "Mali"
+  ],
+  "film_year": 2002,
+  "festival_year": 2002,
+  "runtime_min": 112
+ },
+ {
+  "id": "2002-mighty-timesthe-legacy-of-rosa-parks",
+  "title": "Mighty Times—The Legacy of Rosa Parks",
+  "original_title": null,
+  "directors": [
+   "Bobby Houston"
+  ],
+  "countries": [
+   "USA"
+  ],
+  "film_year": 2002,
+  "festival_year": 2002,
+  "runtime_min": 40
+ },
+ {
+  "id": "2002-scars",
+  "title": "Scars",
+  "original_title": null,
+  "directors": [
+   "Lars Berg"
+  ],
+  "countries": [
+   "Norway"
+  ],
+  "film_year": 2002,
+  "festival_year": 2002,
+  "runtime_min": 76
+ },
+ {
+  "id": "2002-uncle-ghost",
+  "title": "Uncle Ghost",
+  "original_title": "Bhago Bhoot",
+  "directors": [
+   "Sai Paranjpye"
+  ],
+  "countries": [
+   "India"
+  ],
+  "film_year": 2000,
+  "festival_year": 2002,
+  "runtime_min": 81
+ },
+ {
+  "id": "2003-attitude",
+  "title": "Attitude",
+  "original_title": null,
+  "directors": [
+   "Rob Nilsson"
+  ],
+  "countries": [
+   "USA"
+  ],
+  "film_year": 2003,
+  "festival_year": 2003,
+  "runtime_min": 109
+ },
+ {
+  "id": "2003-ghostlight",
+  "title": "Ghostlight",
+  "original_title": null,
+  "directors": [
+   "Christopher Herrmann"
+  ],
+  "countries": [
+   "USA"
+  ],
+  "film_year": 2003,
+  "festival_year": 2003,
+  "runtime_min": 80
+ },
+ {
+  "id": "2003-los-zafirosmusic-from-the-edge-of-time",
+  "title": "Los Zafiros—Music from the Edge of Time",
+  "original_title": null,
+  "directors": [
+   "Lorenzo DeStefano"
+  ],
+  "countries": [
+   "USA"
+  ],
+  "film_year": 2002,
+  "festival_year": 2003,
+  "runtime_min": 85
+ },
+ {
+  "id": "2003-paradise-is-somewhere-else",
+  "title": "Paradise Is Somewhere Else",
+  "original_title": "Behesht Ja-Ye Digari Ast",
+  "directors": [
+   "Abdolrassul Golbon Haghighi"
+  ],
+  "countries": [
+   "Iran"
+  ],
+  "film_year": 2003,
+  "festival_year": 2003,
+  "runtime_min": 77
+ },
+ {
+  "id": "2003-sunset-story",
+  "title": "Sunset Story",
+  "original_title": null,
+  "directors": [
+   "Laura Gabbert"
+  ],
+  "countries": [
+   "USA"
+  ],
+  "film_year": 2003,
+  "festival_year": 2003,
+  "runtime_min": 73
+ },
+ {
+  "id": "2003-the-spirit-of-annie-mae",
+  "title": "The Spirit of Annie Mae",
+  "original_title": null,
+  "directors": [
+   "Catherine Anne Martin"
+  ],
+  "countries": [
+   "Canada"
+  ],
+  "film_year": 2002,
+  "festival_year": 2003,
+  "runtime_min": 73
+ },
+ {
+  "id": "2003-what-alice-found",
+  "title": "What Alice Found",
+  "original_title": null,
+  "directors": [
+   "A. Dean Bell"
+  ],
+  "countries": [
+   "USA"
+  ],
+  "film_year": 2003,
+  "festival_year": 2003,
+  "runtime_min": 95
+ },
+ {
+  "id": "2004-citizen-stan",
+  "title": "Citizen Stan",
+  "original_title": null,
+  "directors": [
+   "Patty Sharaf"
+  ],
+  "countries": [
+   "USA"
+  ],
+  "film_year": 2004,
+  "festival_year": 2004,
+  "runtime_min": 62
+ },
+ {
+  "id": "2004-gumby-dharma",
+  "title": "Gumby Dharma",
+  "original_title": null,
+  "directors": [
+   "Robina Marchesi"
+  ],
+  "countries": [
+   "USA"
+  ],
+  "film_year": null,
+  "festival_year": 2004,
+  "runtime_min": null
+ },
+ {
+  "id": "2004-lightning-in-a-bottle",
+  "title": "Lightning in a Bottle",
+  "original_title": null,
+  "directors": [
+   "Antoine Fuqua"
+  ],
+  "countries": [
+   "USA"
+  ],
+  "film_year": 2004,
+  "festival_year": 2004,
+  "runtime_min": 108
+ },
+ {
+  "id": "2004-robbing-peter",
+  "title": "Robbing Peter",
+  "original_title": null,
+  "directors": [
+   "Mario de la Vega"
+  ],
+  "countries": [
+   "Mexico"
+  ],
+  "film_year": 2004,
+  "festival_year": 2004,
+  "runtime_min": 95
+ },
+ {
+  "id": "2004-the-ladies-room",
+  "title": "The Ladies' Room",
+  "original_title": null,
+  "directors": [
+   "Mahnaz Afzali"
+  ],
+  "countries": [
+   "Iran"
+  ],
+  "film_year": 2003,
+  "festival_year": 2004,
+  "runtime_min": 55
+ },
+ {
+  "id": "2004-yotama-flies-away",
+  "title": "Yotama Flies Away",
+  "original_title": "Yotama se va volando",
+  "directors": [
+   "Luis Armando Roche"
+  ],
+  "countries": [
+   "Venezuela"
+  ],
+  "film_year": 2003,
+  "festival_year": 2004,
+  "runtime_min": 90
+ },
+ {
+  "id": "2005-been-rich-all-my-life",
+  "title": "Been Rich All My Life",
+  "original_title": null,
+  "directors": [
+   "Heather Lyn MacDonald"
+  ],
+  "countries": [
+   "USA"
+  ],
+  "film_year": 2005,
+  "festival_year": 2005,
+  "runtime_min": 82
+ },
+ {
+  "id": "2005-frozen-angels",
+  "title": "Frozen Angels",
+  "original_title": null,
+  "directors": [
+   "Eric Black",
+   "Frauke Sandig"
+  ],
+  "countries": [
+   "USA",
+   "Germany",
+   "France"
+  ],
+  "film_year": 2005,
+  "festival_year": 2005,
+  "runtime_min": 92
+ },
+ {
+  "id": "2005-innocent-voices",
+  "title": "Innocent Voices",
+  "original_title": null,
+  "directors": [
+   "Luis Mandoki"
+  ],
+  "countries": [
+   "Mexico",
+   "USA",
+   "Puerto Rico"
+  ],
+  "film_year": 2004,
+  "festival_year": 2005,
+  "runtime_min": 120
+ },
+ {
+  "id": "2005-race-is-the-place",
+  "title": "Race Is the Place",
+  "original_title": null,
+  "directors": [
+   "Ray Telles",
+   "Rick Tejada-Flores"
+  ],
+  "countries": [
+   "USA"
+  ],
+  "film_year": 2005,
+  "festival_year": 2005,
+  "runtime_min": 91
+ },
+ {
+  "id": "2005-spirit-bear-the-simon-jackson-story",
+  "title": "Spirit Bear: The Simon Jackson Story",
+  "original_title": null,
+  "directors": [
+   "Stefan Scaini"
+  ],
+  "countries": [
+   "Canada"
+  ],
+  "film_year": 2004,
+  "festival_year": 2005,
+  "runtime_min": 92
+ },
+ {
+  "id": "2005-the-lady-from-sockholm",
+  "title": "The Lady from Sockholm",
+  "original_title": null,
+  "directors": [
+   "Eddy Von Mueller",
+   "Evan Lieberman"
+  ],
+  "countries": [
+   "USA"
+  ],
+  "film_year": 2005,
+  "festival_year": 2005,
+  "runtime_min": 71
+ },
+ {
+  "id": "2005-under-the-rainbow",
+  "title": "Under the Rainbow",
+  "original_title": "Niji No Shita Ni",
+  "directors": [
+   "J.R. Heffelfinger"
+  ],
+  "countries": [
+   "Japan",
+   "USA"
+  ],
+  "film_year": 2005,
+  "festival_year": 2005,
+  "runtime_min": 75
+ },
+ {
+  "id": "2006-august-days",
+  "title": "August Days",
+  "original_title": null,
+  "directors": [
+   "Marc Recha"
+  ],
+  "countries": [
+   "Spain"
+  ],
+  "film_year": 2006,
+  "festival_year": 2006,
+  "runtime_min": 93
+ },
+ {
+  "id": "2006-emile-norman-by-his-own-design",
+  "title": "Emile Norman: By His Own Design",
+  "original_title": null,
+  "directors": [
+   "Will Parrinello"
+  ],
+  "countries": [
+   "USA"
+  ],
+  "film_year": 2006,
+  "festival_year": 2006,
+  "runtime_min": 55
+ },
+ {
+  "id": "2006-i-m-seducible",
+  "title": "I'm Seducible",
+  "original_title": null,
+  "directors": [
+   "Xiao-Yen Wang"
+  ],
+  "countries": [
+   "USA"
+  ],
+  "film_year": 2006,
+  "festival_year": 2006,
+  "runtime_min": 76
+ },
+ {
+  "id": "2006-nail-polish",
+  "title": "Nail Polish",
+  "original_title": null,
+  "directors": [
+   "Jane Ainbinder"
+  ],
+  "countries": [
+   "USA"
+  ],
+  "film_year": 2006,
+  "festival_year": 2006,
+  "runtime_min": 100
+ },
+ {
+  "id": "2006-read-you-like-a-book",
+  "title": "Read You Like a Book",
+  "original_title": null,
+  "directors": [
+   "Robert N. Zagone"
+  ],
+  "countries": [
+   "USA"
+  ],
+  "film_year": 2006,
+  "festival_year": 2006,
+  "runtime_min": 101
+ },
+ {
+  "id": "2006-the-glenmoore-job",
+  "title": "The Glenmoore Job",
+  "original_title": null,
+  "directors": [
+   "Greg Williams"
+  ],
+  "countries": [
+   "Australia"
+  ],
+  "film_year": 2005,
+  "festival_year": 2006,
+  "runtime_min": 52
+ },
+ {
+  "id": "2006-the-porcelain-doll",
+  "title": "The Porcelain Doll",
+  "original_title": null,
+  "directors": [
+   "Péter Gárdos"
+  ],
+  "countries": [
+   "Hungary"
+  ],
+  "film_year": 2005,
+  "festival_year": 2006,
+  "runtime_min": 75
+ },
+ {
+  "id": "2007-365-nascor-nasci-natus-parts-1-and-2",
+  "title": "365 (Nascor Nasci Natus): Parts 1 and 2",
+  "original_title": null,
+  "directors": [
+   "John Sanborn"
+  ],
+  "countries": [
+   "USA"
+  ],
+  "film_year": 2007,
+  "festival_year": 2007,
+  "runtime_min": 140
+ },
+ {
+  "id": "2007-compound-eye",
+  "title": "Compound Eye",
+  "original_title": null,
+  "directors": [
+   "yahn soon"
+  ],
+  "countries": [
+   "USA"
+  ],
+  "film_year": 2006,
+  "festival_year": 2007,
+  "runtime_min": 74
+ },
+ {
+  "id": "2007-how-to-cook-your-life",
+  "title": "How to Cook Your Life",
+  "original_title": "Wie man sein Leben kocht",
+  "directors": [
+   "Doris Dörrie"
+  ],
+  "countries": [
+   "Germany"
+  ],
+  "film_year": 2007,
+  "festival_year": 2007,
+  "runtime_min": 100
+ },
+ {
+  "id": "2007-kobra-s-decision",
+  "title": "Kobra's Decision",
+  "original_title": null,
+  "directors": [
+   "Sirous Hassanpour"
+  ],
+  "countries": [
+   "Iran"
+  ],
+  "film_year": 2007,
+  "festival_year": 2007,
+  "runtime_min": 81
+ },
+ {
+  "id": "2007-passion-and-power-the-technology-of-orgasm",
+  "title": "Passion and Power: The Technology of Orgasm",
+  "original_title": null,
+  "directors": [
+   "Wendy Slick",
+   "Emiko Omori"
+  ],
+  "countries": [
+   "USA"
+  ],
+  "film_year": 2007,
+  "festival_year": 2007,
+  "runtime_min": 74
+ },
+ {
+  "id": "2007-strong-love",
+  "title": "Strong Love",
+  "original_title": null,
+  "directors": [
+   "Bonnie Burt"
+  ],
+  "countries": [
+   "USA"
+  ],
+  "film_year": null,
+  "festival_year": 2007,
+  "runtime_min": 56
+ },
+ {
+  "id": "2007-the-trips-festival",
+  "title": "The Trips Festival",
+  "original_title": null,
+  "directors": [
+   "Eric Christensen"
+  ],
+  "countries": [
+   "USA"
+  ],
+  "film_year": 2007,
+  "festival_year": 2007,
+  "runtime_min": 60
+ },
+ {
+  "id": "2007-words-and-music-by-jerry-herman",
+  "title": "Words and Music by Jerry Herman",
+  "original_title": null,
+  "directors": [
+   "Amber Edwards"
+  ],
+  "countries": [
+   "USA"
+  ],
+  "film_year": 2007,
+  "festival_year": 2007,
+  "runtime_min": 85
+ },
+ {
+  "id": "2008-burning-the-future-coal-in-america",
+  "title": "Burning the Future: Coal in America",
+  "original_title": null,
+  "directors": [
+   "David Novack"
+  ],
+  "countries": [
+   "USA"
+  ],
+  "film_year": 2007,
+  "festival_year": 2008,
+  "runtime_min": 89
+ },
+ {
+  "id": "2008-frank-dead-souls",
+  "title": "Frank Dead Souls",
+  "original_title": null,
+  "directors": [
+   "Rob Nilsson"
+  ],
+  "countries": [
+   "USA",
+   "South Africa"
+  ],
+  "film_year": 2008,
+  "festival_year": 2008,
+  "runtime_min": 97
+ },
+ {
+  "id": "2008-i-ll-come-running",
+  "title": "I'll Come Running",
+  "original_title": null,
+  "directors": [
+   "Spencer Parsons"
+  ],
+  "countries": [
+   "USA",
+   "Denmark"
+  ],
+  "film_year": 2007,
+  "festival_year": 2008,
+  "runtime_min": 112
+ },
+ {
+  "id": "2008-reunion",
+  "title": "Reunion",
+  "original_title": null,
+  "directors": [
+   "Michael Goldstein"
+  ],
+  "countries": [
+   "USA"
+  ],
+  "film_year": 2008,
+  "festival_year": 2008,
+  "runtime_min": 57
+ },
+ {
+  "id": "2008-teddy-bear",
+  "title": "Teddy Bear",
+  "original_title": "Medvídek",
+  "directors": [
+   "Jan Hrebejk"
+  ],
+  "countries": [
+   "Czechia"
+  ],
+  "film_year": 2007,
+  "festival_year": 2008,
+  "runtime_min": 98
+ },
+ {
+  "id": "2008-who-s-afraid-of-kathy-acker",
+  "title": "Who's Afraid of Kathy Acker?",
+  "original_title": null,
+  "directors": [
+   "Barbara Caspar"
+  ],
+  "countries": [
+   "Austria",
+   "Germany"
+  ],
+  "film_year": 2008,
+  "festival_year": 2008,
+  "runtime_min": 87
+ },
+ {
+  "id": "2009-fish-tank",
+  "title": "Fish Tank",
+  "original_title": null,
+  "directors": [
+   "Andrea Arnold"
+  ],
+  "countries": [
+   "UK"
+  ],
+  "film_year": 2009,
+  "festival_year": 2009,
+  "runtime_min": 124
+ },
+ {
+  "id": "2009-jim-thorpe-the-world-s-greatest-athlete",
+  "title": "Jim Thorpe, the World's Greatest Athlete",
+  "original_title": null,
+  "directors": [
+   "Tom Weidlinger"
+  ],
+  "countries": [
+   "USA"
+  ],
+  "film_year": 2009,
+  "festival_year": 2009,
+  "runtime_min": 86
+ },
+ {
+  "id": "2009-precious-based-on-the-novel-push-by-sapphire",
+  "title": "Precious: Based on the Novel \"Push\" by Sapphire",
+  "original_title": null,
+  "directors": [
+   "Lee Daniels"
+  ],
+  "countries": [
+   "USA"
+  ],
+  "film_year": 2008,
+  "festival_year": 2009,
+  "runtime_min": 109
+ },
+ {
+  "id": "2009-superstar",
+  "title": "Superstar",
+  "original_title": null,
+  "directors": [
+   "Tahmineh Milani"
+  ],
+  "countries": [
+   "Iran"
+  ],
+  "film_year": 2009,
+  "festival_year": 2009,
+  "runtime_min": 106
+ },
+ {
+  "id": "2009-the-young-victoria",
+  "title": "The Young Victoria",
+  "original_title": null,
+  "directors": [
+   "Jean-Marc Vallée"
+  ],
+  "countries": [
+   "UK",
+   "USA"
+  ],
+  "film_year": 2009,
+  "festival_year": 2009,
+  "runtime_min": 100
+ },
+ {
+  "id": "2010-cast-me-if-you-can",
+  "title": "Cast Me If You Can",
+  "original_title": "Wakiyaku Monogatari",
+  "directors": [
+   "Atsushi Ogata"
+  ],
+  "countries": [
+   "Japan"
+  ],
+  "film_year": 2010,
+  "festival_year": 2010,
+  "runtime_min": 97
+ },
+ {
+  "id": "2010-food-stamped",
+  "title": "Food Stamped",
+  "original_title": null,
+  "directors": [
+   "Shira Hordes Potash",
+   "Yoav Potash"
+  ],
+  "countries": [
+   "USA"
+  ],
+  "film_year": 2010,
+  "festival_year": 2010,
+  "runtime_min": 60
+ },
+ {
+  "id": "2010-made-in-dagenham",
+  "title": "Made in Dagenham",
+  "original_title": null,
+  "directors": [
+   "Nigel Cole"
+  ],
+  "countries": [
+   "UK"
+  ],
+  "film_year": 2010,
+  "festival_year": 2010,
+  "runtime_min": 113
+ },
+ {
+  "id": "2010-sand",
+  "title": "Sand",
+  "original_title": null,
+  "directors": [
+   "Rob Nilsson"
+  ],
+  "countries": [
+   "USA"
+  ],
+  "film_year": 2009,
+  "festival_year": 2010,
+  "runtime_min": 84
+ },
+ {
+  "id": "2010-the-most-important-thing-in-life-is-not-being-dead",
+  "title": "The Most Important Thing in Life Is Not Being Dead",
+  "original_title": null,
+  "directors": [
+   "Olivier Pictet",
+   "Pablo Martín Torrado",
+   "Marc Recuenco"
+  ],
+  "countries": [
+   "Switzerland",
+   "Spain"
+  ],
+  "film_year": 2010,
+  "festival_year": 2010,
+  "runtime_min": 82
+ },
+ {
+  "id": "2011-beyond-the-road",
+  "title": "Beyond the Road",
+  "original_title": "Por El Camino",
+  "directors": [
+   "Charly Braun"
+  ],
+  "countries": [
+   "Brazil",
+   "Uruguay"
+  ],
+  "film_year": 2010,
+  "festival_year": 2011,
+  "runtime_min": 85
+ },
+ {
+  "id": "2011-da-monzon-the-conquest-of-samanyana",
+  "title": "Da Monzon, The Conquest of Samanyana",
+  "original_title": "Da Monzon, la conquête de Samanyana",
+  "directors": [
+   "Sidy Fassara Diabaté"
+  ],
+  "countries": [
+   "Mali"
+  ],
+  "film_year": 2010,
+  "festival_year": 2011,
+  "runtime_min": 110
+ },
+ {
+  "id": "2011-light-of-the-river",
+  "title": "Light of the River",
+  "original_title": "Kawa no Hikari",
+  "directors": [
+   "Tetsuo Hirakawa"
+  ],
+  "countries": [
+   "Japan"
+  ],
+  "film_year": 2009,
+  "festival_year": 2011,
+  "runtime_min": 75
+ },
+ {
+  "id": "2011-sarabah",
+  "title": "Sarabah",
+  "original_title": null,
+  "directors": [
+   "Maria Luisa Gambale",
+   "Gloria Bremer"
+  ],
+  "countries": [
+   "USA",
+   "Senegal"
+  ],
+  "film_year": 2011,
+  "festival_year": 2011,
+  "runtime_min": 60
+ },
+ {
+  "id": "2011-the-kite",
+  "title": "The Kite",
+  "original_title": "Patang",
+  "directors": [
+   "Prashant Bhargava"
+  ],
+  "countries": [
+   "USA",
+   "India"
+  ],
+  "film_year": 2010,
+  "festival_year": 2011,
+  "runtime_min": 104
+ },
+ {
+  "id": "2011-voices-from-the-shadows",
+  "title": "Voices from the Shadows",
+  "original_title": null,
+  "directors": [
+   "Natalie Boulton",
+   "Josh Biggs"
+  ],
+  "countries": [
+   "UK"
+  ],
+  "film_year": 2011,
+  "festival_year": 2011,
+  "runtime_min": 63
+ },
+ {
+  "id": "2021-bad-attitude-the-art-of-spain-rodriguez",
+  "title": "Bad Attitude: the Art of Spain Rodriguez",
+  "original_title": null,
+  "directors": [
+   "Susan Stern"
+  ],
+  "countries": [
+   "USA"
+  ],
+  "film_year": 2021,
+  "festival_year": 2021,
+  "runtime_min": 71
+ },
+ {
+  "id": "2021-cow",
+  "title": "Cow",
+  "original_title": null,
+  "directors": [
+   "Andrea Arnold"
+  ],
+  "countries": [
+   "UK"
+  ],
+  "film_year": 2021,
+  "festival_year": 2021,
+  "runtime_min": 93
+ },
+ {
+  "id": "2021-sami-joe-and-i",
+  "title": "Sami, Joe and I",
+  "original_title": null,
+  "directors": [
+   "Karin Heberlein"
+  ],
+  "countries": [
+   "Switzerland"
+  ],
+  "film_year": 2020,
+  "festival_year": 2021,
+  "runtime_min": 94
+ },
+ {
+  "id": "2022-chile-1976",
+  "title": "Chile 1976",
+  "original_title": null,
+  "directors": [
+   "Manuela Martelli"
+  ],
+  "countries": [
+   "Argentina",
+   "Chile",
+   "Qatar"
+  ],
+  "film_year": null,
+  "festival_year": 2022,
+  "runtime_min": 95
+ },
+ {
+  "id": "2022-lady-chatterleys-lover",
+  "title": "Lady Chatterley’s Lover",
+  "original_title": null,
+  "directors": [
+   "Laure de Clermont-Tonnerre"
+  ],
+  "countries": [
+   "UK",
+   "USA"
+  ],
+  "film_year": 2022,
+  "festival_year": 2022,
+  "runtime_min": 105
+ },
+ {
+  "id": "2022-sophia",
+  "title": "Sophia",
+  "original_title": null,
+  "directors": [
+   "Crystal Moselle",
+   "Jon Kasbe"
+  ],
+  "countries": [
+   "USA"
+  ],
+  "film_year": 2046,
+  "festival_year": 2022,
+  "runtime_min": 89
+ },
+ {
+  "id": "2022-we-dream-of-robots-sonar-robots",
+  "title": "We Dream of Robots (soñar Robots)",
+  "original_title": null,
+  "directors": [
+   "Pablo Casacuberta"
+  ],
+  "countries": [
+   "Uruguay"
+  ],
+  "film_year": 2021,
+  "festival_year": 2022,
+  "runtime_min": 84
+ },
+ {
+  "id": "2023-farming-while-black",
+  "title": "Farming While Black",
+  "original_title": null,
+  "directors": [
+   "Mark Decena"
+  ],
+  "countries": [
+   "USA"
+  ],
+  "film_year": 2023,
+  "festival_year": 2023,
+  "runtime_min": 77
+ },
+ {
+  "id": "2023-river-of-desire",
+  "title": "River of Desire",
+  "original_title": "O Rio do Desejo",
+  "directors": [
+   "Sergio Machado"
+  ],
+  "countries": [
+   "Brazil"
+  ],
+  "film_year": 0,
+  "festival_year": 2023,
+  "runtime_min": 107
+ },
+ {
+  "id": "2023-the-hypnosis",
+  "title": "The Hypnosis",
+  "original_title": "Hypnoses",
+  "directors": [
+   "Ernst de Geer"
+  ],
+  "countries": [
+   "Sweden"
+  ],
+  "film_year": 2023,
+  "festival_year": 2023,
+  "runtime_min": 98
+ },
+ {
+  "id": "2024-borderland-the-line-within",
+  "title": "Borderland: The Line Within",
+  "original_title": null,
+  "directors": [
+   "Pamela Yates"
+  ],
+  "countries": [
+   "USA"
+  ],
+  "film_year": 2024,
+  "festival_year": 2024,
+  "runtime_min": 110
+ },
+ {
+  "id": "2024-into-the-heart-of-the-mountain",
+  "title": "Into the Heart of the Mountain",
+  "original_title": null,
+  "directors": [
+   "Annegré Bosman"
+  ],
+  "countries": [
+   "Netherlands"
+  ],
+  "film_year": 2023,
+  "festival_year": 2024,
+  "runtime_min": 97
+ },
+ {
+  "id": "2024-standing-above-the-clouds",
+  "title": "Standing Above the Clouds",
+  "original_title": null,
+  "directors": [
+   "Jalena Keane-Lee"
+  ],
+  "countries": [
+   "USA"
+  ],
+  "film_year": 2023,
+  "festival_year": 2024,
+  "runtime_min": 82
+ },
+ {
+  "id": "2024-to-kill-a-wolf",
+  "title": "To Kill A Wolf",
+  "original_title": null,
+  "directors": [
+   "Kelsey Taylor"
+  ],
+  "countries": [
+   "USA"
+  ],
+  "film_year": 2023,
+  "festival_year": 2024,
+  "runtime_min": 91
+ },
+ {
+  "id": "2025-confidante",
+  "title": "Confidante",
+  "original_title": null,
+  "directors": [
+   "Çağla Zencirci & Guillaume Giovanetti"
+  ],
+  "countries": [
+   "Turkey",
+   "France",
+   "Luxembourg"
+  ],
+  "film_year": 2025,
+  "festival_year": 2025,
+  "runtime_min": 76
+ },
+ {
+  "id": "2025-runa-simi",
+  "title": "Runa Simi",
+  "original_title": null,
+  "directors": [
+   "Augusto Andrés Zegarra Pineda-Arce"
+  ],
+  "countries": [
+   "Peru"
+  ],
+  "film_year": 2024,
+  "festival_year": 2025,
+  "runtime_min": 81
+ },
+ {
+  "id": "2025-underland",
+  "title": "Underland",
+  "original_title": null,
+  "directors": [
+   "Robert Petit"
+  ],
+  "countries": [
+   "UK",
+   "USA"
+  ],
+  "film_year": 2025,
+  "festival_year": 2025,
+  "runtime_min": 79
+ },
+ {
+  "id": "2026-burgundy",
+  "title": "Burgundy",
+  "original_title": null,
+  "directors": [
+   "Michael Dweck"
+  ],
+  "countries": [
+   "France"
+  ],
+  "film_year": 2026,
+  "festival_year": 2026,
+  "runtime_min": 90
+ },
+ {
+  "id": "2026-giants-do-fall",
+  "title": "Giants Do Fall",
+  "original_title": null,
+  "directors": [
+   "Megan Ponder"
+  ],
+  "countries": [
+   "USA"
+  ],
+  "film_year": 2026,
+  "festival_year": 2026,
+  "runtime_min": 95
+ },
+ {
+  "id": "2026-miss-representation-rise-up",
+  "title": "Miss Representation: Rise Up",
+  "original_title": null,
+  "directors": [
+   "Jennifer Siebel Newsom"
+  ],
+  "countries": [
+   "USA"
+  ],
+  "film_year": 2025,
+  "festival_year": 2026,
+  "runtime_min": 87
+ },
+ {
+  "id": "2026-plitsch-platsch-forever",
+  "title": "Plitsch Platsch Forever!",
+  "original_title": null,
+  "directors": [
+   "Natascha Beller"
+  ],
+  "countries": [
+   "Switzerland"
+  ],
+  "film_year": 2025,
+  "festival_year": 2026,
+  "runtime_min": 87
+ },
+ {
+  "id": "2026-tenzing",
+  "title": "Tenzing",
+  "original_title": null,
+  "directors": [
+   "Jennifer Peedom"
+  ],
+  "countries": [
+   "USA",
+   "Australia"
+  ],
+  "film_year": 2026,
+  "festival_year": 2026,
+  "runtime_min": 128
+ },
+ {
+  "id": "2026-the-man-i-love",
+  "title": "The Man I Love",
+  "original_title": null,
+  "directors": [
+   "Ira Sachs"
+  ],
+  "countries": [
+   "USA"
+  ],
+  "film_year": 2026,
+  "festival_year": 2026,
+  "runtime_min": 96
+ },
+ {
+  "id": "2026-where-the-silence-is-heard",
+  "title": "Where the Silence is Heard",
+  "original_title": null,
+  "directors": [
+   "Picho García"
+  ],
+  "countries": [
+   "Chile",
+   "Spain"
+  ],
+  "film_year": 2026,
+  "festival_year": 2026,
+  "runtime_min": 94
+ }
+]

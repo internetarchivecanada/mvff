@@ -1,0 +1,522 @@
+[
+ {
+  "id": "2003-the-return",
+  "title": "The Return",
+  "image_url": "https://upload.wikimedia.org/wikipedia/en/6/6d/The_Return_%282003%29_Theatrical_Release_Poster.jpg",
+  "page_url": "https://en.wikipedia.org/wiki/The_Return_(2003_film)",
+  "source": "English Wikipedia",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Russian theatrical poster; only 266px wide"
+ },
+ {
+  "id": "2022-holy-spider",
+  "title": "Holy Spider (عنكبوت مقدس)",
+  "image_url": "https://thefilmstage.com/wp-content/uploads/2022/05/Holy-Spider.jpg",
+  "page_url": "https://thefilmstage.com/first-trailer-for-holy-spider-from-border-director-ali-abbasi",
+  "source": "The Film Stage",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Cannes 2022 poster"
+ },
+ {
+  "id": "2010-the-king-s-speech",
+  "title": "The King's Speech",
+  "image_url": "https://www.slashfilm.com/wp/wp-content/images/the-kings-speech-poster-2.jpg",
+  "page_url": "https://www.slashfilm.com/poster-the-kings-speech/",
+  "source": "/Film",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "US Weinstein Co. one-sheet (microphone design); enwiki has only the UK quad (landscape)"
+ },
+ {
+  "id": "2008-quiet-chaos",
+  "title": "Quiet Chaos",
+  "image_url": "https://movieplayer.net-cdn.it/images/2008/01/15/la-locandina-di-caos-calmo-51537.jpg",
+  "page_url": "https://movieplayer.it/film/caos-calmo_10318/",
+  "source": "Movieplayer.it",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Italian poster (Berlinale 2008 competition)"
+ },
+ {
+  "id": "2002-autumn-spring",
+  "title": "Autumn Spring",
+  "image_url": "https://fwcdn.pl/fpo/62/88/106288/7538387_1.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Babie+lato-2001-106288",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "US First Look one-sheet"
+ },
+ {
+  "id": "2009-storm",
+  "title": "Storm",
+  "image_url": "https://fwcdn.pl/fpo/42/39/254239/7238764_1.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Burza-2009-254239",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "International poster (Berlinale 2009)"
+ },
+ {
+  "id": "2022-charcoal-carvao",
+  "title": "Charcoal (carvão)",
+  "image_url": "https://fwcdn.pl/fpo/02/32/10020232/8031406_1.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/W%C4%99giel-2022-10020232",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "English-language festival poster (TIFF/San Sebastián)"
+ },
+ {
+  "id": "2007-heartbreak-hotel",
+  "title": "Heartbreak Hotel",
+  "image_url": "https://fwcdn.pl/fpo/47/89/384789/7128118_1.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Heartbreak+Hotel-2006-384789",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Swedish poster, 'En Colin Nutley film'"
+ },
+ {
+  "id": "2002-puckoon",
+  "title": "Puckoon",
+  "image_url": "https://fwcdn.pl/fpo/44/86/104486/6974972_3.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Puckoon-2002-104486",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "medium",
+  "note": "Only 140x200; title and cast (Sean Hughes, Elliott Gould, Richard Attenborough) match"
+ },
+ {
+  "id": "2003-at-the-first-breath-of-wind",
+  "title": "At the First Breath of Wind",
+  "image_url": "https://fwcdn.pl/fpo/15/01/321501/7087767_3.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Al+primo+soffio+di+vento-2002-321501",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "medium",
+  "note": "Only 140x200; Italian title on poster"
+ },
+ {
+  "id": "2003-paradise",
+  "title": "Paradise",
+  "image_url": "https://fwcdn.pl/fpo/24/74/112474/7269446_3.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Paradiset-2003-112474",
+  "source": "Filmweb",
+  "kind": "key art",
+  "confidence": "medium",
+  "note": "Danish release art (DVD-style, age badge); Colin Nutley / Liza Marklund credit"
+ },
+ {
+  "id": "2003-spin",
+  "title": "Spin",
+  "image_url": "https://fwcdn.pl/fpo/25/54/152554/6988419_3.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Wir-2003-152554",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "medium",
+  "note": "Only 140x200; Filmweb entry cast Ryan Merriman, Paula Garcés (Redford film)"
+ },
+ {
+  "id": "2004-ganges-river-to-heaven",
+  "title": "Ganges: River to Heaven",
+  "image_url": "https://fwcdn.pl/fpo/70/31/607031/7348785_1.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Ganges%3A+River+to+Heaven-2003-607031",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "German release poster (Ganges - Fluss zum Himmel), credits Gayle Ferraro"
+ },
+ {
+  "id": "2004-king-of-the-corner",
+  "title": "King of the Corner",
+  "image_url": "https://fwcdn.pl/fpo/77/22/117722/7057952_3.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Kr%C3%B3l+naro%C5%BCnika-2004-117722",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "medium",
+  "note": "Only 140x200"
+ },
+ {
+  "id": "2004-the-human-touch",
+  "title": "The Human Touch",
+  "image_url": "https://fwcdn.pl/fpo/40/43/94043/7128219_1.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/The+Human+Touch-2004-94043",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "A film by Paul Cox"
+ },
+ {
+  "id": "2005-frisbee-the-life-and-death-of-a-hippie-preacher",
+  "title": "Frisbee: The Life and Death of a Hippie Preacher",
+  "image_url": "https://fwcdn.pl/fpo/85/70/348570/7142809_3.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Frisbee%3A+The+Life+and+Death+of+a+Hippie+Preacher-2005-348570",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "A film by David Di Sabatino"
+ },
+ {
+  "id": "2005-in-memory-of-my-father",
+  "title": "In Memory of My Father",
+  "image_url": "https://fwcdn.pl/fpo/21/45/112145/7208089_2.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Pami%C4%99ci+mojego+ojca-2005-112145",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "A film by Christopher Jaymes"
+ },
+ {
+  "id": "2005-press-on",
+  "title": "Press On",
+  "image_url": "https://fwcdn.pl/fpo/45/12/384512/7123247_3.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Press+On-2005-384512",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Directed by Gillian Grisman; 320px wide"
+ },
+ {
+  "id": "2006-raining-cats-and-frogs",
+  "title": "Raining Cats and Frogs",
+  "image_url": "https://fwcdn.pl/fpo/02/23/150223/7294943_2.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Przepowiednia+%C5%BCab-2003-150223",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "medium",
+  "note": "Spanish release poster (El Arca) for La Prophétie des grenouilles"
+ },
+ {
+  "id": "2007-clouds-over-conakry",
+  "title": "Clouds Over Conakry",
+  "image_url": "https://fwcdn.pl/fpo/44/40/454440/7355216_1.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Chmury+nad+Conakry-2007-454440",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "French poster, un film de Cheick Fantamady Camara"
+ },
+ {
+  "id": "2007-knee-deep",
+  "title": "Knee Deep",
+  "image_url": "https://fwcdn.pl/fpo/33/14/433314/7181168_2.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Knee+Deep-2007-433314",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "A film by Michael Chandler"
+ },
+ {
+  "id": "2007-my-enemy-s-enemy",
+  "title": "My Enemy's Enemy",
+  "image_url": "https://fwcdn.pl/fpo/95/81/399581/7174540_1.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Wr%C3%B3g+mojego+wroga-2007-399581",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "French poster (Mon meilleur ennemi), un film de Kevin Macdonald"
+ },
+ {
+  "id": "2007-stages",
+  "title": "Stages",
+  "image_url": "https://fwcdn.pl/fpo/54/98/475498/7265399_1.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Tussenstand-2007-475498",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Dutch poster, een film van Mijke de Jong"
+ },
+ {
+  "id": "2007-the-three-musketeers",
+  "title": "The Three Musketeers",
+  "image_url": "https://fwcdn.pl/fpo/28/98/312898/7204956_1.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/De+Tre+musketerer-2005-312898",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "English-language poster for Cimermanis puppet film"
+ },
+ {
+  "id": "2007-women-of-tibet-a-quiet-revolution",
+  "title": "Women of Tibet: A Quiet Revolution",
+  "image_url": "https://fwcdn.pl/fpo/71/67/607167/7366945_1.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Women+of+Tibet%3A+A+Quiet+Revolution-2008-607167",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Director Rosemary Rawcliffe credited"
+ },
+ {
+  "id": "2008-four-seasons-lodge",
+  "title": "Four Seasons Lodge",
+  "image_url": "https://fwcdn.pl/fpo/39/07/373907/7294294_2.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Pensjonat+Cztery+pory+roku-2009-373907",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Directed by Andrew Jacobs; 325px wide"
+ },
+ {
+  "id": "2008-taking-root-the-vision-of-wangari-maathai",
+  "title": "Taking Root: The Vision of Wangari Maathai",
+  "image_url": "https://fwcdn.pl/fpo/47/02/554702/7386696_1.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Korzenie.+Wizje+Wangari+Maathai-2008-554702",
+  "source": "Filmweb",
+  "kind": "key art",
+  "confidence": "medium",
+  "note": "Credits Lisa Merton and Alan Dater; nearly square (500x578), may be DVD art"
+ },
+ {
+  "id": "2009-eat-the-sun",
+  "title": "Eat the Sun",
+  "image_url": "https://fwcdn.pl/fpo/62/39/526239/7373051_1.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Eat+the+Sun-2011-526239",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Produced and directed by Peter Sorcher (Filmweb lists 2011)"
+ },
+ {
+  "id": "2008-hello-stranger",
+  "title": "Hello, Stranger",
+  "image_url": "https://fwcdn.pl/fpo/26/41/512641/7252315_3.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Cheo-eum+Man-nan+Sa-lam-deul-2007-512641",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Korean release poster, Kim Dong-hyun"
+ },
+ {
+  "id": "2006-i-am",
+  "title": "I Am",
+  "image_url": "https://fwcdn.pl/fpo/33/65/183365/7580289_2.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Jestem-2005-183365",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Polish poster (Jestem), film Doroty Kędzierzawskiej"
+ },
+ {
+  "id": "2009-ingelore",
+  "title": "Ingelore",
+  "image_url": "https://fwcdn.pl/fpo/96/30/629630/7541731_1.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Ingelore-2009-629630",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "HBO Documentary poster, a film by Frank Stiefel"
+ },
+ {
+  "id": "2009-the-ten-lives-of-titanic-the-cat",
+  "title": "The Ten Lives of Titanic the Cat",
+  "image_url": "https://fwcdn.pl/fpo/32/47/453247/7175527_1.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/10+%C5%BCyc+kota+Titanica-2007-453247",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Norwegian poster (Titanics ti liv); only 200x300"
+ },
+ {
+  "id": "2010-fanny-annie-danny",
+  "title": "Fanny, Annie & Danny",
+  "image_url": "https://fwcdn.pl/fpo/50/24/575024/7368920_2.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Fanny%2C+Annie+%26+Danny-2010-575024",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "a film by Chris Brown"
+ },
+ {
+  "id": "2010-lesson-plan-the-story-of-the-third-wave",
+  "title": "Lesson Plan: The Story of the Third Wave",
+  "image_url": "https://fwcdn.pl/fpo/49/71/644971/7483391_1.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Plan+lekcji.+Dyktatura+Trzeciej+Fali-2010-644971",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Directed by Philip Neel and David H. Jeffery"
+ },
+ {
+  "id": "2010-opal",
+  "title": "Opal",
+  "image_url": "https://fwcdn.pl/fpo/94/05/449405/7349578_1.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Opal-2010-449405",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "A film by Dina Ciraulo"
+ },
+ {
+  "id": "2011-between-2-fires",
+  "title": "Between 2 Fires",
+  "image_url": "https://fwcdn.pl/fpo/95/08/539508/7374690_1.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Dwa+ognie-2010-539508",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Polish poster (Dwa ognie), film Agnieszki Łukasiak"
+ },
+ {
+  "id": "2026-when-a-witness-recants",
+  "title": "When a Witness Recants",
+  "image_url": "https://upload.wikimedia.org/wikipedia/en/3/31/When_a_Witness_Recants_poster.jpeg",
+  "page_url": "https://en.wikipedia.org/wiki/When_a_Witness_Recants",
+  "source": "English Wikipedia",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "HBO poster; 260px wide (non-free enwiki file)"
+ },
+ {
+  "id": "2011-country-music",
+  "title": "Country Music",
+  "image_url": "https://fwcdn.pl/fpo/02/50/600250/7386804_1.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Musica+Campesina+%28Country+Music%29-2010-600250",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Written and directed by Alberto Fuguet"
+ },
+ {
+  "id": "2011-restoration",
+  "title": "Restoration",
+  "image_url": "https://fwcdn.pl/fpo/83/31/608331/7437239_1.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Konserwator-2011-608331",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "A film by Joseph Madmony"
+ },
+ {
+  "id": "2021-rehab-cabin",
+  "title": "Rehab Cabin",
+  "image_url": "https://fwcdn.pl/fpo/93/85/10019385/8036754_2.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Rehab+Cabin-2021-10019385",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "medium",
+  "note": "Title matches; director credit too small to read"
+ },
+ {
+  "id": "2024-billy-preston-thats-the-way-god-planned-it",
+  "title": "Billy Preston: That’s The Way God Planned It",
+  "image_url": "https://fwcdn.pl/fpo/44/64/10094464/8233758.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Billy+Preston%3A+That%27s+the+Way+God+Planned+It-2024-10094464",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Theatrical poster, directed by Paris Barclay (same art as enwiki, larger)"
+ },
+ {
+  "id": "2025-noseeums",
+  "title": "Noseeums",
+  "image_url": "https://fwcdn.pl/fpo/97/02/10109702/8223139.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Noseeums-2025-10109702",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "FrightFest 2025 poster; credits read directed by Raven ... Carter"
+ },
+ {
+  "id": "2026-bunker",
+  "title": "Bunker",
+  "image_url": "https://fwcdn.pl/fpo/31/20/10103120/8278951.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Bunker-2026-10103120",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "A film by Florian Zeller"
+ },
+ {
+  "id": "2026-extra-geography",
+  "title": "Extra Geography",
+  "image_url": "https://fwcdn.pl/fpo/97/50/10109750/8229769.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Extra+Geography-2026-10109750",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Directed by Molly Manners"
+ },
+ {
+  "id": "2026-minotaure",
+  "title": "Minotaure",
+  "image_url": "https://fwcdn.pl/fpo/67/74/10076774/8268084.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Minotaur-2026-10076774",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "MUBI US poster, a film by Andrey Zvyagintsev (enwiki has the Palace Films AU poster at 262px)"
+ },
+ {
+  "id": "2026-tangles",
+  "title": "Tangles",
+  "image_url": "https://fwcdn.pl/fpo/20/92/10122092/8274984.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Tangles-2026-10122092",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Animated feature, Cannes/TIFF laurels; director credit not legible at this size"
+ },
+ {
+  "id": "2023-periodical",
+  "title": "Periodical",
+  "image_url": "https://fwcdn.pl/fpo/29/71/10042971/8097239_1.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Film+okresowy-2023-10042971",
+  "source": "Filmweb",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "MSNBC Films poster; directed by Lina Lyte Plioplyte in credits"
+ },
+ {
+  "id": "2006-a-guest-of-life",
+  "title": "A Guest of Life",
+  "image_url": "https://fwcdn.pl/fpo/35/12/353512/7198409_2.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/G%C5%9B%C4%87+%C5%BCycia-2006-353512",
+  "source": "Filmweb",
+  "kind": "key art",
+  "confidence": "medium",
+  "note": "DVD cover, not a theatrical poster (Az élet vendége: Csoma-legendárium, Szemző Tibor filmje)"
+ },
+ {
+  "id": "2001-ikingut",
+  "title": "Ikíngut",
+  "image_url": "https://fwcdn.pl/fpo/68/76/186876/7179890_2.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Ikingut-2000-186876",
+  "source": "Filmweb",
+  "kind": "key art",
+  "confidence": "medium",
+  "note": "German Berlinale Edition DVD cover, not a theatrical poster"
+ },
+ {
+  "id": "2001-e-dreams",
+  "title": "e-dreams",
+  "image_url": "https://fwcdn.pl/fpo/58/40/215840/7552766_1.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/e-Dreams-2001-215840",
+  "source": "Filmweb",
+  "kind": "key art",
+  "confidence": "medium",
+  "note": "DVD Special Edition cover, not a theatrical poster; credits a Wonsuk Chin film"
+ },
+ {
+  "id": "2010-cameraman-the-life-and-work-of-jack-cardiff",
+  "title": "Cameraman: The Life and Work of Jack Cardiff",
+  "image_url": "https://fwcdn.pl/fpo/68/97/576897/7334707_1.3.jpg",
+  "page_url": "https://www.filmweb.pl/film/Kamerzysta+%E2%80%93+%C5%BCycie+i+tw%C3%B3rczo%C5%9B%C4%87+Jacka+Cardiffa-2010-576897",
+  "source": "Filmweb",
+  "kind": "key art",
+  "confidence": "medium",
+  "note": "UK DVD cover (same art as the UK quad on enwiki, which is landscape); a film by Craig McCall"
+ },
+ {
+  "id": "2011-holidays-by-the-sea",
+  "title": "Holidays by the Sea",
+  "image_url": "https://fr.web.img2.acsta.net/medias/nmedia/18/79/83/05/19735578.jpg",
+  "page_url": "https://www.allocine.fr/rechercher/movie/?q=ni+a+vendre+ni+a+louer",
+  "source": "AlloCiné",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "French poster, un film de Pascal Rabaté (page_url is AlloCiné search result)"
+ }
+]
